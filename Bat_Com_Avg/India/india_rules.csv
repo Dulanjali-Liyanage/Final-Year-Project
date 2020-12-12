@@ -1,0 +1,113 @@
+Innings ID,Start Date,Day_Night,Team,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+1028,18-Jan-15,DN,India,lost,0,1st,won,v Australia,RG Sharma,S Dhawan,AM Rahane,V Kohli,SK Raina,MS Dhoni,AR Patel,R Ashwin,B Kumar,Mohammed Shami,UT Yadav
+1034,20-Jan-15,DN,India,lost,0,1st,won,v England,AM Rahane,S Dhawan,AT Rayudu,V Kohli,SK Raina,MS Dhoni,STR Binny,AR Patel,B Kumar,Mohammed Shami,UT Yadav
+1050,30-Jan-15,D,India,lost,0,1st,lost,v England,AM Rahane,S Dhawan,V Kohli,SK Raina,AT Rayudu,MS Dhoni,STR Binny,RA Jadeja,AR Patel,MM Sharma,Mohammed Shami
+1063,15-Feb-15,DN,India,won,0,1st,won,v Pakistan,RG Sharma,S Dhawan,V Kohli,SK Raina,MS Dhoni,RA Jadeja,AM Rahane,R Ashwin,Mohammed Shami,UT Yadav,MM Sharma
+1075,22-Feb-15,DN,India,won,0,1st,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,UT Yadav,MM Sharma
+1093,6-Mar-15,DN,India,won,0,2nd,lost,v West Indies,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,MM Sharma,Mohammed Shami,UT Yadav
+1105,10-Mar-15,DN,India,won,0,2nd,lost,v Ireland,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+1111,14-Mar-15,DN,India,won,0,2nd,won,v Zimbabwe,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,MM Sharma,Mohammed Shami,UT Yadav
+1117,19-Mar-15,DN,India,won,0,1st,won,v Bangladesh,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+1126,26-Mar-15,DN,India,lost,0,2nd,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+1148,18-Jun-15,DN,India,lost,0,2nd,lost,v Bangladesh,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,B Kumar,MM Sharma,UT Yadav
+1152,21-Jun-15,DN,India,lost,0,1st,won,v Bangladesh,RG Sharma,S Dhawan,V Kohli,MS Dhoni,AT Rayudu,SK Raina,RA Jadeja,AR Patel,R Ashwin,B Kumar,DS Kulkarni
+1153,24-Jun-15,DN,India,won,0,1st,lost,v Bangladesh,RG Sharma,S Dhawan,V Kohli,MS Dhoni,AT Rayudu,SK Raina,STR Binny,AR Patel,R Ashwin,DS Kulkarni,UT Yadav
+1155,10-Jul-15,D,India,won,0,1st,lost,v Zimbabwe,AM Rahane,M Vijay,AT Rayudu,MK Tiwary,RV Uthappa,KM Jadhav,STR Binny,AR Patel,Harbhajan Singh,B Kumar,DS Kulkarni
+1161,12-Jul-15,D,India,won,0,1st,lost,v Zimbabwe,AM Rahane,M Vijay,AT Rayudu,MK Tiwary,RV Uthappa,STR Binny,KM Jadhav,Harbhajan Singh,AR Patel,B Kumar,DS Kulkarni
+1165,14-Jul-15,D,India,won,0,1st,lost,v Zimbabwe,AM Rahane,M Vijay,RV Uthappa,MK Tiwary,MK Pandey,KM Jadhav,STR Binny,Harbhajan Singh,AR Patel,B Kumar,MM Sharma
+1210,11-Oct-15,D,India,lost,1,2nd,lost,v South Africa,RG Sharma,S Dhawan,AM Rahane,V Kohli,MS Dhoni,SK Raina,STR Binny,B Kumar,A Mishra,R Ashwin,UT Yadav
+1215,14-Oct-15,DN,India,won,1,1st,won,v South Africa,RG Sharma,S Dhawan,AM Rahane,V Kohli,MS Dhoni,SK Raina,AR Patel,B Kumar,Harbhajan Singh,UT Yadav,MM Sharma
+1222,18-Oct-15,DN,India,lost,1,2nd,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,MS Dhoni,SK Raina,AM Rahane,AR Patel,Harbhajan Singh,B Kumar,MM Sharma,A Mishra
+1227,22-Oct-15,DN,India,won,1,1st,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,Harbhajan Singh,AR Patel,B Kumar,MM Sharma,A Mishra
+1232,25-Oct-15,DN,India,lost,1,2nd,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,AR Patel,Harbhajan Singh,B Kumar,A Mishra,MM Sharma
+1272,12-Jan-16,D,India,lost,0,1st,won,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,RA Jadeja,AM Rahane,MK Pandey,R Ashwin,UT Yadav,B Kumar,BB Sran
+1274,15-Jan-16,DN,India,lost,0,1st,won,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,MK Pandey,RA Jadeja,R Ashwin,UT Yadav,I Sharma,BB Sran
+1276,17-Jan-16,DN,India,lost,0,1st,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,Gurkeerat Singh,RA Jadeja,R Dhawan,I Sharma,UT Yadav,BB Sran
+1278,20-Jan-16,DN,India,lost,0,2nd,lost,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,Gurkeerat Singh,RA Jadeja,AM Rahane,R Dhawan,B Kumar,UT Yadav,I Sharma
+1279,23-Jan-16,DN,India,won,0,2nd,won,v Australia,RG Sharma,S Dhawan,V Kohli,MK Pandey,MS Dhoni,Gurkeerat Singh,RA Jadeja,R Dhawan,JJ Bumrah,UT Yadav,I Sharma
+1307,11-Jun-16,D,India,won,0,2nd,won,v Zimbabwe,KL Rahul,KK Nair,AT Rayudu,MK Pandey,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+1311,13-Jun-16,D,India,won,0,2nd,won,v Zimbabwe,KL Rahul,KK Nair,AT Rayudu,MK Pandey,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+1315,15-Jun-16,D,India,won,0,2nd,lost,v Zimbabwe,KL Rahul,FY Fazal,MK Pandey,AT Rayudu,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+1397,16-Oct-16,DN,India,won,1,2nd,won,v New Zealand,RG Sharma,AM Rahane,V Kohli,MK Pandey,MS Dhoni,KM Jadhav,HH Pandya,AR Patel,A Mishra,JJ Bumrah,UT Yadav
+1400,20-Oct-16,DN,India,lost,1,2nd,won,v New Zealand,RG Sharma,AM Rahane,V Kohli,MK Pandey,MS Dhoni,KM Jadhav,AR Patel,HH Pandya,A Mishra,UT Yadav,JJ Bumrah
+1401,23-Oct-16,DN,India,won,1,2nd,won,v New Zealand,RG Sharma,AM Rahane,V Kohli,MS Dhoni,MK Pandey,KM Jadhav,AR Patel,HH Pandya,A Mishra,UT Yadav,JJ Bumrah
+1404,26-Oct-16,DN,India,lost,1,2nd,lost,v New Zealand,AM Rahane,RG Sharma,V Kohli,MS Dhoni,AR Patel,MK Pandey,KM Jadhav,HH Pandya,A Mishra,DS Kulkarni,UT Yadav
+1405,29-Oct-16,DN,India,won,1,1st,won,v New Zealand,AM Rahane,RG Sharma,V Kohli,MS Dhoni,MK Pandey,KM Jadhav,AR Patel,J Yadav,A Mishra,UT Yadav,JJ Bumrah
+1433,15-Jan-17,DN,India,won,1,2nd,won,v England,KL Rahul,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,JJ Bumrah,UT Yadav
+1437,19-Jan-17,DN,India,won,1,1st,lost,v England,KL Rahul,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,JJ Bumrah,B Kumar
+1442,22-Jan-17,DN,India,lost,1,2nd,won,v England,AM Rahane,KL Rahul,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+1529,4-Jun-17,D,India,won,0,1st,lost,v Pakistan,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,HH Pandya,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,UT Yadav,JJ Bumrah
+1536,8-Jun-17,D,India,lost,0,1st,lost,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,HH Pandya,KM Jadhav,RA Jadeja,B Kumar,UT Yadav,JJ Bumrah
+1543,11-Jun-17,D,India,won,0,2nd,won,v South Africa,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,HH Pandya,KM Jadhav,RA Jadeja,B Kumar,R Ashwin,JJ Bumrah
+1551,15-Jun-17,D,India,won,0,2nd,won,v Bangladesh,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+1554,18-Jun-17,D,India,lost,0,2nd,won,v Pakistan,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+1555,25-Jun-17,D,India,won,0,1st,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,HH Pandya,Yuvraj Singh,MS Dhoni,KM Jadhav,R Ashwin,Kuldeep Yadav,B Kumar,UT Yadav
+1559,30-Jun-17,D,India,won,0,1st,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,R Ashwin,Kuldeep Yadav,B Kumar,UT Yadav
+1564,2-Jul-17,D,India,lost,0,2nd,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,Kuldeep Yadav,UT Yadav,Mohammed Shami
+1567,6-Jul-17,D,India,won,0,2nd,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,Kuldeep Yadav,UT Yadav,Mohammed Shami
+1573,20-Aug-17,DN,India,won,0,2nd,won,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,KL Rahul,MS Dhoni,KM Jadhav,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1575,24-Aug-17,DN,India,won,0,2nd,won,v Sri Lanka,RG Sharma,S Dhawan,KL Rahul,KM Jadhav,V Kohli,MS Dhoni,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1577,27-Aug-17,DN,India,won,0,2nd,lost,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,KL Rahul,KM Jadhav,MS Dhoni,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1579,31-Aug-17,DN,India,won,0,1st,won,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,HH Pandya,KL Rahul,MK Pandey,MS Dhoni,AR Patel,Kuldeep Yadav,JJ Bumrah,SN Thakur
+1581,3-Sep-17,DN,India,won,0,2nd,lost,v Sri Lanka,RG Sharma,AM Rahane,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,JJ Bumrah,YS Chahal,Kuldeep Yadav,B Kumar,SN Thakur
+1583,17-Sep-17,DN,India,won,1,1st,won,v Australia,AM Rahane,RG Sharma,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1587,21-Sep-17,DN,India,won,1,1st,won,v Australia,AM Rahane,RG Sharma,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1589,24-Sep-17,DN,India,won,1,2nd,lost,v Australia,AM Rahane,RG Sharma,V Kohli,HH Pandya,KM Jadhav,MK Pandey,MS Dhoni,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1596,28-Sep-17,DN,India,lost,1,2nd,lost,v Australia,AM Rahane,RG Sharma,V Kohli,HH Pandya,KM Jadhav,MK Pandey,MS Dhoni,AR Patel,Mohammed Shami,UT Yadav,YS Chahal
+1599,1-Oct-17,DN,India,won,1,2nd,lost,v Australia,AM Rahane,RG Sharma,V Kohli,KM Jadhav,MK Pandey,HH Pandya,MS Dhoni,B Kumar,AR Patel,JJ Bumrah,Kuldeep Yadav
+1614,22-Oct-17,DN,India,lost,1,1st,won,v New Zealand,RG Sharma,S Dhawan,V Kohli,KM Jadhav,KD Karthik,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1619,25-Oct-17,DN,India,won,1,2nd,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,KD Karthik,HH Pandya,MS Dhoni,KM Jadhav,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1621,29-Oct-17,DN,India,won,1,1st,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,HH Pandya,MS Dhoni,KM Jadhav,KD Karthik,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1628,10-Dec-17,DN,India,lost,1,1st,lost,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,KD Karthik,MK Pandey,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1631,13-Dec-17,DN,India,won,1,1st,lost,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,MS Dhoni,HH Pandya,KD Karthik,MK Pandey,B Kumar,Washington Sundar,JJ Bumrah,YS Chahal
+1633,17-Dec-17,DN,India,won,1,2nd,won,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,KD Karthik,MS Dhoni,HH Pandya,MK Pandey,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1675,1-Feb-18,DN,India,won,0,2nd,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,HH Pandya,MS Dhoni,KM Jadhav,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1677,4-Feb-18,D,India,won,0,2nd,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1679,7-Feb-18,DN,India,won,0,1st,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,HH Pandya,MS Dhoni,KM Jadhav,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1684,10-Feb-18,DN,India,lost,0,1st,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SS Iyer,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1689,13-Feb-18,DN,India,won,0,1st,lost,v South Africa,S Dhawan,RG Sharma,V Kohli,AM Rahane,SS Iyer,HH Pandya,MS Dhoni,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1693,16-Feb-18,DN,India,won,0,2nd,won,v South Africa,S Dhawan,RG Sharma,V Kohli,AM Rahane,SS Iyer,MS Dhoni,HH Pandya,Kuldeep Yadav,SN Thakur,JJ Bumrah,YS Chahal
+1731,12-Jul-18,D,India,won,0,2nd,won,v England,RG Sharma,S Dhawan,V Kohli,KL Rahul,SK Raina,MS Dhoni,HH Pandya,S Kaul,Kuldeep Yadav,UT Yadav,YS Chahal
+1736,14-Jul-18,D,India,lost,0,2nd,lost,v England,RG Sharma,S Dhawan,V Kohli,KL Rahul,SK Raina,MS Dhoni,HH Pandya,UT Yadav,Kuldeep Yadav,S Kaul,YS Chahal
+1740,17-Jul-18,D,India,lost,0,1st,lost,v England,RG Sharma,S Dhawan,V Kohli,KD Karthik,MS Dhoni,SK Raina,HH Pandya,B Kumar,SN Thakur,Kuldeep Yadav,YS Chahal
+1773,19-Sep-18,DN,India,won,0,2nd,lost,v Pakistan,RG Sharma,S Dhawan,AT Rayudu,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1777,21-Sep-18,DN,India,won,0,2nd,won,v Bangladesh,RG Sharma,S Dhawan,AT Rayudu,MS Dhoni,KD Karthik,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1781,23-Sep-18,DN,India,won,0,2nd,lost,v Pakistan,RG Sharma,S Dhawan,AT Rayudu,KM Jadhav,MS Dhoni,KD Karthik,Kuldeep Yadav,RA Jadeja,YS Chahal,B Kumar,JJ Bumrah
+1787,28-Sep-18,D,India,won,0,2nd,won,v Bangladesh,RG Sharma,S Dhawan,AT Rayudu,KD Karthik,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1801,21-Oct-18,DN,India,won,1,2nd,won,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,RR Pant,MS Dhoni,RA Jadeja,YS Chahal,UT Yadav,Mohammed Shami,KK Ahmed
+1812,27-Oct-18,DN,India,lost,1,2nd,won,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,RR Pant,MS Dhoni,B Kumar,Kuldeep Yadav,YS Chahal,KK Ahmed,JJ Bumrah
+1813,29-Oct-18,DN,India,won,1,1st,won,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,KK Ahmed,JJ Bumrah
+1815,1-Nov-18,DN,India,won,1,2nd,lost,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KM Jadhav,MS Dhoni,RA Jadeja,B Kumar,Kuldeep Yadav,KK Ahmed,JJ Bumrah
+1840,12-Jan-19,DN,India,lost,0,2nd,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KD Karthik,RA Jadeja,B Kumar,Kuldeep Yadav,Mohammed Shami,KK Ahmed
+1841,15-Jan-19,DN,India,won,0,2nd,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KD Karthik,RA Jadeja,Kuldeep Yadav,B Kumar,Mohammed Shami,Mohammed Siraj
+1843,18-Jan-19,DN,India,won,0,2nd,won,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,KM Jadhav,KD Karthik,V Shankar,RA Jadeja,B Kumar,Mohammed Shami,YS Chahal
+1849,23-Jan-19,DN,India,won,0,2nd,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KM Jadhav,MS Dhoni,V Shankar,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+1853,26-Jan-19,DN,India,won,0,1st,won,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+1857,28-Jan-19,DN,India,won,0,2nd,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KD Karthik,KM Jadhav,HH Pandya,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+1862,31-Jan-19,DN,India,lost,0,1st,lost,v New Zealand,RG Sharma,S Dhawan,Shubman Gill,AT Rayudu,KD Karthik,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,KK Ahmed
+1863,3-Feb-19,DN,India,won,0,1st,won,v New Zealand,RG Sharma,S Dhawan,Shubman Gill,AT Rayudu,MS Dhoni,V Shankar,KM Jadhav,HH Pandya,B Kumar,Mohammed Shami,YS Chahal
+1879,2-Mar-19,DN,India,won,1,2nd,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+1887,5-Mar-19,DN,India,won,1,1st,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,V Shankar,KM Jadhav,MS Dhoni,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+1894,8-Mar-19,DN,India,lost,1,2nd,won,v Australia,S Dhawan,RG Sharma,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+1898,10-Mar-19,DN,India,lost,1,1st,won,v Australia,RG Sharma,S Dhawan,KL Rahul,V Kohli,RR Pant,KM Jadhav,V Shankar,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1902,13-Mar-19,DN,India,lost,1,2nd,lost,v Australia,RG Sharma,S Dhawan,V Kohli,RR Pant,V Shankar,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,Kuldeep Yadav,JJ Bumrah
+1957,5-Jun-19,D,India,won,0,2nd,lost,v South Africa,S Dhawan,RG Sharma,V Kohli,KL Rahul,MS Dhoni,HH Pandya,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1967,9-Jun-19,D,India,won,0,1st,won,v Australia,RG Sharma,S Dhawan,V Kohli,HH Pandya,MS Dhoni,KL Rahul,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1977,16-Jun-19,D,India,won,0,1st,lost,v Pakistan,KL Rahul,RG Sharma,V Kohli,HH Pandya,MS Dhoni,V Shankar,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1989,22-Jun-19,D,India,won,0,1st,won,v Afghanistan,KL Rahul,RG Sharma,V Kohli,V Shankar,MS Dhoni,KM Jadhav,HH Pandya,Mohammed Shami,Kuldeep Yadav,JJ Bumrah,YS Chahal
+2001,27-Jun-19,D,India,won,0,1st,won,v West Indies,KL Rahul,RG Sharma,V Kohli,V Shankar,KM Jadhav,MS Dhoni,HH Pandya,Mohammed Shami,Kuldeep Yadav,YS Chahal,JJ Bumrah
+2010,30-Jun-19,D,India,lost,0,2nd,lost,v England,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KM Jadhav,Kuldeep Yadav,Mohammed Shami,YS Chahal,JJ Bumrah
+2015,2-Jul-19,D,India,won,0,1st,won,v Bangladesh,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KD Karthik,B Kumar,Mohammed Shami,JJ Bumrah,YS Chahal
+2025,6-Jul-19,D,India,won,0,2nd,lost,v Sri Lanka,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KD Karthik,RA Jadeja,B Kumar,JJ Bumrah,Kuldeep Yadav
+2032,9-Jul-19,D,India,lost,0,2nd,lost,v New Zealand,KL Rahul,RG Sharma,V Kohli,RR Pant,KD Karthik,HH Pandya,MS Dhoni,RA Jadeja,B Kumar,YS Chahal,JJ Bumrah
+2041,11-Aug-19,D,India,won,0,1st,won,v West Indies,S Dhawan,RG Sharma,V Kohli,RR Pant,SS Iyer,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,Kuldeep Yadav,KK Ahmed
+2043,14-Aug-19,D,India,won,0,2nd,lost,v West Indies,RG Sharma,S Dhawan,V Kohli,RR Pant,SS Iyer,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,KK Ahmed,YS Chahal
+2056,15-Dec-19,D,India,lost,1,1st,lost,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,S Dube,DL Chahar,Mohammed Shami,Kuldeep Yadav
+2057,18-Dec-19,D,India,won,1,1st,lost,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,DL Chahar,Mohammed Shami,SN Thakur,Kuldeep Yadav
+2059,22-Dec-19,D,India,won,1,2nd,won,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,SN Thakur,Mohammed Shami,Kuldeep Yadav,NA Saini
+2068,14-Jan-20,D,India,lost,1,1st,lost,v Australia,RG Sharma,S Dhawan,KL Rahul,V Kohli,SS Iyer,RR Pant,RA Jadeja,SN Thakur,Mohammed Shami,Kuldeep Yadav,JJ Bumrah
+2069,17-Jan-20,D,India,won,1,1st,lost,v Australia,RG Sharma,S Dhawan,V Kohli,SS Iyer,KL Rahul,MK Pandey,RA Jadeja,Mohammed Shami,Kuldeep Yadav,NA Saini,JJ Bumrah
+2071,19-Jan-20,D,India,won,1,2nd,lost,v Australia,RG Sharma,KL Rahul,V Kohli,SS Iyer,MK Pandey,S Dhawan,RA Jadeja,Mohammed Shami,Kuldeep Yadav,NA Saini,JJ Bumrah
+2076,5-Feb-20,DN,India,lost,0,1st,lost,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,KM Jadhav,RA Jadeja,SN Thakur,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+2078,8-Feb-20,DN,India,lost,0,2nd,won,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,KM Jadhav,RA Jadeja,SN Thakur,NA Saini,YS Chahal,JJ Bumrah
+2082,11-Feb-20,DN,India,lost,0,1st,lost,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,MK Pandey,RA Jadeja,SN Thakur,NA Saini,YS Chahal,JJ Bumrah
