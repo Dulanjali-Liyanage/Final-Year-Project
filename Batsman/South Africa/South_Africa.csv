@@ -1,0 +1,99 @@
+P1,P1_S,P2,P2_S,P3,P3_S,P4,P4_S,P5,P5_S,P6,P6_S,P7,P7_S,P8,P8_S,P9,P9_S,P10,P10_S,P11,P11_S
+HM Amla,66,RR Rossouw,0,F du Plessis,0,AB de Villiers,81,DA Miller,70,JP Duminy,12,F Behardien,12,VD Philander,4,DW Steyn,6,M Morkel,2,Imran Tahir,26
+HM Amla,153,RR Rossouw,128,AB de Villiers,149,DA Miller,0,F du Plessis,0,JP Duminy,0,F Behardien,0,VD Philander,0,DW Steyn,0,M Morkel,0,Imran Tahir,0
+RR Rossouw,7,HM Amla,61,F du Plessis,51,AB de Villiers,0,JP Duminy,0,DA Miller,0,F Behardien,0,VD Philander,0,DW Steyn,0,M Morkel,0,Imran Tahir,0
+MN van Wyk,18,RR Rossouw,4,F du Plessis,4,AB de Villiers,19,DA Miller,130,JP Duminy,43,F Behardien,12,WD Parnell,12,AM Phangiso,0,KJ Abbott,1,M Morkel,0
+Q de Kock,4,HM Amla,133,F du Plessis,16,RR Rossouw,132,DA Miller,23,JP Duminy,18,F Behardien,5,WD Parnell,0,AM Phangiso,0,KJ Abbott,0,M de Lange,0
+Q de Kock,7,HM Amla,11,F du Plessis,24,AB de Villiers,25,DA Miller,138,JP Duminy,115,F Behardien,0,VD Philander,0,DW Steyn,0,Imran Tahir,0,M Morkel,0
+HM Amla,22,Q de Kock,7,F du Plessis,55,AB de Villiers,30,DA Miller,22,JP Duminy,6,WD Parnell,17,VD Philander,0,DW Steyn,1,M Morkel,2,Imran Tahir,8
+Q de Kock,12,HM Amla,65,F du Plessis,62,RR Rossouw,61,AB de Villiers,162,DA Miller,20,F Behardien,10,DW Steyn,0,KJ Abbott,0,M Morkel,0,Imran Tahir,0
+HM Amla,159,Q de Kock,1,F du Plessis,109,AB de Villiers,24,DA Miller,46,RR Rossouw,61,F Behardien,0,DW Steyn,0,KJ Abbott,0,M Morkel,0,Imran Tahir,0
+Q de Kock,0,HM Amla,38,F du Plessis,27,RR Rossouw,6,AB de Villiers,77,DA Miller,0,JP Duminy,12,DW Steyn,16,KJ Abbott,12,M Morkel,6,Imran Tahir,0
+HM Amla,16,Q de Kock,78,F du Plessis,21,RR Rossouw,0,AB de Villiers,0,DA Miller,0,JP Duminy,0,DW Steyn,0,KJ Abbott,0,M Morkel,0,Imran Tahir,0
+HM Amla,10,Q de Kock,14,F du Plessis,82,RR Rossouw,39,AB de Villiers,65,DA Miller,49,JP Duminy,8,VD Philander,0,DW Steyn,0,M Morkel,0,Imran Tahir,0
+Q de Kock,35,HM Amla,14,F du Plessis,63,RR Rossouw,45,DA Miller,0,JP Duminy,0,F Behardien,0,CH Morris,0,KJ Abbott,0,K Rabada,0,Imran Tahir,0
+HM Amla,22,Q de Kock,2,F du Plessis,41,RR Rossouw,4,DA Miller,9,JP Duminy,13,F Behardien,36,CH Morris,12,K Rabada,10,KJ Abbott,5,Imran Tahir,1
+Q de Kock,7,HM Amla,15,F du Plessis,6,RR Rossouw,17,DA Miller,44,JP Duminy,51,F Behardien,12,K Rabada,1,KJ Abbott,5,M Morkel,1,Imran Tahir,0
+MN van Wyk,16,HM Amla,124,RR Rossouw,89,AB de Villiers,9,DA Miller,14,F Behardien,15,D Wiese,14,VD Philander,0,K Rabada,0,DW Steyn,0,Imran Tahir,0
+HM Amla,8,MN van Wyk,2,RR Rossouw,39,AB de Villiers,31,DA Miller,5,F Behardien,70,D Wiese,8,VD Philander,30,AM Phangiso,1,DW Steyn,2,Imran Tahir,4
+MN van Wyk,58,HM Amla,44,RR Rossouw,6,AB de Villiers,64,DA Miller,36,F Behardien,40,D Wiese,12,KJ Abbott,3,DW Steyn,0,K Rabada,0,Imran Tahir,0
+Q de Kock,29,HM Amla,37,F du Plessis,62,AB de Villiers,104,DA Miller,13,JP Duminy,15,F Behardien,35,DW Steyn,0,K Rabada,0,M Morkel,0,Imran Tahir,0
+HM Amla,17,Q de Kock,34,F du Plessis,51,JP Duminy,36,AB de Villiers,19,DA Miller,0,F Behardien,18,DW Steyn,13,K Rabada,19,Imran Tahir,9,M Morkel,4
+Q de Kock,103,DA Miller,33,HM Amla,5,F du Plessis,60,AB de Villiers,4,JP Duminy,14,F Behardien,33,DW Steyn,12,K Rabada,0,Imran Tahir,0,M Morkel,0
+Q de Kock,43,HM Amla,7,F du Plessis,17,AB de Villiers,112,DA Miller,6,F Behardien,22,CH Morris,9,AM Phangiso,20,DW Steyn,6,K Rabada,8,Imran Tahir,4
+Q de Kock,109,HM Amla,23,F du Plessis,133,AB de Villiers,119,DA Miller,22,F Behardien,16,D Elgar,5,DW Steyn,0,K Rabada,0,Imran Tahir,0,KJ Abbott,0
+Q de Kock,138,HM Amla,6,F du Plessis,55,AB de Villiers,8,JP Duminy,13,RR Rossouw,19,F Behardien,4,CH Morris,0,M Morkel,0,M de Lange,0,Imran Tahir,0
+HM Amla,4,Q de Kock,22,F du Plessis,46,AB de Villiers,73,JP Duminy,47,RR Rossouw,11,F Behardien,23,K Rabada,12,KJ Abbott,7,M Morkel,0,Imran Tahir,0
+Q de Kock,135,HM Amla,127,D Wiese,7,F du Plessis,33,AB de Villiers,0,JP Duminy,0,F Behardien,0,K Rabada,0,KJ Abbott,0,M Morkel,0,Imran Tahir,0
+HM Amla,0,Q de Kock,27,F du Plessis,34,AB de Villiers,36,JP Duminy,31,F Behardien,38,D Wiese,20,CH Morris,62,K Rabada,0,KJ Abbott,3,Imran Tahir,4
+Q de Kock,4,HM Amla,59,F du Plessis,0,RR Rossouw,4,AB de Villiers,101,F Behardien,13,D Wiese,41,CH Morris,0,K Rabada,0,KJ Abbott,0,Imran Tahir,0
+Q de Kock,30,HM Amla,20,RR Rossouw,61,AB de Villiers,31,JP Duminy,23,F Behardien,0,CH Morris,9,KJ Abbott,5,AM Phangiso,3,K Rabada,1,Imran Tahir,0
+HM Amla,35,Q de Kock,18,RR Rossouw,7,AB de Villiers,22,JP Duminy,13,F Behardien,62,WD Parnell,2,AM Phangiso,9,K Rabada,15,Imran Tahir,0,T Shamsi,0
+Q de Kock,19,HM Amla,60,F du Plessis,63,AB de Villiers,39,JP Duminy,41,F Behardien,4,WD Parnell,3,KJ Abbott,1,AM Phangiso,3,K Rabada,3,Imran Tahir,6
+HM Amla,110,Q de Kock,71,CH Morris,40,F du Plessis,73,AB de Villiers,27,JP Duminy,10,F Behardien,0,WD Parnell,0,K Rabada,0,Imran Tahir,0,T Shamsi,0
+HM Amla,16,Q de Kock,6,F du Plessis,3,AB de Villiers,2,F Behardien,35,JP Duminy,5,CH Morris,7,WD Parnell,28,K Rabada,9,M Morkel,32,Imran Tahir,29
+Q de Kock,82,T Bavuma,113,F du Plessis,21,JP Duminy,52,DA Miller,14,F Behardien,50,D Pretorius,0,WD Parnell,0,AL Phehlukwayo,0,K Rabada,0,AM Phangiso,0
+Q de Kock,178,RR Rossouw,63,F du Plessis,26,JP Duminy,9,DA Miller,10,F Behardien,5,AL Phehlukwayo,0,WD Parnell,0,DW Steyn,0,K Rabada,0,Imran Tahir,0
+Q de Kock,22,RR Rossouw,75,F du Plessis,111,JP Duminy,82,DA Miller,26,F Behardien,13,WD Parnell,8,AL Phehlukwayo,13,DW Steyn,0,K Rabada,0,Imran Tahir,0
+Q de Kock,70,HM Amla,45,F du Plessis,33,RR Rossouw,18,JP Duminy,20,DA Miller,118,D Pretorius,15,AL Phehlukwayo,42,DW Steyn,0,K Rabada,0,Imran Tahir,0
+HM Amla,4,Q de Kock,18,F du Plessis,69,JP Duminy,25,RR Rossouw,33,F Behardien,12,D Pretorius,0,AL Phehlukwayo,0,KJ Abbott,0,AM Phangiso,0,T Shamsi,0
+Q de Kock,12,HM Amla,25,F du Plessis,11,RR Rossouw,122,JP Duminy,73,DA Miller,39,AL Phehlukwayo,11,K Rabada,0,KJ Abbott,0,DW Steyn,6,Imran Tahir,0
+Q de Kock,34,HM Amla,57,F du Plessis,55,AB de Villiers,30,JP Duminy,0,DA Miller,0,CH Morris,0,WD Parnell,0,AL Phehlukwayo,0,K Rabada,0,Imran Tahir,0
+HM Amla,15,Q de Kock,17,F du Plessis,105,AB de Villiers,3,JP Duminy,11,DA Miller,117,CH Morris,26,WD Parnell,2,AL Phehlukwayo,0,K Rabada,0,Imran Tahir,0
+Q de Kock,8,HM Amla,34,F du Plessis,24,AB de Villiers,60,JP Duminy,28,F Behardien,0,CH Morris,0,D Pretorius,0,AL Phehlukwayo,0,K Rabada,0,Imran Tahir,0
+HM Amla,1,Q de Kock,55,F du Plessis,185,AB de Villiers,64,JP Duminy,20,F Behardien,36,WD Parnell,1,D Pretorius,0,Imran Tahir,0,K Rabada,0,T Shamsi,0
+Q de Kock,109,HM Amla,154,F du Plessis,41,AB de Villiers,14,JP Duminy,10,F Behardien,32,CH Morris,3,WD Parnell,1,AL Phehlukwayo,0,Imran Tahir,0,K Rabada,0
+Q de Kock,69,HM Amla,35,F du Plessis,14,AB de Villiers,37,JP Duminy,1,F Behardien,0,CH Morris,16,AL Phehlukwayo,29,T Shamsi,0,K Rabada,0,Imran Tahir,0
+HM Amla,10,Q de Kock,57,F du Plessis,11,JP Duminy,34,AB de Villiers,45,DA Miller,28,D Pretorius,50,CH Morris,7,WD Parnell,0,AL Phehlukwayo,29,Imran Tahir,0
+Q de Kock,68,HM Amla,7,F du Plessis,36,AB de Villiers,85,JP Duminy,16,DA Miller,3,D Pretorius,11,WD Parnell,35,AL Phehlukwayo,1,Imran Tahir,0,K Rabada,0
+HM Amla,40,Q de Kock,0,F du Plessis,67,JP Duminy,25,AB de Villiers,72,DA Miller,1,D Pretorius,10,CH Morris,28,WD Parnell,29,K Rabada,0,Imran Tahir,0
+Q de Kock,6,HM Amla,8,F du Plessis,51,JP Duminy,3,AB de Villiers,23,DA Miller,45,D Pretorius,0,CH Morris,0,AL Phehlukwayo,0,K Rabada,0,Imran Tahir,0
+HM Amla,73,Q de Kock,5,F du Plessis,67,AB de Villiers,45,JP Duminy,15,DA Miller,11,CH Morris,5,WD Parnell,19,AL Phehlukwayo,4,K Rabada,19,Imran Tahir,0
+Q de Kock,98,HM Amla,24,F du Plessis,16,AB de Villiers,52,DA Miller,71,F Behardien,17,CH Morris,35,D Pretorius,0,K Rabada,0,AL Phehlukwayo,0,KA Maharaj,0
+HM Amla,55,Q de Kock,34,JP Duminy,28,F du Plessis,5,AB de Villiers,27,DA Miller,0,CH Morris,0,WD Parnell,0,KA Maharaj,0,K Rabada,0,M Morkel,0
+HM Amla,103,Q de Kock,23,F du Plessis,75,AB de Villiers,4,DA Miller,18,JP Duminy,38,CH Morris,20,WD Parnell,7,K Rabada,0,M Morkel,0,Imran Tahir,0
+Q de Kock,33,HM Amla,16,F du Plessis,26,AB de Villiers,0,DA Miller,75,JP Duminy,8,WD Parnell,0,CH Morris,28,K Rabada,26,M Morkel,0,Imran Tahir,0
+Q de Kock,53,HM Amla,35,F du Plessis,36,AB de Villiers,16,DA Miller,1,JP Duminy,20,CH Morris,4,AL Phehlukwayo,4,K Rabada,5,M Morkel,0,Imran Tahir,1
+Q de Kock,168,HM Amla,110,F du Plessis,0,AB de Villiers,0,DA Miller,0,JP Duminy,0,D Pretorius,0,AL Phehlukwayo,0,K Rabada,0,D Paterson,0,Imran Tahir,0
+HM Amla,85,Q de Kock,46,F du Plessis,0,AB de Villiers,176,JP Duminy,30,F Behardien,7,D Pretorius,0,AL Phehlukwayo,0,K Rabada,0,D Paterson,0,Imran Tahir,0
+T Bavuma,48,Q de Kock,73,F du Plessis,91,AK Markram,66,AB de Villiers,20,F Behardien,33,PWA Mulder,2,AL Phehlukwayo,5,K Rabada,23,D Paterson,0,Imran Tahir,0
+Q de Kock,34,HM Amla,16,F du Plessis,120,AK Markram,9,JP Duminy,12,DA Miller,7,CH Morris,37,AL Phehlukwayo,27,K Rabada,1,M Morkel,0,Imran Tahir,0
+HM Amla,23,Q de Kock,20,AK Markram,8,JP Duminy,25,DA Miller,0,K Zondo,25,CH Morris,14,K Rabada,1,M Morkel,1,Imran Tahir,0,T Shamsi,0
+HM Amla,1,AK Markram,32,JP Duminy,51,H Klaasen,6,DA Miller,25,K Zondo,17,CH Morris,14,AL Phehlukwayo,3,K Rabada,12,Imran Tahir,8,L Ngidi,6
+AK Markram,22,HM Amla,33,JP Duminy,10,AB de Villiers,26,DA Miller,39,H Klaasen,43,AL Phehlukwayo,23,CH Morris,0,K Rabada,0,L Ngidi,0,M Morkel,0
+HM Amla,71,AK Markram,32,JP Duminy,1,AB de Villiers,6,DA Miller,36,H Klaasen,39,AL Phehlukwayo,0,K Rabada,3,M Morkel,1,T Shamsi,0,L Ngidi,4
+AK Markram,24,HM Amla,10,AB de Villiers,30,K Zondo,54,H Klaasen,22,F Behardien,1,CH Morris,4,AL Phehlukwayo,34,M Morkel,20,Imran Tahir,2,L Ngidi,0
+HM Amla,19,Q de Kock,47,AK Markram,0,F du Plessis,47,JP Duminy,53,DA Miller,10,PWA Mulder,14,AL Phehlukwayo,0,K Rabada,0,T Shamsi,0,L Ngidi,0
+Q de Kock,87,HM Amla,43,AK Markram,3,F du Plessis,49,JP Duminy,32,DA Miller,3,PWA Mulder,19,AL Phehlukwayo,7,K Rabada,0,T Shamsi,0,L Ngidi,0
+HM Amla,59,Q de Kock,2,RR Hendricks,102,F du Plessis,10,JP Duminy,92,DA Miller,51,AL Phehlukwayo,24,PWA Mulder,2,K Rabada,0,T Shamsi,0,L Ngidi,0
+Q de Kock,23,HM Amla,40,RR Hendricks,2,JP Duminy,38,H Klaasen,17,DA Miller,21,AL Phehlukwayo,9,PWA Mulder,4,KA Maharaj,17,CJ Dala,3,L Ngidi,1
+HM Amla,0,Q de Kock,54,AK Markram,20,RR Hendricks,0,H Klaasen,3,JP Duminy,12,PWA Mulder,2,AL Phehlukwayo,3,KA Maharaj,8,K Rabada,12,CJ Dala,5
+AK Markram,27,D Elgar,2,RR Hendricks,5,H Klaasen,44,C Jonker,6,JP Duminy,16,PWA Mulder,14,AL Phehlukwayo,0,K Rabada,0,Imran Tahir,0,L Ngidi,0
+D Elgar,4,AK Markram,35,RR Hendricks,1,H Klaasen,1,K Zondo,21,C Jonker,25,JP Duminy,5,AL Phehlukwayo,28,DW Steyn,60,Imran Tahir,1,L Ngidi,4
+AK Markram,42,RR Hendricks,66,F du Plessis,26,JP Duminy,1,H Klaasen,59,K Zondo,25,AL Phehlukwayo,0,DW Steyn,4,K Rabada,0,Imran Tahir,0,T Shamsi,0
+Q de Kock,47,RR Hendricks,44,AK Markram,36,F du Plessis,10,H Klaasen,2,DA Miller,2,AL Phehlukwayo,0,DW Steyn,0,K Rabada,0,L Ngidi,0,Imran Tahir,0
+Q de Kock,9,RR Hendricks,16,AK Markram,19,F du Plessis,47,H Klaasen,14,DA Miller,51,D Pretorius,14,DW Steyn,3,K Rabada,9,L Ngidi,19,Imran Tahir,11
+Q de Kock,4,RR Hendricks,8,AK Markram,32,F du Plessis,125,DA Miller,139,H Klaasen,1,D Pretorius,1,DW Steyn,0,K Rabada,0,L Ngidi,0,Imran Tahir,0
+HM Amla,108,RR Hendricks,45,HE van der Dussen,93,DA Miller,16,F du Plessis,0,AL Phehlukwayo,0,H Klaasen,0,K Rabada,0,D Pretorius,0,D Olivier,0,Imran Tahir,0
+RR Hendricks,5,HM Amla,8,HE van der Dussen,80,F du Plessis,8,DA Miller,31,H Klaasen,0,AL Phehlukwayo,69,K Rabada,0,D Paterson,0,T Shamsi,0,D Olivier,0
+Q de Kock,33,HM Amla,25,RR Hendricks,83,F du Plessis,40,HE van der Dussen,0,DA Miller,0,AL Phehlukwayo,0,K Rabada,0,BE Hendricks,0,T Shamsi,0,DW Steyn,0
+HM Amla,59,Q de Kock,0,RR Hendricks,2,F du Plessis,57,HE van der Dussen,18,DA Miller,4,AL Phehlukwayo,11,DW Steyn,0,K Rabada,0,BE Hendricks,2,Imran Tahir,5
+Q de Kock,83,HM Amla,14,RR Hendricks,34,F du Plessis,50,HE van der Dussen,50,PWA Mulder,0,AL Phehlukwayo,0,DW Steyn,0,K Rabada,0,D Pretorius,0,Imran Tahir,0
+Q de Kock,81,RR Hendricks,1,F du Plessis,112,HE van der Dussen,32,DA Miller,0,PWA Mulder,0,D Pretorius,0,K Rabada,0,A Nortje,0,Imran Tahir,0,L Ngidi,0
+Q de Kock,94,RR Hendricks,29,F du Plessis,57,HE van der Dussen,2,PWA Mulder,17,DA Miller,25,AL Phehlukwayo,2,K Rabada,3,A Nortje,8,L Ngidi,6,Imran Tahir,1
+Q de Kock,121,RR Hendricks,4,F du Plessis,36,HE van der Dussen,50,DA Miller,41,D Pretorius,31,AL Phehlukwayo,38,K Rabada,0,L Ngidi,0,Imran Tahir,0,T Shamsi,0
+Q de Kock,51,RR Hendricks,8,AK Markram,29,F du Plessis,43,DA Miller,25,JP Duminy,31,AL Phehlukwayo,0,DW Steyn,0,A Nortje,0,L Ngidi,0,T Shamsi,0
+Q de Kock,6,AK Markram,67,F du Plessis,24,HE van der Dussen,28,JP Duminy,0,D Pretorius,0,AL Phehlukwayo,0,A Nortje,0,K Rabada,0,L Ngidi,0,Imran Tahir,0
+Q de Kock,68,HM Amla,13,AK Markram,11,F du Plessis,5,HE van der Dussen,50,JP Duminy,8,D Pretorius,1,AL Phehlukwayo,24,K Rabada,11,L Ngidi,6,Imran Tahir,0
+Q de Kock,23,AK Markram,45,F du Plessis,62,DA Miller,38,HE van der Dussen,41,JP Duminy,45,AL Phehlukwayo,8,CH Morris,10,K Rabada,13,Imran Tahir,10,L Ngidi,0
+HM Amla,6,Q de Kock,10,F du Plessis,38,HE van der Dussen,22,DA Miller,31,JP Duminy,3,AL Phehlukwayo,34,CH Morris,42,K Rabada,31,Imran Tahir,0,T Shamsi,0
+HM Amla,41,Q de Kock,68,AL Phehlukwayo,17,AK Markram,0,F du Plessis,0,HE van der Dussen,0,DA Miller,0,CH Morris,0,K Rabada,0,Imran Tahir,0,BE Hendricks,0
+Q de Kock,5,HM Amla,55,F du Plessis,23,AK Markram,38,HE van der Dussen,67,DA Miller,36,AL Phehlukwayo,0,CH Morris,6,K Rabada,0,Imran Tahir,0,L Ngidi,0
+HM Amla,2,Q de Kock,47,F du Plessis,63,AK Markram,7,HE van der Dussen,36,DA Miller,31,AL Phehlukwayo,46,CH Morris,16,K Rabada,3,L Ngidi,1,Imran Tahir,1
+Q de Kock,15,HM Amla,80,F du Plessis,96,HE van der Dussen,0,AK Markram,0,JP Duminy,0,D Pretorius,0,AL Phehlukwayo,0,CH Morris,0,K Rabada,0,Imran Tahir,0
+AK Markram,34,Q de Kock,52,F du Plessis,100,HE van der Dussen,95,JP Duminy,14,D Pretorius,2,AL Phehlukwayo,4,CH Morris,0,K Rabada,0,Imran Tahir,0,T Shamsi,0
+Q de Kock,107,RR Hendricks,6,T Bavuma,98,HE van der Dussen,38,JT Smuts,7,DA Miller,0,AL Phehlukwayo,0,BE Hendricks,0,L Ngidi,0,L Sipamla,0,T Shamsi,0
+Q de Kock,69,RR Hendricks,11,T Bavuma,29,HE van der Dussen,5,JT Smuts,31,DA Miller,69,AL Phehlukwayo,14,BE Hendricks,3,L Sipamla,10,L Ngidi,0,T Shamsi,0
+JN Malan,0,Q de Kock,15,T Bavuma,26,K Verreynne,48,H Klaasen,123,DA Miller,64,AL Phehlukwayo,0,KA Maharaj,2,A Nortje,1,L Ngidi,0,T Shamsi,0
+JN Malan,129,Q de Kock,0,JT Smuts,41,K Verreynne,3,H Klaasen,51,DA Miller,37,AL Phehlukwayo,0,KA Maharaj,0,A Nortje,0,L Ngidi,0,T Shamsi,0
+JN Malan,23,Q de Kock,26,JT Smuts,84,K Verreynne,50,H Klaasen,68,DA Miller,3,AL Phehlukwayo,0,KA Maharaj,0,A Nortje,0,L Sipamla,0,DM Dupavillon,0
