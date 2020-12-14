@@ -114,7 +114,7 @@ result.head(13)
 
 
 #load data file-combinational avgs of 2-grams
-data2grams = pd.read_csv('F:/8TH SEM/CO425-FYP/combined_results/Zimbabwe/zimbabwe_2g.csv',sep=',')
+data2grams = pd.read_csv('F:/8TH SEM/CO425-FYP/Zimbabwe/Combined averages/zimbabwe_2g.csv',sep=',')
 
 
 # In[15]:
@@ -188,7 +188,7 @@ zimb_comparison_2grams.shape
 # In[25]:
 
 
-# zimb_comparison_2grams.to_csv('F:/8TH SEM/CO425-FYP/Comparison/Zimbabwe/zimb_comparison_2grams.csv')
+zimb_comparison_2grams.to_csv('F:/8TH SEM/CO425-FYP/Zimbabwe/Comparative analysis/zimb_comparison_2grams.csv')
 
 
 # # 3 grams - combinational averages Vs sum of individual averages
@@ -197,7 +197,7 @@ zimb_comparison_2grams.shape
 
 
 #load data file-combinational avgs of 3-grams
-data3grams = pd.read_csv('F:/8TH SEM/CO425-FYP/combined_results/Zimbabwe/zimbabwe_3g.csv',sep=',')
+data3grams = pd.read_csv('F:/8TH SEM/CO425-FYP/Zimbabwe/Combined averages/zimbabwe_3g.csv',sep=',')
 
 
 # In[27]:
@@ -272,22 +272,34 @@ zimb_comparison_3grams.shape
 # In[37]:
 
 
-# zimb_comparison_3grams.to_csv('F:/8TH SEM/CO425-FYP/Comparison/Zimbabwe/zimb_comparison_3grams.csv')
+zimb_comparison_3grams.to_csv('F:/8TH SEM/CO425-FYP/Zimbabwe/Comparative analysis/zimb_comparison_3grams.csv')
 
 
 # # 4 grams - combinational averages Vs sum of individual averages
 
-# In[40]:
+# In[38]:
 
 
 #load data file-combinational avgs of 4-grams
-data4grams = pd.read_csv('F:/8TH SEM/CO425-FYP/combined_results/Zimbabwe/zimbabwe_4g.csv',sep=',')
+data4grams = pd.read_csv('F:/8TH SEM/CO425-FYP/Zimbabwe/Combined averages/zimbabwe_4g.csv',sep=',')
+
+
+# In[39]:
+
+
+data4grams.head()
+
+
+# In[40]:
+
+
+data4grams.shape
 
 
 # In[41]:
 
 
-data4grams.head()
+data4grams = data4grams[data4grams.avg != 0.0]
 
 
 # In[42]:
@@ -296,31 +308,19 @@ data4grams.head()
 data4grams.shape
 
 
-# In[44]:
-
-
-data4grams = data4grams[data4grams.avg != 0.0]
-
-
-# In[45]:
-
-
-data4grams.shape
-
-
-# In[46]:
+# In[43]:
 
 
 data4grams = data4grams.reset_index(drop=True)
 
 
-# In[47]:
+# In[44]:
 
 
-data3grams.head()
+data4grams.head()
 
 
-# In[48]:
+# In[45]:
 
 
 new_column_names = ["player-1", "player-2", "player-3", "player-4", "combined_avg","sum_of_individual"]
@@ -328,7 +328,7 @@ new_column_names = ["player-1", "player-2", "player-3", "player-4", "combined_av
 zimb_comparison_4grams = pd.DataFrame(columns = new_column_names)
 
 
-# In[49]:
+# In[46]:
 
 
 for index, row in data4grams.iterrows():
@@ -342,22 +342,22 @@ for index, row in data4grams.iterrows():
         zimb_comparison_4grams = zimb_comparison_4grams.append({'player-1':player1, 'player-2':player2,'player-3':player3, 'player-4':player4,'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
 
 
-# In[50]:
+# In[47]:
 
 
 zimb_comparison_4grams.head()
 
 
-# In[51]:
+# In[48]:
 
 
 zimb_comparison_4grams.shape
 
 
-# In[52]:
+# In[49]:
 
 
-# zimb_comparison_4grams.to_csv('F:/8TH SEM/CO425-FYP/Comparison/Zimbabwe/zimb_comparison_4grams.csv')
+zimb_comparison_4grams.to_csv('F:/8TH SEM/CO425-FYP/Zimbabwe/Comparative analysis/zimb_comparison_4grams.csv')
 
 
 # In[ ]:
