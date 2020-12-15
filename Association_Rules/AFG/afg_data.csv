@@ -1,0 +1,74 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,lost,0,1,lost,v Ireland,Javed Ahmadi,Usman Ghani,Afsar Zazai,Nasir Jamal,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Mirwais Ashraf,Dawlat Zadran,Hamid Hassan,Aftab Alam
+D,won,0,1,lost,v Ireland,Javed Ahmadi,Usman Ghani,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Afsar Zazai,Mirwais Ashraf,Dawlat Zadran,Aftab Alam,Hamid Hassan
+DN,lost,0,2,lost,v Bangladesh,Javed Ahmadi,Afsar Zazai,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Mirwais Ashraf,Aftab Alam,Hamid Hassan,Shapoor Zadran
+D,lost,0,1,lost,v Sri Lanka,Javed Ahmadi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Afsar Zazai,Mirwais Ashraf,Dawlat Zadran,Hamid Hassan,Shapoor Zadran
+DN,lost,0,2,won,v Australia,Javed Ahmadi,Usman Ghani,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Afsar Zazai,Dawlat Zadran,Hamid Hassan,Shapoor Zadran
+D,lost,0,1,won,v New Zealand,Javed Ahmadi,Usman Ghani,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Afsar Zazai,Najibullah Zadran,Dawlat Zadran,Hamid Hassan,Shapoor Zadran
+DN,lost,0,1,lost,v England,Javed Ahmadi,Nawroz Mangal,Afsar Zazai,Nasir Jamal,Samiullah Shinwari,Shafiqullah,Mohammad Nabi,Najibullah Zadran,Hamid Hassan,Dawlat Zadran,Shapoor Zadran
+D,lost,0,1,won,v Zimbabwe,Noor Ali Zadran,Nawroz Mangal,Mohammad Shahzad,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Amir Hamza,Dawlat Zadran,Aftab Alam,Shapoor Zadran
+D,won,0,1,won,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Najibullah Zadran,Samiullah Shinwari,Rashid Khan,Dawlat Zadran,Aftab Alam,Amir Hamza
+D,lost,0,1,won,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Shafiqullah,Rashid Khan,Dawlat Zadran,Aftab Alam,Amir Hamza
+D,won,0,2,lost,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Shafiqullah,Rashid Khan,Mirwais Ashraf,Aftab Alam,Shapoor Zadran
+D,won,0,1,lost,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Asghar Afghan,Samiullah Shinwari,Najibullah Zadran,Shafiqullah,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Amir Hamza
+DN,won,0,1,won,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Najibullah Zadran,Mirwais Ashraf,Dawlat Zadran,Amir Hamza,Yamin Ahmadzai
+DN,won,0,2,lost,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Najibullah Zadran,Mirwais Ashraf,Rokhan Barakzai,Amir Hamza,Dawlat Zadran
+DN,lost,0,2,lost,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Asghar Afghan,Hashmatullah Shahidi,Mirwais Ashraf,Samiullah Shinwari,Shafiqullah,Rashid Khan,Dawlat Zadran,Amir Hamza
+DN,lost,0,2,lost,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Asghar Afghan,Rashid Khan,Mohammad Nabi,Hashmatullah Shahidi,Karim Sadiq,Shafiqullah,Mirwais Ashraf,Dawlat Zadran,Amir Hamza
+DN,won,0,2,lost,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Nawroz Mangal,Hashmatullah Shahidi,Mohammad Nabi,Asghar Afghan,Gulbadin Naib,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Amir Hamza
+D,won,0,1,lost,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Dawlat Zadran,Mirwais Ashraf,Rashid Khan,Shapoor Zadran
+D,lost,0,1,won,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Mirwais Ashraf,Rashid Khan,Dawlat Zadran,Hamid Hassan
+D,won,0,1,won,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Yamin Ahmadzai
+D,lost,0,2,won,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Gulbadin Naib,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Yamin Ahmadzai
+DN,lost,0,2,lost,v Bangladesh,Shabir Noori,Mohammad Shahzad,Rahmat Shah,Hashmatullah Shahidi,Mohammad Nabi,Najibullah Zadran,Asghar Afghan,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Naveen-ul-Haq
+DN,won,0,2,won,v Bangladesh,Mohammad Shahzad,Nawroz Mangal,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Naveen-ul-Haq
+DN,lost,0,2,lost,v Bangladesh,Mohammad Shahzad,Nawroz Mangal,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mirwais Ashraf,Dawlat Zadran
+D,won,0,1,won,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Amir Hamza
+D,won,0,1,won,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Hashmatullah Shahidi,Amir Hamza
+D,lost,0,2,lost,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Gulbadin Naib,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Amir Hamza,Fareed Ahmad
+D,lost,0,1,won,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Karim Janat,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Fareed Ahmad
+D,won,0,1,won,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Gulbadin Naib,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Amir Hamza
+D,won,0,1,won,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Dawlat Zadran,Amir Hamza,Rashid Khan
+D,won,0,1,won,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Shafiqullah,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Amir Hamza
+D,lost,0,1,won,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Dawlat Zadran,Amir Hamza
+D,lost,0,1,won,v Ireland,Mohammad Shahzad,Usman Ghani,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Gulbadin Naib,Mohammad Nabi,Rashid Khan,Shafiqullah,Dawlat Zadran,Amir Hamza
+D,won,0,2,lost,v Ireland,Mohammad Shahzad,Najeeb Tarakai,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Rashid Khan,Gulbadin Naib,Dawlat Zadran,Fareed Ahmad,Mohammad Nabi,Shafiqullah
+DN,won,0,1,won,v West Indies,Noor Ali Zadran,Javed Ahmadi,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Afsar Zazai,Gulbadin Naib,Rashid Khan,Amir Hamza,Dawlat Zadran
+DN,lost,0,1,won,v West Indies,Noor Ali Zadran,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Mohammad Nabi,Afsar Zazai,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Amir Hamza
+DN,won,0,1,lost,v Ireland,Javed Ahmadi,Ihsanullah,Rahmat Shah,Nasir Jamal,Asghar Afghan,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Dawlat Zadran,Mujeeb Ur Rahman
+DN,lost,0,2,lost,v Ireland,Javed Ahmadi,Ihsanullah,Rahmat Shah,Asghar Afghan,Nasir Jamal,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Dawlat Zadran,Mujeeb Ur Rahman
+DN,lost,0,1,won,v Ireland,Javed Ahmadi,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Nasir Jamal,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Shapoor Zadran,Mujeeb Ur Rahman
+DN,won,0,1,won,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Nasir Jamal,Najibullah Zadran,Dawlat Zadran,Mujeeb Ur Rahman,Gulbadin Naib,Mohammad Nabi,Rashid Khan
+DN,lost,0,2,lost,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Nasir Jamal,Najibullah Zadran,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman
+DN,won,0,2,lost,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Nasir Jamal,Mohammad Nabi,Najibullah Zadran,Dawlat Zadran,Mujeeb Ur Rahman,Gulbadin Naib,Asghar Afghan,Rashid Khan
+DN,won,0,2,lost,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Asghar Afghan,Mohammad Nabi,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman,Najibullah Zadran,Rahmat Shah,Nasir Jamal
+DN,won,0,1,won,v Zimbabwe,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Nasir Jamal,Mohammad Nabi,Sharafuddin Ashraf,Rashid Khan,Mujeeb Ur Rahman,Shapoor Zadran
+D,lost,0,2,lost,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Nasir Jamal,Mohammad Nabi,Najibullah Zadran,Sharafuddin Ashraf,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman,Shapoor Zadran
+D,won,0,2,lost,v West Indies,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman
+D,won,0,2,lost,v Ireland,Mohammad Shahzad,Gulbadin Naib,Rahmat Shah,Samiullah Shinwari,Mohammad Nabi,Asghar Afghan,Najibullah Zadran,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman
+D,won,0,2,lost,v West Indies,Mohammad Shahzad,Gulbadin Naib,Rahmat Shah,Samiullah Shinwari,Mohammad Nabi,Asghar Afghan,Najibullah Zadran,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman
+D,won,0,1,lost,v Ireland,Hazratullah Zazai,Ihsanullah,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Shafiqullah,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+D,lost,0,1,won,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+D,won,0,2,lost,v Ireland,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Najibullah Zadran,Asghar Afghan,Gulbadin Naib,Mohammad Nabi,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+DN,won,0,1,won,v Sri Lanka,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+DN,won,0,1,won,v Bangladesh,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+DN,lost,0,1,won,v Pakistan,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Mujeeb Ur Rahman,Aftab Alam
+DN,lost,0,2,lost,v Bangladesh,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Samiullah Shinwari,Rashid Khan,Gulbadin Naib,Mujeeb Ur Rahman,Aftab Alam
+DN,won,0,2,lost,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Hashmatullah Shahidi,Gulbadin Naib,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Mujeeb Ur Rahman,Dawlat Zadran
+DN,lost,0,1,won,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Samiullah Shinwari,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman
+DN,won,0,1,lost,v Ireland,Hazratullah Zazai,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Ikram Alikhil,Gulbadin Naib,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+DN,lost,0,1,lost,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mujeeb Ur Rahman,Zahir Khan,Shapoor Zadran
+D,lost,0,2,won,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Aftab Alam,Mujeeb Ur Rahman
+D,won,0,1,lost,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Gulbadin Naib,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Aftab Alam,Mujeeb Ur Rahman
+DN,lost,0,1,won,v Australia,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Hashmatullah Shahidi,Mohammad Nabi,Gulbadin Naib,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman,Hamid Hassan
+D,lost,0,2,won,v Sri Lanka,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Hashmatullah Shahidi,Mohammad Nabi,Gulbadin Naib,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Hamid Hassan,Mujeeb Ur Rahman
+DN,lost,0,1,lost,v New Zealand,Hazratullah Zazai,Noor Ali Zadran,Rahmat Shah,Hashmatullah Shahidi,Gulbadin Naib,Mohammad Nabi,Najibullah Zadran,Ikram Alikhil,Rashid Khan,Aftab Alam,Hamid Hassan
+DN,lost,0,1,lost,v South Africa,Hazratullah Zazai,Noor Ali Zadran,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Ikram Alikhil,Gulbadin Naib,Rashid Khan,Hamid Hassan,Aftab Alam
+D,lost,0,2,lost,v England,Noor Ali Zadran,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Ikram Alikhil,Dawlat Zadran,Mujeeb Ur Rahman
+D,lost,0,2,lost,v India,Hazratullah Zazai,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Ikram Alikhil,Aftab Alam,Mujeeb Ur Rahman
+D,lost,0,2,won,v Bangladesh,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Samiullah Shinwari,Ikram Alikhil,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman
+D,lost,0,1,won,v Pakistan,Rahmat Shah,Gulbadin Naib,Hashmatullah Shahidi,Ikram Alikhil,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Samiullah Shinwari,Rashid Khan,Hamid Hassan,Mujeeb Ur Rahman
+D,lost,0,2,lost,v West Indies,Gulbadin Naib,Rahmat Shah,Ikram Alikhil,Najibullah Zadran,Asghar Afghan,Mohammad Nabi,Samiullah Shinwari,Rashid Khan,Dawlat Zadran,Sayed Shirzad,Mujeeb Ur Rahman
+DN,lost,0,1,lost,v West Indies,Hazratullah Zazai,Javed Ahmadi,Rahmat Shah,Ikram Alikhil,Najibullah Zadran,Asghar Afghan,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Naveen-ul-Haq,Mujeeb Ur Rahman
+DN,lost,0,2,won,v West Indies,Hazratullah Zazai,Javed Ahmadi,Rahmat Shah,Ikram Alikhil,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Sharafuddin Ashraf,Mujeeb Ur Rahman,Naveen-ul-Haq
+DN,lost,0,1,lost,v West Indies,Hazratullah Zazai,Ibrahim Zadran,Rahmat Shah,Ikram Alikhil,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Sharafuddin Ashraf,Mujeeb Ur Rahman,Yamin Ahmadzai
