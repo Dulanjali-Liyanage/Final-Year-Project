@@ -1,0 +1,79 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,won,0,1,won,v Afghanistan,Anamul Haque,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Mushfiqur Rahim,Rubel Hossain,Taskin Ahmed
+DN,lost,0,2,lost,v Sri Lanka,Tamim Iqbal,Anamul Haque,Soumya Sarkar,Mominul Haque,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed
+DN,won,0,1,lost,v England,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+DN,lost,0,1,lost,v New Zealand,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Rubel Hossain,Taijul Islam,Taskin Ahmed
+DN,lost,0,2,lost,v India,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed
+DN,won,1,1,won,v Pakistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Abul Hasan,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+DN,won,1,2,lost,v Pakistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Nasir Hossain,Sabbir Rahman,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+DN,won,1,2,lost,v Pakistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Shakib Al Hasan,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+DN,won,1,1,won,v India,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed,Mustafizur Rahman
+DN,won,1,2,lost,v India,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain,Taskin Ahmed
+DN,lost,1,2,won,v India,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Mustafizur Rahman
+DN,lost,1,1,won,v South Africa,Tamim Iqbal,Soumya Sarkar,Liton Das,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Jubair Hossain,Mustafizur Rahman
+DN,won,1,2,lost,v South Africa,Tamim Iqbal,Soumya Sarkar,Liton Das,Mahmudullah,Shakib Al Hasan,Nasir Hossain,Sabbir Rahman,Mushfiqur Rahim,Mustafizur Rahman,Mashrafe Mortaza,Rubel Hossain
+DN,won,1,2,lost,v South Africa,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Shakib Al Hasan,Mashrafe Mortaza,Mustafizur Rahman,Mahmudullah,Rubel Hossain
+DN,won,1,1,lost,v Zimbabwe,Tamim Iqbal,Liton Das,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Al-Amin Hossain,Mustafizur Rahman
+DN,won,1,1,lost,v Zimbabwe,Tamim Iqbal,Imrul Kayes,Liton Das,Mahmudullah,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Al-Amin Hossain,Mustafizur Rahman
+DN,won,1,1,won,v Zimbabwe,Tamim Iqbal,Imrul Kayes,Mushfiqur Rahim,Liton Das,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Mustafizur Rahman,Al-Amin Hossain
+DN,won,1,1,won,v Afghanistan,Tamim Iqbal,Soumya Sarkar,Imrul Kayes,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Taijul Islam,Taskin Ahmed,Rubel Hossain
+DN,lost,1,1,lost,v Afghanistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Mosaddek Hossain,Mashrafe Mortaza,Taijul Islam,Taskin Ahmed,Rubel Hossain
+DN,won,1,1,won,v Afghanistan,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Mosaddek Hossain,Mosharraf Hossain,Mashrafe Mortaza,Shafiul Islam,Taskin Ahmed
+DN,lost,1,2,lost,v England,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Mashrafe Mortaza,Mosharraf Hossain,Shafiul Islam,Taskin Ahmed
+DN,won,1,1,lost,v England,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Nasir Hossain,Mashrafe Mortaza,Shafiul Islam,Taskin Ahmed
+DN,lost,1,1,lost,v England,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Nasir Hossain,Mosaddek Hossain,Mashrafe Mortaza,Taskin Ahmed,Shafiul Islam
+D,lost,0,2,lost,v New Zealand,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mosaddek Hossain,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+D,lost,0,2,won,v New Zealand,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Shakib Al Hasan,Mosaddek Hossain,Tanbir Hayder,Nurul Hasan,Mashrafe Mortaza,Taskin Ahmed,Subashis Roy
+D,lost,0,1,won,v New Zealand,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Shakib Al Hasan,Mosaddek Hossain,Nurul Hasan,Tanbir Hayder,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+DN,won,0,1,lost,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+D,lost,0,2,won,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+D,lost,0,1,lost,v New Zealand,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+D,won,0,2,won,v Ireland,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Sunzamul Islam,Mosaddek Hossain,Rubel Hossain,Mashrafe Mortaza,Mustafizur Rahman
+D,won,0,2,won,v New Zealand,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mosaddek Hossain,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Nasir Hossain,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain
+D,lost,0,1,lost,v England,Tamim Iqbal,Soumya Sarkar,Imrul Kayes,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Mahmudullah,Mosaddek Hossain,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain
+D,won,0,2,lost,v New Zealand,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Mosaddek Hossain,Taskin Ahmed,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+D,lost,0,1,lost,v India,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Mosaddek Hossain,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain,Mustafizur Rahman
+D,lost,0,1,won,v South Africa,Imrul Kayes,Liton Das,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mohammad Saifuddin,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain
+D,lost,0,2,won,v South Africa,Tamim Iqbal,Imrul Kayes,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain
+D,lost,0,2,lost,v South Africa,Imrul Kayes,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain
+DN,won,1,2,won,v Zimbabwe,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Nasir Hossain,Sabbir Rahman,Mashrafe Mortaza,Sunzamul Islam,Mustafizur Rahman,Rubel Hossain
+DN,won,1,1,won,v Sri Lanka,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mashrafe Mortaza,Nasir Hossain,Mohammad Saifuddin,Rubel Hossain,Mustafizur Rahman
+DN,won,1,1,won,v Zimbabwe,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Sunzamul Islam,Mustafizur Rahman,Rubel Hossain
+DN,lost,1,1,won,v Sri Lanka,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Abul Hasan,Nasir Hossain,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+DN,lost,1,2,lost,v Sri Lanka,Tamim Iqbal,Mohammad Mithun,Sabbir Rahman,Mushfiqur Rahim,Mahmudullah,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman,Shakib Al Hasan
+D,won,0,1,won,v West Indies,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Sabbir Rahman,Mushfiqur Rahim,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+DN,lost,0,2,won,v West Indies,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,Mashrafe Mortaza,Mehidy Hasan Miraz,Rubel Hossain,Mustafizur Rahman
+D,won,0,1,won,v West Indies,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Mashrafe Mortaza,Sabbir Rahman,Mosaddek Hossain,Mehidy Hasan Miraz,Rubel Hossain,Mustafizur Rahman
+DN,won,0,1,won,v Sri Lanka,Tamim Iqbal,Liton Das,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+DN,lost,0,2,lost,v Afghanistan,Liton Das,Najmul Hossain Shanto,Shakib Al Hasan,Mominul Haque,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Abu Hider,Rubel Hossain
+DN,lost,0,1,lost,v India,Liton Das,Najmul Hossain Shanto,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman,Rubel Hossain
+DN,won,0,1,won,v Afghanistan,Liton Das,Najmul Hossain Shanto,Mohammad Mithun,Mushfiqur Rahim,Shakib Al Hasan,Imrul Kayes,Mahmudullah,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman,Nazmul Islam
+D,won,0,1,won,v Pakistan,Liton Das,Soumya Sarkar,Mominul Haque,Mushfiqur Rahim,Mohammad Mithun,Imrul Kayes,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+D,lost,0,1,lost,v India,Liton Das,Mehidy Hasan Miraz,Imrul Kayes,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Soumya Sarkar,Mashrafe Mortaza,Nazmul Islam,Mustafizur Rahman,Rubel Hossain
+DN,won,1,1,won,v Zimbabwe,Liton Das,Imrul Kayes,Fazle Mahmud,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman,Nazmul Islam
+DN,won,1,2,won,v Zimbabwe,Liton Das,Imrul Kayes,Fazle Mahmud,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman,Nazmul Islam
+DN,won,1,2,won,v Zimbabwe,Liton Das,Imrul Kayes,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Ariful Haque,Nazmul Islam,Mashrafe Mortaza,Mohammad Saifuddin,Abu Hider
+DN,won,1,2,lost,v West Indies,Tamim Iqbal,Liton Das,Imrul Kayes,Mushfiqur Rahim,Shakib Al Hasan,Soumya Sarkar,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain
+DN,lost,1,1,lost,v West Indies,Tamim Iqbal,Liton Das,Imrul Kayes,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Soumya Sarkar,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman,Rubel Hossain
+DN,won,1,2,won,v West Indies,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Shakib Al Hasan,Mahmudullah,Mashrafe Mortaza,Mehidy Hasan Miraz,Mohammad Saifuddin,Mustafizur Rahman
+DN,lost,0,1,won,v New Zealand,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman
+D,lost,0,1,lost,v New Zealand,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman
+D,lost,0,2,won,v New Zealand,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mohammad Saifuddin,Mashrafe Mortaza,Mehidy Hasan Miraz,Rubel Hossain,Mustafizur Rahman
+D,won,0,2,lost,v West Indies,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mohammad Saifuddin,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman
+D,won,0,2,lost,v West Indies,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Abu Jayed,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+D,won,0,2,lost,v Ireland,Tamim Iqbal,Liton Das,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Mosaddek Hossain,Sabbir Rahman,Mashrafe Mortaza,Rubel Hossain,Abu Jayed,Mohammad Saifuddin
+D,won,0,2,won,v West Indies,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+D,won,0,1,lost,v South Africa,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman
+DN,lost,0,1,lost,v New Zealand,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+D,lost,0,2,won,v England,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+D,won,0,2,won,v West Indies,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+D,lost,0,2,lost,v Australia,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+D,won,0,1,lost,v Afghanistan,Liton Das,Tamim Iqbal,Shakib Al Hasan,Mushfiqur Rahim,Soumya Sarkar,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+D,lost,0,2,lost,v India,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mosaddek Hossain,Sabbir Rahman,Mohammad Saifuddin,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+D,lost,0,2,lost,v Pakistan,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+DN,lost,0,2,lost,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Mohammad Mithun,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,Mehidy Hasan Miraz,Shafiul Islam,Rubel Hossain,Mustafizur Rahman
+DN,lost,0,1,won,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Mohammad Mithun,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,Mehidy Hasan Miraz,Taijul Islam,Mustafizur Rahman,Shafiul Islam
+DN,lost,0,2,lost,v Sri Lanka,Anamul Haque,Tamim Iqbal,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Taijul Islam,Shafiul Islam,Rubel Hossain
+DN,won,1,1,won,v Zimbabwe,Liton Das,Tamim Iqbal,Najmul Hossain Shanto,Mushfiqur Rahim,Mahmudullah,Mohammad Mithun,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Mustafizur Rahman
+DN,won,1,1,won,v Zimbabwe,Tamim Iqbal,Liton Das,Najmul Hossain Shanto,Mushfiqur Rahim,Mahmudullah,Mohammad Mithun,Mehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Shafiul Islam,Al-Amin Hossain
+DN,won,1,1,lost,v Zimbabwe,Tamim Iqbal,Liton Das,Mahmudullah,Afif Hossain,Mohammad Naim,Mohammad Mithun,Mehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Mohammad Saifuddin,Mustafizur Rahman
