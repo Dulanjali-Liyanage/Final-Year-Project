@@ -1,0 +1,113 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,lost,0,1,won,v Australia,RG Sharma,S Dhawan,AM Rahane,V Kohli,SK Raina,MS Dhoni,AR Patel,R Ashwin,B Kumar,Mohammed Shami,UT Yadav
+DN,lost,0,1,won,v England,AM Rahane,S Dhawan,AT Rayudu,V Kohli,SK Raina,MS Dhoni,STR Binny,AR Patel,B Kumar,Mohammed Shami,UT Yadav
+D,lost,0,1,lost,v England,AM Rahane,S Dhawan,V Kohli,SK Raina,AT Rayudu,MS Dhoni,STR Binny,RA Jadeja,AR Patel,MM Sharma,Mohammed Shami
+DN,won,0,1,won,v Pakistan,RG Sharma,S Dhawan,V Kohli,SK Raina,MS Dhoni,RA Jadeja,AM Rahane,R Ashwin,Mohammed Shami,UT Yadav,MM Sharma
+DN,won,0,1,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,UT Yadav,MM Sharma
+DN,won,0,2,lost,v West Indies,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,MM Sharma,Mohammed Shami,UT Yadav
+DN,won,0,2,lost,v Ireland,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+DN,won,0,2,won,v Zimbabwe,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,MM Sharma,Mohammed Shami,UT Yadav
+DN,won,0,1,won,v Bangladesh,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+DN,lost,0,2,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+DN,lost,0,2,lost,v Bangladesh,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,B Kumar,MM Sharma,UT Yadav
+DN,lost,0,1,won,v Bangladesh,RG Sharma,S Dhawan,V Kohli,MS Dhoni,AT Rayudu,SK Raina,RA Jadeja,AR Patel,R Ashwin,B Kumar,DS Kulkarni
+DN,won,0,1,lost,v Bangladesh,RG Sharma,S Dhawan,V Kohli,MS Dhoni,AT Rayudu,SK Raina,STR Binny,AR Patel,R Ashwin,DS Kulkarni,UT Yadav
+D,won,0,1,lost,v Zimbabwe,AM Rahane,M Vijay,AT Rayudu,MK Tiwary,RV Uthappa,KM Jadhav,STR Binny,AR Patel,Harbhajan Singh,B Kumar,DS Kulkarni
+D,won,0,1,lost,v Zimbabwe,AM Rahane,M Vijay,AT Rayudu,MK Tiwary,RV Uthappa,STR Binny,KM Jadhav,Harbhajan Singh,AR Patel,B Kumar,DS Kulkarni
+D,won,0,1,lost,v Zimbabwe,AM Rahane,M Vijay,RV Uthappa,MK Tiwary,MK Pandey,KM Jadhav,STR Binny,Harbhajan Singh,AR Patel,B Kumar,MM Sharma
+D,lost,1,2,lost,v South Africa,RG Sharma,S Dhawan,AM Rahane,V Kohli,MS Dhoni,SK Raina,STR Binny,B Kumar,A Mishra,R Ashwin,UT Yadav
+DN,won,1,1,won,v South Africa,RG Sharma,S Dhawan,AM Rahane,V Kohli,MS Dhoni,SK Raina,AR Patel,B Kumar,Harbhajan Singh,UT Yadav,MM Sharma
+DN,lost,1,2,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,MS Dhoni,SK Raina,AM Rahane,AR Patel,Harbhajan Singh,B Kumar,MM Sharma,A Mishra
+DN,won,1,1,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,Harbhajan Singh,AR Patel,B Kumar,MM Sharma,A Mishra
+DN,lost,1,2,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,AR Patel,Harbhajan Singh,B Kumar,A Mishra,MM Sharma
+D,lost,0,1,won,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,RA Jadeja,AM Rahane,MK Pandey,R Ashwin,UT Yadav,B Kumar,BB Sran
+DN,lost,0,1,won,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,MK Pandey,RA Jadeja,R Ashwin,UT Yadav,I Sharma,BB Sran
+DN,lost,0,1,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,Gurkeerat Singh,RA Jadeja,R Dhawan,I Sharma,UT Yadav,BB Sran
+DN,lost,0,2,lost,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,Gurkeerat Singh,RA Jadeja,AM Rahane,R Dhawan,B Kumar,UT Yadav,I Sharma
+DN,won,0,2,won,v Australia,RG Sharma,S Dhawan,V Kohli,MK Pandey,MS Dhoni,Gurkeerat Singh,RA Jadeja,R Dhawan,JJ Bumrah,UT Yadav,I Sharma
+D,won,0,2,won,v Zimbabwe,KL Rahul,KK Nair,AT Rayudu,MK Pandey,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+D,won,0,2,won,v Zimbabwe,KL Rahul,KK Nair,AT Rayudu,MK Pandey,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+D,won,0,2,lost,v Zimbabwe,KL Rahul,FY Fazal,MK Pandey,AT Rayudu,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+DN,won,1,2,won,v New Zealand,RG Sharma,AM Rahane,V Kohli,MK Pandey,MS Dhoni,KM Jadhav,HH Pandya,AR Patel,A Mishra,JJ Bumrah,UT Yadav
+DN,lost,1,2,won,v New Zealand,RG Sharma,AM Rahane,V Kohli,MK Pandey,MS Dhoni,KM Jadhav,AR Patel,HH Pandya,A Mishra,UT Yadav,JJ Bumrah
+DN,won,1,2,won,v New Zealand,RG Sharma,AM Rahane,V Kohli,MS Dhoni,MK Pandey,KM Jadhav,AR Patel,HH Pandya,A Mishra,UT Yadav,JJ Bumrah
+DN,lost,1,2,lost,v New Zealand,AM Rahane,RG Sharma,V Kohli,MS Dhoni,AR Patel,MK Pandey,KM Jadhav,HH Pandya,A Mishra,DS Kulkarni,UT Yadav
+DN,won,1,1,won,v New Zealand,AM Rahane,RG Sharma,V Kohli,MS Dhoni,MK Pandey,KM Jadhav,AR Patel,J Yadav,A Mishra,UT Yadav,JJ Bumrah
+DN,won,1,2,won,v England,KL Rahul,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,JJ Bumrah,UT Yadav
+DN,won,1,1,lost,v England,KL Rahul,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,JJ Bumrah,B Kumar
+DN,lost,1,2,won,v England,AM Rahane,KL Rahul,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+D,won,0,1,lost,v Pakistan,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,HH Pandya,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,UT Yadav,JJ Bumrah
+D,lost,0,1,lost,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,HH Pandya,KM Jadhav,RA Jadeja,B Kumar,UT Yadav,JJ Bumrah
+D,won,0,2,won,v South Africa,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,HH Pandya,KM Jadhav,RA Jadeja,B Kumar,R Ashwin,JJ Bumrah
+D,won,0,2,won,v Bangladesh,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+D,lost,0,2,won,v Pakistan,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+D,won,0,1,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,HH Pandya,Yuvraj Singh,MS Dhoni,KM Jadhav,R Ashwin,Kuldeep Yadav,B Kumar,UT Yadav
+D,won,0,1,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,R Ashwin,Kuldeep Yadav,B Kumar,UT Yadav
+D,lost,0,2,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,Kuldeep Yadav,UT Yadav,Mohammed Shami
+D,won,0,2,lost,v West Indies,AM Rahane,S Dhawan,V Kohli,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,Kuldeep Yadav,UT Yadav,Mohammed Shami
+DN,won,0,2,won,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,KL Rahul,MS Dhoni,KM Jadhav,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+DN,won,0,2,won,v Sri Lanka,RG Sharma,S Dhawan,KL Rahul,KM Jadhav,V Kohli,MS Dhoni,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+DN,won,0,2,lost,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,KL Rahul,KM Jadhav,MS Dhoni,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+DN,won,0,1,won,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,HH Pandya,KL Rahul,MK Pandey,MS Dhoni,AR Patel,Kuldeep Yadav,JJ Bumrah,SN Thakur
+DN,won,0,2,lost,v Sri Lanka,RG Sharma,AM Rahane,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,JJ Bumrah,YS Chahal,Kuldeep Yadav,B Kumar,SN Thakur
+DN,won,1,1,won,v Australia,AM Rahane,RG Sharma,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+DN,won,1,1,won,v Australia,AM Rahane,RG Sharma,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,1,2,lost,v Australia,AM Rahane,RG Sharma,V Kohli,HH Pandya,KM Jadhav,MK Pandey,MS Dhoni,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,lost,1,2,lost,v Australia,AM Rahane,RG Sharma,V Kohli,HH Pandya,KM Jadhav,MK Pandey,MS Dhoni,AR Patel,Mohammed Shami,UT Yadav,YS Chahal
+DN,won,1,2,lost,v Australia,AM Rahane,RG Sharma,V Kohli,KM Jadhav,MK Pandey,HH Pandya,MS Dhoni,B Kumar,AR Patel,JJ Bumrah,Kuldeep Yadav
+DN,lost,1,1,won,v New Zealand,RG Sharma,S Dhawan,V Kohli,KM Jadhav,KD Karthik,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,1,2,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,KD Karthik,HH Pandya,MS Dhoni,KM Jadhav,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+DN,won,1,1,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,HH Pandya,MS Dhoni,KM Jadhav,KD Karthik,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+DN,lost,1,1,lost,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,KD Karthik,MK Pandey,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,1,1,lost,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,MS Dhoni,HH Pandya,KD Karthik,MK Pandey,B Kumar,Washington Sundar,JJ Bumrah,YS Chahal
+DN,won,1,2,won,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,KD Karthik,MS Dhoni,HH Pandya,MK Pandey,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,0,2,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,HH Pandya,MS Dhoni,KM Jadhav,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+D,won,0,2,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,0,1,lost,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,HH Pandya,MS Dhoni,KM Jadhav,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,lost,0,1,won,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SS Iyer,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,0,1,lost,v South Africa,S Dhawan,RG Sharma,V Kohli,AM Rahane,SS Iyer,HH Pandya,MS Dhoni,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,0,2,won,v South Africa,S Dhawan,RG Sharma,V Kohli,AM Rahane,SS Iyer,MS Dhoni,HH Pandya,Kuldeep Yadav,SN Thakur,JJ Bumrah,YS Chahal
+D,won,0,2,won,v England,RG Sharma,S Dhawan,V Kohli,KL Rahul,SK Raina,MS Dhoni,HH Pandya,S Kaul,Kuldeep Yadav,UT Yadav,YS Chahal
+D,lost,0,2,lost,v England,RG Sharma,S Dhawan,V Kohli,KL Rahul,SK Raina,MS Dhoni,HH Pandya,UT Yadav,Kuldeep Yadav,S Kaul,YS Chahal
+D,lost,0,1,lost,v England,RG Sharma,S Dhawan,V Kohli,KD Karthik,MS Dhoni,SK Raina,HH Pandya,B Kumar,SN Thakur,Kuldeep Yadav,YS Chahal
+DN,won,0,2,lost,v Pakistan,RG Sharma,S Dhawan,AT Rayudu,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+DN,won,0,2,won,v Bangladesh,RG Sharma,S Dhawan,AT Rayudu,MS Dhoni,KD Karthik,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+DN,won,0,2,lost,v Pakistan,RG Sharma,S Dhawan,AT Rayudu,KM Jadhav,MS Dhoni,KD Karthik,Kuldeep Yadav,RA Jadeja,YS Chahal,B Kumar,JJ Bumrah
+D,won,0,2,won,v Bangladesh,RG Sharma,S Dhawan,AT Rayudu,KD Karthik,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+DN,won,1,2,won,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,RR Pant,MS Dhoni,RA Jadeja,YS Chahal,UT Yadav,Mohammed Shami,KK Ahmed
+DN,lost,1,2,won,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,RR Pant,MS Dhoni,B Kumar,Kuldeep Yadav,YS Chahal,KK Ahmed,JJ Bumrah
+DN,won,1,1,won,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,KK Ahmed,JJ Bumrah
+DN,won,1,2,lost,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KM Jadhav,MS Dhoni,RA Jadeja,B Kumar,Kuldeep Yadav,KK Ahmed,JJ Bumrah
+DN,lost,0,2,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KD Karthik,RA Jadeja,B Kumar,Kuldeep Yadav,Mohammed Shami,KK Ahmed
+DN,won,0,2,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KD Karthik,RA Jadeja,Kuldeep Yadav,B Kumar,Mohammed Shami,Mohammed Siraj
+DN,won,0,2,won,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,KM Jadhav,KD Karthik,V Shankar,RA Jadeja,B Kumar,Mohammed Shami,YS Chahal
+DN,won,0,2,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KM Jadhav,MS Dhoni,V Shankar,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+DN,won,0,1,won,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+DN,won,0,2,lost,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KD Karthik,KM Jadhav,HH Pandya,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+DN,lost,0,1,lost,v New Zealand,RG Sharma,S Dhawan,Shubman Gill,AT Rayudu,KD Karthik,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,KK Ahmed
+DN,won,0,1,won,v New Zealand,RG Sharma,S Dhawan,Shubman Gill,AT Rayudu,MS Dhoni,V Shankar,KM Jadhav,HH Pandya,B Kumar,Mohammed Shami,YS Chahal
+DN,won,1,2,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+DN,won,1,1,lost,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,V Shankar,KM Jadhav,MS Dhoni,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+DN,lost,1,2,won,v Australia,S Dhawan,RG Sharma,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+DN,lost,1,1,won,v Australia,RG Sharma,S Dhawan,KL Rahul,V Kohli,RR Pant,KM Jadhav,V Shankar,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+DN,lost,1,2,lost,v Australia,RG Sharma,S Dhawan,V Kohli,RR Pant,V Shankar,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,Kuldeep Yadav,JJ Bumrah
+D,won,0,2,lost,v South Africa,S Dhawan,RG Sharma,V Kohli,KL Rahul,MS Dhoni,HH Pandya,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+D,won,0,1,won,v Australia,RG Sharma,S Dhawan,V Kohli,HH Pandya,MS Dhoni,KL Rahul,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+D,won,0,1,lost,v Pakistan,KL Rahul,RG Sharma,V Kohli,HH Pandya,MS Dhoni,V Shankar,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+D,won,0,1,won,v Afghanistan,KL Rahul,RG Sharma,V Kohli,V Shankar,MS Dhoni,KM Jadhav,HH Pandya,Mohammed Shami,Kuldeep Yadav,JJ Bumrah,YS Chahal
+D,won,0,1,won,v West Indies,KL Rahul,RG Sharma,V Kohli,V Shankar,KM Jadhav,MS Dhoni,HH Pandya,Mohammed Shami,Kuldeep Yadav,YS Chahal,JJ Bumrah
+D,lost,0,2,lost,v England,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KM Jadhav,Kuldeep Yadav,Mohammed Shami,YS Chahal,JJ Bumrah
+D,won,0,1,won,v Bangladesh,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KD Karthik,B Kumar,Mohammed Shami,JJ Bumrah,YS Chahal
+D,won,0,2,lost,v Sri Lanka,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KD Karthik,RA Jadeja,B Kumar,JJ Bumrah,Kuldeep Yadav
+D,lost,0,2,lost,v New Zealand,KL Rahul,RG Sharma,V Kohli,RR Pant,KD Karthik,HH Pandya,MS Dhoni,RA Jadeja,B Kumar,YS Chahal,JJ Bumrah
+D,won,0,1,won,v West Indies,S Dhawan,RG Sharma,V Kohli,RR Pant,SS Iyer,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,Kuldeep Yadav,KK Ahmed
+D,won,0,2,lost,v West Indies,RG Sharma,S Dhawan,V Kohli,RR Pant,SS Iyer,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,KK Ahmed,YS Chahal
+D,lost,1,1,lost,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,S Dube,DL Chahar,Mohammed Shami,Kuldeep Yadav
+D,won,1,1,lost,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,DL Chahar,Mohammed Shami,SN Thakur,Kuldeep Yadav
+D,won,1,2,won,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,SN Thakur,Mohammed Shami,Kuldeep Yadav,NA Saini
+D,lost,1,1,lost,v Australia,RG Sharma,S Dhawan,KL Rahul,V Kohli,SS Iyer,RR Pant,RA Jadeja,SN Thakur,Mohammed Shami,Kuldeep Yadav,JJ Bumrah
+D,won,1,1,lost,v Australia,RG Sharma,S Dhawan,V Kohli,SS Iyer,KL Rahul,MK Pandey,RA Jadeja,Mohammed Shami,Kuldeep Yadav,NA Saini,JJ Bumrah
+D,won,1,2,lost,v Australia,RG Sharma,KL Rahul,V Kohli,SS Iyer,MK Pandey,S Dhawan,RA Jadeja,Mohammed Shami,Kuldeep Yadav,NA Saini,JJ Bumrah
+DN,lost,0,1,lost,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,KM Jadhav,RA Jadeja,SN Thakur,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+DN,lost,0,2,won,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,KM Jadhav,RA Jadeja,SN Thakur,NA Saini,YS Chahal,JJ Bumrah
+DN,lost,0,1,lost,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,MK Pandey,RA Jadeja,SN Thakur,NA Saini,YS Chahal,JJ Bumrah

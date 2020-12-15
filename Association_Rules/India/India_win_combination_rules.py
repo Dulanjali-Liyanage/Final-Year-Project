@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[122]:
+# In[1]:
 
 
 from mlxtend.frequent_patterns import apriori
@@ -12,45 +12,55 @@ import numpy as np
 import math
 
 
-# In[123]:
+# In[2]:
 
 
-match_data = pd.read_csv('E:University Works/4th Year/Semester 8/CO425 - Final Year Project 2/india_rules_02.csv',header=None)
+match_data = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/India_data.csv')
 
 
-# In[124]:
+# In[3]:
 
 
-#remove the first row of the dataset
-match_data = match_data.iloc[1:]
+#print the dataset
+match_data.head()
 
 
-# In[125]:
+# In[4]:
+
+
+del match_data["Day_Night"]
+del match_data["Home"]
+del match_data["Bat"]
+del match_data["Toss"]
+del match_data["Opposition"]
+
+
+# In[6]:
 
 
 #print the dataset
 match_data
 
 
-# In[126]:
+# In[7]:
 
 
 # convert our pandas dataframe into a list of lists,
 player_combo = [] #list of lists match players and result
-for i in range(1, 112):
+for i in range(0, 112):
     rowItem = []
-    for j in range(0, 11):
+    for j in range(0, 12):
         rowItem.append(str(match_data.values[i,j]))
     player_combo.append(rowItem)
 
 
-# In[127]:
+# In[8]:
 
 
-#print(player_combo)
+print(player_combo)
 
 
-# In[128]:
+# In[9]:
 
 
 #Creating the dataframe of frequent itemsets
@@ -59,43 +69,43 @@ te_ary = te.fit(player_combo).transform(player_combo)
 match_df_freq = pd.DataFrame(te_ary, columns=te.columns_)
 
 
-# In[129]:
+# In[10]:
 
 
 #Define the minimum support and obtain the itemsets greater than the min support
 #support = No. of times the required itemset occured / total no. of matches
-match_sup = apriori(match_df_freq, min_support=0.4,use_colnames=True)
+match_sup = apriori(match_df_freq, min_support=0.1,use_colnames=True)
 print(match_sup)
 
 
-# In[130]:
+# In[11]:
 
 
 #generate association rules
 rules= association_rules(match_sup, metric="lift", min_threshold=1)
 
 
-# In[131]:
+# In[12]:
 
 
 #print the association rules
 rules
 
 
-# In[132]:
+# In[13]:
 
 
 #extract only the combinations occured at a winning match
 won_rules = rules[(rules['consequents'] == {"won"})]
 
 
-# In[133]:
+# In[14]:
 
 
 won_rules
 
 
-# In[134]:
+# In[15]:
 
 
 #remove the one itemsets
@@ -103,11 +113,24 @@ won_rules
 won_rules = won_rules[(won_rules['antecedents'].str.len() > 1)] #Here won_rules['antecedents'] is a frozenset
 
 
-# In[135]:
+# In[16]:
 
 
 #print the winning combinations
 won_rules
+
+
+# In[17]:
+
+
+#select all the rules where antecedent contains 'RG Sharma'
+#won_rules[(won_rules['antecedents'].apply(lambda x: 'RG Sharma' in str(x)))]
+
+
+# In[18]:
+
+
+won_rules.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/won_rules.csv')
 
 
 # In[ ]:
