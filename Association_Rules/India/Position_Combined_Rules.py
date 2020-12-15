@@ -140,7 +140,7 @@ for x in won_rules['antecedents']:
     itemDup = [] # can have duplicates
     itemSet = set() #without duplicates
     for y in x:
-        y[:-1]
+        y[:-1]#remove the last letter from the string
         itemDup.append(y)
         itemSet.add(y)
         
