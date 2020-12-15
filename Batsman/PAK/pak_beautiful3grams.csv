@@ -1,0 +1,1771 @@
+,player-1,player-2,player-3,combined_avg,sum_of_individual
+0,Iftikhar Ahmed,Yasir Shah,Sarfaraz Ahmed,85.0,45.870000000000005
+1,Iftikhar Ahmed,Anwar Ali,Yasir Shah,44.0,31.69
+2,Iftikhar Ahmed,Wahab Riaz,Sarfaraz Ahmed,58.0,48.78
+3,Iftikhar Ahmed,Haris Sohail,Sarfaraz Ahmed,93.5,80.35
+4,Iftikhar Ahmed,Abid Ali,Sarfaraz Ahmed,125.0,88.1
+5,Iftikhar Ahmed,Mohammad Amir,Sarfaraz Ahmed,45.5,44.8
+6,Iftikhar Ahmed,Fakhar Zaman,Sarfaraz Ahmed,110.5,83.75
+7,Iftikhar Ahmed,Usman Shinwari,Sarfaraz Ahmed,45.5,40.730000000000004
+8,Iftikhar Ahmed,Babar Azam,Sarfaraz Ahmed,90.25,85.69
+9,Iftikhar Ahmed,Mohammad Irfan,Sarfaraz Ahmed,49.0,40.78
+10,Iftikhar Ahmed,Anwar Ali,Sarfaraz Ahmed,64.0,49.52
+11,Iftikhar Ahmed,Azhar Ali,Sarfaraz Ahmed,78.0,75.80000000000001
+12,Iftikhar Ahmed,Shadab Khan,Haris Sohail,78.0,65.22
+13,Iftikhar Ahmed,Imad Wasim,Shadab Khan,44.0,43.53
+14,Iftikhar Ahmed,Shadab Khan,Abid Ali,102.0,72.97
+15,Iftikhar Ahmed,Shadab Khan,Mohammad Amir,30.0,29.669999999999998
+16,Iftikhar Ahmed,Fakhar Zaman,Shadab Khan,95.0,68.62
+17,Iftikhar Ahmed,Shadab Khan,Usman Shinwari,30.0,25.599999999999998
+18,Iftikhar Ahmed,Shadab Khan,Babar Azam,103.0,70.56
+19,Iftikhar Ahmed,Wahab Riaz,Zafar Gohar,53.0,40.43
+20,Iftikhar Ahmed,Haris Sohail,Wahab Riaz,79.5,65.43
+21,Iftikhar Ahmed,Imad Wasim,Wahab Riaz,46.0,43.74
+22,Iftikhar Ahmed,Abid Ali,Wahab Riaz,103.0,73.18
+23,Iftikhar Ahmed,Mohammad Amir,Wahab Riaz,31.5,29.88
+24,Iftikhar Ahmed,Fakhar Zaman,Wahab Riaz,96.5,68.83
+25,Iftikhar Ahmed,Usman Shinwari,Wahab Riaz,31.5,25.81
+26,Iftikhar Ahmed,Anwar Ali,Wahab Riaz,39.0,34.6
+27,Iftikhar Ahmed,Fakhar Zaman,Imam-ul-Haq,117.0,107.0
+28,Iftikhar Ahmed,Babar Azam,Imam-ul-Haq,178.0,108.94
+29,Iftikhar Ahmed,Imad Wasim,Haris Sohail,84.0,75.31
+30,Iftikhar Ahmed,Abid Ali,Haris Sohail,158.0,104.75
+31,Iftikhar Ahmed,Mohammad Amir,Haris Sohail,78.0,61.45
+32,Iftikhar Ahmed,Fakhar Zaman,Haris Sohail,143.0,100.4
+33,Iftikhar Ahmed,Usman Shinwari,Haris Sohail,78.0,57.379999999999995
+34,Iftikhar Ahmed,Babar Azam,Haris Sohail,151.0,102.34
+35,Iftikhar Ahmed,Mohammad Nawaz,Haris Sohail,84.0,70.27
+36,Iftikhar Ahmed,Imad Wasim,Mohammad Amir,44.0,39.760000000000005
+37,Iftikhar Ahmed,Imad Wasim,Fakhar Zaman,98.0,78.71000000000001
+38,Iftikhar Ahmed,Imad Wasim,Usman Shinwari,44.0,35.690000000000005
+39,Iftikhar Ahmed,Imad Wasim,Babar Azam,159.0,80.65
+40,Iftikhar Ahmed,Mohammad Amir,Abid Ali,102.0,69.2
+41,Iftikhar Ahmed,Fakhar Zaman,Abid Ali,178.0,108.15
+42,Iftikhar Ahmed,Usman Shinwari,Abid Ali,102.0,65.13
+43,Iftikhar Ahmed,Babar Azam,Abid Ali,133.0,110.09
+44,Iftikhar Ahmed,Mohammad Nawaz,Abid Ali,102.0,78.02
+45,Iftikhar Ahmed,Fakhar Zaman,Mohammad Amir,95.0,64.85
+46,Iftikhar Ahmed,Usman Shinwari,Mohammad Amir,30.0,21.83
+47,Iftikhar Ahmed,Babar Azam,Mohammad Amir,103.0,66.79
+48,Iftikhar Ahmed,Fakhar Zaman,Usman Shinwari,95.0,60.78
+49,Iftikhar Ahmed,Fakhar Zaman,Babar Azam,168.0,105.74000000000001
+50,Iftikhar Ahmed,Fakhar Zaman,Mohammad Nawaz,104.0,73.67
+51,Iftikhar Ahmed,Usman Shinwari,Babar Azam,103.0,62.72
+52,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,69.125,58.49
+53,Shoaib Malik,Yasir Shah,Bilal Asif,78.0,48.47
+54,Shoaib Malik,Yasir Shah,Aamer Yamin,111.0,58.89
+55,Shoaib Malik,Umar Akmal,Yasir Shah,71.0,59.75
+56,Shoaib Malik,Yasir Shah,Mohammad Sami,74.0,35.14
+57,Shoaib Malik,Yasir Shah,Wahab Riaz,55.88888889,43.57
+58,Rahat Ali,Shoaib Malik,Yasir Shah,39.6,35.81
+59,Shoaib Malik,Yasir Shah,Haris Sohail,107.6,75.14
+60,Imad Wasim,Shoaib Malik,Yasir Shah,61.5,53.45
+61,Shoaib Malik,Yasir Shah,Mohammad Abbas,36.0,35.14
+62,Shoaib Malik,Yasir Shah,Mohammad Amir,43.33333333,39.59
+63,Shoaib Malik,Yasir Shah,Mohammad Hasnain,51.0,40.74
+64,Fakhar Zaman,Shoaib Malik,Yasir Shah,126.5,78.53999999999999
+65,Shan Masood,Shoaib Malik,Yasir Shah,58.0,57.34
+66,Shoaib Malik,Asad Shafiq,Yasir Shah,105.33333329999999,51.14
+67,Mohammad Hafeez,Shoaib Malik,Yasir Shah,97.25,67.82
+68,Shoaib Malik,Yasir Shah,Mohammad Nawaz,61.0,48.41
+69,Shoaib Malik,Yasir Shah,Mohammad Irfan,47.3,35.57
+70,Anwar Ali,Shoaib Malik,Yasir Shah,54.5,44.31
+71,Shoaib Malik,Yasir Shah,Azhar Ali,83.5,70.59
+72,Shoaib Malik,Yasir Shah,Ahmed Shehzad,75.28571429,60.019999999999996
+73,Shoaib Malik,Yasir Shah,Hammad Azam,74.0,35.14
+74,Shoaib Malik,Yasir Shah,Mohammad Rizwan,76.5,57.17
+75,Bilal Asif,Shoaib Malik,Sarfaraz Ahmed,68.33333333,66.30000000000001
+76,Shoaib Malik,Aamer Yamin,Sarfaraz Ahmed,92.33333333,76.72
+77,Umar Gul,Shoaib Malik,Sarfaraz Ahmed,99.33333333,54.17
+78,Shoaib Malik,Mohammad Sami,Sarfaraz Ahmed,85.0,52.97
+79,Wahab Riaz,Shoaib Malik,Sarfaraz Ahmed,70.66666667,61.4
+80,Rahat Ali,Shoaib Malik,Sarfaraz Ahmed,64.83333333,53.64
+81,Shoaib Malik,Haris Sohail,Sarfaraz Ahmed,122.5,92.97
+82,Kamran Akmal,Shoaib Malik,Sarfaraz Ahmed,100.33333329999999,75.64000000000001
+83,Imad Wasim,Shoaib Malik,Sarfaraz Ahmed,74.83870968,71.28
+84,Shoaib Malik,Hussain Talat,Sarfaraz Ahmed,64.0,54.97
+85,Shoaib Malik,Abid Ali,Sarfaraz Ahmed,106.0,100.72
+86,Shoaib Malik,Mohammad Amir,Sarfaraz Ahmed,62.46428571,57.42
+87,Shoaib Malik,Mohammad Hasnain,Sarfaraz Ahmed,95.5,58.57
+88,Shoaib Malik,Asad Shafiq,Sarfaraz Ahmed,96.75,68.97
+89,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,89.77272727,85.65
+90,Shoaib Malik,Mohammad Nawaz,Sarfaraz Ahmed,87.63636364,66.24000000000001
+91,Shoaib Malik,Mohammad Irfan,Sarfaraz Ahmed,63.69230769,53.400000000000006
+92,Sami Aslam,Shoaib Malik,Sarfaraz Ahmed,90.5,72.47
+93,Shoaib Malik,Sharjeel Khan,Sarfaraz Ahmed,130.25,97.11000000000001
+94,Anwar Ali,Shoaib Malik,Sarfaraz Ahmed,72.81818182,62.14
+95,Shoaib Malik,Azhar Ali,Sarfaraz Ahmed,95.0,88.42000000000002
+96,Ahmed Shehzad,Shoaib Malik,Sarfaraz Ahmed,87.66666667,77.85
+97,Shaheen Shah Afridi,Shoaib Malik,Sarfaraz Ahmed,73.75,55.59
+98,Shoaib Malik,Hammad Azam,Sarfaraz Ahmed,85.0,52.97
+99,Shoaib Malik,Mohammad Rizwan,Sarfaraz Ahmed,94.0,75.0
+100,Kamran Akmal,Shoaib Malik,Shadab Khan,77.0,60.510000000000005
+101,Shoaib Malik,Shadab Khan,Hussain Talat,41.0,39.84
+102,Shoaib Malik,Shadab Khan,Mohammad Nawaz,54.33333333,51.11
+103,Shoaib Malik,Shadab Khan,Ahmed Shehzad,71.83333333,62.72
+104,Shaheen Shah Afridi,Shoaib Malik,Shadab Khan,42.0,40.46
+105,Shoaib Malik,Aamer Yamin,Bilal Asif,115.0,66.7
+106,Wahab Riaz,Shoaib Malik,Bilal Asif,66.33333333,51.379999999999995
+107,Imad Wasim,Shoaib Malik,Bilal Asif,72.0,61.26
+108,Shoaib Malik,Asad Shafiq,Bilal Asif,103.5,58.95
+109,Shoaib Malik,Babar Azam,Bilal Asif,90.0,88.29
+110,Mohammad Hafeez,Shoaib Malik,Bilal Asif,112.66666670000001,75.63
+111,Shoaib Malik,Mohammad Irfan,Bilal Asif,65.33333333,43.38
+112,Ahmed Shehzad,Shoaib Malik,Bilal Asif,104.0,67.83
+113,Shoaib Malik,Mohammad Rizwan,Bilal Asif,88.0,64.98
+114,Wahab Riaz,Shoaib Malik,Aamer Yamin,75.66666667,61.8
+115,Shoaib Malik,Asad Shafiq,Aamer Yamin,115.5,69.37
+116,Mohammad Hafeez,Shoaib Malik,Aamer Yamin,91.33333333,86.05
+117,Shoaib Malik,Mohammad Irfan,Aamer Yamin,74.66666667,53.8
+118,Shoaib Malik,Azhar Ali,Aamer Yamin,101.0,88.82000000000001
+119,Shoaib Malik,Mohammad Rizwan,Aamer Yamin,102.33333329999999,75.4
+120,Umar Gul,Imad Wasim,Shoaib Malik,61.33333333,49.129999999999995
+121,Umar Gul,Hasan Ali,Shoaib Malik,67.0,36.38
+122,Umar Gul,Shoaib Malik,Mohammad Amir,50.33333333,35.27
+123,Umar Gul,Shoaib Malik,Babar Azam,83.66666667,76.16
+124,Umar Gul,Shoaib Malik,Mohammad Nawaz,74.33333333,44.09
+125,Umar Gul,Shoaib Malik,Sharjeel Khan,109.66666670000001,74.96000000000001
+126,Umar Gul,Shoaib Malik,Azhar Ali,89.0,66.27000000000001
+127,Umar Gul,Shoaib Malik,Mohammad Rizwan,111.0,52.85
+128,Shoaib Malik,Umar Akmal,Wahab Riaz,73.0,62.660000000000004
+129,Shoaib Malik,Umar Akmal,Haris Sohail,112.66666670000001,94.23
+130,Imad Wasim,Shoaib Malik,Umar Akmal,87.0,72.53999999999999
+131,Shoaib Malik,Umar Akmal,Junaid Khan,64.8,54.67
+132,Hasan Ali,Shoaib Malik,Umar Akmal,68.25,59.79
+133,Shoaib Malik,Umar Akmal,Mohammad Abbas,67.5,54.230000000000004
+134,Shoaib Malik,Umar Akmal,Mohammad Amir,67.4,58.68000000000001
+135,Shoaib Malik,Umar Akmal,Mohammad Hasnain,71.5,59.830000000000005
+136,Shoaib Malik,Umar Akmal,Shan Masood,87.66666667,76.43
+137,Shoaib Malik,Umar Akmal,Faheem Ashraf,88.5,62.080000000000005
+138,Shoaib Malik,Umar Akmal,Asad Shafiq,78.0,70.23
+139,Shoaib Malik,Umar Akmal,Usman Shinwari,67.0,54.61000000000001
+140,Shoaib Malik,Umar Akmal,Babar Azam,125.25,99.57000000000001
+141,Mohammad Hafeez,Shoaib Malik,Umar Akmal,92.75,86.91
+142,Shoaib Malik,Umar Akmal,Sharjeel Khan,121.0,98.37
+143,Shoaib Malik,Umar Akmal,Mohammad Rizwan,85.57142857,76.26
+144,Wahab Riaz,Shoaib Malik,Zafar Gohar,66.0,53.05
+145,Shoaib Malik,Mohammad Sami,Wahab Riaz,74.0,38.05
+146,Shoaib Malik,Mohammad Sami,Haris Sohail,144.5,69.62
+147,Shoaib Malik,Asad Shafiq,Mohammad Sami,93.5,45.620000000000005
+148,Mohammad Hafeez,Shoaib Malik,Mohammad Sami,124.5,62.3
+149,Anwar Ali,Shoaib Malik,Mohammad Sami,74.0,38.79
+150,Shoaib Malik,Azhar Ali,Mohammad Sami,164.5,65.07000000000001
+151,Shoaib Malik,Hammad Azam,Mohammad Sami,74.0,29.62
+152,Rahat Ali,Shoaib Malik,Wahab Riaz,43.0,38.72
+153,Shoaib Malik,Haris Sohail,Wahab Riaz,144.5,78.05000000000001
+154,Kamran Akmal,Shoaib Malik,Wahab Riaz,100.0,60.720000000000006
+155,Shoaib Malik,Asad Shafiq,Wahab Riaz,89.75,54.050000000000004
+156,Shoaib Malik,Babar Azam,Wahab Riaz,84.29411765,83.39000000000001
+157,Mohammad Hafeez,Shoaib Malik,Wahab Riaz,79.82352941,70.72999999999999
+158,Shoaib Malik,Mohammad Irfan,Wahab Riaz,44.375,38.480000000000004
+159,Anwar Ali,Shoaib Malik,Wahab Riaz,58.33333333,47.22
+160,Shaheen Shah Afridi,Shoaib Malik,Wahab Riaz,46.0,40.67
+161,Shoaib Malik,Hammad Azam,Wahab Riaz,74.0,38.05
+162,Rahat Ali,Shoaib Malik,Babar Azam,86.0,75.63000000000001
+163,Mohammad Hafeez,Rahat Ali,Shoaib Malik,94.83333333,62.97
+164,Rahat Ali,Shoaib Malik,Mohammad Irfan,37.33333333,30.720000000000002
+165,Rahat Ali,Shoaib Malik,Anwar Ali,45.6,39.46
+166,Rahat Ali,Shoaib Malik,Azhar Ali,73.33333333,65.74000000000001
+167,Rahat Ali,Shoaib Malik,Ahmed Shehzad,74.66666667,55.17
+168,Rahat Ali,Shoaib Malik,Mohammad Rizwan,62.0,52.32000000000001
+169,Junaid Khan,Shoaib Malik,Imam-ul-Haq,80.11111111,76.66
+170,Hasan Ali,Shoaib Malik,Imam-ul-Haq,81.8,81.78
+171,Shoaib Malik,Mohammad Nawaz,Imam-ul-Haq,123.25,89.49000000000001
+172,Shaheen Shah Afridi,Shoaib Malik,Imam-ul-Haq,81.44444444,78.84
+173,Imad Wasim,Shoaib Malik,Haris Sohail,109.33333329999999,87.93
+174,Shoaib Malik,Mohammad Abbas,Haris Sohail,103.0,69.62
+175,Shoaib Malik,Mohammad Amir,Haris Sohail,84.0,74.07
+176,Shoaib Malik,Shan Masood,Haris Sohail,99.66666667,91.82
+177,Shoaib Malik,Faheem Ashraf,Haris Sohail,101.66666670000001,77.47
+178,Shoaib Malik,Asad Shafiq,Haris Sohail,164.0,85.62
+179,Mohammad Hafeez,Shoaib Malik,Haris Sohail,175.66666669999998,102.3
+180,Anwar Ali,Shoaib Malik,Haris Sohail,144.5,78.78999999999999
+181,Shoaib Malik,Azhar Ali,Haris Sohail,235.0,105.07000000000001
+182,Shoaib Malik,Hammad Azam,Haris Sohail,144.5,69.62
+183,Shoaib Malik,Mohammad Rizwan,Haris Sohail,117.66666670000001,91.65
+184,Kamran Akmal,Imad Wasim,Shoaib Malik,93.33333333,70.60000000000001
+185,Kamran Akmal,Shoaib Malik,Junaid Khan,65.5,52.730000000000004
+186,Kamran Akmal,Hasan Ali,Shoaib Malik,77.0,57.85
+187,Kamran Akmal,Shoaib Malik,Mohammad Amir,77.0,56.74000000000001
+188,Kamran Akmal,Shoaib Malik,Babar Azam,128.3333333,97.63000000000001
+189,Kamran Akmal,Shoaib Malik,Mohammad Hafeez,144.0,84.97
+190,Kamran Akmal,Shoaib Malik,Ahmed Shehzad,102.0,77.17
+191,Imad Wasim,Shoaib Malik,Junaid Khan,51.73333333,48.37
+192,Imad Wasim,Shoaib Malik,Mohammad Abbas,59.0,47.93
+193,Imad Wasim,Shoaib Malik,Mohammad Amir,55.28571429,52.38
+194,Imad Wasim,Shoaib Malik,Mohammad Hasnain,65.75,53.53
+195,Imad Wasim,Shoaib Malik,Shan Masood,84.33333333,70.13
+196,Imad Wasim,Shoaib Malik,Babar Azam,100.19354840000001,93.27000000000001
+197,Imad Wasim,Shoaib Malik,Mohammad Nawaz,69.83333333,61.2
+198,Sami Aslam,Imad Wasim,Shoaib Malik,92.0,67.43
+199,Imad Wasim,Shoaib Malik,Sharjeel Khan,102.4,92.07
+200,Imad Wasim,Shoaib Malik,Ahmed Shehzad,78.0,72.81
+201,Imad Wasim,Shoaib Malik,Shaheen Shah Afridi,56.0,50.55
+202,Imad Wasim,Shoaib Malik,Mohammad Rizwan,72.64705882,69.96000000000001
+203,Hasan Ali,Shoaib Malik,Hussain Talat,82.0,37.18
+204,Mohammad Amir,Shoaib Malik,Junaid Khan,35.9,34.51
+205,Shoaib Malik,Junaid Khan,Mohammad Hasnain,38.5,35.660000000000004
+206,Fakhar Zaman,Shoaib Malik,Junaid Khan,76.5,73.46
+207,Shoaib Malik,Asad Shafiq,Junaid Khan,49.5,46.06
+208,Babar Azam,Shoaib Malik,Junaid Khan,81.95,75.4
+209,Mohammad Hafeez,Shoaib Malik,Junaid Khan,63.0,62.739999999999995
+210,Shoaib Malik,Sharjeel Khan,Junaid Khan,92.5,74.2
+211,Shaheen Shah Afridi,Shoaib Malik,Junaid Khan,38.5,32.68
+212,Hasan Ali,Shoaib Malik,Mohammad Hasnain,42.5,40.78
+213,Hasan Ali,Shoaib Malik,Mohammad Nawaz,58.0,48.45
+214,Hasan Ali,Shoaib Malik,Sharjeel Khan,90.63636364,79.32
+215,Hasan Ali,Shoaib Malik,Ahmed Shehzad,63.83333333,60.06
+216,Hasan Ali,Shoaib Malik,Shaheen Shah Afridi,51.875,37.8
+217,Shoaib Malik,Mohammad Abbas,Mohammad Hasnain,60.0,35.22
+218,Shan Masood,Shoaib Malik,Mohammad Abbas,65.0,51.82
+219,Shoaib Malik,Mohammad Abbas,Faheem Ashraf,56.5,37.47
+220,Shoaib Malik,Mohammad Abbas,Mohammad Rizwan,93.0,51.650000000000006
+221,Shoaib Malik,Asad Shafiq,Mohammad Amir,51.5,50.07000000000001
+222,Shoaib Malik,Mohammad Nawaz,Mohammad Amir,68.125,47.34
+223,Shoaib Malik,Sharjeel Khan,Mohammad Amir,95.72727273,78.21000000000001
+224,Shoaib Malik,Mohammad Amir,Ahmed Shehzad,63.8,58.95
+225,Shoaib Malik,Faheem Ashraf,Mohammad Hasnain,74.0,43.07
+226,Shoaib Malik,Babar Azam,Mohammad Hasnain,134.0,80.56
+227,Shaheen Shah Afridi,Shoaib Malik,Mohammad Hasnain,51.0,37.84
+228,Shoaib Malik,Mohammad Rizwan,Mohammad Hasnain,103.0,57.25000000000001
+229,Fakhar Zaman,Shoaib Malik,Usman Shinwari,78.36363636,73.39999999999999
+230,Fakhar Zaman,Shoaib Malik,Shah Afridi,98.0,73.02
+231,Shoaib Malik,Shan Masood,Faheem Ashraf,86.0,59.67
+232,Shoaib Malik,Shan Masood,Mohammad Rizwan,92.66666667,73.85
+233,Shoaib Malik,Faheem Ashraf,Mohammad Rizwan,114.0,59.5
+234,Sohail Khan,Shoaib Malik,Babar Azam,122.0,77.96000000000001
+235,Sohail Khan,Shoaib Malik,Azhar Ali,106.0,68.07000000000001
+236,Shoaib Malik,Asad Shafiq,Babar Azam,108.5,90.96000000000001
+237,Mohammad Hafeez,Shoaib Malik,Asad Shafiq,112.0,78.3
+238,Shoaib Malik,Asad Shafiq,Mohammad Irfan,84.5,46.050000000000004
+239,Anwar Ali,Shoaib Malik,Asad Shafiq,93.5,54.79
+240,Shoaib Malik,Asad Shafiq,Azhar Ali,155.33333330000002,81.07000000000001
+241,Shoaib Malik,Asad Shafiq,Ahmed Shehzad,104.0,70.5
+242,Shoaib Malik,Asad Shafiq,Hammad Azam,93.5,45.620000000000005
+243,Shoaib Malik,Asad Shafiq,Mohammad Rizwan,72.5,67.65
+244,Shoaib Malik,Usman Shinwari,Mohammad Nawaz,61.0,43.269999999999996
+245,Babar Azam,Shoaib Malik,Younis Khan,97.0,91.96000000000001
+246,Mohammad Hafeez,Shoaib Malik,Younis Khan,137.0,79.3
+247,Shoaib Malik,Mohammad Nawaz,Babar Azam,113.9090909,88.23
+248,Shoaib Malik,Sharjeel Khan,Babar Azam,145.91666669999998,119.10000000000001
+249,Shoaib Malik,Babar Azam,Ahmed Shehzad,117.6,99.84
+250,Mohammad Rizwan,Shoaib Malik,Babar Azam,105.25,96.99000000000001
+251,Mohammad Hafeez,Shoaib Malik,Mohammad Nawaz,96.0,75.57
+252,Mohammad Hafeez,Shoaib Malik,Mohammad Irfan,82.69230769,62.73
+253,Mohammad Hafeez,Shoaib Malik,Sharjeel Khan,129.8333333,106.44
+254,Mohammad Hafeez,Anwar Ali,Shoaib Malik,99.54545455,71.47
+255,Mohammad Hafeez,Shoaib Malik,Azhar Ali,102.3076923,97.75
+256,Mohammad Hafeez,Shoaib Malik,Ahmed Shehzad,111.33333329999999,87.17999999999999
+257,Mohammad Hafeez,Shoaib Malik,Hammad Azam,124.5,62.3
+258,Mohammad Hafeez,Shoaib Malik,Mohammad Rizwan,86.44444444,84.33
+259,Shoaib Malik,Sharjeel Khan,Mohammad Nawaz,104.8571429,87.03
+260,Shoaib Malik,Asif Ali,Mohammad Nawaz,74.0,66.36
+261,Azhar Ali,Shoaib Malik,Mohammad Nawaz,88.71428571,78.34
+262,Shaheen Shah Afridi,Shoaib Malik,Mohammad Nawaz,68.66666667,45.510000000000005
+263,Anwar Ali,Shoaib Malik,Mohammad Irfan,43.66666667,39.22
+264,Azhar Ali,Shoaib Malik,Mohammad Irfan,66.66666667,65.50000000000001
+265,Shoaib Malik,Mohammad Irfan,Ahmed Shehzad,69.55555556,54.93
+266,Shoaib Malik,Mohammad Irfan,Mohammad Rizwan,60.83333333,52.08
+267,Azhar Ali,Shoaib Malik,Sharjeel Khan,109.5,109.21000000000001
+268,Anwar Ali,Shoaib Malik,Azhar Ali,95.0,74.24000000000001
+269,Anwar Ali,Shoaib Malik,Ahmed Shehzad,88.83333333,63.67
+270,Anwar Ali,Shoaib Malik,Hammad Azam,74.0,38.79
+271,Anwar Ali,Shoaib Malik,Mohammad Rizwan,66.0,60.82
+272,Shaheen Shah Afridi,Shoaib Malik,Asif Ali,58.4,55.71
+273,Shoaib Malik,Azhar Ali,Ahmed Shehzad,100.88888890000001,89.95
+274,Hammad Azam,Shoaib Malik,Azhar Ali,164.5,65.07000000000001
+275,Shoaib Malik,Azhar Ali,Mohammad Rizwan,87.52941176,87.10000000000001
+276,Shoaib Malik,Mohammad Rizwan,Ahmed Shehzad,95.55555556,76.53
+277,Aamer Yamin,Yasir Shah,Sarfaraz Ahmed,74.0,52.620000000000005
+278,Wahab Riaz,Yasir Shah,Sarfaraz Ahmed,46.0,37.3
+279,Yasir Shah,Haris Sohail,Sarfaraz Ahmed,72.66666667,68.87
+280,Imad Wasim,Yasir Shah,Sarfaraz Ahmed,77.83333333,47.18
+281,Hasan Ali,Yasir Shah,Sarfaraz Ahmed,72.66666667,34.43
+282,Yasir Shah,Mohammad Amir,Sarfaraz Ahmed,116.5,33.32
+283,Fakhar Zaman,Yasir Shah,Sarfaraz Ahmed,144.0,72.27000000000001
+284,Mohammad Hafeez,Yasir Shah,Sarfaraz Ahmed,75.33333333,61.550000000000004
+285,Mohammad Nawaz,Yasir Shah,Sarfaraz Ahmed,98.0,42.14
+286,Yasir Shah,Mohammad Irfan,Sarfaraz Ahmed,33.6,29.3
+287,Sami Aslam,Yasir Shah,Sarfaraz Ahmed,89.0,48.370000000000005
+288,Sharjeel Khan,Yasir Shah,Sarfaraz Ahmed,113.5,73.00999999999999
+289,Yasir Shah,Azhar Ali,Sarfaraz Ahmed,72.85714286,64.32
+290,Ahmed Shehzad,Yasir Shah,Sarfaraz Ahmed,64.57142857,53.75
+291,Shaheen Shah Afridi,Yasir Shah,Sarfaraz Ahmed,41.0,31.490000000000002
+292,Yasir Shah,Mohammad Rizwan,Sarfaraz Ahmed,64.33333333,50.900000000000006
+293,Fakhar Zaman,Yasir Shah,Shadab Khan,126.5,57.14
+294,Umar Akmal,Yasir Shah,Saad Ali,37.5,35.629999999999995
+295,Yasir Shah,Saad Ali,Haris Sohail,90.0,51.019999999999996
+296,Imad Wasim,Yasir Shah,Saad Ali,38.0,29.33
+297,Yasir Shah,Saad Ali,Junaid Khan,12.5,11.459999999999999
+298,Mohammad Abbas,Yasir Shah,Saad Ali,15.0,11.02
+299,Yasir Shah,Saad Ali,Abid Ali,68.5,58.769999999999996
+300,Shan Masood,Yasir Shah,Saad Ali,37.5,33.22
+301,Usman Shinwari,Yasir Shah,Saad Ali,15.5,11.399999999999999
+302,Yasir Shah,Saad Ali,Mohammad Rizwan,70.5,33.05
+303,Aamer Yamin,Yasir Shah,Bilal Asif,94.0,42.6
+304,Mohammad Hafeez,Yasir Shah,Bilal Asif,81.5,51.53
+305,Wahab Riaz,Yasir Shah,Aamer Yamin,49.0,37.7
+306,Imad Wasim,Yasir Shah,Aamer Yamin,62.0,47.58
+307,Asad Shafiq,Yasir Shah,Aamer Yamin,95.0,45.269999999999996
+308,Mohammad Hafeez,Yasir Shah,Aamer Yamin,66.0,61.95
+309,Yasir Shah,Mohammad Irfan,Aamer Yamin,47.5,29.7
+310,Yasir Shah,Mohammad Rizwan,Aamer Yamin,89.0,51.3
+311,Umar Akmal,Yasir Shah,Haris Sohail,80.83333333,70.13
+312,Misbah-ul-Haq,Umar Akmal,Yasir Shah,89.0,78.63
+313,Imad Wasim,Umar Akmal,Yasir Shah,63.2,48.44
+314,Umar Akmal,Yasir Shah,Junaid Khan,38.33333333,30.57
+315,Umar Akmal,Yasir Shah,Mohammad Abbas,39.66666667,30.13
+316,Umar Akmal,Yasir Shah,Abid Ali,88.0,77.88
+317,Umar Akmal,Yasir Shah,Mohammad Amir,48.0,34.58
+318,Shan Masood,Umar Akmal,Yasir Shah,57.2,52.33
+319,Umar Akmal,Yasir Shah,Faheem Ashraf,53.5,37.98
+320,Umar Akmal,Yasir Shah,Usman Shinwari,38.66666667,30.509999999999998
+321,Umar Akmal,Yasir Shah,Younis Khan,49.0,47.129999999999995
+322,Umar Akmal,Yasir Shah,Ahmed Shehzad,60.0,55.01
+323,Umar Akmal,Yasir Shah,Mohammad Rizwan,81.2,52.16
+324,Yasir Shah,Mohammad Sami,Haris Sohail,70.5,45.519999999999996
+325,Mohammad Hafeez,Yasir Shah,Mohammad Sami,50.5,38.2
+326,Yasir Shah,Azhar Ali,Mohammad Sami,90.5,40.97
+327,Yasir Shah,Haris Sohail,Wahab Riaz,54.66666667,53.949999999999996
+328,Misbah-ul-Haq,Yasir Shah,Wahab Riaz,93.0,62.449999999999996
+329,Imad Wasim,Yasir Shah,Wahab Riaz,65.0,32.26
+330,Hasan Ali,Yasir Shah,Wahab Riaz,25.0,19.509999999999998
+331,Yasir Shah,Mohammad Amir,Wahab Riaz,55.0,18.4
+332,Sohail Khan,Yasir Shah,Wahab Riaz,24.0,16.95
+333,Yasir Shah,Younis Khan,Wahab Riaz,31.0,30.95
+334,Mohammad Hafeez,Yasir Shah,Wahab Riaz,48.42857143,46.63
+335,Mohammad Nawaz,Yasir Shah,Wahab Riaz,74.0,27.22
+336,Yasir Shah,Shahid Afridi,Wahab Riaz,39.0,36.83
+337,Yasir Shah,Mohammad Rizwan,Wahab Riaz,43.25,35.980000000000004
+338,Mohammad Hafeez,Rahat Ali,Yasir Shah,56.6,38.870000000000005
+339,Rahat Ali,Yasir Shah,Azhar Ali,45.4,41.64
+340,Rahat Ali,Yasir Shah,Ahmed Shehzad,45.2,31.07
+341,Rahat Ali,Yasir Shah,Mohammad Rizwan,29.2,28.22
+342,Junaid Khan,Yasir Shah,Imam-ul-Haq,58.0,52.56
+343,Fakhar Zaman,Yasir Shah,Imam-ul-Haq,179.66666669999998,95.52000000000001
+344,Yasir Shah,Usman Shinwari,Imam-ul-Haq,56.33333333,52.5
+345,Asif Ali,Yasir Shah,Imam-ul-Haq,83.0,75.59
+346,Misbah-ul-Haq,Yasir Shah,Haris Sohail,95.0,94.02
+347,Imad Wasim,Yasir Shah,Haris Sohail,79.83333333,63.83
+348,Yasir Shah,Junaid Khan,Haris Sohail,61.66666667,45.96
+349,Mohammad Abbas,Yasir Shah,Haris Sohail,92.33333333,45.519999999999996
+350,Yasir Shah,Abid Ali,Haris Sohail,140.5,93.27
+351,Yasir Shah,Mohammad Amir,Haris Sohail,101.0,49.97
+352,Fakhar Zaman,Yasir Shah,Haris Sohail,152.0,88.92
+353,Shan Masood,Yasir Shah,Haris Sohail,85.4,67.72
+354,Yasir Shah,Faheem Ashraf,Haris Sohail,65.0,53.37
+355,Asad Shafiq,Yasir Shah,Haris Sohail,90.0,61.519999999999996
+356,Yasir Shah,Usman Shinwari,Haris Sohail,62.0,45.9
+357,Mohammad Hafeez,Yasir Shah,Haris Sohail,121.0,78.2
+358,Anwar Ali,Yasir Shah,Haris Sohail,70.5,54.69
+359,Yasir Shah,Azhar Ali,Haris Sohail,161.0,80.97
+360,Yasir Shah,Hammad Azam,Haris Sohail,70.5,45.519999999999996
+361,Yasir Shah,Mohammad Rizwan,Haris Sohail,109.4,67.55
+362,Misbah-ul-Haq,Sohail Khan,Yasir Shah,96.0,57.019999999999996
+363,Misbah-ul-Haq,Yasir Shah,Younis Khan,125.0,71.02
+364,Misbah-ul-Haq,Sohaib Maqsood,Yasir Shah,89.0,70.88
+365,Misbah-ul-Haq,Yasir Shah,Mohammad Irfan,90.0,54.449999999999996
+366,Misbah-ul-Haq,Yasir Shah,Shahid Afridi,111.0,76.89999999999999
+367,Misbah-ul-Haq,Yasir Shah,Ahmed Shehzad,136.0,78.89999999999999
+368,Imad Wasim,Yasir Shah,Junaid Khan,41.0,24.27
+369,Imad Wasim,Hasan Ali,Yasir Shah,37.5,29.389999999999997
+370,Imad Wasim,Mohammad Abbas,Yasir Shah,36.33333333,23.83
+371,Imad Wasim,Yasir Shah,Abid Ali,88.5,71.58
+372,Imad Wasim,Yasir Shah,Mohammad Amir,48.5,28.279999999999998
+373,Imad Wasim,Fakhar Zaman,Yasir Shah,146.0,67.22999999999999
+374,Imad Wasim,Shan Masood,Yasir Shah,55.4,46.03
+375,Imad Wasim,Yasir Shah,Faheem Ashraf,33.66666667,31.68
+376,Imad Wasim,Yasir Shah,Usman Shinwari,41.33333333,24.209999999999997
+377,Imad Wasim,Yasir Shah,Babar Azam,76.0,69.17
+378,Mohammad Hafeez,Imad Wasim,Yasir Shah,64.0,56.50999999999999
+379,Sami Aslam,Imad Wasim,Yasir Shah,64.0,43.33
+380,Imad Wasim,Asif Ali,Yasir Shah,59.0,47.3
+381,Imad Wasim,Yasir Shah,Ahmed Shehzad,63.5,48.709999999999994
+382,Imad Wasim,Yasir Shah,Mohammad Rizwan,69.0,45.86
+383,Mohammad Abbas,Yasir Shah,Junaid Khan,11.0,5.96
+384,Yasir Shah,Abid Ali,Junaid Khan,63.0,53.709999999999994
+385,Fakhar Zaman,Yasir Shah,Junaid Khan,126.5,49.36
+386,Yasir Shah,Usman Shinwari,Junaid Khan,7.0,6.34
+387,Mohammad Rizwan,Yasir Shah,Junaid Khan,48.33333333,27.990000000000002
+388,Hasan Ali,Yasir Shah,Mohammad Amir,47.0,15.529999999999998
+389,Hasan Ali,Fakhar Zaman,Yasir Shah,142.0,54.480000000000004
+390,Hasan Ali,Mohammad Nawaz,Yasir Shah,64.0,24.349999999999998
+391,Hasan Ali,Asif Ali,Yasir Shah,55.0,34.55
+392,Shan Masood,Mohammad Abbas,Yasir Shah,40.33333333,27.72
+393,Mohammad Abbas,Yasir Shah,Faheem Ashraf,21.5,13.37
+394,Mohammad Abbas,Yasir Shah,Usman Shinwari,11.0,5.8999999999999995
+395,Mohammad Abbas,Yasir Shah,Mohammad Rizwan,46.33333333,27.55
+396,Yasir Shah,Abid Ali,Mohammad Hasnain,115.0,58.87
+397,Shan Masood,Yasir Shah,Abid Ali,88.0,75.47
+398,Yasir Shah,Usman Shinwari,Abid Ali,66.0,53.65
+399,Mohammad Rizwan,Yasir Shah,Abid Ali,121.0,75.3
+400,Shan Masood,Yasir Shah,Mohammad Amir,40.0,32.17
+401,Yasir Shah,Mohammad Amir,Faheem Ashraf,28.0,17.82
+402,Babar Azam,Yasir Shah,Mohammad Amir,64.5,55.31
+403,Mohammad Nawaz,Yasir Shah,Mohammad Amir,118.0,23.24
+404,Sami Aslam,Yasir Shah,Mohammad Amir,49.5,29.47
+405,Sharjeel Khan,Yasir Shah,Mohammad Amir,74.0,54.11
+406,Yasir Shah,Azhar Ali,Mohammad Amir,51.5,45.42
+407,Yasir Shah,Mohammad Rizwan,Mohammad Hasnain,77.66666667,33.15
+408,Fakhar Zaman,Yasir Shah,Faheem Ashraf,131.3333333,56.77
+409,Fakhar Zaman,Yasir Shah,Usman Shinwari,126.5,49.300000000000004
+410,Fakhar Zaman,Yasir Shah,Babar Azam,153.66666669999998,94.26
+411,Fakhar Zaman,Asif Ali,Yasir Shah,164.0,72.39
+412,Shaheen Shah Afridi,Fakhar Zaman,Yasir Shah,138.0,51.53999999999999
+413,Shan Masood,Yasir Shah,Faheem Ashraf,51.0,35.57
+414,Shan Masood,Yasir Shah,Mohammad Rizwan,73.4,49.75
+415,Mohammad Rizwan,Yasir Shah,Faheem Ashraf,79.0,35.4
+416,Sohail Khan,Yasir Shah,Younis Khan,56.0,25.52
+417,Sohail Khan,Yasir Shah,Mohammad Irfan,21.0,8.95
+418,Sohail Khan,Yasir Shah,Shahid Afridi,42.0,31.4
+419,Sohail Khan,Yasir Shah,Ahmed Shehzad,67.0,33.4
+420,Mohammad Hafeez,Asad Shafiq,Yasir Shah,66.66666667,54.2
+421,Asad Shafiq,Yasir Shah,Mohammad Irfan,33.0,21.95
+422,Asad Shafiq,Yasir Shah,Azhar Ali,84.66666667,56.97
+423,Yasir Shah,Usman Shinwari,Mohammad Rizwan,48.66666667,27.93
+424,Babar Azam,Yasir Shah,Younis Khan,71.0,67.86
+425,Mohammad Hafeez,Yasir Shah,Younis Khan,111.0,55.2
+426,Sohaib Maqsood,Yasir Shah,Younis Khan,49.0,39.379999999999995
+427,Yasir Shah,Mohammad Irfan,Younis Khan,29.5,22.95
+428,Yasir Shah,Younis Khan,Shahid Afridi,71.0,45.4
+429,Yasir Shah,Younis Khan,Ahmed Shehzad,96.0,47.4
+430,Mohammad Hafeez,Yasir Shah,Babar Azam,85.4,83.54
+431,Mohammad Nawaz,Yasir Shah,Babar Azam,69.0,64.13
+432,Mohammad Hafeez,Yasir Shah,Mohammad Irfan,51.6,38.63
+433,Mohammad Hafeez,Anwar Ali,Yasir Shah,63.1,47.370000000000005
+434,Mohammad Hafeez,Yasir Shah,Azhar Ali,91.41666667,73.65
+435,Mohammad Hafeez,Yasir Shah,Ahmed Shehzad,82.28571429,63.08
+436,Mohammad Hafeez,Yasir Shah,Hammad Azam,50.5,38.2
+437,Mohammad Hafeez,Yasir Shah,Mohammad Rizwan,73.0,60.230000000000004
+438,Sami Aslam,Mohammad Nawaz,Yasir Shah,68.0,38.28999999999999
+439,Mohammad Nawaz,Yasir Shah,Sharjeel Khan,118.0,62.93
+440,Mohammad Nawaz,Yasir Shah,Azhar Ali,73.0,54.24
+441,Sohaib Maqsood,Yasir Shah,Ahmed Shehzad,60.0,47.26
+442,Yasir Shah,Mohammad Irfan,Shahid Afridi,36.0,28.83
+443,Anwar Ali,Yasir Shah,Mohammad Irfan,15.25,15.12
+444,Yasir Shah,Mohammad Irfan,Ahmed Shehzad,40.125,30.83
+445,Yasir Shah,Mohammad Irfan,Mohammad Rizwan,34.88888889,27.98
+446,Ahmed Shehzad,Yasir Shah,Shahid Afridi,82.0,53.28
+447,Anwar Ali,Yasir Shah,Azhar Ali,59.0,50.14
+448,Anwar Ali,Yasir Shah,Ahmed Shehzad,51.33333333,39.57
+449,Anwar Ali,Yasir Shah,Mohammad Rizwan,40.28571429,36.72
+450,Shaheen Shah Afridi,Asif Ali,Yasir Shah,51.0,31.61
+451,Yasir Shah,Azhar Ali,Ahmed Shehzad,75.42857143,65.85
+452,Hammad Azam,Yasir Shah,Azhar Ali,90.5,40.97
+453,Yasir Shah,Azhar Ali,Mohammad Rizwan,67.22222222,63.0
+454,Yasir Shah,Mohammad Rizwan,Ahmed Shehzad,68.28571429,52.43
+455,Umar Amin,Shadab Khan,Sarfaraz Ahmed,59.0,33.57
+456,Umar Amin,Haris Sohail,Sarfaraz Ahmed,68.0,65.35
+457,Aamer Yamin,Shadab Khan,Sarfaraz Ahmed,89.0,55.32
+458,Shadab Khan,Hussain Talat,Sarfaraz Ahmed,61.0,33.57
+459,Shadab Khan,Abid Ali,Sarfaraz Ahmed,97.0,79.32
+460,Bilal Asif,Ahmed Shehzad,Sarfaraz Ahmed,70.0,61.56
+461,Aamer Yamin,Haris Sohail,Sarfaraz Ahmed,98.0,87.1
+462,Aamer Yamin,Faheem Ashraf,Sarfaraz Ahmed,58.0,54.95
+463,Umar Gul,Wahab Riaz,Sarfaraz Ahmed,55.0,32.980000000000004
+464,Umar Gul,Imad Wasim,Sarfaraz Ahmed,63.75,42.86
+465,Umar Gul,Hasan Ali,Sarfaraz Ahmed,39.66666667,30.11
+466,Umar Gul,Mohammad Amir,Sarfaraz Ahmed,49.0,29.0
+467,Umar Gul,Mohammad Nawaz,Sarfaraz Ahmed,62.5,37.82
+468,Umar Gul,Sharjeel Khan,Sarfaraz Ahmed,89.75,68.69
+469,Umar Gul,Azhar Ali,Sarfaraz Ahmed,90.25,60.00000000000001
+470,Umar Gul,Mohammad Rizwan,Sarfaraz Ahmed,74.0,46.58
+471,Wahab Riaz,Umar Akmal,Sarfaraz Ahmed,76.33333333,56.39
+472,Rahat Ali,Umar Akmal,Sarfaraz Ahmed,73.33333333,48.63
+473,Sohail Khan,Umar Akmal,Sarfaraz Ahmed,73.33333333,50.96
+474,Umar Akmal,Sohaib Maqsood,Sarfaraz Ahmed,83.33333333,64.82
+475,Umar Akmal,Shahid Afridi,Sarfaraz Ahmed,76.2,70.84
+476,Ahmed Shehzad,Umar Akmal,Sarfaraz Ahmed,80.8,72.84
+477,Zafar Gohar,Wahab Riaz,Sarfaraz Ahmed,76.0,46.78
+478,Zafar Gohar,Mohammad Hafeez,Sarfaraz Ahmed,86.0,71.03
+479,Zafar Gohar,Mohammad Irfan,Sarfaraz Ahmed,41.0,38.78
+480,Zafar Gohar,Anwar Ali,Sarfaraz Ahmed,48.0,47.52
+481,Zafar Gohar,Azhar Ali,Sarfaraz Ahmed,77.0,73.80000000000001
+482,Haris Sohail,Mohammad Sami,Sarfaraz Ahmed,81.5,63.35
+483,Mohammad Hafeez,Mohammad Sami,Sarfaraz Ahmed,61.5,56.03
+484,Azhar Ali,Mohammad Sami,Sarfaraz Ahmed,101.5,58.800000000000004
+485,Wahab Riaz,Rahat Ali,Sarfaraz Ahmed,54.33333333,32.45
+486,Wahab Riaz,Kamran Akmal,Sarfaraz Ahmed,67.0,54.45
+487,Wahab Riaz,Misbah-ul-Haq,Sarfaraz Ahmed,101.66666670000001,80.28
+488,Wahab Riaz,Ehsan Adil,Sarfaraz Ahmed,71.0,37.28
+489,Wahab Riaz,Imad Wasim,Sarfaraz Ahmed,50.41176471,50.09
+490,Wahab Riaz,Junaid Khan,Sarfaraz Ahmed,45.0,32.22
+491,Wahab Riaz,Hasan Ali,Sarfaraz Ahmed,49.81818182,37.34
+492,Wahab Riaz,Abid Ali,Sarfaraz Ahmed,98.0,79.53
+493,Wahab Riaz,Mohammad Amir,Sarfaraz Ahmed,41.47368421,36.230000000000004
+494,Wahab Riaz,Sohail Khan,Sarfaraz Ahmed,51.75,34.78
+495,Wahab Riaz,Babar Azam,Sarfaraz Ahmed,93.45833333,77.12
+496,Wahab Riaz,Mohammad Hafeez,Sarfaraz Ahmed,65.54166667,64.46000000000001
+497,Wahab Riaz,Fawad Alam,Sarfaraz Ahmed,52.0,37.78
+498,Wahab Riaz,Mohammad Nawaz,Sarfaraz Ahmed,54.0,45.05
+499,Wahab Riaz,Sohaib Maqsood,Sarfaraz Ahmed,64.5,48.64
+500,Wahab Riaz,Mohammad Irfan,Sarfaraz Ahmed,34.8,32.21
+501,Wahab Riaz,Shahid Afridi,Sarfaraz Ahmed,77.0,54.66
+502,Wahab Riaz,Saad Nasim,Sarfaraz Ahmed,83.5,64.78
+503,Wahab Riaz,Sami Aslam,Sarfaraz Ahmed,86.0,51.28
+504,Wahab Riaz,Sharjeel Khan,Sarfaraz Ahmed,87.83333333,75.92
+505,Wahab Riaz,Asif Ali,Sarfaraz Ahmed,81.5,55.25
+506,Wahab Riaz,Azhar Ali,Sarfaraz Ahmed,76.31578947,67.23
+507,Wahab Riaz,Ahmed Shehzad,Sarfaraz Ahmed,61.4,56.660000000000004
+508,Wahab Riaz,Saeed Ajmal,Sarfaraz Ahmed,45.0,31.78
+509,Wahab Riaz,Mohammad Rizwan,Sarfaraz Ahmed,58.41666667,53.81
+510,Rahat Ali,Haris Sohail,Sarfaraz Ahmed,72.0,64.02000000000001
+511,Misbah-ul-Haq,Rahat Ali,Sarfaraz Ahmed,98.66666667,72.52000000000001
+512,Rahat Ali,Ehsan Adil,Sarfaraz Ahmed,66.0,29.520000000000003
+513,Rahat Ali,Imad Wasim,Sarfaraz Ahmed,45.33333333,42.33
+514,Rahat Ali,Mohammad Amir,Sarfaraz Ahmed,42.0,28.470000000000002
+515,Sohail Khan,Rahat Ali,Sarfaraz Ahmed,58.0,27.020000000000003
+516,Rahat Ali,Younis Khan,Sarfaraz Ahmed,87.0,41.02
+517,Mohammad Hafeez,Rahat Ali,Sarfaraz Ahmed,69.25,56.7
+518,Rahat Ali,Sohaib Maqsood,Sarfaraz Ahmed,68.0,40.88
+519,Rahat Ali,Mohammad Irfan,Sarfaraz Ahmed,32.0,24.450000000000003
+520,Rahat Ali,Shahid Afridi,Sarfaraz Ahmed,74.0,46.900000000000006
+521,Rahat Ali,Anwar Ali,Sarfaraz Ahmed,33.6,33.19
+522,Rahat Ali,Azhar Ali,Sarfaraz Ahmed,66.125,59.470000000000006
+523,Ahmed Shehzad,Rahat Ali,Sarfaraz Ahmed,72.22222222,48.900000000000006
+524,Rahat Ali,Mohammad Rizwan,Sarfaraz Ahmed,54.125,46.050000000000004
+525,Junaid Khan,Imam-ul-Haq,Sarfaraz Ahmed,81.11111111,70.39
+526,Hasan Ali,Imam-ul-Haq,Sarfaraz Ahmed,77.17391304,75.51
+527,Mohammad Nawaz,Imam-ul-Haq,Sarfaraz Ahmed,96.0,83.22
+528,Asif Ali,Imam-ul-Haq,Sarfaraz Ahmed,104.2857143,93.41999999999999
+529,Shaheen Shah Afridi,Imam-ul-Haq,Sarfaraz Ahmed,83.30769231,72.57
+530,Haris Sohail,Junaid Khan,Sarfaraz Ahmed,64.66666667,63.79
+531,Rumman Raees,Haris Sohail,Sarfaraz Ahmed,86.0,66.35
+532,Haris Sohail,Abid Ali,Sarfaraz Ahmed,153.0,111.1
+533,Faheem Ashraf,Haris Sohail,Sarfaraz Ahmed,82.5,71.2
+534,Sohail Khan,Haris Sohail,Sarfaraz Ahmed,79.5,66.35
+535,Asad Shafiq,Haris Sohail,Sarfaraz Ahmed,101.0,79.35
+536,Fawad Alam,Haris Sohail,Sarfaraz Ahmed,70.0,69.35
+537,Sohaib Maqsood,Haris Sohail,Sarfaraz Ahmed,92.0,80.21000000000001
+538,Saad Nasim,Haris Sohail,Sarfaraz Ahmed,101.5,96.35
+539,Anwar Ali,Haris Sohail,Sarfaraz Ahmed,81.5,72.52000000000001
+540,Azhar Ali,Haris Sohail,Sarfaraz Ahmed,144.5,98.80000000000001
+541,Hammad Azam,Haris Sohail,Sarfaraz Ahmed,81.5,63.35
+542,Haris Sohail,Mohammad Rizwan,Sarfaraz Ahmed,103.0,85.38
+543,Kamran Akmal,Babar Azam,Sarfaraz Ahmed,97.33333333,91.36000000000001
+544,Kamran Akmal,Mohammad Hafeez,Sarfaraz Ahmed,113.0,78.7
+545,Kamran Akmal,Ahmed Shehzad,Sarfaraz Ahmed,71.0,70.9
+546,Misbah-ul-Haq,Ehsan Adil,Sarfaraz Ahmed,81.75,77.35
+547,Misbah-ul-Haq,Sohail Khan,Sarfaraz Ahmed,98.66666667,74.85
+548,Misbah-ul-Haq,Younis Khan,Sarfaraz Ahmed,94.33333333,88.85
+549,Misbah-ul-Haq,Sohaib Maqsood,Sarfaraz Ahmed,108.66666670000001,88.71000000000001
+550,Misbah-ul-Haq,Mohammad Irfan,Sarfaraz Ahmed,76.0,72.28
+551,Misbah-ul-Haq,Shahid Afridi,Sarfaraz Ahmed,108.6,94.72999999999999
+552,Misbah-ul-Haq,Ahmed Shehzad,Sarfaraz Ahmed,113.2,96.72999999999999
+553,Sohail Khan,Ehsan Adil,Sarfaraz Ahmed,65.0,31.85
+554,Sohaib Maqsood,Ehsan Adil,Sarfaraz Ahmed,77.5,45.71
+555,Shahid Afridi,Ehsan Adil,Sarfaraz Ahmed,65.5,51.730000000000004
+556,Ahmed Shehzad,Ehsan Adil,Sarfaraz Ahmed,72.25,53.730000000000004
+557,Imad Wasim,Abid Ali,Sarfaraz Ahmed,127.0,89.41
+558,Imad Wasim,Mohammad Amir,Sarfaraz Ahmed,48.59090909,46.11
+559,Imad Wasim,Mohammad Hasnain,Sarfaraz Ahmed,91.5,47.26
+560,Imad Wasim,Babar Azam,Sarfaraz Ahmed,98.91666667,87.0
+561,Imad Wasim,Mohammad Nawaz,Sarfaraz Ahmed,73.57142857,54.93
+562,Imad Wasim,Mohammad Irfan,Sarfaraz Ahmed,49.28571429,42.09
+563,Sami Aslam,Imad Wasim,Sarfaraz Ahmed,131.0,61.160000000000004
+564,Imad Wasim,Sharjeel Khan,Sarfaraz Ahmed,110.625,85.80000000000001
+565,Imad Wasim,Asif Ali,Sarfaraz Ahmed,98.75,65.13
+566,Imad Wasim,Azhar Ali,Sarfaraz Ahmed,90.72222222,77.11000000000001
+567,Imad Wasim,Shaheen Shah Afridi,Sarfaraz Ahmed,61.33333333,44.28
+568,Imad Wasim,Mohammad Rizwan,Sarfaraz Ahmed,77.4,63.690000000000005
+569,Hasan Ali,Hussain Talat,Sarfaraz Ahmed,102.0,30.91
+570,Fakhar Zaman,Hussain Talat,Sarfaraz Ahmed,69.0,68.75
+571,Faheem Ashraf,Hussain Talat,Sarfaraz Ahmed,43.0,33.2
+572,Shaheen Shah Afridi,Hussain Talat,Sarfaraz Ahmed,44.0,27.970000000000002
+573,Azhar Ali,Junaid Khan,Sarfaraz Ahmed,63.0,59.24
+574,Shaheen Shah Afridi,Junaid Khan,Sarfaraz Ahmed,41.66666667,26.41
+575,Mohammad Rizwan,Junaid Khan,Sarfaraz Ahmed,55.5,45.82000000000001
+576,Hasan Ali,Abid Ali,Sarfaraz Ahmed,113.0,76.66
+577,Hasan Ali,Mohammad Amir,Sarfaraz Ahmed,36.85185185,33.36
+578,Hasan Ali,Mohammad Hasnain,Sarfaraz Ahmed,79.0,34.510000000000005
+579,Hasan Ali,Babar Azam,Sarfaraz Ahmed,74.28888889,74.25
+580,Hasan Ali,Mohammad Nawaz,Sarfaraz Ahmed,47.09090909,42.18
+581,Sami Aslam,Hasan Ali,Sarfaraz Ahmed,67.0,48.41
+582,Hasan Ali,Sharjeel Khan,Sarfaraz Ahmed,91.625,73.05000000000001
+583,Hasan Ali,Asif Ali,Sarfaraz Ahmed,58.69230769,52.379999999999995
+584,Hasan Ali,Shaheen Shah Afridi,Sarfaraz Ahmed,57.7,31.53
+585,Hasan Ali,Mohammad Rizwan,Sarfaraz Ahmed,58.6,50.94
+586,Mohammad Amir,Abid Ali,Sarfaraz Ahmed,97.0,75.55000000000001
+587,Mohammad Hasnain,Abid Ali,Sarfaraz Ahmed,130.0,76.7
+588,Fakhar Zaman,Abid Ali,Sarfaraz Ahmed,137.5,114.5
+589,Usman Shinwari,Abid Ali,Sarfaraz Ahmed,97.0,71.48
+590,Babar Azam,Abid Ali,Sarfaraz Ahmed,155.0,116.44
+591,Mohammad Nawaz,Abid Ali,Sarfaraz Ahmed,97.0,84.37
+592,Asif Ali,Abid Ali,Sarfaraz Ahmed,124.0,94.57
+593,Shaheen Shah Afridi,Abid Ali,Sarfaraz Ahmed,121.0,73.72
+594,Faheem Ashraf,Mohammad Amir,Sarfaraz Ahmed,36.875,35.650000000000006
+595,Babar Azam,Mohammad Amir,Sarfaraz Ahmed,77.77777778,73.14000000000001
+596,Mohammad Hafeez,Mohammad Amir,Sarfaraz Ahmed,62.54166667,60.480000000000004
+597,Mohammad Nawaz,Mohammad Amir,Sarfaraz Ahmed,61.55555556,41.07
+598,Mohammad Irfan,Mohammad Amir,Sarfaraz Ahmed,36.0,28.23
+599,Sami Aslam,Mohammad Amir,Sarfaraz Ahmed,108.0,47.3
+600,Sharjeel Khan,Mohammad Amir,Sarfaraz Ahmed,109.42857140000001,71.94
+601,Anwar Ali,Mohammad Amir,Sarfaraz Ahmed,46.0,36.97
+602,Mohammad Rizwan,Mohammad Amir,Sarfaraz Ahmed,74.25,49.83
+603,Fakhar Zaman,Mohammad Hasnain,Sarfaraz Ahmed,101.5,72.35
+604,Mohammad Hasnain,Babar Azam,Sarfaraz Ahmed,170.5,74.29
+605,Mohammad Hafeez,Mohammad Hasnain,Sarfaraz Ahmed,102.5,61.63
+606,Asif Ali,Mohammad Hasnain,Sarfaraz Ahmed,92.5,52.42
+607,Shaheen Shah Afridi,Mohammad Hasnain,Sarfaraz Ahmed,144.0,31.57
+608,Fakhar Zaman,Faheem Ashraf,Sarfaraz Ahmed,80.76470588,74.6
+609,Fakhar Zaman,Asif Ali,Sarfaraz Ahmed,100.0,90.22
+610,Fakhar Zaman,Shah Afridi,Sarfaraz Ahmed,101.0,66.75
+611,Mohammad Nawaz,Faheem Ashraf,Sarfaraz Ahmed,49.0,44.47
+612,Shaheen Shah Afridi,Faheem Ashraf,Sarfaraz Ahmed,44.33333333,33.82
+613,Sohail Khan,Younis Khan,Sarfaraz Ahmed,89.0,43.35
+614,Sohail Khan,Babar Azam,Sarfaraz Ahmed,141.0,71.69
+615,Sohail Khan,Sohaib Maqsood,Sarfaraz Ahmed,68.0,43.21
+616,Sohail Khan,Mohammad Irfan,Sarfaraz Ahmed,53.0,26.78
+617,Sohail Khan,Shahid Afridi,Sarfaraz Ahmed,74.0,49.230000000000004
+618,Sohail Khan,Azhar Ali,Sarfaraz Ahmed,125.0,61.800000000000004
+619,Sohail Khan,Ahmed Shehzad,Sarfaraz Ahmed,84.33333333,51.230000000000004
+620,Asad Shafiq,Azhar Ali,Sarfaraz Ahmed,84.33333333,74.80000000000001
+621,Ahmed Shehzad,Asad Shafiq,Sarfaraz Ahmed,70.0,64.22999999999999
+622,Mohammad Hafeez,Younis Khan,Sarfaraz Ahmed,78.33333333,73.03
+623,Sohaib Maqsood,Younis Khan,Sarfaraz Ahmed,94.0,57.21
+624,Shahid Afridi,Younis Khan,Sarfaraz Ahmed,74.66666667,63.23
+625,Ahmed Shehzad,Younis Khan,Sarfaraz Ahmed,70.66666667,65.22999999999999
+626,Mohammad Nawaz,Babar Azam,Sarfaraz Ahmed,94.42857143,81.96000000000001
+627,Sohaib Maqsood,Babar Azam,Sarfaraz Ahmed,102.0,85.55000000000001
+628,Sharjeel Khan,Babar Azam,Sarfaraz Ahmed,144.4444444,112.83000000000001
+629,Asif Ali,Babar Azam,Sarfaraz Ahmed,92.73333333,92.16
+630,Shaheen Shah Afridi,Babar Azam,Sarfaraz Ahmed,78.0,71.31
+631,Mohammad Rizwan,Babar Azam,Sarfaraz Ahmed,105.54545449999999,90.72
+632,Mohammad Hafeez,Sohaib Maqsood,Sarfaraz Ahmed,82.0,72.89
+633,Mohammad Hafeez,Mohammad Irfan,Sarfaraz Ahmed,68.75,56.46
+634,Mohammad Hafeez,Shahid Afridi,Sarfaraz Ahmed,91.0,78.91
+635,Mohammad Hafeez,Sharjeel Khan,Sarfaraz Ahmed,136.5,100.16999999999999
+636,Mohammad Hafeez,Anwar Ali,Sarfaraz Ahmed,83.66666667,65.2
+637,Mohammad Hafeez,Asif Ali,Sarfaraz Ahmed,115.0,79.5
+638,Mohammad Hafeez,Azhar Ali,Sarfaraz Ahmed,93.48148148,91.47999999999999
+639,Mohammad Hafeez,Ahmed Shehzad,Sarfaraz Ahmed,91.66666667,80.91
+640,Mohammad Hafeez,Hammad Azam,Sarfaraz Ahmed,61.5,56.03
+641,Mohammad Hafeez,Mohammad Rizwan,Sarfaraz Ahmed,85.42857143,78.06
+642,Fawad Alam,Azhar Ali,Sarfaraz Ahmed,76.5,64.80000000000001
+643,Fawad Alam,Mohammad Rizwan,Sarfaraz Ahmed,62.5,51.38
+644,Sami Aslam,Mohammad Nawaz,Sarfaraz Ahmed,64.5,56.12
+645,Mohammad Nawaz,Sharjeel Khan,Sarfaraz Ahmed,103.25,80.75999999999999
+646,Mohammad Nawaz,Azhar Ali,Sarfaraz Ahmed,97.125,72.07
+647,Mohammad Nawaz,Mohammad Rizwan,Sarfaraz Ahmed,64.0,58.65
+648,Sohaib Maqsood,Mohammad Irfan,Sarfaraz Ahmed,49.0,40.64
+649,Sohaib Maqsood,Shahid Afridi,Sarfaraz Ahmed,84.0,63.089999999999996
+650,Anwar Ali,Sohaib Maqsood,Sarfaraz Ahmed,56.0,49.38
+651,Ahmed Shehzad,Sohaib Maqsood,Sarfaraz Ahmed,84.0,65.09
+652,Mohammad Irfan,Shahid Afridi,Sarfaraz Ahmed,56.33333333,46.66
+653,Anwar Ali,Mohammad Irfan,Sarfaraz Ahmed,38.6,32.95
+654,Ahmed Shehzad,Mohammad Irfan,Sarfaraz Ahmed,55.84615385,48.66
+655,Mohammad Irfan,Mohammad Rizwan,Sarfaraz Ahmed,47.84615385,45.81
+656,Ahmed Shehzad,Shahid Afridi,Sarfaraz Ahmed,93.4,71.11
+657,Bilawal Bhatti,Shahid Afridi,Sarfaraz Ahmed,52.5,50.730000000000004
+658,Saad Nasim,Azhar Ali,Sarfaraz Ahmed,108.0,91.80000000000001
+659,Saad Nasim,Mohammad Rizwan,Sarfaraz Ahmed,94.0,78.38
+660,Sami Aslam,Sharjeel Khan,Sarfaraz Ahmed,87.33333333,86.99000000000001
+661,Sami Aslam,Azhar Ali,Sarfaraz Ahmed,93.66666667,78.30000000000001
+662,Sharjeel Khan,Azhar Ali,Sarfaraz Ahmed,123.1111111,102.94
+663,Anwar Ali,Azhar Ali,Sarfaraz Ahmed,77.58333333,67.97
+664,Ahmed Shehzad,Anwar Ali,Sarfaraz Ahmed,72.0,57.4
+665,Anwar Ali,Mohammad Rizwan,Sarfaraz Ahmed,62.625,54.550000000000004
+666,Shaheen Shah Afridi,Asif Ali,Sarfaraz Ahmed,72.28571429,49.44
+667,Ahmed Shehzad,Azhar Ali,Sarfaraz Ahmed,90.4,83.68
+668,Saeed Ajmal,Azhar Ali,Sarfaraz Ahmed,69.5,58.800000000000004
+669,Hammad Azam,Azhar Ali,Sarfaraz Ahmed,101.5,58.800000000000004
+670,Azhar Ali,Mohammad Rizwan,Sarfaraz Ahmed,92.11111111,80.83000000000001
+671,Ahmed Shehzad,Mohammad Rizwan,Sarfaraz Ahmed,84.44444444,70.25999999999999
+672,Saeed Ajmal,Mohammad Rizwan,Sarfaraz Ahmed,55.5,45.38
+673,Umar Amin,Shadab Khan,Aamer Yamin,88.0,33.97
+674,Umar Amin,Shadab Khan,Haris Sohail,119.0,50.22
+675,Rumman Raees,Umar Amin,Shadab Khan,61.0,13.22
+676,Fakhar Zaman,Umar Amin,Shadab Khan,68.0,53.62
+677,Umar Amin,Shadab Khan,Faheem Ashraf,79.0,18.07
+678,Umar Amin,Shadab Khan,Babar Azam,66.0,55.56
+679,Mohammad Hafeez,Umar Amin,Shadab Khan,62.0,42.9
+680,Mohammad Nawaz,Umar Amin,Shadab Khan,79.0,23.490000000000002
+681,Umar Amin,Haris Sohail,Aamer Yamin,97.0,65.75
+682,Rumman Raees,Umar Amin,Aamer Yamin,39.0,28.75
+683,Umar Amin,Faheem Ashraf,Aamer Yamin,57.0,33.6
+684,Mohammad Nawaz,Umar Amin,Aamer Yamin,57.0,39.019999999999996
+685,Rumman Raees,Umar Amin,Haris Sohail,70.0,45.0
+686,Umar Amin,Faheem Ashraf,Haris Sohail,88.0,49.85
+687,Mohammad Nawaz,Umar Amin,Haris Sohail,88.0,55.269999999999996
+688,Rumman Raees,Umar Amin,Faheem Ashraf,30.0,12.85
+689,Rumman Raees,Mohammad Nawaz,Umar Amin,30.0,18.27
+690,Mohammad Nawaz,Umar Amin,Faheem Ashraf,48.0,23.119999999999997
+691,Shadab Khan,Haris Sohail,Aamer Yamin,149.0,71.97
+692,Rumman Raees,Shadab Khan,Aamer Yamin,91.0,34.97
+693,Fakhar Zaman,Shadab Khan,Aamer Yamin,98.0,75.37
+694,Shadab Khan,Faheem Ashraf,Aamer Yamin,109.0,39.82
+695,Shadab Khan,Babar Azam,Aamer Yamin,96.0,77.31
+696,Mohammad Hafeez,Shadab Khan,Aamer Yamin,92.0,64.65
+697,Mohammad Nawaz,Shadab Khan,Aamer Yamin,109.0,45.24
+698,Kamran Akmal,Shadab Khan,Wahab Riaz,47.0,39.32
+699,Shadab Khan,Abid Ali,Wahab Riaz,75.0,64.4
+700,Shadab Khan,Babar Azam,Wahab Riaz,64.90909091,61.99
+701,Shadab Khan,Azhar Ali,Wahab Riaz,64.0,52.1
+702,Ahmed Shehzad,Shadab Khan,Wahab Riaz,46.5,41.53
+703,Junaid Khan,Shadab Khan,Imam-ul-Haq,65.14285714,55.260000000000005
+704,Rumman Raees,Shadab Khan,Imam-ul-Haq,80.0,57.82
+705,Hasan Ali,Shadab Khan,Imam-ul-Haq,62.27777778,60.38
+706,Mohammad Nawaz,Shadab Khan,Imam-ul-Haq,80.0,68.09
+707,Asif Ali,Shadab Khan,Imam-ul-Haq,85.11111111,78.28999999999999
+708,Rumman Raees,Shadab Khan,Haris Sohail,89.0,51.22
+709,Shadab Khan,Abid Ali,Haris Sohail,130.0,95.97
+710,Shadab Khan,Faheem Ashraf,Haris Sohail,98.5,56.07
+711,Shadab Khan,Babar Azam,Haris Sohail,108.0,93.56
+712,Mohammad Hafeez,Shadab Khan,Haris Sohail,83.57142857,80.9
+713,Mohammad Nawaz,Shadab Khan,Haris Sohail,98.0,61.49
+714,Kamran Akmal,Shadab Khan,Mohammad Hafeez,89.66666667,63.57
+715,Imad Wasim,Shadab Khan,Babar Azam,76.16666667,71.87
+716,Imad Wasim,Shadab Khan,Shaheen Shah Afridi,36.75,29.150000000000002
+717,Hasan Ali,Shadab Khan,Hussain Talat,79.0,15.780000000000001
+718,Shadab Khan,Hussain Talat,Faheem Ashraf,20.0,18.07
+719,Shaheen Shah Afridi,Shadab Khan,Hussain Talat,21.0,12.84
+720,Rumman Raees,Shadab Khan,Junaid Khan,13.0,11.66
+721,Fakhar Zaman,Shadab Khan,Junaid Khan,59.0,52.059999999999995
+722,Babar Azam,Shadab Khan,Junaid Khan,54.35714286,54.0
+723,Shadab Khan,Azhar Ali,Junaid Khan,48.0,44.11
+724,Shaheen Shah Afridi,Shadab Khan,Junaid Khan,14.0,11.28
+725,Rumman Raees,Hasan Ali,Shadab Khan,28.875,16.78
+726,Rumman Raees,Shadab Khan,Mohammad Amir,32.5,15.670000000000002
+727,Rumman Raees,Fakhar Zaman,Shadab Khan,56.375,54.62
+728,Rumman Raees,Shadab Khan,Faheem Ashraf,37.5,19.07
+729,Rumman Raees,Shadab Khan,Babar Azam,58.0,56.56
+730,Rumman Raees,Shadab Khan,Mohammad Hafeez,52.44444444,43.9
+731,Rumman Raees,Mohammad Nawaz,Shadab Khan,82.0,24.490000000000002
+732,Rumman Raees,Shadab Khan,Azhar Ali,47.5,46.67
+733,Hasan Ali,Shadab Khan,Faheem Ashraf,25.66666667,21.630000000000003
+734,Mohammad Hafeez,Hasan Ali,Shadab Khan,51.08333333,46.46
+735,Hasan Ali,Shadab Khan,Azhar Ali,50.28571429,49.230000000000004
+736,Hasan Ali,Shadab Khan,Shaheen Shah Afridi,28.0,16.400000000000002
+737,Mohammad Amir,Shadab Khan,Abid Ali,74.0,60.42
+738,Fakhar Zaman,Shadab Khan,Abid Ali,150.0,99.37
+739,Shadab Khan,Usman Shinwari,Abid Ali,74.0,56.35
+740,Babar Azam,Shadab Khan,Abid Ali,105.0,101.31
+741,Mohammad Nawaz,Shadab Khan,Abid Ali,74.0,69.24000000000001
+742,Shadab Khan,Mohammad Amir,Faheem Ashraf,27.42857143,20.520000000000003
+743,Mohammad Hafeez,Shadab Khan,Mohammad Amir,47.25,45.35
+744,Fakhar Zaman,Shadab Khan,Faheem Ashraf,72.07142857,59.47
+745,Fakhar Zaman,Shadab Khan,Usman Shinwari,67.58333333,52.0
+746,Fakhar Zaman,Asif Ali,Shadab Khan,90.55555556,75.09
+747,Shah Afridi,Fakhar Zaman,Shadab Khan,90.0,51.62
+748,Fakhar Zaman,Shadab Khan,Azhar Ali,92.8,87.07
+749,Mohammad Hafeez,Shadab Khan,Faheem Ashraf,53.0,48.75
+750,Mohammad Nawaz,Shadab Khan,Faheem Ashraf,100.0,29.340000000000003
+751,Shaheen Shah Afridi,Shadab Khan,Faheem Ashraf,19.0,18.689999999999998
+752,Shadab Khan,Babar Azam,Ahmed Shehzad,87.83333333,78.44
+753,Mohammad Hafeez,Mohammad Nawaz,Shadab Khan,83.0,54.17
+754,Mohammad Hafeez,Asif Ali,Shadab Khan,108.0,64.37
+755,Mohammad Hafeez,Shadab Khan,Ahmed Shehzad,72.5,65.78
+756,Shaheen Shah Afridi,Mohammad Nawaz,Shadab Khan,25.5,24.11
+757,Shaheen Shah Afridi,Asif Ali,Shadab Khan,44.5,34.31
+758,Shadab Khan,Azhar Ali,Ahmed Shehzad,76.0,68.55
+759,Umar Akmal,Saad Ali,Haris Sohail,108.0,70.11
+760,Imad Wasim,Umar Akmal,Saad Ali,56.0,48.42
+761,Umar Akmal,Mohammad Abbas,Saad Ali,47.0,30.11
+762,Umar Akmal,Saad Ali,Abid Ali,86.5,77.86
+763,Umar Akmal,Shan Masood,Saad Ali,55.5,52.31
+764,Umar Akmal,Usman Shinwari,Saad Ali,33.5,30.49
+765,Umar Akmal,Saad Ali,Mohammad Rizwan,88.5,52.14
+766,Imad Wasim,Saad Ali,Haris Sohail,108.5,63.81
+767,Saad Ali,Junaid Khan,Haris Sohail,83.0,45.94
+768,Mohammad Abbas,Saad Ali,Haris Sohail,134.0,45.5
+769,Saad Ali,Abid Ali,Haris Sohail,139.0,93.25
+770,Shan Masood,Saad Ali,Haris Sohail,108.0,67.7
+771,Usman Shinwari,Saad Ali,Haris Sohail,86.0,45.88
+772,Saad Ali,Mohammad Rizwan,Haris Sohail,141.0,67.53
+773,Imad Wasim,Saad Ali,Junaid Khan,31.0,24.25
+774,Imad Wasim,Mohammad Abbas,Saad Ali,54.0,23.81
+775,Imad Wasim,Saad Ali,Abid Ali,87.0,71.56
+776,Imad Wasim,Shan Masood,Saad Ali,56.0,46.01
+777,Imad Wasim,Usman Shinwari,Saad Ali,34.0,24.189999999999998
+778,Imad Wasim,Saad Ali,Mohammad Rizwan,89.0,45.84
+779,Abid Ali,Saad Ali,Junaid Khan,61.5,53.69
+780,Shan Masood,Saad Ali,Junaid Khan,30.5,28.14
+781,Usman Shinwari,Saad Ali,Junaid Khan,8.5,6.32
+782,Mohammad Rizwan,Saad Ali,Junaid Khan,63.5,27.970000000000002
+783,Mohammad Abbas,Shan Masood,Saad Ali,54.0,27.7
+784,Saad Ali,Abid Ali,Mohammad Hasnain,119.0,58.85
+785,Shan Masood,Saad Ali,Abid Ali,86.5,75.45
+786,Usman Shinwari,Saad Ali,Abid Ali,64.5,53.63
+787,Mohammad Rizwan,Saad Ali,Abid Ali,119.5,75.28
+788,Usman Shinwari,Saad Ali,Mohammad Hasnain,13.0,11.48
+789,Saad Ali,Mohammad Rizwan,Mohammad Hasnain,111.0,33.13
+790,Shan Masood,Usman Shinwari,Saad Ali,33.5,28.08
+791,Shan Masood,Saad Ali,Mohammad Rizwan,88.5,49.730000000000004
+792,Usman Shinwari,Saad Ali,Mohammad Rizwan,66.5,27.91
+793,Wahab Riaz,Aamer Yamin,Bilal Asif,51.5,45.51
+794,Asad Shafiq,Aamer Yamin,Bilal Asif,69.5,53.08
+795,Mohammad Hafeez,Aamer Yamin,Bilal Asif,70.0,69.76
+796,Aamer Yamin,Mohammad Irfan,Bilal Asif,50.0,37.51
+797,Ahmed Shehzad,Aamer Yamin,Bilal Asif,70.0,61.959999999999994
+798,Wahab Riaz,Asad Shafiq,Bilal Asif,40.0,37.76
+799,Wahab Riaz,Mohammad Hafeez,Bilal Asif,61.66666667,54.44
+800,Wahab Riaz,Ahmed Shehzad,Bilal Asif,70.0,46.64
+801,Imad Wasim,Asad Shafiq,Bilal Asif,76.0,47.64
+802,Imad Wasim,Mohammad Irfan,Bilal Asif,38.0,32.07
+803,Ahmed Shehzad,Imad Wasim,Bilal Asif,70.0,56.519999999999996
+804,Asad Shafiq,Mohammad Irfan,Bilal Asif,38.5,29.759999999999998
+805,Ahmed Shehzad,Asad Shafiq,Bilal Asif,108.0,54.209999999999994
+806,Mohammad Hafeez,Younis Khan,Bilal Asif,113.0,63.01
+807,Mohammad Hafeez,Babar Azam,Bilal Asif,166.0,91.35000000000001
+808,Mohammad Irfan,Babar Azam,Bilal Asif,64.0,59.1
+809,Mohammad Hafeez,Mohammad Irfan,Bilal Asif,60.66666667,46.44
+810,Mohammad Hafeez,Anwar Ali,Bilal Asif,104.0,55.18
+811,Mohammad Hafeez,Ahmed Shehzad,Bilal Asif,83.0,70.89
+812,Ahmed Shehzad,Mohammad Irfan,Bilal Asif,70.0,38.64
+813,Ahmed Shehzad,Mohammad Rizwan,Bilal Asif,70.0,60.239999999999995
+814,Wahab Riaz,Asad Shafiq,Aamer Yamin,52.0,48.18
+815,Rumman Raees,Haris Sohail,Aamer Yamin,100.0,66.75
+816,Faheem Ashraf,Haris Sohail,Aamer Yamin,118.0,71.6
+817,Mohammad Hafeez,Haris Sohail,Aamer Yamin,101.0,96.43
+818,Mohammad Nawaz,Haris Sohail,Aamer Yamin,118.0,77.02
+819,Imad Wasim,Mohammad Rizwan,Aamer Yamin,68.5,64.09
+820,Rumman Raees,Faheem Ashraf,Aamer Yamin,60.0,34.6
+821,Rumman Raees,Mohammad Nawaz,Aamer Yamin,60.0,40.019999999999996
+822,Mohammad Nawaz,Faheem Ashraf,Aamer Yamin,78.0,44.87
+823,Asad Shafiq,Mohammad Irfan,Aamer Yamin,50.5,40.18
+824,Ahmed Shehzad,Asad Shafiq,Aamer Yamin,70.0,64.63
+825,Mohammad Irfan,Mohammad Rizwan,Aamer Yamin,48.66666667,46.21
+826,Umar Gul,Haris Sohail,Wahab Riaz,59.0,49.63
+827,Umar Gul,Junaid Khan,Wahab Riaz,11.0,10.07
+828,Umar Gul,Sami Aslam,Wahab Riaz,52.0,29.13
+829,Umar Gul,Azhar Ali,Wahab Riaz,95.0,45.080000000000005
+830,Umar Gul,Junaid Khan,Haris Sohail,56.0,41.64
+831,Umar Gul,Fawad Alam,Haris Sohail,56.0,47.2
+832,Umar Gul,Sami Aslam,Haris Sohail,97.0,60.7
+833,Umar Gul,Azhar Ali,Haris Sohail,153.0,76.65
+834,Umar Gul,Zulfiqar Babar,Haris Sohail,53.0,42.2
+835,Umar Gul,Imad Wasim,Hasan Ali,29.33333333,25.069999999999997
+836,Umar Gul,Imad Wasim,Mohammad Nawaz,45.25,32.78
+837,Umar Gul,Imad Wasim,Mohammad Irfan,63.0,19.939999999999998
+838,Umar Gul,Imad Wasim,Sami Aslam,87.0,39.01
+839,Umar Gul,Imad Wasim,Sharjeel Khan,72.5,63.65
+840,Umar Gul,Imad Wasim,Azhar Ali,73.0,54.96
+841,Umar Gul,Imad Wasim,Mohammad Rizwan,59.5,41.54
+842,Umar Gul,Fawad Alam,Junaid Khan,8.0,7.640000000000001
+843,Umar Gul,Sami Aslam,Junaid Khan,49.0,21.14
+844,Umar Gul,Azhar Ali,Junaid Khan,105.0,37.09
+845,Umar Gul,Zulfiqar Babar,Junaid Khan,5.0,2.64
+846,Umar Gul,Hasan Ali,Mohammad Nawaz,27.66666667,20.03
+847,Umar Gul,Hasan Ali,Mohammad Irfan,15.0,7.1899999999999995
+848,Umar Gul,Hasan Ali,Sami Aslam,39.0,26.259999999999998
+849,Umar Gul,Hasan Ali,Sharjeel Khan,64.33333333,50.9
+850,Umar Gul,Hasan Ali,Azhar Ali,43.0,42.21
+851,Umar Gul,Mohammad Nawaz,Mohammad Amir,24.0,18.919999999999998
+852,Umar Gul,Sharjeel Khan,Mohammad Amir,59.33333333,49.790000000000006
+853,Umar Gul,Mohammad Rizwan,Mohammad Amir,34.0,27.68
+854,Umar Gul,Mohammad Nawaz,Mohammad Hafeez,59.0,47.15
+855,Umar Gul,Sharjeel Khan,Mohammad Hafeez,108.0,78.02000000000001
+856,Umar Gul,Azhar Ali,Mohammad Hafeez,78.66666667,69.33000000000001
+857,Umar Gul,Fawad Alam,Sami Aslam,49.0,26.7
+858,Umar Gul,Fawad Alam,Azhar Ali,105.0,42.650000000000006
+859,Umar Gul,Mohammad Nawaz,Mohammad Irfan,19.0,14.899999999999999
+860,Umar Gul,Sami Aslam,Mohammad Nawaz,43.0,33.97
+861,Umar Gul,Mohammad Nawaz,Sharjeel Khan,71.25,58.61
+862,Umar Gul,Mohammad Nawaz,Azhar Ali,71.75,49.92
+863,Umar Gul,Sami Aslam,Mohammad Irfan,30.0,21.13
+864,Umar Gul,Azhar Ali,Mohammad Irfan,86.0,37.080000000000005
+865,Umar Gul,Sami Aslam,Saad Nasim,67.0,53.7
+866,Umar Gul,Azhar Ali,Saad Nasim,123.0,69.65
+867,Umar Gul,Sami Aslam,Azhar Ali,128.0,56.150000000000006
+868,Umar Gul,Sami Aslam,Zulfiqar Babar,46.0,21.7
+869,Umar Gul,Sharjeel Khan,Azhar Ali,99.0,80.79
+870,Umar Gul,Azhar Ali,Zulfiqar Babar,102.0,37.650000000000006
+871,Umar Gul,Azhar Ali,Mohammad Rizwan,88.0,58.68000000000001
+872,Rahat Ali,Umar Akmal,Wahab Riaz,40.75,33.71
+873,Misbah-ul-Haq,Umar Akmal,Wahab Riaz,84.5,81.53999999999999
+874,Imad Wasim,Umar Akmal,Wahab Riaz,52.0,51.35
+875,Umar Akmal,Junaid Khan,Wahab Riaz,63.0,33.480000000000004
+876,Hasan Ali,Umar Akmal,Wahab Riaz,50.0,38.599999999999994
+877,Umar Akmal,Mohammad Amir,Wahab Riaz,55.5,37.489999999999995
+878,Sohail Khan,Umar Akmal,Wahab Riaz,40.5,36.04
+879,Umar Akmal,Younis Khan,Wahab Riaz,50.66666667,50.04
+880,Umar Akmal,Babar Azam,Wahab Riaz,109.5,78.38
+881,Nasir Jamshed,Umar Akmal,Wahab Riaz,75.0,33.54
+882,Umar Akmal,Sohaib Maqsood,Wahab Riaz,55.0,49.9
+883,Umar Akmal,Mohammad Irfan,Wahab Riaz,42.5,33.47
+884,Umar Akmal,Sharjeel Khan,Wahab Riaz,91.5,77.18
+885,Ahmed Shehzad,Umar Akmal,Wahab Riaz,59.33333333,57.919999999999995
+886,Umar Akmal,Mohammad Rizwan,Wahab Riaz,56.5,55.07
+887,Rahat Ali,Umar Akmal,Younis Khan,51.0,42.28
+888,Rahat Ali,Umar Akmal,Nasir Jamshed,34.0,25.78
+889,Junaid Khan,Umar Akmal,Imam-ul-Haq,87.0,71.65
+890,Umar Akmal,Usman Shinwari,Imam-ul-Haq,82.0,71.59
+891,Imad Wasim,Umar Akmal,Haris Sohail,116.4,82.92
+892,Umar Akmal,Junaid Khan,Haris Sohail,82.33333333,65.05
+893,Umar Akmal,Mohammad Abbas,Haris Sohail,124.0,64.61
+894,Umar Akmal,Abid Ali,Haris Sohail,158.5,112.36
+895,Umar Akmal,Mohammad Amir,Haris Sohail,149.0,69.06
+896,Umar Akmal,Shan Masood,Haris Sohail,110.4,86.81
+897,Umar Akmal,Faheem Ashraf,Haris Sohail,120.5,72.46000000000001
+898,Umar Akmal,Usman Shinwari,Haris Sohail,82.66666667,64.99
+899,Umar Akmal,Mohammad Rizwan,Haris Sohail,134.4,86.64
+900,Misbah-ul-Haq,Nasir Jamshed,Umar Akmal,86.5,73.61
+901,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,73.66666667,73.54
+902,Imad Wasim,Umar Akmal,Junaid Khan,47.83333333,43.36
+903,Imad Wasim,Umar Akmal,Mohammad Abbas,68.0,42.92
+904,Imad Wasim,Umar Akmal,Abid Ali,106.5,90.67
+905,Imad Wasim,Umar Akmal,Mohammad Amir,48.2,47.370000000000005
+906,Imad Wasim,Umar Akmal,Shan Masood,80.4,65.12
+907,Imad Wasim,Umar Akmal,Faheem Ashraf,76.5,50.77
+908,Imad Wasim,Umar Akmal,Usman Shinwari,62.0,43.300000000000004
+909,Imad Wasim,Umar Akmal,Mohammad Rizwan,79.44444444,64.95
+910,Hasan Ali,Umar Akmal,Junaid Khan,33.75,30.61
+911,Umar Akmal,Mohammad Abbas,Junaid Khan,43.0,25.05
+912,Umar Akmal,Abid Ali,Junaid Khan,81.0,72.8
+913,Mohammad Amir,Umar Akmal,Junaid Khan,35.0,29.5
+914,Umar Akmal,Shan Masood,Junaid Khan,47.66666667,47.25
+915,Umar Akmal,Usman Shinwari,Junaid Khan,32.33333333,25.43
+916,Babar Azam,Umar Akmal,Junaid Khan,90.75,70.39
+917,Mohammad Hafeez,Umar Akmal,Junaid Khan,58.25,57.73
+918,Umar Akmal,Sharjeel Khan,Junaid Khan,86.5,69.19
+919,Mohammad Rizwan,Umar Akmal,Junaid Khan,50.14285714,47.08
+920,Hasan Ali,Umar Akmal,Mohammad Amir,37.4,34.62
+921,Hasan Ali,Umar Akmal,Babar Azam,87.0,75.51
+922,Hasan Ali,Umar Akmal,Sharjeel Khan,80.6,74.31
+923,Umar Akmal,Mohammad Abbas,Mohammad Amir,48.0,29.06
+924,Shan Masood,Umar Akmal,Mohammad Abbas,72.0,46.81
+925,Umar Akmal,Mohammad Abbas,Faheem Ashraf,53.0,32.46
+926,Umar Akmal,Mohammad Abbas,Usman Shinwari,43.0,24.99
+927,Umar Akmal,Mohammad Abbas,Mohammad Rizwan,78.0,46.64
+928,Umar Akmal,Abid Ali,Mohammad Hasnain,119.0,77.96
+929,Umar Akmal,Shan Masood,Abid Ali,106.0,94.56
+930,Umar Akmal,Usman Shinwari,Abid Ali,84.0,72.74
+931,Mohammad Rizwan,Umar Akmal,Abid Ali,139.0,94.39
+932,Umar Akmal,Shan Masood,Mohammad Amir,88.0,51.260000000000005
+933,Umar Akmal,Faheem Ashraf,Mohammad Amir,76.0,36.910000000000004
+934,Babar Azam,Umar Akmal,Mohammad Amir,89.4,74.4
+935,Umar Akmal,Sharjeel Khan,Mohammad Amir,83.0,73.2
+936,Umar Akmal,Mohammad Rizwan,Mohammad Hasnain,92.66666667,52.24
+937,Umar Akmal,Shan Masood,Faheem Ashraf,82.5,54.660000000000004
+938,Umar Akmal,Shan Masood,Usman Shinwari,48.0,47.190000000000005
+939,Umar Akmal,Shan Masood,Mohammad Rizwan,98.4,68.84
+940,Umar Akmal,Faheem Ashraf,Mohammad Rizwan,110.5,54.49
+941,Sohail Khan,Umar Akmal,Younis Khan,52.0,44.61
+942,Sohail Khan,Nasir Jamshed,Umar Akmal,50.0,28.11
+943,Sohail Khan,Umar Akmal,Sohaib Maqsood,45.66666667,44.47
+944,Sohail Khan,Umar Akmal,Mohammad Irfan,31.5,28.04
+945,Umar Akmal,Asad Shafiq,Babar Azam,96.5,85.95
+946,Mohammad Hafeez,Umar Akmal,Asad Shafiq,75.5,73.28999999999999
+947,Umar Akmal,Usman Shinwari,Mohammad Rizwan,69.33333333,47.019999999999996
+948,Nasir Jamshed,Umar Akmal,Younis Khan,59.0,42.11
+949,Umar Akmal,Sohaib Maqsood,Younis Khan,67.66666667,58.47
+950,Umar Akmal,Younis Khan,Shahid Afridi,66.4,64.49
+951,Mohammad Hafeez,Umar Akmal,Babar Azam,107.2,102.63
+952,Umar Akmal,Sharjeel Khan,Babar Azam,132.6,114.09
+953,Mohammad Rizwan,Umar Akmal,Babar Azam,92.8,91.98
+954,Mohammad Hafeez,Umar Akmal,Shahid Afridi,90.5,80.17
+955,Mohammad Hafeez,Umar Akmal,Ahmed Shehzad,86.5,82.17
+956,Nasir Jamshed,Umar Akmal,Sohaib Maqsood,82.0,41.97
+957,Nasir Jamshed,Umar Akmal,Mohammad Irfan,47.5,25.54
+958,Nasir Jamshed,Umar Akmal,Shahid Afridi,60.5,47.989999999999995
+959,Umar Akmal,Sohaib Maqsood,Mohammad Irfan,47.0,41.9
+960,Umar Akmal,Bilawal Bhatti,Shahid Afridi,52.0,51.989999999999995
+961,Wahab Riaz,Babar Azam,Zafar Gohar,72.0,68.77000000000001
+962,Wahab Riaz,Mohammad Hafeez,Zafar Gohar,95.0,56.11
+963,Wahab Riaz,Mohammad Irfan,Zafar Gohar,50.0,23.86
+964,Wahab Riaz,Anwar Ali,Zafar Gohar,57.0,32.6
+965,Wahab Riaz,Azhar Ali,Zafar Gohar,86.0,58.88
+966,Wahab Riaz,Mohammad Rizwan,Zafar Gohar,51.0,45.46
+967,Mohammad Hafeez,Mohammad Irfan,Zafar Gohar,60.0,48.11
+968,Mohammad Hafeez,Anwar Ali,Zafar Gohar,67.0,56.85
+969,Mohammad Hafeez,Azhar Ali,Zafar Gohar,96.0,83.13
+970,Azhar Ali,Mohammad Irfan,Zafar Gohar,51.0,50.88
+971,Haris Sohail,Mohammad Sami,Wahab Riaz,70.5,48.43
+972,Mohammad Hafeez,Mohammad Sami,Wahab Riaz,50.5,41.11
+973,Azhar Ali,Mohammad Sami,Wahab Riaz,90.5,43.88
+974,Asad Shafiq,Mohammad Sami,Haris Sohail,90.0,56.0
+975,Mohammad Hafeez,Mohammad Sami,Haris Sohail,121.0,72.68
+976,Anwar Ali,Mohammad Sami,Haris Sohail,70.5,49.17
+977,Azhar Ali,Mohammad Sami,Haris Sohail,161.0,75.45
+978,Hammad Azam,Mohammad Sami,Haris Sohail,70.5,40.0
+979,Mohammad Hafeez,Asad Shafiq,Mohammad Sami,70.0,48.68
+980,Asad Shafiq,Azhar Ali,Mohammad Sami,110.0,51.45
+981,Asad Shafiq,Hammad Azam,Mohammad Sami,19.5,16.0
+982,Mohammad Hafeez,Anwar Ali,Mohammad Sami,50.5,41.85
+983,Mohammad Hafeez,Azhar Ali,Mohammad Sami,141.0,68.13
+984,Mohammad Hafeez,Hammad Azam,Mohammad Sami,50.5,32.68
+985,Anwar Ali,Azhar Ali,Mohammad Sami,90.5,44.620000000000005
+986,Hammad Azam,Azhar Ali,Mohammad Sami,90.5,35.45
+987,Rahat Ali,Haris Sohail,Wahab Riaz,60.4,49.1
+988,Misbah-ul-Haq,Rahat Ali,Wahab Riaz,69.75,57.6
+989,Rahat Ali,Ehsan Adil,Wahab Riaz,18.5,14.6
+990,Rahat Ali,Junaid Khan,Wahab Riaz,30.0,9.54
+991,Sohail Khan,Rahat Ali,Wahab Riaz,22.5,12.1
+992,Rahat Ali,Younis Khan,Wahab Riaz,38.0,26.1
+993,Rahat Ali,Babar Azam,Wahab Riaz,94.0,54.440000000000005
+994,Mohammad Hafeez,Rahat Ali,Wahab Riaz,50.33333333,41.78
+995,Rahat Ali,Nasir Jamshed,Wahab Riaz,55.0,9.6
+996,Fawad Alam,Rahat Ali,Wahab Riaz,37.0,15.1
+997,Rahat Ali,Sohaib Maqsood,Wahab Riaz,33.75,25.96
+998,Rahat Ali,Mohammad Irfan,Wahab Riaz,22.33333333,9.53
+999,Rahat Ali,Shahid Afridi,Wahab Riaz,33.0,31.98
+1000,Saad Nasim,Rahat Ali,Wahab Riaz,68.5,42.1
+1001,Rahat Ali,Azhar Ali,Wahab Riaz,60.66666667,44.550000000000004
+1002,Ahmed Shehzad,Rahat Ali,Wahab Riaz,37.2,33.980000000000004
+1003,Rahat Ali,Saeed Ajmal,Wahab Riaz,30.0,9.1
+1004,Rahat Ali,Mohammad Rizwan,Wahab Riaz,55.66666667,31.130000000000003
+1005,Babar Azam,Imam-ul-Haq,Wahab Riaz,112.7777778,100.37
+1006,Asif Ali,Imam-ul-Haq,Wahab Riaz,82.5,78.5
+1007,Shaheen Shah Afridi,Imam-ul-Haq,Wahab Riaz,63.8,57.65
+1008,Imad Wasim,Haris Sohail,Wahab Riaz,67.83333333,66.74000000000001
+1009,Haris Sohail,Junaid Khan,Wahab Riaz,72.33333333,48.87
+1010,Haris Sohail,Abid Ali,Wahab Riaz,131.0,96.18
+1011,Asad Shafiq,Haris Sohail,Wahab Riaz,90.0,64.43
+1012,Usman Shinwari,Haris Sohail,Wahab Riaz,49.5,48.81
+1013,Haris Sohail,Babar Azam,Wahab Riaz,116.42857140000001,93.77000000000001
+1014,Mohammad Hafeez,Haris Sohail,Wahab Riaz,81.4,81.11000000000001
+1015,Fawad Alam,Haris Sohail,Wahab Riaz,77.0,54.43
+1016,Saad Nasim,Haris Sohail,Wahab Riaz,104.0,81.43
+1017,Sami Aslam,Haris Sohail,Wahab Riaz,104.0,67.93
+1018,Anwar Ali,Haris Sohail,Wahab Riaz,70.5,57.6
+1019,Azhar Ali,Haris Sohail,Wahab Riaz,148.8,83.88
+1020,Haris Sohail,Zulfiqar Babar,Wahab Riaz,60.0,49.43
+1021,Saeed Ajmal,Haris Sohail,Wahab Riaz,77.0,48.43
+1022,Shaheen Shah Afridi,Haris Sohail,Wahab Riaz,52.75,51.05
+1023,Hammad Azam,Haris Sohail,Wahab Riaz,70.5,48.43
+1024,Haris Sohail,Mohammad Rizwan,Wahab Riaz,99.0,70.46000000000001
+1025,Kamran Akmal,Imad Wasim,Wahab Riaz,53.0,49.410000000000004
+1026,Kamran Akmal,Hasan Ali,Wahab Riaz,47.0,36.66
+1027,Kamran Akmal,Mohammad Amir,Wahab Riaz,47.0,35.55
+1028,Kamran Akmal,Mohammad Hafeez,Wahab Riaz,135.0,63.78
+1029,Kamran Akmal,Ahmed Shehzad,Wahab Riaz,114.0,55.98
+1030,Misbah-ul-Haq,Sohail Khan,Wahab Riaz,63.83333333,59.93
+1031,Misbah-ul-Haq,Nasir Jamshed,Wahab Riaz,69.0,57.43
+1032,Misbah-ul-Haq,Sohaib Maqsood,Wahab Riaz,78.33333333,73.78999999999999
+1033,Misbah-ul-Haq,Mohammad Irfan,Wahab Riaz,69.25,57.36
+1034,Misbah-ul-Haq,Ahmed Shehzad,Wahab Riaz,82.66666667,81.81
+1035,Sohail Khan,Ehsan Adil,Wahab Riaz,17.5,16.93
+1036,Ahmed Shehzad,Ehsan Adil,Wahab Riaz,49.5,38.81
+1037,Imad Wasim,Babar Azam,Wahab Riaz,89.3125,72.08000000000001
+1038,Sami Aslam,Imad Wasim,Wahab Riaz,70.0,46.24
+1039,Imad Wasim,Shaheen Shah Afridi,Wahab Riaz,34.0,29.36
+1040,Hasan Ali,Junaid Khan,Wahab Riaz,30.0,14.43
+1041,Mohammad Amir,Junaid Khan,Wahab Riaz,34.0,13.32
+1042,Babar Azam,Junaid Khan,Wahab Riaz,117.0,54.21
+1043,Fawad Alam,Junaid Khan,Wahab Riaz,29.33333333,14.870000000000001
+1044,Saad Nasim,Junaid Khan,Wahab Riaz,56.33333333,41.87
+1045,Sami Aslam,Junaid Khan,Wahab Riaz,56.0,28.37
+1046,Sharjeel Khan,Junaid Khan,Wahab Riaz,96.0,53.01
+1047,Azhar Ali,Junaid Khan,Wahab Riaz,75.5,44.32
+1048,Zulfiqar Babar,Junaid Khan,Wahab Riaz,12.0,9.87
+1049,Saeed Ajmal,Junaid Khan,Wahab Riaz,29.5,8.87
+1050,Mohammad Rizwan,Junaid Khan,Wahab Riaz,44.25,30.900000000000002
+1051,Hasan Ali,Mohammad Amir,Wahab Riaz,23.08333333,18.439999999999998
+1052,Hasan Ali,Fakhar Zaman,Wahab Riaz,57.5,57.39
+1053,Hasan Ali,Babar Azam,Wahab Riaz,68.38461538,59.330000000000005
+1054,Mohammad Hafeez,Hasan Ali,Wahab Riaz,53.75,46.67
+1055,Hasan Ali,Asif Ali,Wahab Riaz,55.0,37.459999999999994
+1056,Ahmed Shehzad,Hasan Ali,Wahab Riaz,39.5,38.87
+1057,Hasan Ali,Shaheen Shah Afridi,Wahab Riaz,78.0,16.61
+1058,Mohammad Amir,Abid Ali,Wahab Riaz,75.0,60.63
+1059,Fakhar Zaman,Abid Ali,Wahab Riaz,151.0,99.58000000000001
+1060,Usman Shinwari,Abid Ali,Wahab Riaz,75.0,56.56
+1061,Babar Azam,Abid Ali,Wahab Riaz,106.0,101.52000000000001
+1062,Mohammad Nawaz,Abid Ali,Wahab Riaz,75.0,69.44999999999999
+1063,Babar Azam,Mohammad Amir,Wahab Riaz,71.61904762,58.220000000000006
+1064,Mohammad Nawaz,Mohammad Amir,Wahab Riaz,26.83333333,26.15
+1065,Sami Aslam,Mohammad Amir,Wahab Riaz,46.5,32.379999999999995
+1066,Fakhar Zaman,Usman Shinwari,Wahab Riaz,66.5,52.21
+1067,Fakhar Zaman,Babar Azam,Wahab Riaz,102.7,97.17000000000002
+1068,Fakhar Zaman,Mohammad Nawaz,Wahab Riaz,77.0,65.1
+1069,Sohail Khan,Younis Khan,Wahab Riaz,30.33333333,28.43
+1070,Sohail Khan,Babar Azam,Wahab Riaz,117.0,56.77
+1071,Sohail Khan,Nasir Jamshed,Wahab Riaz,32.5,11.93
+1072,Sohail Khan,Sohaib Maqsood,Wahab Riaz,34.33333333,28.29
+1073,Sohail Khan,Mohammad Irfan,Wahab Riaz,20.5,11.86
+1074,Sohail Khan,Azhar Ali,Wahab Riaz,101.0,46.88
+1075,Sohail Khan,Ahmed Shehzad,Wahab Riaz,38.66666667,36.31
+1076,Asad Shafiq,Azhar Ali,Wahab Riaz,75.0,59.88
+1077,Ahmed Shehzad,Asad Shafiq,Wahab Riaz,70.0,49.309999999999995
+1078,Usman Shinwari,Babar Azam,Wahab Riaz,74.5,54.150000000000006
+1079,Babar Azam,Younis Khan,Wahab Riaz,71.0,70.77000000000001
+1080,Mohammad Hafeez,Younis Khan,Wahab Riaz,111.0,58.11
+1081,Sohaib Maqsood,Younis Khan,Wahab Riaz,46.0,42.29
+1082,Shahid Afridi,Younis Khan,Wahab Riaz,50.66666667,48.309999999999995
+1083,Mohammad Hafeez,Babar Azam,Wahab Riaz,95.47368421,86.45000000000002
+1084,Mohammad Nawaz,Babar Azam,Wahab Riaz,81.28571429,67.03999999999999
+1085,Sohaib Maqsood,Babar Azam,Wahab Riaz,77.0,70.63
+1086,Mohammad Irfan,Babar Azam,Wahab Riaz,56.83333333,54.2
+1087,Sharjeel Khan,Babar Azam,Wahab Riaz,112.75,97.91
+1088,Anwar Ali,Babar Azam,Wahab Riaz,63.4,62.940000000000005
+1089,Asif Ali,Babar Azam,Wahab Riaz,80.5,77.24000000000001
+1090,Azhar Ali,Babar Azam,Wahab Riaz,92.06666667,89.22
+1091,Shaheen Shah Afridi,Babar Azam,Wahab Riaz,81.6,56.39
+1092,Mohammad Rizwan,Babar Azam,Wahab Riaz,91.22222222,75.80000000000001
+1093,Mohammad Hafeez,Mohammad Irfan,Wahab Riaz,45.77777778,41.54
+1094,Mohammad Hafeez,Anwar Ali,Wahab Riaz,63.28571429,50.28
+1095,Mohammad Hafeez,Asif Ali,Wahab Riaz,99.0,64.58
+1096,Mohammad Hafeez,Azhar Ali,Wahab Riaz,79.05882353,76.56
+1097,Mohammad Hafeez,Ahmed Shehzad,Wahab Riaz,68.14285714,65.99000000000001
+1098,Mohammad Hafeez,Hammad Azam,Wahab Riaz,50.5,41.11
+1099,Nasir Jamshed,Sohaib Maqsood,Wahab Riaz,64.5,25.79
+1100,Nasir Jamshed,Mohammad Irfan,Wahab Riaz,30.0,9.36
+1101,Nasir Jamshed,Shahid Afridi,Wahab Riaz,43.0,31.81
+1102,Saad Nasim,Fawad Alam,Wahab Riaz,61.0,47.43
+1103,Sami Aslam,Fawad Alam,Wahab Riaz,56.0,33.93
+1104,Fawad Alam,Azhar Ali,Wahab Riaz,97.66666667,49.88
+1105,Fawad Alam,Saeed Ajmal,Wahab Riaz,36.5,14.43
+1106,Fawad Alam,Mohammad Rizwan,Wahab Riaz,56.0,36.46
+1107,Sami Aslam,Mohammad Nawaz,Wahab Riaz,56.0,41.199999999999996
+1108,Sohaib Maqsood,Mohammad Irfan,Wahab Riaz,31.8,25.72
+1109,Sohaib Maqsood,Shahid Afridi,Wahab Riaz,48.33333333,48.169999999999995
+1110,Mohammad Irfan,Shahid Afridi,Wahab Riaz,34.25,31.74
+1111,Anwar Ali,Mohammad Irfan,Wahab Riaz,23.2,18.03
+1112,Saad Nasim,Sami Aslam,Wahab Riaz,74.0,60.93
+1113,Saad Nasim,Azhar Ali,Wahab Riaz,124.66666670000001,76.88
+1114,Saad Nasim,Saeed Ajmal,Wahab Riaz,68.0,41.43
+1115,Saad Nasim,Mohammad Rizwan,Wahab Riaz,83.0,63.46
+1116,Sami Aslam,Azhar Ali,Wahab Riaz,65.0,63.38
+1117,Sami Aslam,Zulfiqar Babar,Wahab Riaz,53.0,28.93
+1118,Sami Aslam,Mohammad Rizwan,Wahab Riaz,56.0,49.96
+1119,Anwar Ali,Azhar Ali,Wahab Riaz,60.85714286,53.050000000000004
+1120,Anwar Ali,Mohammad Rizwan,Wahab Riaz,41.33333333,39.63
+1121,Shaheen Shah Afridi,Asif Ali,Wahab Riaz,51.0,34.519999999999996
+1122,Azhar Ali,Zulfiqar Babar,Wahab Riaz,109.0,44.88
+1123,Saeed Ajmal,Azhar Ali,Wahab Riaz,83.5,43.88
+1124,Hammad Azam,Azhar Ali,Wahab Riaz,90.5,43.88
+1125,Saeed Ajmal,Mohammad Rizwan,Wahab Riaz,69.5,30.46
+1126,Rahat Ali,Junaid Khan,Haris Sohail,48.0,41.11
+1127,Fawad Alam,Rahat Ali,Haris Sohail,55.0,46.67
+1128,Saad Nasim,Rahat Ali,Haris Sohail,86.5,73.67
+1129,Rahat Ali,Azhar Ali,Haris Sohail,102.0,76.12
+1130,Rahat Ali,Saeed Ajmal,Haris Sohail,48.0,40.67
+1131,Rahat Ali,Mohammad Rizwan,Haris Sohail,88.0,62.7
+1132,Misbah-ul-Haq,Rahat Ali,Sohail Khan,55.5,52.17
+1133,Misbah-ul-Haq,Rahat Ali,Younis Khan,94.0,66.17
+1134,Misbah-ul-Haq,Rahat Ali,Nasir Jamshed,74.0,49.67
+1135,Misbah-ul-Haq,Rahat Ali,Sohaib Maqsood,66.75,66.03
+1136,Misbah-ul-Haq,Rahat Ali,Mohammad Irfan,65.5,49.6
+1137,Sohail Khan,Rahat Ali,Ehsan Adil,12.5,9.17
+1138,Rahat Ali,Sohaib Maqsood,Ehsan Adil,25.0,23.03
+1139,Rahat Ali,Ehsan Adil,Ahmed Shehzad,44.5,31.049999999999997
+1140,Mohammad Hafeez,Rahat Ali,Imad Wasim,58.66666667,51.66
+1141,Rahat Ali,Imad Wasim,Ahmed Shehzad,57.33333333,43.86
+1142,Fawad Alam,Rahat Ali,Junaid Khan,7.5,7.11
+1143,Saad Nasim,Rahat Ali,Junaid Khan,39.0,34.11
+1144,Rahat Ali,Azhar Ali,Junaid Khan,54.5,36.56
+1145,Rahat Ali,Mohammad Rizwan,Junaid Khan,40.5,23.140000000000004
+1146,Babar Azam,Rahat Ali,Mohammad Amir,84.0,50.46000000000001
+1147,Mohammad Hafeez,Rahat Ali,Mohammad Amir,77.0,37.800000000000004
+1148,Sohail Khan,Rahat Ali,Younis Khan,41.0,20.67
+1149,Sohail Khan,Rahat Ali,Nasir Jamshed,7.0,4.17
+1150,Sohail Khan,Rahat Ali,Mohammad Irfan,5.5,4.1
+1151,Rahat Ali,Sohaib Maqsood,Younis Khan,46.0,34.53
+1152,Rahat Ali,Mohammad Irfan,Younis Khan,39.0,18.1
+1153,Rahat Ali,Younis Khan,Shahid Afridi,60.0,40.55
+1154,Rahat Ali,Younis Khan,Ahmed Shehzad,56.0,42.55
+1155,Mohammad Hafeez,Rahat Ali,Babar Azam,102.66666670000001,78.69
+1156,Rahat Ali,Mohammad Rizwan,Babar Azam,69.33333333,68.04
+1157,Mohammad Hafeez,Rahat Ali,Mohammad Irfan,58.83333333,33.78
+1158,Mohammad Hafeez,Rahat Ali,Anwar Ali,62.6,42.52
+1159,Mohammad Hafeez,Rahat Ali,Azhar Ali,85.25,68.80000000000001
+1160,Mohammad Hafeez,Rahat Ali,Ahmed Shehzad,96.16666667,58.230000000000004
+1161,Mohammad Hafeez,Rahat Ali,Mohammad Rizwan,73.25,55.38
+1162,Rahat Ali,Sohaib Maqsood,Nasir Jamshed,22.0,18.03
+1163,Fawad Alam,Rahat Ali,Saad Nasim,46.0,39.67
+1164,Fawad Alam,Rahat Ali,Azhar Ali,61.5,42.120000000000005
+1165,Fawad Alam,Rahat Ali,Saeed Ajmal,7.5,6.67
+1166,Fawad Alam,Rahat Ali,Mohammad Rizwan,47.5,28.700000000000003
+1167,Rahat Ali,Azhar Ali,Mohammad Irfan,37.33333333,36.550000000000004
+1168,Rahat Ali,Mohammad Irfan,Ahmed Shehzad,31.5,25.98
+1169,Rahat Ali,Mohammad Irfan,Mohammad Rizwan,26.0,23.130000000000003
+1170,Saad Nasim,Rahat Ali,Azhar Ali,93.0,69.12
+1171,Saad Nasim,Rahat Ali,Saeed Ajmal,39.0,33.67
+1172,Saad Nasim,Rahat Ali,Mohammad Rizwan,79.0,55.7
+1173,Rahat Ali,Anwar Ali,Azhar Ali,51.4,45.290000000000006
+1174,Rahat Ali,Anwar Ali,Ahmed Shehzad,51.2,34.72
+1175,Rahat Ali,Anwar Ali,Mohammad Rizwan,35.2,31.87
+1176,Rahat Ali,Azhar Ali,Ahmed Shehzad,74.66666667,61.0
+1177,Rahat Ali,Saeed Ajmal,Azhar Ali,54.5,36.120000000000005
+1178,Rahat Ali,Azhar Ali,Mohammad Rizwan,70.125,58.150000000000006
+1179,Rahat Ali,Mohammad Rizwan,Ahmed Shehzad,63.33333333,47.58
+1180,Rahat Ali,Saeed Ajmal,Mohammad Rizwan,40.5,22.700000000000003
+1181,Imad Wasim,Imam-ul-Haq,Haris Sohail,105.2727273,104.91
+1182,Junaid Khan,Imam-ul-Haq,Haris Sohail,122.0,87.03999999999999
+1183,Hasan Ali,Imam-ul-Haq,Haris Sohail,93.25,92.16
+1184,Faheem Ashraf,Imam-ul-Haq,Haris Sohail,112.75,94.45
+1185,Babar Azam,Imam-ul-Haq,Haris Sohail,153.77777780000002,131.94
+1186,Mohammad Nawaz,Imam-ul-Haq,Haris Sohail,103.0,99.87
+1187,Asif Ali,Imam-ul-Haq,Haris Sohail,148.0,110.07
+1188,Shaheen Shah Afridi,Imam-ul-Haq,Haris Sohail,104.2857143,89.22
+1189,Junaid Khan,Imad Wasim,Imam-ul-Haq,74.2,65.35
+1190,Babar Azam,Imad Wasim,Imam-ul-Haq,118.05555559999999,110.25
+1191,Imad Wasim,Asif Ali,Imam-ul-Haq,118.0,88.38
+1192,Imad Wasim,Shaheen Shah Afridi,Imam-ul-Haq,89.1,67.53
+1193,Hasan Ali,Hussain Talat,Imam-ul-Haq,66.0,54.160000000000004
+1194,Junaid Khan,Imam-ul-Haq,Rumman Raees,100.0,50.04
+1195,Junaid Khan,Hasan Ali,Imam-ul-Haq,76.0,52.6
+1196,Junaid Khan,Mohammad Amir,Imam-ul-Haq,110.0,51.49
+1197,Junaid Khan,Fakhar Zaman,Imam-ul-Haq,116.33333329999999,90.44
+1198,Junaid Khan,Faheem Ashraf,Imam-ul-Haq,94.25,54.89
+1199,Junaid Khan,Babar Azam,Imam-ul-Haq,107.44444440000001,92.38
+1200,Junaid Khan,Mohammad Nawaz,Imam-ul-Haq,102.0,60.31
+1201,Junaid Khan,Asif Ali,Imam-ul-Haq,105.66666670000001,70.51
+1202,Junaid Khan,Shaheen Shah Afridi,Imam-ul-Haq,97.33333333,49.660000000000004
+1203,Rumman Raees,Hasan Ali,Imam-ul-Haq,79.5,55.16
+1204,Rumman Raees,Fakhar Zaman,Imam-ul-Haq,129.0,93.0
+1205,Rumman Raees,Faheem Ashraf,Imam-ul-Haq,57.5,57.45
+1206,Rumman Raees,Imam-ul-Haq,Mohammad Hafeez,101.0,82.28
+1207,Mohammad Amir,Hasan Ali,Imam-ul-Haq,57.27272727,56.61
+1208,Hasan Ali,Fakhar Zaman,Imam-ul-Haq,97.72727273,95.56
+1209,Hasan Ali,Faheem Ashraf,Imam-ul-Haq,72.36363636,60.010000000000005
+1210,Hasan Ali,Usman Shinwari,Imam-ul-Haq,56.28571429,52.54
+1211,Babar Azam,Hasan Ali,Imam-ul-Haq,99.26086957,97.5
+1212,Hasan Ali,Mohammad Nawaz,Imam-ul-Haq,83.0,65.43
+1213,Hasan Ali,Asif Ali,Imam-ul-Haq,92.33333333,75.63
+1214,Hasan Ali,Shaheen Shah Afridi,Imam-ul-Haq,80.11111111,54.78
+1215,Mohammad Amir,Babar Azam,Imam-ul-Haq,101.0555556,96.39000000000001
+1216,Mohammad Amir,Mohammad Nawaz,Imam-ul-Haq,67.5,64.32
+1217,Mohammad Amir,Asif Ali,Imam-ul-Haq,75.85714286,74.52
+1218,Babar Azam,Imam-ul-Haq,Mohammad Hasnain,121.0,97.53999999999999
+1219,Mohammad Rizwan,Imam-ul-Haq,Mohammad Hasnain,80.5,74.22999999999999
+1220,Fakhar Zaman,Faheem Ashraf,Imam-ul-Haq,129.4166667,97.85
+1221,Fakhar Zaman,Usman Shinwari,Imam-ul-Haq,108.16666670000001,90.38
+1222,Babar Azam,Fakhar Zaman,Imam-ul-Haq,139.5806452,135.34
+1223,Fakhar Zaman,Mohammad Nawaz,Imam-ul-Haq,108.25,103.27000000000001
+1224,Fakhar Zaman,Asif Ali,Imam-ul-Haq,140.6428571,113.47
+1225,Fakhar Zaman,Shah Afridi,Imam-ul-Haq,104.0,90.0
+1226,Faheem Ashraf,Usman Shinwari,Imam-ul-Haq,63.42857143,54.83
+1227,Asif Ali,Faheem Ashraf,Imam-ul-Haq,102.57142859999999,77.92
+1228,Shaheen Shah Afridi,Faheem Ashraf,Imam-ul-Haq,71.66666667,57.07
+1229,Mohammad Rizwan,Faheem Ashraf,Imam-ul-Haq,87.0,76.48
+1230,Mohammad Nawaz,Usman Shinwari,Imam-ul-Haq,90.0,60.25
+1231,Asif Ali,Usman Shinwari,Imam-ul-Haq,79.83333333,70.45
+1232,Shaheen Shah Afridi,Usman Shinwari,Imam-ul-Haq,53.0,49.6
+1233,Babar Azam,Mohammad Nawaz,Imam-ul-Haq,127.0,105.21000000000001
+1234,Babar Azam,Asif Ali,Imam-ul-Haq,127.1428571,115.41
+1235,Babar Azam,Shaheen Shah Afridi,Imam-ul-Haq,98.8,94.56
+1236,Mohammad Hafeez,Asif Ali,Imam-ul-Haq,109.33333329999999,102.75
+1237,Mohammad Nawaz,Asif Ali,Imam-ul-Haq,100.5,83.34
+1238,Shaheen Shah Afridi,Mohammad Nawaz,Imam-ul-Haq,73.33333333,62.49
+1239,Shaheen Shah Afridi,Asif Ali,Imam-ul-Haq,101.66666670000001,72.69
+1240,Imad Wasim,Junaid Khan,Haris Sohail,79.5,58.75
+1241,Imad Wasim,Mohammad Abbas,Haris Sohail,120.66666670000001,58.31
+1242,Imad Wasim,Abid Ali,Haris Sohail,159.0,106.06
+1243,Imad Wasim,Mohammad Amir,Haris Sohail,72.28571429,62.76
+1244,Imad Wasim,Shan Masood,Haris Sohail,108.6,80.50999999999999
+1245,Imad Wasim,Faheem Ashraf,Haris Sohail,81.25,66.16
+1246,Imad Wasim,Usman Shinwari,Haris Sohail,77.0,58.69
+1247,Imad Wasim,Babar Azam,Haris Sohail,120.625,103.65
+1248,Imad Wasim,Asif Ali,Haris Sohail,94.0,81.78
+1249,Imad Wasim,Shaheen Shah Afridi,Haris Sohail,66.16666667,60.93
+1250,Imad Wasim,Mohammad Rizwan,Haris Sohail,132.6,80.34
+1251,Hasan Ali,Junaid Khan,Haris Sohail,59.0,46.0
+1252,Mohammad Abbas,Junaid Khan,Haris Sohail,130.0,40.44
+1253,Abid Ali,Junaid Khan,Haris Sohail,133.5,88.19
+1254,Shan Masood,Junaid Khan,Haris Sohail,71.0,62.64
+1255,Faheem Ashraf,Junaid Khan,Haris Sohail,54.0,48.29
+1256,Usman Shinwari,Junaid Khan,Haris Sohail,55.66666667,40.82
+1257,Fawad Alam,Junaid Khan,Haris Sohail,56.33333333,46.44
+1258,Saad Nasim,Junaid Khan,Haris Sohail,83.33333333,73.44
+1259,Sami Aslam,Junaid Khan,Haris Sohail,101.0,59.94
+1260,Asif Ali,Junaid Khan,Haris Sohail,93.0,63.91
+1261,Azhar Ali,Junaid Khan,Haris Sohail,120.0,75.89
+1262,Zulfiqar Babar,Junaid Khan,Haris Sohail,57.0,41.44
+1263,Saeed Ajmal,Junaid Khan,Haris Sohail,47.5,40.44
+1264,Shaheen Shah Afridi,Junaid Khan,Haris Sohail,48.0,43.06
+1265,Mohammad Rizwan,Junaid Khan,Haris Sohail,85.33333333,62.47
+1266,Rumman Raees,Hasan Ali,Haris Sohail,51.0,48.56
+1267,Rumman Raees,Mohammad Amir,Haris Sohail,50.0,47.45
+1268,Rumman Raees,Fakhar Zaman,Haris Sohail,92.0,86.4
+1269,Rumman Raees,Faheem Ashraf,Haris Sohail,71.0,50.85
+1270,Rumman Raees,Mohammad Hafeez,Haris Sohail,102.5,75.68
+1271,Rumman Raees,Mohammad Nawaz,Haris Sohail,91.0,56.269999999999996
+1272,Mohammad Hafeez,Hasan Ali,Haris Sohail,78.5,78.24000000000001
+1273,Mohammad Abbas,Abid Ali,Haris Sohail,130.0,87.75
+1274,Mohammad Abbas,Mohammad Amir,Haris Sohail,101.0,44.45
+1275,Mohammad Abbas,Shan Masood,Haris Sohail,124.66666670000001,62.2
+1276,Mohammad Abbas,Faheem Ashraf,Haris Sohail,88.5,47.85
+1277,Mohammad Abbas,Usman Shinwari,Haris Sohail,130.0,40.38
+1278,Mohammad Abbas,Mohammad Rizwan,Haris Sohail,130.6666667,62.03
+1279,Mohammad Amir,Abid Ali,Haris Sohail,130.0,92.2
+1280,Mohammad Hasnain,Abid Ali,Haris Sohail,137.0,93.35
+1281,Fakhar Zaman,Abid Ali,Haris Sohail,206.0,131.15
+1282,Shan Masood,Abid Ali,Haris Sohail,158.5,109.95
+1283,Usman Shinwari,Abid Ali,Haris Sohail,134.33333330000002,88.13
+1284,Babar Azam,Abid Ali,Haris Sohail,161.0,133.09
+1285,Mohammad Nawaz,Abid Ali,Haris Sohail,130.0,101.02
+1286,Mohammad Rizwan,Abid Ali,Haris Sohail,191.5,109.78
+1287,Shan Masood,Mohammad Amir,Haris Sohail,141.0,66.65
+1288,Faheem Ashraf,Mohammad Amir,Haris Sohail,90.0,52.3
+1289,Usman Shinwari,Mohammad Amir,Haris Sohail,48.0,44.83
+1290,Babar Azam,Mohammad Amir,Haris Sohail,104.625,89.79
+1291,Shaheen Shah Afridi,Mohammad Amir,Haris Sohail,49.5,47.07
+1292,Mohammad Rizwan,Mohammad Amir,Haris Sohail,101.0,66.48
+1293,Mohammad Hasnain,Mohammad Rizwan,Haris Sohail,93.0,67.63
+1294,Fakhar Zaman,Faheem Ashraf,Haris Sohail,103.5,91.25
+1295,Shan Masood,Faheem Ashraf,Haris Sohail,118.0,70.05
+1296,Shan Masood,Usman Shinwari,Haris Sohail,71.33333333,62.58
+1297,Shan Masood,Mohammad Rizwan,Haris Sohail,126.6,84.23
+1298,Mohammad Hafeez,Faheem Ashraf,Haris Sohail,112.0,80.53
+1299,Mohammad Nawaz,Faheem Ashraf,Haris Sohail,109.0,61.12
+1300,Asif Ali,Faheem Ashraf,Haris Sohail,87.0,71.32
+1301,Faheem Ashraf,Mohammad Rizwan,Haris Sohail,146.0,69.88
+1302,Mohammad Hafeez,Asad Shafiq,Haris Sohail,140.5,88.68
+1303,Anwar Ali,Asad Shafiq,Haris Sohail,90.0,65.17
+1304,Asad Shafiq,Azhar Ali,Haris Sohail,180.5,91.45
+1305,Asad Shafiq,Hammad Azam,Haris Sohail,90.0,56.0
+1306,Usman Shinwari,Babar Azam,Haris Sohail,107.0,85.72
+1307,Usman Shinwari,Mohammad Rizwan,Haris Sohail,92.66666667,62.41
+1308,Mohammad Hafeez,Babar Azam,Haris Sohail,122.57142859999999,118.02000000000001
+1309,Shaheen Shah Afridi,Babar Azam,Haris Sohail,101.1428571,87.96000000000001
+1310,Mohammad Hafeez,Mohammad Nawaz,Haris Sohail,92.0,85.95
+1311,Mohammad Hafeez,Shahid Afridi,Haris Sohail,96.5,95.56
+1312,Mohammad Hafeez,Sami Aslam,Haris Sohail,101.0,92.18
+1313,Mohammad Hafeez,Anwar Ali,Haris Sohail,121.0,81.85
+1314,Mohammad Hafeez,Azhar Ali,Haris Sohail,157.4,108.13
+1315,Mohammad Hafeez,Hammad Azam,Haris Sohail,121.0,72.68
+1316,Saad Nasim,Fawad Alam,Haris Sohail,88.0,79.0
+1317,Sami Aslam,Fawad Alam,Haris Sohail,101.0,65.5
+1318,Fawad Alam,Azhar Ali,Haris Sohail,124.66666670000001,81.45
+1319,Fawad Alam,Zulfiqar Babar,Haris Sohail,57.0,47.0
+1320,Fawad Alam,Saeed Ajmal,Haris Sohail,54.5,46.0
+1321,Fawad Alam,Mohammad Rizwan,Haris Sohail,83.0,68.03
+1322,Saad Nasim,Sami Aslam,Haris Sohail,119.0,92.5
+1323,Saad Nasim,Azhar Ali,Haris Sohail,151.66666669999998,108.45
+1324,Saad Nasim,Zulfiqar Babar,Haris Sohail,75.0,74.0
+1325,Saad Nasim,Saeed Ajmal,Haris Sohail,86.0,73.0
+1326,Saad Nasim,Mohammad Rizwan,Haris Sohail,110.0,95.03
+1327,Sami Aslam,Azhar Ali,Haris Sohail,198.0,94.95
+1328,Sami Aslam,Zulfiqar Babar,Haris Sohail,98.0,60.5
+1329,Sami Aslam,Mohammad Rizwan,Haris Sohail,101.0,81.53
+1330,Anwar Ali,Azhar Ali,Haris Sohail,161.0,84.62
+1331,Anwar Ali,Hammad Azam,Haris Sohail,70.5,49.17
+1332,Azhar Ali,Zulfiqar Babar,Haris Sohail,154.0,76.45
+1333,Saeed Ajmal,Azhar Ali,Haris Sohail,101.5,75.45
+1334,Hammad Azam,Azhar Ali,Haris Sohail,161.0,75.45
+1335,Azhar Ali,Mohammad Rizwan,Haris Sohail,146.66666669999998,97.48
+1336,Saeed Ajmal,Mohammad Rizwan,Haris Sohail,87.5,62.03
+1337,Kamran Akmal,Imad Wasim,Babar Azam,90.33333333,86.32000000000001
+1338,Kamran Akmal,Imad Wasim,Mohammad Hafeez,106.0,73.66
+1339,Kamran Akmal,Babar Azam,Junaid Khan,81.0,68.45
+1340,Kamran Akmal,Junaid Khan,Mohammad Hafeez,67.0,55.790000000000006
+1341,Kamran Akmal,Hasan Ali,Babar Azam,74.0,73.57000000000001
+1342,Kamran Akmal,Hasan Ali,Mohammad Hafeez,89.66666667,60.91
+1343,Kamran Akmal,Babar Azam,Mohammad Amir,74.0,72.46000000000001
+1344,Kamran Akmal,Mohammad Amir,Mohammad Hafeez,89.66666667,59.8
+1345,Kamran Akmal,Babar Azam,Mohammad Hafeez,141.0,100.69
+1346,Kamran Akmal,Babar Azam,Ahmed Shehzad,99.0,92.89
+1347,Kamran Akmal,Ahmed Shehzad,Mohammad Hafeez,114.66666670000001,80.22999999999999
+1348,Misbah-ul-Haq,Ehsan Adil,Mohammad Hafeez,98.0,86.68
+1349,Misbah-ul-Haq,Mohammad Irfan,Ehsan Adil,55.5,54.43
+1350,Misbah-ul-Haq,Ehsan Adil,Shahid Afridi,77.25,76.88
+1351,Misbah-ul-Haq,Ehsan Adil,Ahmed Shehzad,84.0,78.88
+1352,Misbah-ul-Haq,Bilawal Bhatti,Ehsan Adil,59.5,58.5
+1353,Misbah-ul-Haq,Sohail Khan,Younis Khan,74.33333333,68.5
+1354,Misbah-ul-Haq,Sohail Khan,Sohaib Maqsood,69.0,68.36
+1355,Misbah-ul-Haq,Sohail Khan,Mohammad Irfan,58.25,51.93
+1356,Misbah-ul-Haq,Younis Khan,Mohammad Hafeez,104.5,98.18
+1357,Misbah-ul-Haq,Sohaib Maqsood,Younis Khan,90.0,82.36
+1358,Misbah-ul-Haq,Mohammad Irfan,Younis Khan,68.0,65.93
+1359,Misbah-ul-Haq,Younis Khan,Shahid Afridi,97.0,88.38
+1360,Misbah-ul-Haq,Younis Khan,Ahmed Shehzad,94.2,90.38
+1361,Misbah-ul-Haq,Mohammad Irfan,Mohammad Hafeez,95.0,81.61
+1362,Misbah-ul-Haq,Shahid Afridi,Mohammad Hafeez,133.5,104.06
+1363,Misbah-ul-Haq,Ahmed Shehzad,Mohammad Hafeez,129.5,106.06
+1364,Misbah-ul-Haq,Bilawal Bhatti,Mohammad Hafeez,99.0,85.68
+1365,Misbah-ul-Haq,Nasir Jamshed,Sohaib Maqsood,76.0,65.86
+1366,Misbah-ul-Haq,Sohaib Maqsood,Mohammad Irfan,73.75,65.79
+1367,Misbah-ul-Haq,Mohammad Irfan,Shahid Afridi,78.33333333,71.81
+1368,Misbah-ul-Haq,Mohammad Irfan,Ahmed Shehzad,76.0,73.81
+1369,Misbah-ul-Haq,Bilawal Bhatti,Mohammad Irfan,56.5,53.43
+1370,Misbah-ul-Haq,Ahmed Shehzad,Shahid Afridi,96.875,96.25999999999999
+1371,Misbah-ul-Haq,Bilawal Bhatti,Shahid Afridi,95.0,75.88
+1372,Misbah-ul-Haq,Bilawal Bhatti,Ahmed Shehzad,91.0,77.88
+1373,Sohail Khan,Ehsan Adil,Ahmed Shehzad,43.5,33.379999999999995
+1374,Mohammad Hafeez,Younis Khan,Ehsan Adil,56.5,55.18
+1375,Younis Khan,Ehsan Adil,Shahid Afridi,52.5,45.379999999999995
+1376,Younis Khan,Ehsan Adil,Ahmed Shehzad,48.5,47.379999999999995
+1377,Mohammad Hafeez,Mohammad Irfan,Ehsan Adil,47.0,38.61
+1378,Mohammad Hafeez,Ehsan Adil,Shahid Afridi,85.5,61.06
+1379,Mohammad Hafeez,Ehsan Adil,Ahmed Shehzad,81.5,63.06
+1380,Mohammad Hafeez,Bilawal Bhatti,Ehsan Adil,51.0,42.68
+1381,Sohaib Maqsood,Ehsan Adil,Ahmed Shehzad,56.0,47.239999999999995
+1382,Mohammad Irfan,Ehsan Adil,Shahid Afridi,43.0,28.81
+1383,Mohammad Irfan,Ehsan Adil,Ahmed Shehzad,39.0,30.81
+1384,Ahmed Shehzad,Ehsan Adil,Shahid Afridi,67.75,53.26
+1385,Bilawal Bhatti,Ehsan Adil,Shahid Afridi,47.0,32.879999999999995
+1386,Bilawal Bhatti,Ehsan Adil,Ahmed Shehzad,43.0,34.879999999999995
+1387,Imad Wasim,Mohammad Abbas,Junaid Khan,50.0,18.75
+1388,Imad Wasim,Abid Ali,Junaid Khan,81.5,66.5
+1389,Imad Wasim,Shan Masood,Junaid Khan,50.33333333,40.949999999999996
+1390,Imad Wasim,Faheem Ashraf,Junaid Khan,27.0,26.599999999999998
+1391,Imad Wasim,Usman Shinwari,Junaid Khan,26.25,19.13
+1392,Babar Azam,Imad Wasim,Junaid Khan,68.53333333,64.09
+1393,Imad Wasim,Asif Ali,Junaid Khan,51.5,42.22
+1394,Imad Wasim,Shaheen Shah Afridi,Junaid Khan,39.5,21.37
+1395,Imad Wasim,Mohammad Rizwan,Junaid Khan,45.5,40.78
+1396,Rumman Raees,Imad Wasim,Babar Azam,87.33333333,66.65
+1397,Rumman Raees,Imad Wasim,Azhar Ali,76.0,56.760000000000005
+1398,Imad Wasim,Hasan Ali,Mohammad Hasnain,38.5,29.47
+1399,Imad Wasim,Hasan Ali,Babar Azam,70.66666667,69.21000000000001
+1400,Imad Wasim,Hasan Ali,Mohammad Irfan,66.0,24.299999999999997
+1401,Sami Aslam,Imad Wasim,Hasan Ali,77.0,43.370000000000005
+1402,Imad Wasim,Hasan Ali,Asif Ali,60.75,47.339999999999996
+1403,Imad Wasim,Hasan Ali,Shaheen Shah Afridi,44.8,26.49
+1404,Imad Wasim,Mohammad Abbas,Mohammad Amir,28.0,22.759999999999998
+1405,Imad Wasim,Mohammad Abbas,Shan Masood,68.66666667,40.51
+1406,Imad Wasim,Mohammad Abbas,Faheem Ashraf,44.5,26.159999999999997
+1407,Imad Wasim,Mohammad Abbas,Usman Shinwari,50.0,18.689999999999998
+1408,Imad Wasim,Mohammad Abbas,Mohammad Rizwan,74.66666667,40.34
+1409,Imad Wasim,Abid Ali,Mohammad Hasnain,85.5,71.66
+1410,Imad Wasim,Shan Masood,Abid Ali,106.5,88.25999999999999
+1411,Imad Wasim,Usman Shinwari,Abid Ali,84.5,66.44
+1412,Imad Wasim,Mohammad Rizwan,Abid Ali,139.5,88.09
+1413,Imad Wasim,Shan Masood,Mohammad Amir,68.0,44.96
+1414,Imad Wasim,Faheem Ashraf,Mohammad Amir,51.5,30.609999999999996
+1415,Babar Azam,Imad Wasim,Mohammad Amir,75.46428571,68.10000000000001
+1416,Sami Aslam,Imad Wasim,Mohammad Amir,70.0,42.260000000000005
+1417,Imad Wasim,Shaheen Shah Afridi,Mohammad Amir,31.28571429,25.38
+1418,Imad Wasim,Faheem Ashraf,Mohammad Hasnain,33.0,31.759999999999998
+1419,Imad Wasim,Usman Shinwari,Mohammad Hasnain,25.0,24.29
+1420,Imad Wasim,Babar Azam,Mohammad Hasnain,130.0,69.25
+1421,Mohammad Hafeez,Imad Wasim,Mohammad Hasnain,62.0,56.589999999999996
+1422,Imad Wasim,Asif Ali,Mohammad Hasnain,52.0,47.38
+1423,Imad Wasim,Shaheen Shah Afridi,Mohammad Hasnain,72.0,26.53
+1424,Imad Wasim,Mohammad Rizwan,Mohammad Hasnain,94.0,45.940000000000005
+1425,Imad Wasim,Fakhar Zaman,Faheem Ashraf,70.16666667,69.55999999999999
+1426,Imad Wasim,Fakhar Zaman,Babar Azam,112.64,107.05
+1427,Imad Wasim,Fakhar Zaman,Asif Ali,101.5,85.17999999999999
+1428,Imad Wasim,Fakhar Zaman,Shah Afridi,88.0,61.709999999999994
+1429,Imad Wasim,Fakhar Zaman,Azhar Ali,114.75,97.16
+1430,Imad Wasim,Fakhar Zaman,Mohammad Rizwan,87.5,83.74
+1431,Imad Wasim,Shan Masood,Faheem Ashraf,74.0,48.36
+1432,Imad Wasim,Shan Masood,Usman Shinwari,50.66666667,40.89
+1433,Imad Wasim,Shan Masood,Mohammad Rizwan,96.6,62.54
+1434,Imad Wasim,Asif Ali,Faheem Ashraf,74.5,49.63
+1435,Imad Wasim,Faheem Ashraf,Mohammad Rizwan,102.0,48.19
+1436,Sohail Khan,Imad Wasim,Babar Azam,121.0,66.65
+1437,Sohail Khan,Imad Wasim,Azhar Ali,105.0,56.760000000000005
+1438,Imad Wasim,Asad Shafiq,Mohammad Irfan,38.0,34.74
+1439,Imad Wasim,Asad Shafiq,Ahmed Shehzad,70.0,59.19
+1440,Imad Wasim,Usman Shinwari,Shaheen Shah Afridi,23.5,21.31
+1441,Imad Wasim,Usman Shinwari,Mohammad Rizwan,55.4,40.72
+1442,Imad Wasim,Mohammad Nawaz,Babar Azam,96.5,76.92
+1443,Imad Wasim,Mohammad Irfan,Babar Azam,66.0,64.08
+1444,Sami Aslam,Imad Wasim,Babar Azam,93.5,83.15
+1445,Imad Wasim,Sharjeel Khan,Babar Azam,118.33333329999999,107.79
+1446,Imad Wasim,Anwar Ali,Babar Azam,79.0,72.82
+1447,Imad Wasim,Asif Ali,Babar Azam,117.5,87.12
+1448,Imad Wasim,Azhar Ali,Babar Azam,101.3125,99.10000000000001
+1449,Imad Wasim,Shaheen Shah Afridi,Babar Azam,84.27272727,66.27000000000001
+1450,Imad Wasim,Mohammad Rizwan,Babar Azam,90.18181818,85.68
+1451,Mohammad Hafeez,Imad Wasim,Sharjeel Khan,97.83333333,95.13
+1452,Mohammad Hafeez,Imad Wasim,Anwar Ali,61.5,60.16
+1453,Mohammad Hafeez,Imad Wasim,Ahmed Shehzad,79.58333333,75.86999999999999
+1454,Imad Wasim,Mohammad Nawaz,Mohammad Irfan,70.0,32.01
+1455,Sami Aslam,Imad Wasim,Mohammad Nawaz,94.0,51.08
+1456,Imad Wasim,Mohammad Nawaz,Azhar Ali,74.625,67.03
+1457,Sami Aslam,Imad Wasim,Mohammad Irfan,81.0,38.24
+1458,Imad Wasim,Sharjeel Khan,Mohammad Irfan,73.0,62.88
+1459,Imad Wasim,Azhar Ali,Mohammad Irfan,60.83333333,54.190000000000005
+1460,Imad Wasim,Mohammad Irfan,Ahmed Shehzad,49.16666667,43.62
+1461,Imad Wasim,Mohammad Irfan,Mohammad Rizwan,47.0,40.769999999999996
+1462,Sami Aslam,Imad Wasim,Azhar Ali,112.5,73.26
+1463,Sami Aslam,Imad Wasim,Mohammad Rizwan,87.0,59.84
+1464,Imad Wasim,Sharjeel Khan,Azhar Ali,98.5,97.9
+1465,Imad Wasim,Anwar Ali,Ahmed Shehzad,53.25,52.36
+1466,Imad Wasim,Asif Ali,Shaheen Shah Afridi,68.66666667,44.4
+1467,Imad Wasim,Azhar Ali,Mohammad Rizwan,77.72727273,75.79
+1468,Imad Wasim,Mohammad Rizwan,Ahmed Shehzad,83.2,65.22
+1469,Hasan Ali,Fakhar Zaman,Hussain Talat,87.0,50.96
+1470,Hasan Ali,Faheem Ashraf,Hussain Talat,61.0,15.41
+1471,Hasan Ali,Hussain Talat,Babar Azam,73.0,52.900000000000006
+1472,Mohammad Hafeez,Hasan Ali,Hussain Talat,70.0,40.24
+1473,Hasan Ali,Hussain Talat,Shaheen Shah Afridi,62.0,10.18
+1474,Rumman Raees,Babar Azam,Junaid Khan,68.0,48.78
+1475,Rumman Raees,Azhar Ali,Junaid Khan,76.0,38.89
+1476,Hasan Ali,Faheem Ashraf,Junaid Khan,15.33333333,13.85
+1477,Babar Azam,Hasan Ali,Junaid Khan,60.52631579,51.34
+1478,Hasan Ali,Sharjeel Khan,Junaid Khan,63.25,50.14
+1479,Hasan Ali,Asif Ali,Junaid Khan,37.0,29.47
+1480,Hasan Ali,Shaheen Shah Afridi,Junaid Khan,22.0,8.62
+1481,Mohammad Abbas,Shan Masood,Junaid Khan,50.0,22.64
+1482,Abid Ali,Junaid Khan,Mohammad Hasnain,112.0,53.79
+1483,Shan Masood,Abid Ali,Junaid Khan,81.0,70.39
+1484,Abid Ali,Usman Shinwari,Junaid Khan,59.0,48.57
+1485,Mohammad Rizwan,Abid Ali,Junaid Khan,114.0,70.22
+1486,Mohammad Amir,Fakhar Zaman,Junaid Khan,77.0,48.29
+1487,Mohammad Amir,Faheem Ashraf,Junaid Khan,43.0,12.74
+1488,Mohammad Amir,Babar Azam,Junaid Khan,64.7,50.230000000000004
+1489,Mohammad Amir,Junaid Khan,Mohammad Hafeez,41.11111111,37.57
+1490,Mohammad Amir,Sharjeel Khan,Junaid Khan,64.5,49.03
+1491,Fakhar Zaman,Junaid Khan,Mohammad Hasnain,57.0,49.44
+1492,Babar Azam,Junaid Khan,Mohammad Hasnain,115.0,51.38
+1493,Mohammad Hafeez,Junaid Khan,Mohammad Hasnain,59.0,38.72
+1494,Mohammad Rizwan,Junaid Khan,Mohammad Hasnain,54.5,28.07
+1495,Fakhar Zaman,Faheem Ashraf,Junaid Khan,72.4,51.69
+1496,Fakhar Zaman,Usman Shinwari,Junaid Khan,90.0,44.22
+1497,Babar Azam,Fakhar Zaman,Junaid Khan,96.53333333,89.18
+1498,Fakhar Zaman,Asif Ali,Junaid Khan,94.83333333,67.31
+1499,Fakhar Zaman,Azhar Ali,Junaid Khan,107.5,79.28999999999999
+1500,Mohammad Rizwan,Shan Masood,Junaid Khan,57.66666667,44.67
+1501,Asif Ali,Faheem Ashraf,Junaid Khan,38.33333333,31.76
+1502,Faheem Ashraf,Azhar Ali,Junaid Khan,49.0,43.74
+1503,Shaheen Shah Afridi,Faheem Ashraf,Junaid Khan,20.0,10.909999999999998
+1504,Babar Azam,Asad Shafiq,Junaid Khan,68.0,61.78
+1505,Asif Ali,Usman Shinwari,Junaid Khan,25.0,24.29
+1506,Mohammad Rizwan,Usman Shinwari,Junaid Khan,42.33333333,22.85
+1507,Mohammad Hafeez,Babar Azam,Junaid Khan,88.875,78.46000000000001
+1508,Babar Azam,Mohammad Nawaz,Junaid Khan,64.0,59.05
+1509,Babar Azam,Sharjeel Khan,Junaid Khan,120.25,89.92
+1510,Babar Azam,Asif Ali,Junaid Khan,72.83333333,69.25
+1511,Babar Azam,Junaid Khan,Ahmed Shehzad,90.25,70.66
+1512,Babar Azam,Mohammad Rizwan,Junaid Khan,69.75,67.81
+1513,Mohammad Hafeez,Sami Aslam,Junaid Khan,53.0,52.62
+1514,Mohammad Hafeez,Sharjeel Khan,Junaid Khan,87.75,77.25999999999999
+1515,Mohammad Hafeez,Asif Ali,Junaid Khan,76.0,56.589999999999996
+1516,Saad Nasim,Fawad Alam,Junaid Khan,40.33333333,39.44
+1517,Sami Aslam,Fawad Alam,Junaid Khan,53.0,25.94
+1518,Fawad Alam,Azhar Ali,Junaid Khan,77.0,41.89
+1519,Fawad Alam,Zulfiqar Babar,Junaid Khan,9.0,7.44
+1520,Fawad Alam,Saeed Ajmal,Junaid Khan,7.0,6.44
+1521,Fawad Alam,Mohammad Rizwan,Junaid Khan,35.33333333,28.470000000000002
+1522,Shaheen Shah Afridi,Mohammad Nawaz,Junaid Khan,25.0,16.330000000000002
+1523,Saad Nasim,Sami Aslam,Junaid Khan,71.0,52.94
+1524,Saad Nasim,Azhar Ali,Junaid Khan,104.0,68.89
+1525,Saad Nasim,Saeed Ajmal,Junaid Khan,38.5,33.44
+1526,Saad Nasim,Mohammad Rizwan,Junaid Khan,62.33333333,55.47
+1527,Sami Aslam,Azhar Ali,Junaid Khan,150.0,55.39
+1528,Sami Aslam,Zulfiqar Babar,Junaid Khan,50.0,20.94
+1529,Sami Aslam,Mohammad Rizwan,Junaid Khan,53.0,41.97
+1530,Sharjeel Khan,Azhar Ali,Junaid Khan,83.0,80.03
+1531,Shaheen Shah Afridi,Asif Ali,Junaid Khan,53.5,26.53
+1532,Zulfiqar Babar,Azhar Ali,Junaid Khan,106.0,36.89
+1533,Saeed Ajmal,Azhar Ali,Junaid Khan,54.0,35.89
+1534,Mohammad Rizwan,Azhar Ali,Junaid Khan,65.2,57.92
+1535,Saeed Ajmal,Mohammad Rizwan,Junaid Khan,40.0,22.470000000000002
+1536,Rumman Raees,Hasan Ali,Mohammad Amir,24.25,13.009999999999998
+1537,Rumman Raees,Hasan Ali,Faheem Ashraf,22.0,16.409999999999997
+1538,Rumman Raees,Hasan Ali,Mohammad Hafeez,42.5,41.239999999999995
+1539,Rumman Raees,Fakhar Zaman,Mohammad Amir,56.0,50.85
+1540,Rumman Raees,Faheem Ashraf,Mohammad Amir,19.75,15.3
+1541,Rumman Raees,Mohammad Amir,Mohammad Hafeez,46.5,40.13
+1542,Rumman Raees,Faheem Ashraf,Mohammad Hafeez,44.5,43.53
+1543,Rumman Raees,Mohammad Nawaz,Faheem Ashraf,51.0,24.119999999999997
+1544,Rumman Raees,Babar Azam,Ahmed Shehzad,106.0,73.22
+1545,Hasan Ali,Fakhar Zaman,Mohammad Amir,53.75,53.410000000000004
+1546,Hasan Ali,Faheem Ashraf,Mohammad Amir,24.125,17.86
+1547,Mohammad Hafeez,Hasan Ali,Mohammad Amir,47.36363636,42.690000000000005
+1548,Hasan Ali,Mohammad Nawaz,Mohammad Amir,25.25,23.279999999999998
+1549,Sami Aslam,Hasan Ali,Mohammad Amir,38.5,29.509999999999998
+1550,Hasan Ali,Sharjeel Khan,Mohammad Amir,61.54545455,54.150000000000006
+1551,Hasan Ali,Babar Azam,Mohammad Hasnain,117.5,56.50000000000001
+1552,Mohammad Hafeez,Hasan Ali,Mohammad Hasnain,49.5,43.84
+1553,Hasan Ali,Asif Ali,Mohammad Hasnain,39.5,34.629999999999995
+1554,Hasan Ali,Shaheen Shah Afridi,Mohammad Hasnain,58.0,13.78
+1555,Hasan Ali,Fakhar Zaman,Faheem Ashraf,63.57142857,56.81
+1556,Hasan Ali,Fakhar Zaman,Shah Afridi,88.0,48.96
+1557,Hasan Ali,Fakhar Zaman,Azhar Ali,86.83333333,84.41
+1558,Hasan Ali,Asif Ali,Faheem Ashraf,43.6,36.879999999999995
+1559,Hasan Ali,Faheem Ashraf,Shaheen Shah Afridi,35.0,16.03
+1560,Sohail Khan,Hasan Ali,Babar Azam,117.0,53.900000000000006
+1561,Sohail Khan,Hasan Ali,Azhar Ali,101.0,44.010000000000005
+1562,Hasan Ali,Asad Shafiq,Babar Azam,68.0,66.9
+1563,Hasan Ali,Mohammad Nawaz,Babar Azam,71.41666667,64.17
+1564,Hasan Ali,Sharjeel Khan,Babar Azam,107.07692309999999,95.04
+1565,Hasan Ali,Asif Ali,Babar Azam,80.53846154,74.37
+1566,Hasan Ali,Babar Azam,Ahmed Shehzad,79.83333333,75.78
+1567,Hasan Ali,Mohammad Rizwan,Babar Azam,83.0,72.93
+1568,Mohammad Hafeez,Hasan Ali,Sharjeel Khan,97.33333333,82.38
+1569,Mohammad Hafeez,Hasan Ali,Asif Ali,75.25,61.71
+1570,Mohammad Hafeez,Hasan Ali,Ahmed Shehzad,64.5,63.120000000000005
+1571,Mohammad Hafeez,Hasan Ali,Shaheen Shah Afridi,49.4,40.86
+1572,Hasan Ali,Mohammad Nawaz,Mohammad Irfan,22.0,19.259999999999998
+1573,Sami Aslam,Hasan Ali,Mohammad Nawaz,46.0,38.33
+1574,Hasan Ali,Mohammad Nawaz,Sharjeel Khan,64.0,62.97
+1575,Sami Aslam,Hasan Ali,Mohammad Irfan,33.0,25.49
+1576,Hasan Ali,Azhar Ali,Mohammad Irfan,89.0,41.440000000000005
+1577,Hasan Ali,Asif Ali,Shaheen Shah Afridi,45.71428571,31.65
+1578,Mohammad Abbas,Shan Masood,Mohammad Amir,40.0,26.65
+1579,Mohammad Abbas,Faheem Ashraf,Mohammad Amir,28.0,12.3
+1580,Mohammad Abbas,Faheem Ashraf,Mohammad Hasnain,14.0,13.45
+1581,Mohammad Abbas,Mohammad Rizwan,Mohammad Hasnain,115.0,27.630000000000003
+1582,Mohammad Abbas,Shan Masood,Faheem Ashraf,50.5,30.049999999999997
+1583,Mohammad Abbas,Shan Masood,Usman Shinwari,50.0,22.58
+1584,Mohammad Abbas,Shan Masood,Mohammad Rizwan,78.66666667,44.230000000000004
+1585,Mohammad Abbas,Faheem Ashraf,Mohammad Rizwan,78.5,29.880000000000003
+1586,Mohammad Amir,Fakhar Zaman,Abid Ali,150.0,95.6
+1587,Mohammad Amir,Usman Shinwari,Abid Ali,74.0,52.58
+1588,Mohammad Amir,Babar Azam,Abid Ali,105.0,97.54
+1589,Mohammad Amir,Mohammad Nawaz,Abid Ali,74.0,65.47
+1590,Shan Masood,Abid Ali,Mohammad Hasnain,112.0,75.55
+1591,Usman Shinwari,Abid Ali,Mohammad Hasnain,118.0,53.730000000000004
+1592,Babar Azam,Abid Ali,Mohammad Hasnain,113.0,98.69
+1593,Mohammad Rizwan,Abid Ali,Mohammad Hasnain,216.0,75.38
+1594,Fakhar Zaman,Usman Shinwari,Abid Ali,150.0,91.53
+1595,Fakhar Zaman,Mohammad Nawaz,Abid Ali,150.0,104.42
+1596,Shan Masood,Usman Shinwari,Abid Ali,84.0,70.33
+1597,Mohammad Rizwan,Shan Masood,Abid Ali,139.0,91.98
+1598,Babar Azam,Usman Shinwari,Abid Ali,105.0,93.47
+1599,Mohammad Nawaz,Usman Shinwari,Abid Ali,74.0,61.4
+1600,Mohammad Rizwan,Usman Shinwari,Abid Ali,117.0,70.16
+1601,Babar Azam,Shaheen Shah Afridi,Abid Ali,104.0,95.71000000000001
+1602,Fakhar Zaman,Faheem Ashraf,Mohammad Amir,69.85714286,55.7
+1603,Fakhar Zaman,Usman Shinwari,Mohammad Amir,63.57142857,48.230000000000004
+1604,Fakhar Zaman,Mohammad Nawaz,Mohammad Amir,69.0,61.120000000000005
+1605,Fakhar Zaman,Azhar Ali,Mohammad Amir,85.8,83.3
+1606,Shan Masood,Faheem Ashraf,Mohammad Amir,68.0,34.5
+1607,Faheem Ashraf,Usman Shinwari,Mohammad Amir,13.0,12.68
+1608,Mohammad Hafeez,Faheem Ashraf,Mohammad Amir,48.6,44.980000000000004
+1609,Babar Azam,Asad Shafiq,Mohammad Amir,70.0,65.79
+1610,Babar Azam,Mohammad Nawaz,Mohammad Amir,75.1,63.06
+1611,Babar Azam,Sohaib Maqsood,Mohammad Amir,72.0,66.65
+1612,Babar Azam,Mohammad Irfan,Mohammad Amir,73.0,50.220000000000006
+1613,Babar Azam,Sharjeel Khan,Mohammad Amir,110.75,93.93
+1614,Babar Azam,Anwar Ali,Mohammad Amir,78.0,58.96000000000001
+1615,Babar Azam,Shaheen Shah Afridi,Mohammad Amir,55.44444444,52.410000000000004
+1616,Babar Azam,Mohammad Rizwan,Mohammad Amir,80.0,71.82000000000001
+1617,Mohammad Hafeez,Mohammad Irfan,Mohammad Amir,59.5,37.56
+1618,Mohammad Hafeez,Sharjeel Khan,Mohammad Amir,89.0,81.27
+1619,Mohammad Hafeez,Anwar Ali,Mohammad Amir,58.0,46.300000000000004
+1620,Mohammad Hafeez,Asif Ali,Mohammad Amir,74.5,60.6
+1621,Mohammad Hafeez,Mohammad Amir,Ahmed Shehzad,79.0,62.010000000000005
+1622,Sami Aslam,Mohammad Nawaz,Mohammad Amir,100.0,37.22
+1623,Mohammad Nawaz,Sharjeel Khan,Mohammad Amir,75.28571429,61.86
+1624,Anwar Ali,Mohammad Irfan,Mohammad Amir,16.0,14.05
+1625,Fakhar Zaman,Babar Azam,Mohammad Hasnain,140.0,94.34
+1626,Shan Masood,Mohammad Rizwan,Mohammad Hasnain,80.0,49.830000000000005
+1627,Faheem Ashraf,Mohammad Rizwan,Mohammad Hasnain,129.0,35.480000000000004
+1628,Usman Shinwari,Mohammad Rizwan,Mohammad Hasnain,55.0,28.009999999999998
+1629,Mohammad Hafeez,Babar Azam,Mohammad Hasnain,141.0,83.62
+1630,Asif Ali,Babar Azam,Mohammad Hasnain,131.0,74.41
+1631,Shaheen Shah Afridi,Babar Azam,Mohammad Hasnain,127.0,53.56
+1632,Mohammad Hafeez,Asif Ali,Mohammad Hasnain,63.0,61.75
+1633,Mohammad Hafeez,Shaheen Shah Afridi,Mohammad Hasnain,47.0,40.9
+1634,Shaheen Shah Afridi,Asif Ali,Mohammad Hasnain,69.0,31.689999999999998
+1635,Fakhar Zaman,Faheem Ashraf,Usman Shinwari,75.57142857,51.63
+1636,Fakhar Zaman,Asif Ali,Faheem Ashraf,116.42857140000001,74.72
+1637,Shah Afridi,Fakhar Zaman,Faheem Ashraf,88.0,51.25
+1638,Shaheen Shah Afridi,Fakhar Zaman,Faheem Ashraf,63.33333333,53.87
+1639,Fakhar Zaman,Usman Shinwari,Babar Azam,98.76923077,89.12
+1640,Fakhar Zaman,Asif Ali,Usman Shinwari,90.33333333,67.25
+1641,Fakhar Zaman,Asif Ali,Babar Azam,120.2,112.21000000000001
+1642,Fakhar Zaman,Shah Afridi,Babar Azam,134.0,88.74000000000001
+1643,Fakhar Zaman,Babar Azam,Ahmed Shehzad,133.0,113.62
+1644,Mohammad Hafeez,Fakhar Zaman,Shah Afridi,115.0,76.08
+1645,Shan Masood,Faheem Ashraf,Mohammad Rizwan,108.0,52.08
+1646,Shan Masood,Usman Shinwari,Mohammad Rizwan,58.0,44.61
+1647,Shaheen Shah Afridi,Asif Ali,Faheem Ashraf,63.0,33.94
+1648,Sohail Khan,Sohaib Maqsood,Younis Khan,47.33333333,36.86
+1649,Sohail Khan,Mohammad Irfan,Younis Khan,29.33333333,20.43
+1650,Sohail Khan,Younis Khan,Shahid Afridi,52.0,42.879999999999995
+1651,Sohail Khan,Younis Khan,Ahmed Shehzad,50.0,44.879999999999995
+1652,Sohail Khan,Mohammad Nawaz,Babar Azam,121.0,61.61
+1653,Sohail Khan,Sharjeel Khan,Babar Azam,155.0,92.48
+1654,Sohail Khan,Azhar Ali,Babar Azam,218.0,83.79
+1655,Sohail Khan,Mohammad Rizwan,Babar Azam,121.0,70.37
+1656,Sohail Khan,Nasir Jamshed,Sohaib Maqsood,39.5,20.36
+1657,Sohail Khan,Nasir Jamshed,Mohammad Irfan,5.0,3.93
+1658,Sohail Khan,Mohammad Nawaz,Azhar Ali,105.0,51.72
+1659,Sohail Khan,Sohaib Maqsood,Mohammad Irfan,25.0,20.29
+1660,Sohail Khan,Sharjeel Khan,Azhar Ali,139.0,82.59
+1661,Sohail Khan,Azhar Ali,Mohammad Rizwan,105.0,60.480000000000004
+1662,Mohammad Hafeez,Asad Shafiq,Babar Azam,106.0,94.02000000000001
+1663,Sharjeel Khan,Asad Shafiq,Babar Azam,107.5,105.48
+1664,Mohammad Hafeez,Anwar Ali,Asad Shafiq,70.0,57.85
+1665,Mohammad Hafeez,Asad Shafiq,Azhar Ali,116.66666670000001,84.13
+1666,Mohammad Hafeez,Asad Shafiq,Ahmed Shehzad,83.0,73.56
+1667,Mohammad Hafeez,Asad Shafiq,Hammad Azam,70.0,48.68
+1668,Asad Shafiq,Mohammad Irfan,Ahmed Shehzad,70.0,41.31
+1669,Anwar Ali,Asad Shafiq,Azhar Ali,110.0,60.620000000000005
+1670,Hammad Azam,Asad Shafiq,Azhar Ali,110.0,51.45
+1671,Asad Shafiq,Mohammad Rizwan,Ahmed Shehzad,70.0,62.91
+1672,Mohammad Hafeez,Babar Azam,Younis Khan,173.0,95.02000000000001
+1673,Babar Azam,Mohammad Irfan,Younis Khan,71.0,62.77
+1674,Mohammad Hafeez,Mohammad Irfan,Younis Khan,72.66666667,50.11
+1675,Mohammad Hafeez,Younis Khan,Shahid Afridi,92.0,72.56
+1676,Mohammad Hafeez,Anwar Ali,Younis Khan,111.0,58.85
+1677,Mohammad Hafeez,Azhar Ali,Younis Khan,119.0,85.13
+1678,Mohammad Hafeez,Younis Khan,Ahmed Shehzad,88.0,74.56
+1679,Mohammad Hafeez,Bilawal Bhatti,Younis Khan,57.5,54.18
+1680,Nasir Jamshed,Sohaib Maqsood,Younis Khan,50.0,34.36
+1681,Sohaib Maqsood,Mohammad Irfan,Younis Khan,45.0,34.29
+1682,Sohaib Maqsood,Younis Khan,Shahid Afridi,67.66666667,56.739999999999995
+1683,Sohaib Maqsood,Younis Khan,Ahmed Shehzad,65.66666667,58.739999999999995
+1684,Mohammad Irfan,Younis Khan,Shahid Afridi,49.6,40.31
+1685,Mohammad Irfan,Younis Khan,Ahmed Shehzad,46.8,42.31
+1686,Ahmed Shehzad,Younis Khan,Shahid Afridi,75.8,64.75999999999999
+1687,Bilawal Bhatti,Younis Khan,Shahid Afridi,53.5,44.379999999999995
+1688,Bilawal Bhatti,Younis Khan,Ahmed Shehzad,49.5,46.379999999999995
+1689,Mohammad Hafeez,Sohaib Maqsood,Babar Azam,114.0,94.88
+1690,Mohammad Hafeez,Mohammad Irfan,Babar Azam,91.875,78.45
+1691,Mohammad Hafeez,Sharjeel Khan,Babar Azam,134.28571430000002,122.16
+1692,Mohammad Hafeez,Anwar Ali,Babar Azam,96.42857143,87.19
+1693,Mohammad Hafeez,Asif Ali,Babar Azam,133.75,101.49000000000001
+1694,Mohammad Hafeez,Babar Azam,Ahmed Shehzad,121.0909091,102.9
+1695,Mohammad Nawaz,Sharjeel Khan,Babar Azam,115.8888889,102.75
+1696,Mohammad Nawaz,Azhar Ali,Babar Azam,111.1111111,94.06
+1697,Mohammad Rizwan,Mohammad Nawaz,Babar Azam,92.83333333,80.64
+1698,Sohaib Maqsood,Mohammad Irfan,Babar Azam,72.0,62.63
+1699,Anwar Ali,Sohaib Maqsood,Babar Azam,88.0,71.37
+1700,Sharjeel Khan,Azhar Ali,Babar Azam,130.8333333,124.93
+1701,Mohammad Rizwan,Sharjeel Khan,Babar Azam,118.9,111.51
+1702,Mohammad Rizwan,Azhar Ali,Babar Azam,103.1428571,102.82000000000001
+1703,Mohammad Hafeez,Fawad Alam,Azhar Ali,78.33333333,74.13
+1704,Mohammad Hafeez,Mohammad Nawaz,Sharjeel Khan,103.0,90.09
+1705,Mohammad Hafeez,Sohaib Maqsood,Mohammad Irfan,52.0,49.97
+1706,Mohammad Hafeez,Anwar Ali,Sohaib Maqsood,68.0,58.71
+1707,Mohammad Hafeez,Mohammad Irfan,Shahid Afridi,82.5,55.989999999999995
+1708,Mohammad Hafeez,Anwar Ali,Mohammad Irfan,61.3,42.28
+1709,Mohammad Hafeez,Azhar Ali,Mohammad Irfan,75.15384615,68.56
+1710,Mohammad Hafeez,Mohammad Irfan,Ahmed Shehzad,75.83333333,57.989999999999995
+1711,Mohammad Hafeez,Mohammad Irfan,Mohammad Rizwan,62.41666667,55.14
+1712,Mohammad Hafeez,Bilawal Bhatti,Mohammad Irfan,48.0,37.61
+1713,Mohammad Hafeez,Ahmed Shehzad,Shahid Afridi,117.0,80.44
+1714,Mohammad Hafeez,Bilawal Bhatti,Shahid Afridi,86.5,60.06
+1715,Mohammad Hafeez,Azhar Ali,Saad Nasim,105.33333329999999,101.13
+1716,Mohammad Hafeez,Sami Aslam,Azhar Ali,150.0,87.63
+1717,Mohammad Hafeez,Anwar Ali,Azhar Ali,103.08333329999999,77.30000000000001
+1718,Mohammad Hafeez,Anwar Ali,Ahmed Shehzad,96.28571429,66.73
+1719,Mohammad Hafeez,Anwar Ali,Hammad Azam,50.5,41.85
+1720,Mohammad Hafeez,Anwar Ali,Mohammad Rizwan,76.75,63.88
+1721,Mohammad Hafeez,Azhar Ali,Zulfiqar Babar,106.0,69.13
+1722,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,109.3,93.00999999999999
+1723,Mohammad Hafeez,Hammad Azam,Azhar Ali,141.0,68.13
+1724,Mohammad Hafeez,Mohammad Rizwan,Ahmed Shehzad,103.5555556,79.59
+1725,Mohammad Hafeez,Bilawal Bhatti,Ahmed Shehzad,82.5,62.06
+1726,Nasir Jamshed,Sohaib Maqsood,Mohammad Irfan,37.0,17.79
+1727,Nasir Jamshed,Sohaib Maqsood,Shahid Afridi,50.0,40.239999999999995
+1728,Saad Nasim,Fawad Alam,Sami Aslam,71.0,58.5
+1729,Saad Nasim,Fawad Alam,Azhar Ali,108.66666670000001,74.45
+1730,Saad Nasim,Fawad Alam,Saeed Ajmal,45.5,39.0
+1731,Saad Nasim,Fawad Alam,Mohammad Rizwan,67.0,61.03
+1732,Sami Aslam,Fawad Alam,Azhar Ali,150.0,60.95
+1733,Sami Aslam,Fawad Alam,Zulfiqar Babar,50.0,26.5
+1734,Sami Aslam,Fawad Alam,Mohammad Rizwan,53.0,47.53
+1735,Fawad Alam,Azhar Ali,Zulfiqar Babar,106.0,42.45
+1736,Fawad Alam,Saeed Ajmal,Azhar Ali,61.0,41.45
+1737,Fawad Alam,Azhar Ali,Mohammad Rizwan,103.66666670000001,63.480000000000004
+1738,Fawad Alam,Saeed Ajmal,Mohammad Rizwan,47.0,28.03
+1739,Sami Aslam,Mohammad Nawaz,Mohammad Irfan,37.0,33.199999999999996
+1740,Azhar Ali,Mohammad Nawaz,Mohammad Irfan,93.0,49.15
+1741,Sami Aslam,Mohammad Nawaz,Azhar Ali,86.0,68.22
+1742,Azhar Ali,Mohammad Nawaz,Sharjeel Khan,96.88888889,92.86
+1743,Ahmed Shehzad,Mohammad Irfan,Shahid Afridi,48.5,48.19
+1744,Bilawal Bhatti,Mohammad Irfan,Shahid Afridi,44.0,27.81
+1745,Sami Aslam,Azhar Ali,Mohammad Irfan,104.0,55.38
+1746,Azhar Ali,Sharjeel Khan,Mohammad Irfan,96.0,80.02000000000001
+1747,Azhar Ali,Anwar Ali,Mohammad Irfan,46.0,45.050000000000004
+1748,Anwar Ali,Mohammad Irfan,Ahmed Shehzad,46.57142857,34.48
+1749,Anwar Ali,Mohammad Irfan,Mohammad Rizwan,32.875,31.630000000000003
+1750,Azhar Ali,Mohammad Irfan,Ahmed Shehzad,62.66666667,60.760000000000005
+1751,Mohammad Irfan,Mohammad Rizwan,Ahmed Shehzad,58.55555556,47.34
+1752,Bilawal Bhatti,Mohammad Irfan,Ahmed Shehzad,40.0,29.81
+1753,Ahmed Shehzad,Bilawal Bhatti,Shahid Afridi,78.5,52.26
+1754,Saad Nasim,Sami Aslam,Azhar Ali,168.0,87.95
+1755,Saad Nasim,Sami Aslam,Zulfiqar Babar,68.0,53.5
+1756,Saad Nasim,Azhar Ali,Zulfiqar Babar,124.0,69.45
+1757,Saad Nasim,Saeed Ajmal,Azhar Ali,92.5,68.45
+1758,Saad Nasim,Azhar Ali,Mohammad Rizwan,130.6666667,90.48
+1759,Saad Nasim,Saeed Ajmal,Mohammad Rizwan,78.5,55.03
+1760,Sami Aslam,Azhar Ali,Zulfiqar Babar,147.0,55.95
+1761,Sami Aslam,Azhar Ali,Mohammad Rizwan,130.0,76.98
+1762,Sami Aslam,Mohammad Rizwan,Zulfiqar Babar,50.0,42.53
+1763,Anwar Ali,Azhar Ali,Ahmed Shehzad,86.0,69.5
+1764,Hammad Azam,Anwar Ali,Azhar Ali,90.5,44.620000000000005
+1765,Anwar Ali,Azhar Ali,Mohammad Rizwan,72.25,66.65
+1766,Anwar Ali,Mohammad Rizwan,Ahmed Shehzad,73.33333333,56.08
+1767,Mohammad Rizwan,Azhar Ali,Zulfiqar Babar,106.0,58.480000000000004
+1768,Azhar Ali,Mohammad Rizwan,Ahmed Shehzad,95.75,82.36
+1769,Saeed Ajmal,Azhar Ali,Mohammad Rizwan,94.0,57.480000000000004
