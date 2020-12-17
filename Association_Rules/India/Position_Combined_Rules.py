@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[71]:
+# In[24]:
 
 
 from mlxtend.frequent_patterns import apriori
@@ -12,20 +12,20 @@ import numpy as np
 import math
 
 
-# In[72]:
+# In[25]:
 
 
 match_data = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/india_position.csv')
 
 
-# In[73]:
+# In[26]:
 
 
 #print the dataset
 match_data.head()
 
 
-# In[74]:
+# In[27]:
 
 
 del match_data["p1"]
@@ -41,14 +41,13 @@ del match_data["p10"]
 del match_data["p11"]
 
 
-# In[75]:
+# In[28]:
 
 
 match_data
-#here * --> means position 10 and #--> means position 11
 
 
-# In[76]:
+# In[29]:
 
 
 # convert our pandas dataframe into a list of lists,
@@ -60,13 +59,13 @@ for i in range(0, 112):
     player_combo.append(rowItem)
 
 
-# In[77]:
+# In[30]:
 
 
 print(player_combo)
 
 
-# In[78]:
+# In[31]:
 
 
 #Creating the dataframe of frequent itemsets
@@ -75,7 +74,7 @@ te_ary = te.fit(player_combo).transform(player_combo)
 match_df_freq = pd.DataFrame(te_ary, columns=te.columns_)
 
 
-# In[79]:
+# In[32]:
 
 
 #Define the minimum support and obtain the itemsets greater than the min support
@@ -84,78 +83,131 @@ match_sup = apriori(match_df_freq, min_support=0.1,use_colnames=True)
 print(match_sup)
 
 
-# In[80]:
+# In[33]:
 
 
 #generate association rules
 rules= association_rules(match_sup, metric="lift", min_threshold=1)
 
 
-# In[81]:
+# In[34]:
 
 
 #print the association rules
 rules
 
 
-# In[82]:
+# In[35]:
 
 
 #extract only the combinations occured at a winning match
 won_rules = rules[(rules['consequents'] == {"won"})]
 
 
-# In[83]:
+# In[36]:
 
 
 won_rules
 
 
-# In[84]:
+# In[37]:
 
 
 #remove the one itemsets
 #obtain the final winning combinations
-won_rules = won_rules[(won_rules['antecedents'].str.len() > 1)] #Here won_rules['antecedents'] is a frozenset
+position_won_rules = won_rules[(won_rules['antecedents'].str.len() > 1)] #Here won_rules['antecedents'] is a frozenset
 
 
-# In[85]:
+# In[38]:
 
 
 #print the winning combinations
-won_rules
+position_won_rules
 
 
-# In[86]:
+# In[39]:
 
 
 #finding winning combinatios with positions
 #removing same player combinations because of different postions
 #example: remvove antecedents with [V Kohli3,V Kohli5]
-col_names = ["antecedents","consequents","antecedent support","consequent support","support","confidence","lift","leverage","conviction"]
-position_won_rules = pd.DataFrame(columns = col_names)
+#col_names = ["antecedents","consequents","antecedent support","consequent support","support","confidence","lift","leverage","conviction"]
+#position_won_rules = pd.DataFrame(columns = col_names)
 
-i = 0
-for x in won_rules['antecedents']:
-    itemDup = [] # can have duplicates
-    itemSet = set() #without duplicates
-    for y in x:
-        y[:-1]#remove the last letter from the string
-        itemDup.append(y)
-        itemSet.add(y)
+#i = 0
+#for x in won_rules['antecedents']:
+#    itemDup = [] # can have duplicates
+#    itemSet = set() #without duplicates
+#    for y in x:
+#        y[:-1]#remove the last letter from the string
+#        itemDup.append(y)
+#        itemSet.add(y)
         
-    if len(itemDup) == len(itemSet):
-        position_won_rules = position_won_rules.append({'antecedents':won_rules.values[i,0],"consequents":won_rules.values[i,1],"antecedent support":won_rules.values[i,2],"consequent support":won_rules.values[i,3],"support":won_rules.values[i,4],"confidence":won_rules.values[i,5],"lift":won_rules.values[i,6],"leverage":won_rules.values[i,7],"conviction":won_rules.values[i,8]},ignore_index=True)
-    i = i + 1
+#    if len(itemDup) == len(itemSet):
+#        position_won_rules = position_won_rules.append({'antecedents':won_rules.values[i,0],"consequents":won_rules.values[i,1],"antecedent support":won_rules.values[i,2],"consequent support":won_rules.values[i,3],"support":won_rules.values[i,4],"confidence":won_rules.values[i,5],"lift":won_rules.values[i,6],"leverage":won_rules.values[i,7],"conviction":won_rules.values[i,8]},ignore_index=True)
+#    i = i + 1
 
 
-# In[87]:
+# In[40]:
 
 
 position_won_rules
 
 
-# In[88]:
+# In[41]:
+
+
+#sorting by confidence --- descending order
+position_won_rules.sort_values(by ='confidence', ascending = False, inplace = True)
+
+
+# In[42]:
+
+
+position_won_rules
+
+
+# In[43]:
+
+
+#For example let's take the first rule
+#if JJ Bumrah10, V Kohli3 then won
+#112 no of matches have played by the indian team from 2015 to 2020
+#here the support is 0.169643 = x/112
+#therefore no. of times the antecedent occurs = 0.169643*112 = approx 19 = x
+#confidence = 0.904762 = y/19
+#No of times the correct rule occured from the 19 instances is = 0.904762*19 = aprox 17
+
+
+# In[44]:
+
+
+#sorting by support --- descending order
+position_won_rules.sort_values(by ='support', ascending = False, inplace = True)
+
+
+# In[45]:
+
+
+position_won_rules
+
+
+# In[46]:
+
+
+import random
+import matplotlib.pyplot as plt
+
+support=position_won_rules['support']
+confidence=position_won_rules['confidence']
+ 
+plt.scatter(support, confidence,marker="*")
+plt.xlabel('support')
+plt.ylabel('confidence') 
+plt.show()
+
+
+# In[47]:
 
 
 position_won_rules.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/position_won_rules.csv')

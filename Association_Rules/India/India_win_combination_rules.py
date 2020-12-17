@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[30]:
 
 
 from mlxtend.frequent_patterns import apriori
@@ -12,20 +12,20 @@ import numpy as np
 import math
 
 
-# In[2]:
+# In[31]:
 
 
 match_data = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/India_data.csv')
 
 
-# In[3]:
+# In[32]:
 
 
 #print the dataset
 match_data.head()
 
 
-# In[4]:
+# In[33]:
 
 
 del match_data["Day_Night"]
@@ -35,14 +35,14 @@ del match_data["Toss"]
 del match_data["Opposition"]
 
 
-# In[6]:
+# In[34]:
 
 
 #print the dataset
 match_data
 
 
-# In[7]:
+# In[35]:
 
 
 # convert our pandas dataframe into a list of lists,
@@ -54,13 +54,13 @@ for i in range(0, 112):
     player_combo.append(rowItem)
 
 
-# In[8]:
+# In[36]:
 
 
 print(player_combo)
 
 
-# In[9]:
+# In[37]:
 
 
 #Creating the dataframe of frequent itemsets
@@ -69,7 +69,7 @@ te_ary = te.fit(player_combo).transform(player_combo)
 match_df_freq = pd.DataFrame(te_ary, columns=te.columns_)
 
 
-# In[10]:
+# In[38]:
 
 
 #Define the minimum support and obtain the itemsets greater than the min support
@@ -78,34 +78,34 @@ match_sup = apriori(match_df_freq, min_support=0.1,use_colnames=True)
 print(match_sup)
 
 
-# In[11]:
+# In[39]:
 
 
 #generate association rules
 rules= association_rules(match_sup, metric="lift", min_threshold=1)
 
 
-# In[12]:
+# In[40]:
 
 
 #print the association rules
 rules
 
 
-# In[13]:
+# In[41]:
 
 
 #extract only the combinations occured at a winning match
 won_rules = rules[(rules['consequents'] == {"won"})]
 
 
-# In[14]:
+# In[42]:
 
 
 won_rules
 
 
-# In[15]:
+# In[43]:
 
 
 #remove the one itemsets
@@ -113,21 +113,85 @@ won_rules
 won_rules = won_rules[(won_rules['antecedents'].str.len() > 1)] #Here won_rules['antecedents'] is a frozenset
 
 
-# In[16]:
+# In[44]:
 
 
 #print the winning combinations
 won_rules
 
 
-# In[17]:
+# In[45]:
+
+
+#sorting by confidence --- descending order
+won_rules.sort_values(by ='confidence', ascending = False, inplace = True)
+
+
+# In[46]:
+
+
+won_rules
+
+
+# In[47]:
+
+
+#For example let's take the first rule
+#if B Kumar, YS Chahal, KM Jadhav, MS Dhoni then won
+#112 no of matches have played by the indian team from 2015 to 2020
+#here the support is 0.205357 = x/112
+#therefore no. of times the antecedent occurs = 0.205357*112 = approx 23 = x
+#confidence = 0.958333 = y/23
+#No of times the correct rule occured from the 23 instances is = 0.958333*23 = aprox 22 = y
+
+
+# In[48]:
+
+
+#sorting by support --- descending order
+won_rules.sort_values(by ='support', ascending = False, inplace = True)
+
+
+# In[49]:
+
+
+won_rules
+
+
+# In[50]:
+
+
+#Support is an indication of how frequently the itemset appears in the dataset.
+#Confidence is an indication of how often the rule has been found to be true.
+
+
+# In[51]:
+
+
+support=won_rules['support']
+confidence=won_rules['confidence']
+
+
+# In[52]:
+
+
+import random
+import matplotlib.pyplot as plt
+ 
+plt.scatter(support, confidence,marker="*")
+plt.xlabel('support')
+plt.ylabel('confidence') 
+plt.show()
+
+
+# In[53]:
 
 
 #select all the rules where antecedent contains 'RG Sharma'
 #won_rules[(won_rules['antecedents'].apply(lambda x: 'RG Sharma' in str(x)))]
 
 
-# In[18]:
+# In[54]:
 
 
 won_rules.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/won_rules.csv')
