@@ -13076,7 +13076,7 @@ div#notebook {
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[71]:</div>
+<div class="prompt input_prompt">In&nbsp;[24]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">mlxtend.frequent_patterns</span> <span class="kn">import</span> <span class="n">apriori</span>
@@ -13094,7 +13094,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[72]:</div>
+<div class="prompt input_prompt">In&nbsp;[25]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">match_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/india_position.csv&#39;</span><span class="p">)</span>
@@ -13107,7 +13107,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[73]:</div>
+<div class="prompt input_prompt">In&nbsp;[26]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#print the dataset</span>
@@ -13124,7 +13124,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[73]:</div>
+    <div class="prompt output_prompt">Out[26]:</div>
 
 
 
@@ -13191,9 +13191,9 @@ div#notebook {
       <td>B Kumar</td>
       <td>B Kumar9</td>
       <td>Mohammed Shami</td>
-      <td>Mohammed Shami*</td>
+      <td>Mohammed Shami10</td>
       <td>UT Yadav</td>
-      <td>UT Yadav#</td>
+      <td>UT Yadav11</td>
     </tr>
     <tr>
       <th>1</th>
@@ -13215,9 +13215,9 @@ div#notebook {
       <td>B Kumar</td>
       <td>B Kumar9</td>
       <td>Mohammed Shami</td>
-      <td>Mohammed Shami*</td>
+      <td>Mohammed Shami10</td>
       <td>UT Yadav</td>
-      <td>UT Yadav#</td>
+      <td>UT Yadav11</td>
     </tr>
     <tr>
       <th>2</th>
@@ -13239,9 +13239,9 @@ div#notebook {
       <td>AR Patel</td>
       <td>AR Patel9</td>
       <td>MM Sharma</td>
-      <td>MM Sharma*</td>
+      <td>MM Sharma10</td>
       <td>Mohammed Shami</td>
-      <td>Mohammed Shami#</td>
+      <td>Mohammed Shami11</td>
     </tr>
     <tr>
       <th>3</th>
@@ -13263,9 +13263,9 @@ div#notebook {
       <td>Mohammed Shami</td>
       <td>Mohammed Shami9</td>
       <td>UT Yadav</td>
-      <td>UT Yadav*</td>
+      <td>UT Yadav10</td>
       <td>MM Sharma</td>
-      <td>MM Sharma#</td>
+      <td>MM Sharma11</td>
     </tr>
     <tr>
       <th>4</th>
@@ -13287,9 +13287,9 @@ div#notebook {
       <td>Mohammed Shami</td>
       <td>Mohammed Shami9</td>
       <td>UT Yadav</td>
-      <td>UT Yadav*</td>
+      <td>UT Yadav10</td>
       <td>MM Sharma</td>
-      <td>MM Sharma#</td>
+      <td>MM Sharma11</td>
     </tr>
   </tbody>
 </table>
@@ -13305,7 +13305,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[74]:</div>
+<div class="prompt input_prompt">In&nbsp;[27]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">del</span> <span class="n">match_data</span><span class="p">[</span><span class="s2">&quot;p1&quot;</span><span class="p">]</span>
@@ -13328,11 +13328,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[75]:</div>
+<div class="prompt input_prompt">In&nbsp;[28]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">match_data</span>
-<span class="c1">#here * --&gt; means position 10 and #--&gt; means position 11</span>
 </pre></div>
 
     </div>
@@ -13345,7 +13344,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[75]:</div>
+    <div class="prompt output_prompt">Out[28]:</div>
 
 
 
@@ -13395,8 +13394,8 @@ div#notebook {
       <td>AR Patel7</td>
       <td>R Ashwin8</td>
       <td>B Kumar9</td>
-      <td>Mohammed Shami*</td>
-      <td>UT Yadav#</td>
+      <td>Mohammed Shami10</td>
+      <td>UT Yadav11</td>
     </tr>
     <tr>
       <th>1</th>
@@ -13410,8 +13409,8 @@ div#notebook {
       <td>STR Binny7</td>
       <td>AR Patel8</td>
       <td>B Kumar9</td>
-      <td>Mohammed Shami*</td>
-      <td>UT Yadav#</td>
+      <td>Mohammed Shami10</td>
+      <td>UT Yadav11</td>
     </tr>
     <tr>
       <th>2</th>
@@ -13425,8 +13424,8 @@ div#notebook {
       <td>STR Binny7</td>
       <td>RA Jadeja8</td>
       <td>AR Patel9</td>
-      <td>MM Sharma*</td>
-      <td>Mohammed Shami#</td>
+      <td>MM Sharma10</td>
+      <td>Mohammed Shami11</td>
     </tr>
     <tr>
       <th>3</th>
@@ -13440,8 +13439,8 @@ div#notebook {
       <td>AM Rahane7</td>
       <td>R Ashwin8</td>
       <td>Mohammed Shami9</td>
-      <td>UT Yadav*</td>
-      <td>MM Sharma#</td>
+      <td>UT Yadav10</td>
+      <td>MM Sharma11</td>
     </tr>
     <tr>
       <th>4</th>
@@ -13455,8 +13454,8 @@ div#notebook {
       <td>RA Jadeja7</td>
       <td>R Ashwin8</td>
       <td>Mohammed Shami9</td>
-      <td>UT Yadav*</td>
-      <td>MM Sharma#</td>
+      <td>UT Yadav10</td>
+      <td>MM Sharma11</td>
     </tr>
     <tr>
       <th>...</th>
@@ -13485,8 +13484,8 @@ div#notebook {
       <td>RA Jadeja7</td>
       <td>Mohammed Shami8</td>
       <td>Kuldeep Yadav9</td>
-      <td>NA Saini*</td>
-      <td>JJ Bumrah#</td>
+      <td>NA Saini10</td>
+      <td>JJ Bumrah11</td>
     </tr>
     <tr>
       <th>108</th>
@@ -13500,8 +13499,8 @@ div#notebook {
       <td>RA Jadeja7</td>
       <td>Mohammed Shami8</td>
       <td>Kuldeep Yadav9</td>
-      <td>NA Saini*</td>
-      <td>JJ Bumrah#</td>
+      <td>NA Saini10</td>
+      <td>JJ Bumrah11</td>
     </tr>
     <tr>
       <th>109</th>
@@ -13515,8 +13514,8 @@ div#notebook {
       <td>RA Jadeja7</td>
       <td>SN Thakur8</td>
       <td>Kuldeep Yadav9</td>
-      <td>Mohammed Shami*</td>
-      <td>JJ Bumrah#</td>
+      <td>Mohammed Shami10</td>
+      <td>JJ Bumrah11</td>
     </tr>
     <tr>
       <th>110</th>
@@ -13530,8 +13529,8 @@ div#notebook {
       <td>RA Jadeja7</td>
       <td>SN Thakur8</td>
       <td>NA Saini9</td>
-      <td>YS Chahal*</td>
-      <td>JJ Bumrah#</td>
+      <td>YS Chahal10</td>
+      <td>JJ Bumrah11</td>
     </tr>
     <tr>
       <th>111</th>
@@ -13545,8 +13544,8 @@ div#notebook {
       <td>RA Jadeja7</td>
       <td>SN Thakur8</td>
       <td>NA Saini9</td>
-      <td>YS Chahal*</td>
-      <td>JJ Bumrah#</td>
+      <td>YS Chahal10</td>
+      <td>JJ Bumrah11</td>
     </tr>
   </tbody>
 </table>
@@ -13562,7 +13561,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[76]:</div>
+<div class="prompt input_prompt">In&nbsp;[29]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># convert our pandas dataframe into a list of lists,</span>
@@ -13581,7 +13580,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[77]:</div>
+<div class="prompt input_prompt">In&nbsp;[30]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">player_combo</span><span class="p">)</span>
@@ -13601,7 +13600,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>[[&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AM Rahane3&#39;, &#39;V Kohli4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;R Ashwin8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;V Kohli4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;STR Binny7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;SK Raina4&#39;, &#39;AT Rayudu5&#39;, &#39;MS Dhoni6&#39;, &#39;STR Binny7&#39;, &#39;RA Jadeja8&#39;, &#39;AR Patel9&#39;, &#39;MM Sharma*&#39;, &#39;Mohammed Shami#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;SK Raina4&#39;, &#39;MS Dhoni5&#39;, &#39;RA Jadeja6&#39;, &#39;AM Rahane7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;UT Yadav*&#39;, &#39;MM Sharma#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;UT Yadav*&#39;, &#39;MM Sharma#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;MM Sharma9&#39;, &#39;Mohammed Shami*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;MM Sharma*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;MM Sharma9&#39;, &#39;Mohammed Shami*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;MM Sharma*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;MM Sharma*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;B Kumar9&#39;, &#39;MM Sharma*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;AT Rayudu5&#39;, &#39;SK Raina6&#39;, &#39;RA Jadeja7&#39;, &#39;AR Patel8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar*&#39;, &#39;DS Kulkarni#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;AT Rayudu5&#39;, &#39;SK Raina6&#39;, &#39;STR Binny7&#39;, &#39;AR Patel8&#39;, &#39;R Ashwin9&#39;, &#39;DS Kulkarni*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;M Vijay2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Tiwary4&#39;, &#39;RV Uthappa5&#39;, &#39;KM Jadhav6&#39;, &#39;STR Binny7&#39;, &#39;AR Patel8&#39;, &#39;Harbhajan Singh9&#39;, &#39;B Kumar*&#39;, &#39;DS Kulkarni#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;M Vijay2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Tiwary4&#39;, &#39;RV Uthappa5&#39;, &#39;STR Binny6&#39;, &#39;KM Jadhav7&#39;, &#39;Harbhajan Singh8&#39;, &#39;AR Patel9&#39;, &#39;B Kumar*&#39;, &#39;DS Kulkarni#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;M Vijay2&#39;, &#39;RV Uthappa3&#39;, &#39;MK Tiwary4&#39;, &#39;MK Pandey5&#39;, &#39;KM Jadhav6&#39;, &#39;STR Binny7&#39;, &#39;Harbhajan Singh8&#39;, &#39;AR Patel9&#39;, &#39;B Kumar*&#39;, &#39;MM Sharma#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AM Rahane3&#39;, &#39;V Kohli4&#39;, &#39;MS Dhoni5&#39;, &#39;SK Raina6&#39;, &#39;STR Binny7&#39;, &#39;B Kumar8&#39;, &#39;A Mishra9&#39;, &#39;R Ashwin*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AM Rahane3&#39;, &#39;V Kohli4&#39;, &#39;MS Dhoni5&#39;, &#39;SK Raina6&#39;, &#39;AR Patel7&#39;, &#39;B Kumar8&#39;, &#39;Harbhajan Singh9&#39;, &#39;UT Yadav*&#39;, &#39;MM Sharma#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;SK Raina5&#39;, &#39;AM Rahane6&#39;, &#39;AR Patel7&#39;, &#39;Harbhajan Singh8&#39;, &#39;B Kumar9&#39;, &#39;MM Sharma*&#39;, &#39;A Mishra#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;Harbhajan Singh7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;MM Sharma*&#39;, &#39;A Mishra#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;Harbhajan Singh8&#39;, &#39;B Kumar9&#39;, &#39;A Mishra*&#39;, &#39;MM Sharma#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;RA Jadeja5&#39;, &#39;AM Rahane6&#39;, &#39;MK Pandey7&#39;, &#39;R Ashwin8&#39;, &#39;UT Yadav9&#39;, &#39;B Kumar*&#39;, &#39;BB Sran#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;MS Dhoni5&#39;, &#39;MK Pandey6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;UT Yadav9&#39;, &#39;I Sharma*&#39;, &#39;BB Sran#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;MS Dhoni5&#39;, &#39;Gurkeerat Singh6&#39;, &#39;RA Jadeja7&#39;, &#39;R Dhawan8&#39;, &#39;I Sharma9&#39;, &#39;UT Yadav*&#39;, &#39;BB Sran#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;Gurkeerat Singh5&#39;, &#39;RA Jadeja6&#39;, &#39;AM Rahane7&#39;, &#39;R Dhawan8&#39;, &#39;B Kumar9&#39;, &#39;UT Yadav*&#39;, &#39;I Sharma#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;MS Dhoni5&#39;, &#39;Gurkeerat Singh6&#39;, &#39;RA Jadeja7&#39;, &#39;R Dhawan8&#39;, &#39;JJ Bumrah9&#39;, &#39;UT Yadav*&#39;, &#39;I Sharma#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;KK Nair2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;DS Kulkarni8&#39;, &#39;JJ Bumrah9&#39;, &#39;BB Sran*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;KK Nair2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;DS Kulkarni8&#39;, &#39;JJ Bumrah9&#39;, &#39;BB Sran*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;FY Fazal2&#39;, &#39;MK Pandey3&#39;, &#39;AT Rayudu4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;DS Kulkarni8&#39;, &#39;JJ Bumrah9&#39;, &#39;BB Sran*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;A Mishra9&#39;, &#39;JJ Bumrah*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;AR Patel7&#39;, &#39;HH Pandya8&#39;, &#39;A Mishra9&#39;, &#39;UT Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;MK Pandey5&#39;, &#39;KM Jadhav6&#39;, &#39;AR Patel7&#39;, &#39;HH Pandya8&#39;, &#39;A Mishra9&#39;, &#39;UT Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;AR Patel5&#39;, &#39;MK Pandey6&#39;, &#39;KM Jadhav7&#39;, &#39;HH Pandya8&#39;, &#39;A Mishra9&#39;, &#39;DS Kulkarni*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;MK Pandey5&#39;, &#39;KM Jadhav6&#39;, &#39;AR Patel7&#39;, &#39;J Yadav8&#39;, &#39;A Mishra9&#39;, &#39;UT Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;JJ Bumrah*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;JJ Bumrah*&#39;, &#39;B Kumar#&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;UT Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;KM Jadhav7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;UT Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;KM Jadhav7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;R Ashwin*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;Yuvraj Singh5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;R Ashwin8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;B Kumar*&#39;, &#39;UT Yadav#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;R Ashwin8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;B Kumar*&#39;, &#39;UT Yadav#&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;UT Yadav*&#39;, &#39;Mohammed Shami#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;UT Yadav*&#39;, &#39;Mohammed Shami#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;KL Rahul3&#39;, &#39;KM Jadhav4&#39;, &#39;V Kohli5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;KL Rahul5&#39;, &#39;MK Pandey6&#39;, &#39;MS Dhoni7&#39;, &#39;AR Patel8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;SN Thakur#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;JJ Bumrah7&#39;, &#39;YS Chahal8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;B Kumar*&#39;, &#39;SN Thakur#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;KM Jadhav5&#39;, &#39;MK Pandey6&#39;, &#39;MS Dhoni7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;KM Jadhav5&#39;, &#39;MK Pandey6&#39;, &#39;MS Dhoni7&#39;, &#39;AR Patel8&#39;, &#39;Mohammed Shami9&#39;, &#39;UT Yadav*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;KM Jadhav4&#39;, &#39;MK Pandey5&#39;, &#39;HH Pandya6&#39;, &#39;MS Dhoni7&#39;, &#39;B Kumar8&#39;, &#39;AR Patel9&#39;, &#39;JJ Bumrah*&#39;, &#39;Kuldeep Yadav#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KM Jadhav4&#39;, &#39;KD Karthik5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;KD Karthik7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;SS Iyer3&#39;, &#39;KD Karthik4&#39;, &#39;MK Pandey5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;SS Iyer3&#39;, &#39;MS Dhoni4&#39;, &#39;HH Pandya5&#39;, &#39;KD Karthik6&#39;, &#39;MK Pandey7&#39;, &#39;B Kumar8&#39;, &#39;Washington Sundar9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;SS Iyer3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;MK Pandey7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SS Iyer5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SS Iyer5&#39;, &#39;HH Pandya6&#39;, &#39;MS Dhoni7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SS Iyer5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;SN Thakur9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;S Kaul8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;UT Yadav*&#39;, &#39;YS Chahal#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;UT Yadav8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;S Kaul*&#39;, &#39;YS Chahal#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;SK Raina6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;SN Thakur9&#39;, &#39;Kuldeep Yadav*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;MS Dhoni4&#39;, &#39;KD Karthik5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;KM Jadhav4&#39;, &#39;MS Dhoni5&#39;, &#39;KD Karthik6&#39;, &#39;Kuldeep Yadav7&#39;, &#39;RA Jadeja8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;RR Pant5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;YS Chahal8&#39;, &#39;UT Yadav9&#39;, &#39;Mohammed Shami*&#39;, &#39;KK Ahmed#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;RR Pant5&#39;, &#39;MS Dhoni6&#39;, &#39;B Kumar7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;KK Ahmed*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;KK Ahmed*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;KK Ahmed*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KD Karthik6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami*&#39;, &#39;KK Ahmed#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KD Karthik6&#39;, &#39;RA Jadeja7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami*&#39;, &#39;Mohammed Siraj#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;KM Jadhav5&#39;, &#39;KD Karthik6&#39;, &#39;V Shankar7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;V Shankar7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar*&#39;, &#39;Mohammed Shami#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar*&#39;, &#39;Mohammed Shami#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;KD Karthik5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar*&#39;, &#39;Mohammed Shami#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;Shubman Gill3&#39;, &#39;AT Rayudu4&#39;, &#39;KD Karthik5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;KK Ahmed#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;Shubman Gill3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;V Shankar6&#39;, &#39;KM Jadhav7&#39;, &#39;HH Pandya8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;V Shankar5&#39;, &#39;KM Jadhav6&#39;, &#39;MS Dhoni7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;KL Rahul3&#39;, &#39;V Kohli4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;V Shankar5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;MS Dhoni5&#39;, &#39;KL Rahul6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;MS Dhoni5&#39;, &#39;V Shankar6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;V Shankar4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;V Shankar4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;Mohammed Shami9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KD Karthik7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;JJ Bumrah*&#39;, &#39;YS Chahal#&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KD Karthik7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah*&#39;, &#39;Kuldeep Yadav#&#39;], [&#39;lost&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;KD Karthik5&#39;, &#39;HH Pandya6&#39;, &#39;MS Dhoni7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;SS Iyer5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav*&#39;, &#39;KK Ahmed#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;SS Iyer5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;KK Ahmed*&#39;, &#39;YS Chahal#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;S Dube8&#39;, &#39;DL Chahar9&#39;, &#39;Mohammed Shami*&#39;, &#39;Kuldeep Yadav#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;DL Chahar8&#39;, &#39;Mohammed Shami9&#39;, &#39;SN Thakur*&#39;, &#39;Kuldeep Yadav#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav*&#39;, &#39;NA Saini#&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;KL Rahul3&#39;, &#39;V Kohli4&#39;, &#39;SS Iyer5&#39;, &#39;RR Pant6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;MK Pandey6&#39;, &#39;RA Jadeja7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;NA Saini*&#39;, &#39;JJ Bumrah#&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;MK Pandey5&#39;, &#39;S Dhawan6&#39;, &#39;RA Jadeja7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;NA Saini*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;PP Shaw1&#39;, &#39;MA Agarwal2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;PP Shaw1&#39;, &#39;MA Agarwal2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;NA Saini9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;], [&#39;lost&#39;, &#39;PP Shaw1&#39;, &#39;MA Agarwal2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;MK Pandey6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;NA Saini9&#39;, &#39;YS Chahal*&#39;, &#39;JJ Bumrah#&#39;]]
+<pre>[[&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AM Rahane3&#39;, &#39;V Kohli4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;R Ashwin8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;V Kohli4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;STR Binny7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;SK Raina4&#39;, &#39;AT Rayudu5&#39;, &#39;MS Dhoni6&#39;, &#39;STR Binny7&#39;, &#39;RA Jadeja8&#39;, &#39;AR Patel9&#39;, &#39;MM Sharma10&#39;, &#39;Mohammed Shami11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;SK Raina4&#39;, &#39;MS Dhoni5&#39;, &#39;RA Jadeja6&#39;, &#39;AM Rahane7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;UT Yadav10&#39;, &#39;MM Sharma11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;UT Yadav10&#39;, &#39;MM Sharma11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;MM Sharma9&#39;, &#39;Mohammed Shami10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;MM Sharma10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;MM Sharma9&#39;, &#39;Mohammed Shami10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;MM Sharma10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;Mohammed Shami9&#39;, &#39;MM Sharma10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;B Kumar9&#39;, &#39;MM Sharma10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;AT Rayudu5&#39;, &#39;SK Raina6&#39;, &#39;RA Jadeja7&#39;, &#39;AR Patel8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar10&#39;, &#39;DS Kulkarni11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;AT Rayudu5&#39;, &#39;SK Raina6&#39;, &#39;STR Binny7&#39;, &#39;AR Patel8&#39;, &#39;R Ashwin9&#39;, &#39;DS Kulkarni10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;M Vijay2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Tiwary4&#39;, &#39;RV Uthappa5&#39;, &#39;KM Jadhav6&#39;, &#39;STR Binny7&#39;, &#39;AR Patel8&#39;, &#39;Harbhajan Singh9&#39;, &#39;B Kumar10&#39;, &#39;DS Kulkarni11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;M Vijay2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Tiwary4&#39;, &#39;RV Uthappa5&#39;, &#39;STR Binny6&#39;, &#39;KM Jadhav7&#39;, &#39;Harbhajan Singh8&#39;, &#39;AR Patel9&#39;, &#39;B Kumar10&#39;, &#39;DS Kulkarni11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;M Vijay2&#39;, &#39;RV Uthappa3&#39;, &#39;MK Tiwary4&#39;, &#39;MK Pandey5&#39;, &#39;KM Jadhav6&#39;, &#39;STR Binny7&#39;, &#39;Harbhajan Singh8&#39;, &#39;AR Patel9&#39;, &#39;B Kumar10&#39;, &#39;MM Sharma11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AM Rahane3&#39;, &#39;V Kohli4&#39;, &#39;MS Dhoni5&#39;, &#39;SK Raina6&#39;, &#39;STR Binny7&#39;, &#39;B Kumar8&#39;, &#39;A Mishra9&#39;, &#39;R Ashwin10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AM Rahane3&#39;, &#39;V Kohli4&#39;, &#39;MS Dhoni5&#39;, &#39;SK Raina6&#39;, &#39;AR Patel7&#39;, &#39;B Kumar8&#39;, &#39;Harbhajan Singh9&#39;, &#39;UT Yadav10&#39;, &#39;MM Sharma11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;SK Raina5&#39;, &#39;AM Rahane6&#39;, &#39;AR Patel7&#39;, &#39;Harbhajan Singh8&#39;, &#39;B Kumar9&#39;, &#39;MM Sharma10&#39;, &#39;A Mishra11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;Harbhajan Singh7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;MM Sharma10&#39;, &#39;A Mishra11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;Harbhajan Singh8&#39;, &#39;B Kumar9&#39;, &#39;A Mishra10&#39;, &#39;MM Sharma11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;RA Jadeja5&#39;, &#39;AM Rahane6&#39;, &#39;MK Pandey7&#39;, &#39;R Ashwin8&#39;, &#39;UT Yadav9&#39;, &#39;B Kumar10&#39;, &#39;BB Sran11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;MS Dhoni5&#39;, &#39;MK Pandey6&#39;, &#39;RA Jadeja7&#39;, &#39;R Ashwin8&#39;, &#39;UT Yadav9&#39;, &#39;I Sharma10&#39;, &#39;BB Sran11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;MS Dhoni5&#39;, &#39;Gurkeerat Singh6&#39;, &#39;RA Jadeja7&#39;, &#39;R Dhawan8&#39;, &#39;I Sharma9&#39;, &#39;UT Yadav10&#39;, &#39;BB Sran11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;Gurkeerat Singh5&#39;, &#39;RA Jadeja6&#39;, &#39;AM Rahane7&#39;, &#39;R Dhawan8&#39;, &#39;B Kumar9&#39;, &#39;UT Yadav10&#39;, &#39;I Sharma11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;MS Dhoni5&#39;, &#39;Gurkeerat Singh6&#39;, &#39;RA Jadeja7&#39;, &#39;R Dhawan8&#39;, &#39;JJ Bumrah9&#39;, &#39;UT Yadav10&#39;, &#39;I Sharma11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;KK Nair2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;DS Kulkarni8&#39;, &#39;JJ Bumrah9&#39;, &#39;BB Sran10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;KK Nair2&#39;, &#39;AT Rayudu3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;DS Kulkarni8&#39;, &#39;JJ Bumrah9&#39;, &#39;BB Sran10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;FY Fazal2&#39;, &#39;MK Pandey3&#39;, &#39;AT Rayudu4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;AR Patel7&#39;, &#39;DS Kulkarni8&#39;, &#39;JJ Bumrah9&#39;, &#39;BB Sran10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;A Mishra9&#39;, &#39;JJ Bumrah10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;AR Patel7&#39;, &#39;HH Pandya8&#39;, &#39;A Mishra9&#39;, &#39;UT Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;MK Pandey5&#39;, &#39;KM Jadhav6&#39;, &#39;AR Patel7&#39;, &#39;HH Pandya8&#39;, &#39;A Mishra9&#39;, &#39;UT Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;AR Patel5&#39;, &#39;MK Pandey6&#39;, &#39;KM Jadhav7&#39;, &#39;HH Pandya8&#39;, &#39;A Mishra9&#39;, &#39;DS Kulkarni10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;MK Pandey5&#39;, &#39;KM Jadhav6&#39;, &#39;AR Patel7&#39;, &#39;J Yadav8&#39;, &#39;A Mishra9&#39;, &#39;UT Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;JJ Bumrah10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;JJ Bumrah10&#39;, &#39;B Kumar11&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;UT Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;KM Jadhav7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;UT Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;KM Jadhav7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;R Ashwin10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;R Ashwin9&#39;, &#39;B Kumar10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;Yuvraj Singh5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;R Ashwin8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;B Kumar10&#39;, &#39;UT Yadav11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;Yuvraj Singh4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;R Ashwin8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;B Kumar10&#39;, &#39;UT Yadav11&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;UT Yadav10&#39;, &#39;Mohammed Shami11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;UT Yadav10&#39;, &#39;Mohammed Shami11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;KL Rahul3&#39;, &#39;KM Jadhav4&#39;, &#39;V Kohli5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;KL Rahul5&#39;, &#39;MK Pandey6&#39;, &#39;MS Dhoni7&#39;, &#39;AR Patel8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;SN Thakur11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;AM Rahane2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;JJ Bumrah7&#39;, &#39;YS Chahal8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;B Kumar10&#39;, &#39;SN Thakur11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;MK Pandey4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;KM Jadhav5&#39;, &#39;MK Pandey6&#39;, &#39;MS Dhoni7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;lost&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;KM Jadhav5&#39;, &#39;MK Pandey6&#39;, &#39;MS Dhoni7&#39;, &#39;AR Patel8&#39;, &#39;Mohammed Shami9&#39;, &#39;UT Yadav10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;AM Rahane1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;KM Jadhav4&#39;, &#39;MK Pandey5&#39;, &#39;HH Pandya6&#39;, &#39;MS Dhoni7&#39;, &#39;B Kumar8&#39;, &#39;AR Patel9&#39;, &#39;JJ Bumrah10&#39;, &#39;Kuldeep Yadav11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KM Jadhav4&#39;, &#39;KD Karthik5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;KD Karthik7&#39;, &#39;AR Patel8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;SS Iyer3&#39;, &#39;KD Karthik4&#39;, &#39;MK Pandey5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;SS Iyer3&#39;, &#39;MS Dhoni4&#39;, &#39;HH Pandya5&#39;, &#39;KD Karthik6&#39;, &#39;MK Pandey7&#39;, &#39;B Kumar8&#39;, &#39;Washington Sundar9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;SS Iyer3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;MK Pandey7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SS Iyer5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SS Iyer5&#39;, &#39;HH Pandya6&#39;, &#39;MS Dhoni7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;AM Rahane4&#39;, &#39;SS Iyer5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;SN Thakur9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;S Kaul8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;UT Yadav10&#39;, &#39;YS Chahal11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;SK Raina5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;UT Yadav8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;S Kaul10&#39;, &#39;YS Chahal11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;SK Raina6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;SN Thakur9&#39;, &#39;Kuldeep Yadav10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;MS Dhoni4&#39;, &#39;KD Karthik5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;KM Jadhav4&#39;, &#39;MS Dhoni5&#39;, &#39;KD Karthik6&#39;, &#39;Kuldeep Yadav7&#39;, &#39;RA Jadeja8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;AT Rayudu3&#39;, &#39;KD Karthik4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;RR Pant5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;YS Chahal8&#39;, &#39;UT Yadav9&#39;, &#39;Mohammed Shami10&#39;, &#39;KK Ahmed11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;RR Pant5&#39;, &#39;MS Dhoni6&#39;, &#39;B Kumar7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;KK Ahmed10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;KK Ahmed10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;KK Ahmed10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KD Karthik6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami10&#39;, &#39;KK Ahmed11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KD Karthik6&#39;, &#39;RA Jadeja7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami10&#39;, &#39;Mohammed Siraj11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;MS Dhoni4&#39;, &#39;KM Jadhav5&#39;, &#39;KD Karthik6&#39;, &#39;V Shankar7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;V Shankar7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar10&#39;, &#39;Mohammed Shami11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar10&#39;, &#39;Mohammed Shami11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;KD Karthik5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;YS Chahal9&#39;, &#39;B Kumar10&#39;, &#39;Mohammed Shami11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;Shubman Gill3&#39;, &#39;AT Rayudu4&#39;, &#39;KD Karthik5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;KK Ahmed11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;Shubman Gill3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;V Shankar6&#39;, &#39;KM Jadhav7&#39;, &#39;HH Pandya8&#39;, &#39;B Kumar9&#39;, &#39;Mohammed Shami10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;V Shankar5&#39;, &#39;KM Jadhav6&#39;, &#39;MS Dhoni7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;AT Rayudu4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;RA Jadeja8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;KL Rahul3&#39;, &#39;V Kohli4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;V Shankar7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;V Shankar5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;KL Rahul4&#39;, &#39;MS Dhoni5&#39;, &#39;HH Pandya6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;MS Dhoni5&#39;, &#39;KL Rahul6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;HH Pandya4&#39;, &#39;MS Dhoni5&#39;, &#39;V Shankar6&#39;, &#39;KM Jadhav7&#39;, &#39;B Kumar8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;V Shankar4&#39;, &#39;MS Dhoni5&#39;, &#39;KM Jadhav6&#39;, &#39;HH Pandya7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;V Shankar4&#39;, &#39;KM Jadhav5&#39;, &#39;MS Dhoni6&#39;, &#39;HH Pandya7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KM Jadhav7&#39;, &#39;Kuldeep Yadav8&#39;, &#39;Mohammed Shami9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KD Karthik7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;JJ Bumrah10&#39;, &#39;YS Chahal11&#39;], [&#39;won&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;HH Pandya5&#39;, &#39;MS Dhoni6&#39;, &#39;KD Karthik7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;JJ Bumrah10&#39;, &#39;Kuldeep Yadav11&#39;], [&#39;lost&#39;, &#39;KL Rahul1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;KD Karthik5&#39;, &#39;HH Pandya6&#39;, &#39;MS Dhoni7&#39;, &#39;RA Jadeja8&#39;, &#39;B Kumar9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;S Dhawan1&#39;, &#39;RG Sharma2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;SS Iyer5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav10&#39;, &#39;KK Ahmed11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;RR Pant4&#39;, &#39;SS Iyer5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;B Kumar8&#39;, &#39;Mohammed Shami9&#39;, &#39;KK Ahmed10&#39;, &#39;YS Chahal11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;S Dube8&#39;, &#39;DL Chahar9&#39;, &#39;Mohammed Shami10&#39;, &#39;Kuldeep Yadav11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;DL Chahar8&#39;, &#39;Mohammed Shami9&#39;, &#39;SN Thakur10&#39;, &#39;Kuldeep Yadav11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;RR Pant5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav10&#39;, &#39;NA Saini11&#39;], [&#39;lost&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;KL Rahul3&#39;, &#39;V Kohli4&#39;, &#39;SS Iyer5&#39;, &#39;RR Pant6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;Mohammed Shami9&#39;, &#39;Kuldeep Yadav10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;S Dhawan2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;MK Pandey6&#39;, &#39;RA Jadeja7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;NA Saini10&#39;, &#39;JJ Bumrah11&#39;], [&#39;won&#39;, &#39;RG Sharma1&#39;, &#39;KL Rahul2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;MK Pandey5&#39;, &#39;S Dhawan6&#39;, &#39;RA Jadeja7&#39;, &#39;Mohammed Shami8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;NA Saini10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;PP Shaw1&#39;, &#39;MA Agarwal2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;Kuldeep Yadav9&#39;, &#39;Mohammed Shami10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;PP Shaw1&#39;, &#39;MA Agarwal2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;KM Jadhav6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;NA Saini9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;], [&#39;lost&#39;, &#39;PP Shaw1&#39;, &#39;MA Agarwal2&#39;, &#39;V Kohli3&#39;, &#39;SS Iyer4&#39;, &#39;KL Rahul5&#39;, &#39;MK Pandey6&#39;, &#39;RA Jadeja7&#39;, &#39;SN Thakur8&#39;, &#39;NA Saini9&#39;, &#39;YS Chahal10&#39;, &#39;JJ Bumrah11&#39;]]
 </pre>
 </div>
 </div>
@@ -13612,7 +13611,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[78]:</div>
+<div class="prompt input_prompt">In&nbsp;[31]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Creating the dataframe of frequent itemsets</span>
@@ -13628,7 +13627,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[79]:</div>
+<div class="prompt input_prompt">In&nbsp;[32]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Define the minimum support and obtain the itemsets greater than the min support</span>
@@ -13656,13 +13655,13 @@ div#notebook {
 1    0.151786                                       (AM Rahane4)
 2    0.116071                                        (AR Patel8)
 3    0.133929                                       (AT Rayudu4)
-4    0.133929                                         (B Kumar*)
+4    0.133929                                        (B Kumar10)
 ..        ...                                                ...
-291  0.133929           (RG Sharma1, YS Chahal#, S Dhawan2, won)
-292  0.107143  (MS Dhoni6, S Dhawan2, V Kohli3, AM Rahane4, R...
-293  0.107143  (won, MS Dhoni5, S Dhawan2, V Kohli3, RG Sharma1)
-294  0.133929  (MS Dhoni6, won, S Dhawan2, V Kohli3, RG Sharma1)
-295  0.107143  (won, S Dhawan2, V Kohli3, RA Jadeja7, RG Shar...
+291  0.133929          (won, RG Sharma1, S Dhawan2, YS Chahal11)
+292  0.107143  (MS Dhoni6, RG Sharma1, S Dhawan2, V Kohli3, A...
+293  0.107143  (S Dhawan2, RG Sharma1, V Kohli3, won, MS Dhoni5)
+294  0.133929  (MS Dhoni6, RG Sharma1, S Dhawan2, won, V Kohli3)
+295  0.107143  (S Dhawan2, RG Sharma1, V Kohli3, won, RA Jade...
 
 [296 rows x 2 columns]
 </pre>
@@ -13675,7 +13674,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[80]:</div>
+<div class="prompt input_prompt">In&nbsp;[33]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#generate association rules</span>
@@ -13689,7 +13688,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[81]:</div>
+<div class="prompt input_prompt">In&nbsp;[34]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#print the association rules</span>
@@ -13706,7 +13705,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[81]:</div>
+    <div class="prompt output_prompt">Out[34]:</div>
 
 
 
@@ -13815,20 +13814,20 @@ div#notebook {
     </tr>
     <tr>
       <th>1255</th>
-      <td>(RA Jadeja7, RG Sharma1)</td>
-      <td>(V Kohli3, S Dhawan2, won)</td>
-      <td>0.232143</td>
-      <td>0.348214</td>
+      <td>(won, RA Jadeja7)</td>
+      <td>(V Kohli3, S Dhawan2, RG Sharma1)</td>
+      <td>0.160714</td>
+      <td>0.464286</td>
       <td>0.107143</td>
-      <td>0.461538</td>
-      <td>1.325444</td>
-      <td>0.026307</td>
-      <td>1.210459</td>
+      <td>0.666667</td>
+      <td>1.435897</td>
+      <td>0.032526</td>
+      <td>1.607143</td>
     </tr>
     <tr>
       <th>1256</th>
       <td>(S Dhawan2)</td>
-      <td>(V Kohli3, RA Jadeja7, RG Sharma1, won)</td>
+      <td>(won, V Kohli3, RG Sharma1, RA Jadeja7)</td>
       <td>0.669643</td>
       <td>0.133929</td>
       <td>0.107143</td>
@@ -13839,8 +13838,20 @@ div#notebook {
     </tr>
     <tr>
       <th>1257</th>
+      <td>(RG Sharma1)</td>
+      <td>(won, S Dhawan2, V Kohli3, RA Jadeja7)</td>
+      <td>0.669643</td>
+      <td>0.107143</td>
+      <td>0.107143</td>
+      <td>0.160000</td>
+      <td>1.493333</td>
+      <td>0.035395</td>
+      <td>1.062925</td>
+    </tr>
+    <tr>
+      <th>1258</th>
       <td>(V Kohli3)</td>
-      <td>(RA Jadeja7, RG Sharma1, S Dhawan2, won)</td>
+      <td>(won, S Dhawan2, RG Sharma1, RA Jadeja7)</td>
       <td>0.803571</td>
       <td>0.125000</td>
       <td>0.107143</td>
@@ -13850,9 +13861,9 @@ div#notebook {
       <td>1.009615</td>
     </tr>
     <tr>
-      <th>1258</th>
+      <th>1259</th>
       <td>(RA Jadeja7)</td>
-      <td>(V Kohli3, RG Sharma1, S Dhawan2, won)</td>
+      <td>(won, V Kohli3, S Dhawan2, RG Sharma1)</td>
       <td>0.267857</td>
       <td>0.303571</td>
       <td>0.107143</td>
@@ -13860,18 +13871,6 @@ div#notebook {
       <td>1.317647</td>
       <td>0.025829</td>
       <td>1.160714</td>
-    </tr>
-    <tr>
-      <th>1259</th>
-      <td>(RG Sharma1)</td>
-      <td>(V Kohli3, RA Jadeja7, S Dhawan2, won)</td>
-      <td>0.669643</td>
-      <td>0.107143</td>
-      <td>0.107143</td>
-      <td>0.160000</td>
-      <td>1.493333</td>
-      <td>0.035395</td>
-      <td>1.062925</td>
     </tr>
   </tbody>
 </table>
@@ -13887,7 +13886,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[82]:</div>
+<div class="prompt input_prompt">In&nbsp;[35]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#extract only the combinations occured at a winning match</span>
@@ -13901,7 +13900,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[83]:</div>
+<div class="prompt input_prompt">In&nbsp;[36]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">won_rules</span>
@@ -13917,7 +13916,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[83]:</div>
+    <div class="prompt output_prompt">Out[36]:</div>
 
 
 
@@ -13953,7 +13952,7 @@ div#notebook {
   </thead>
   <tbody>
     <tr>
-      <th>24</th>
+      <th>25</th>
       <td>(B Kumar8)</td>
       <td>(won)</td>
       <td>0.276786</td>
@@ -13965,7 +13964,7 @@ div#notebook {
       <td>1.168651</td>
     </tr>
     <tr>
-      <th>44</th>
+      <th>45</th>
       <td>(HH Pandya7)</td>
       <td>(won)</td>
       <td>0.241071</td>
@@ -13977,8 +13976,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>66</th>
-      <td>(JJ Bumrah*)</td>
+      <th>55</th>
+      <td>(JJ Bumrah10)</td>
       <td>(won)</td>
       <td>0.232143</td>
       <td>0.660714</td>
@@ -13989,7 +13988,7 @@ div#notebook {
       <td>2.940476</td>
     </tr>
     <tr>
-      <th>68</th>
+      <th>69</th>
       <td>(KM Jadhav5)</td>
       <td>(won)</td>
       <td>0.116071</td>
@@ -14001,7 +14000,7 @@ div#notebook {
       <td>4.410714</td>
     </tr>
     <tr>
-      <th>76</th>
+      <th>77</th>
       <td>(KM Jadhav6)</td>
       <td>(won)</td>
       <td>0.330357</td>
@@ -14013,7 +14012,7 @@ div#notebook {
       <td>1.141234</td>
     </tr>
     <tr>
-      <th>88</th>
+      <th>89</th>
       <td>(Kuldeep Yadav9)</td>
       <td>(won)</td>
       <td>0.339286</td>
@@ -14025,7 +14024,7 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>98</th>
+      <th>99</th>
       <td>(MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.330357</td>
@@ -14037,7 +14036,7 @@ div#notebook {
       <td>1.141234</td>
     </tr>
     <tr>
-      <th>108</th>
+      <th>109</th>
       <td>(MS Dhoni6)</td>
       <td>(won)</td>
       <td>0.348214</td>
@@ -14049,7 +14048,7 @@ div#notebook {
       <td>1.102679</td>
     </tr>
     <tr>
-      <th>136</th>
+      <th>137</th>
       <td>(RG Sharma2)</td>
       <td>(won)</td>
       <td>0.169643</td>
@@ -14061,8 +14060,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>150</th>
-      <td>(YS Chahal#)</td>
+      <th>151</th>
+      <td>(YS Chahal11)</td>
       <td>(won)</td>
       <td>0.267857</td>
       <td>0.660714</td>
@@ -14073,8 +14072,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>216</th>
-      <td>(B Kumar8, Kuldeep Yadav9)</td>
+      <th>218</th>
+      <td>(Kuldeep Yadav9, B Kumar8)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -14086,7 +14085,7 @@ div#notebook {
     </tr>
     <tr>
       <th>228</th>
-      <td>(V Kohli3, B Kumar8)</td>
+      <td>(B Kumar8, V Kohli3)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -14097,7 +14096,7 @@ div#notebook {
       <td>1.425000</td>
     </tr>
     <tr>
-      <th>284</th>
+      <th>286</th>
       <td>(HH Pandya7, V Kohli3)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -14109,8 +14108,8 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>302</th>
-      <td>(JJ Bumrah#, Kuldeep Yadav9)</td>
+      <th>307</th>
+      <td>(JJ Bumrah10, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.142857</td>
       <td>0.660714</td>
@@ -14121,44 +14120,8 @@ div#notebook {
       <td>1.809524</td>
     </tr>
     <tr>
-      <th>318</th>
-      <td>(JJ Bumrah#, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.187500</td>
-      <td>0.660714</td>
-      <td>0.125000</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.001116</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>322</th>
-      <td>(JJ Bumrah#, S Dhawan2)</td>
-      <td>(won)</td>
-      <td>0.160714</td>
-      <td>0.660714</td>
-      <td>0.107143</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.000957</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>348</th>
-      <td>(JJ Bumrah*, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.142857</td>
-      <td>0.660714</td>
-      <td>0.116071</td>
-      <td>0.812500</td>
-      <td>1.229730</td>
-      <td>0.021684</td>
-      <td>1.809524</td>
-    </tr>
-    <tr>
-      <th>358</th>
-      <td>(JJ Bumrah*, S Dhawan2)</td>
+      <th>317</th>
+      <td>(JJ Bumrah10, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -14169,8 +14132,8 @@ div#notebook {
       <td>1.922619</td>
     </tr>
     <tr>
-      <th>366</th>
-      <td>(V Kohli3, JJ Bumrah*)</td>
+      <th>326</th>
+      <td>(JJ Bumrah10, V Kohli3)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -14181,8 +14144,8 @@ div#notebook {
       <td>3.562500</td>
     </tr>
     <tr>
-      <th>372</th>
-      <td>(YS Chahal#, JJ Bumrah*)</td>
+      <th>332</th>
+      <td>(JJ Bumrah10, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -14193,7 +14156,43 @@ div#notebook {
       <td>2.261905</td>
     </tr>
     <tr>
-      <th>400</th>
+      <th>350</th>
+      <td>(Kuldeep Yadav9, JJ Bumrah11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>365</th>
+      <td>(JJ Bumrah11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001116</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>368</th>
+      <td>(JJ Bumrah11, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>402</th>
       <td>(KM Jadhav6, MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.178571</td>
@@ -14205,7 +14204,7 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>410</th>
+      <th>411</th>
       <td>(KM Jadhav6, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -14217,7 +14216,7 @@ div#notebook {
       <td>1.300595</td>
     </tr>
     <tr>
-      <th>414</th>
+      <th>415</th>
       <td>(KM Jadhav6, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.196429</td>
@@ -14229,7 +14228,7 @@ div#notebook {
       <td>1.492857</td>
     </tr>
     <tr>
-      <th>418</th>
+      <th>420</th>
       <td>(KM Jadhav6, V Kohli3)</td>
       <td>(won)</td>
       <td>0.267857</td>
@@ -14241,8 +14240,8 @@ div#notebook {
       <td>1.130952</td>
     </tr>
     <tr>
-      <th>428</th>
-      <td>(MS Dhoni5, Kuldeep Yadav9)</td>
+      <th>430</th>
+      <td>(Kuldeep Yadav9, MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -14253,8 +14252,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>444</th>
-      <td>(RG Sharma1, Kuldeep Yadav9)</td>
+      <th>445</th>
+      <td>(Kuldeep Yadav9, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.214286</td>
       <td>0.660714</td>
@@ -14265,8 +14264,8 @@ div#notebook {
       <td>1.163265</td>
     </tr>
     <tr>
-      <th>448</th>
-      <td>(S Dhawan2, Kuldeep Yadav9)</td>
+      <th>449</th>
+      <td>(Kuldeep Yadav9, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.232143</td>
       <td>0.660714</td>
@@ -14277,8 +14276,8 @@ div#notebook {
       <td>1.102679</td>
     </tr>
     <tr>
-      <th>452</th>
-      <td>(V Kohli3, Kuldeep Yadav9)</td>
+      <th>454</th>
+      <td>(Kuldeep Yadav9, V Kohli3)</td>
       <td>(won)</td>
       <td>0.276786</td>
       <td>0.660714</td>
@@ -14289,7 +14288,7 @@ div#notebook {
       <td>1.502551</td>
     </tr>
     <tr>
-      <th>466</th>
+      <th>468</th>
       <td>(MS Dhoni5, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.241071</td>
@@ -14301,7 +14300,7 @@ div#notebook {
       <td>1.145089</td>
     </tr>
     <tr>
-      <th>476</th>
+      <th>478</th>
       <td>(MS Dhoni5, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.267857</td>
@@ -14313,8 +14312,8 @@ div#notebook {
       <td>1.272321</td>
     </tr>
     <tr>
-      <th>482</th>
-      <td>(V Kohli3, MS Dhoni5)</td>
+      <th>483</th>
+      <td>(MS Dhoni5, V Kohli3)</td>
       <td>(won)</td>
       <td>0.267857</td>
       <td>0.660714</td>
@@ -14325,8 +14324,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>518</th>
-      <td>(V Kohli3, MS Dhoni6)</td>
+      <th>520</th>
+      <td>(MS Dhoni6, V Kohli3)</td>
       <td>(won)</td>
       <td>0.285714</td>
       <td>0.660714</td>
@@ -14337,8 +14336,8 @@ div#notebook {
       <td>1.206349</td>
     </tr>
     <tr>
-      <th>524</th>
-      <td>(MS Dhoni6, YS Chahal#)</td>
+      <th>526</th>
+      <td>(MS Dhoni6, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.142857</td>
       <td>0.660714</td>
@@ -14349,7 +14348,7 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>604</th>
+      <th>606</th>
       <td>(V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.535714</td>
@@ -14361,8 +14360,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>610</th>
-      <td>(YS Chahal#, RG Sharma1)</td>
+      <th>611</th>
+      <td>(YS Chahal11, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -14373,8 +14372,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>614</th>
-      <td>(RG Sharma2, V Kohli3)</td>
+      <th>616</th>
+      <td>(V Kohli3, RG Sharma2)</td>
       <td>(won)</td>
       <td>0.169643</td>
       <td>0.660714</td>
@@ -14385,8 +14384,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>626</th>
-      <td>(V Kohli3, S Dhawan2)</td>
+      <th>627</th>
+      <td>(S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.526786</td>
       <td>0.660714</td>
@@ -14397,8 +14396,8 @@ div#notebook {
       <td>1.000893</td>
     </tr>
     <tr>
-      <th>630</th>
-      <td>(YS Chahal#, S Dhawan2)</td>
+      <th>631</th>
+      <td>(S Dhawan2, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -14409,8 +14408,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>634</th>
-      <td>(V Kohli3, YS Chahal#)</td>
+      <th>635</th>
+      <td>(V Kohli3, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -14421,8 +14420,8 @@ div#notebook {
       <td>1.425000</td>
     </tr>
     <tr>
-      <th>708</th>
-      <td>(V Kohli3, B Kumar8, Kuldeep Yadav9)</td>
+      <th>710</th>
+      <td>(Kuldeep Yadav9, B Kumar8, V Kohli3)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -14433,20 +14432,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>774</th>
-      <td>(S Dhawan2, JJ Bumrah#, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.160714</td>
-      <td>0.660714</td>
-      <td>0.107143</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.000957</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>800</th>
-      <td>(S Dhawan2, JJ Bumrah*, RG Sharma1)</td>
+      <th>783</th>
+      <td>(S Dhawan2, RG Sharma1, JJ Bumrah10)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -14457,8 +14444,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>812</th>
-      <td>(JJ Bumrah*, V Kohli3, YS Chahal#)</td>
+      <th>794</th>
+      <td>(YS Chahal11, JJ Bumrah10, V Kohli3)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -14469,7 +14456,19 @@ div#notebook {
       <td>2.544643</td>
     </tr>
     <tr>
-      <th>838</th>
+      <th>814</th>
+      <td>(JJ Bumrah11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>841</th>
       <td>(KM Jadhav6, MS Dhoni5, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.133929</td>
@@ -14481,8 +14480,8 @@ div#notebook {
       <td>2.544643</td>
     </tr>
     <tr>
-      <th>852</th>
-      <td>(KM Jadhav6, V Kohli3, MS Dhoni5)</td>
+      <th>855</th>
+      <td>(KM Jadhav6, MS Dhoni5, V Kohli3)</td>
       <td>(won)</td>
       <td>0.160714</td>
       <td>0.660714</td>
@@ -14493,8 +14492,8 @@ div#notebook {
       <td>1.221429</td>
     </tr>
     <tr>
-      <th>870</th>
-      <td>(KM Jadhav6, RG Sharma1, S Dhawan2)</td>
+      <th>872</th>
+      <td>(KM Jadhav6, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -14505,7 +14504,7 @@ div#notebook {
       <td>1.441964</td>
     </tr>
     <tr>
-      <th>880</th>
+      <th>882</th>
       <td>(KM Jadhav6, V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.160714</td>
@@ -14517,8 +14516,8 @@ div#notebook {
       <td>1.526786</td>
     </tr>
     <tr>
-      <th>892</th>
-      <td>(KM Jadhav6, V Kohli3, S Dhawan2)</td>
+      <th>894</th>
+      <td>(KM Jadhav6, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -14530,7 +14529,7 @@ div#notebook {
     </tr>
     <tr>
       <th>915</th>
-      <td>(S Dhawan2, RG Sharma1, Kuldeep Yadav9)</td>
+      <td>(Kuldeep Yadav9, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -14542,7 +14541,7 @@ div#notebook {
     </tr>
     <tr>
       <th>924</th>
-      <td>(V Kohli3, RG Sharma1, Kuldeep Yadav9)</td>
+      <td>(Kuldeep Yadav9, V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -14553,8 +14552,8 @@ div#notebook {
       <td>1.441964</td>
     </tr>
     <tr>
-      <th>928</th>
-      <td>(V Kohli3, S Dhawan2, Kuldeep Yadav9)</td>
+      <th>929</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.169643</td>
       <td>0.660714</td>
@@ -14565,8 +14564,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>948</th>
-      <td>(S Dhawan2, MS Dhoni5, RG Sharma1)</td>
+      <th>951</th>
+      <td>(MS Dhoni5, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.223214</td>
       <td>0.660714</td>
@@ -14577,8 +14576,8 @@ div#notebook {
       <td>1.211735</td>
     </tr>
     <tr>
-      <th>962</th>
-      <td>(V Kohli3, MS Dhoni5, S Dhawan2)</td>
+      <th>964</th>
+      <td>(MS Dhoni5, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.205357</td>
       <td>0.660714</td>
@@ -14589,7 +14588,7 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>1012</th>
+      <th>1015</th>
       <td>(V Kohli3, MS Dhoni6, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -14601,8 +14600,8 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>1026</th>
-      <td>(V Kohli3, MS Dhoni6, S Dhawan2)</td>
+      <th>1029</th>
+      <td>(V Kohli3, S Dhawan2, MS Dhoni6)</td>
       <td>(won)</td>
       <td>0.214286</td>
       <td>0.660714</td>
@@ -14613,8 +14612,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>1134</th>
-      <td>(S Dhawan2, YS Chahal#, RG Sharma1)</td>
+      <th>1137</th>
+      <td>(YS Chahal11, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -14625,8 +14624,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>1181</th>
-      <td>(V Kohli3, MS Dhoni5, RG Sharma1, S Dhawan2)</td>
+      <th>1179</th>
+      <td>(V Kohli3, MS Dhoni5, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.160714</td>
       <td>0.660714</td>
@@ -14637,8 +14636,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>1205</th>
-      <td>(V Kohli3, MS Dhoni6, RG Sharma1, S Dhawan2)</td>
+      <th>1203</th>
+      <td>(S Dhawan2, MS Dhoni6, RG Sharma1, V Kohli3)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -14661,12 +14660,12 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[84]:</div>
+<div class="prompt input_prompt">In&nbsp;[37]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#remove the one itemsets</span>
 <span class="c1">#obtain the final winning combinations</span>
-<span class="n">won_rules</span> <span class="o">=</span> <span class="n">won_rules</span><span class="p">[(</span><span class="n">won_rules</span><span class="p">[</span><span class="s1">&#39;antecedents&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">len</span><span class="p">()</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">)]</span> <span class="c1">#Here won_rules[&#39;antecedents&#39;] is a frozenset</span>
+<span class="n">position_won_rules</span> <span class="o">=</span> <span class="n">won_rules</span><span class="p">[(</span><span class="n">won_rules</span><span class="p">[</span><span class="s1">&#39;antecedents&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">len</span><span class="p">()</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">)]</span> <span class="c1">#Here won_rules[&#39;antecedents&#39;] is a frozenset</span>
 </pre></div>
 
     </div>
@@ -14676,11 +14675,11 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[85]:</div>
+<div class="prompt input_prompt">In&nbsp;[38]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#print the winning combinations</span>
-<span class="n">won_rules</span>
+<span class="n">position_won_rules</span>
 </pre></div>
 
     </div>
@@ -14693,7 +14692,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[85]:</div>
+    <div class="prompt output_prompt">Out[38]:</div>
 
 
 
@@ -14729,8 +14728,8 @@ div#notebook {
   </thead>
   <tbody>
     <tr>
-      <th>216</th>
-      <td>(B Kumar8, Kuldeep Yadav9)</td>
+      <th>218</th>
+      <td>(Kuldeep Yadav9, B Kumar8)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -14742,7 +14741,7 @@ div#notebook {
     </tr>
     <tr>
       <th>228</th>
-      <td>(V Kohli3, B Kumar8)</td>
+      <td>(B Kumar8, V Kohli3)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -14753,7 +14752,7 @@ div#notebook {
       <td>1.425000</td>
     </tr>
     <tr>
-      <th>284</th>
+      <th>286</th>
       <td>(HH Pandya7, V Kohli3)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -14765,8 +14764,8 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>302</th>
-      <td>(JJ Bumrah#, Kuldeep Yadav9)</td>
+      <th>307</th>
+      <td>(JJ Bumrah10, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.142857</td>
       <td>0.660714</td>
@@ -14777,44 +14776,8 @@ div#notebook {
       <td>1.809524</td>
     </tr>
     <tr>
-      <th>318</th>
-      <td>(JJ Bumrah#, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.187500</td>
-      <td>0.660714</td>
-      <td>0.125000</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.001116</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>322</th>
-      <td>(JJ Bumrah#, S Dhawan2)</td>
-      <td>(won)</td>
-      <td>0.160714</td>
-      <td>0.660714</td>
-      <td>0.107143</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.000957</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>348</th>
-      <td>(JJ Bumrah*, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.142857</td>
-      <td>0.660714</td>
-      <td>0.116071</td>
-      <td>0.812500</td>
-      <td>1.229730</td>
-      <td>0.021684</td>
-      <td>1.809524</td>
-    </tr>
-    <tr>
-      <th>358</th>
-      <td>(JJ Bumrah*, S Dhawan2)</td>
+      <th>317</th>
+      <td>(JJ Bumrah10, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -14825,8 +14788,8 @@ div#notebook {
       <td>1.922619</td>
     </tr>
     <tr>
-      <th>366</th>
-      <td>(V Kohli3, JJ Bumrah*)</td>
+      <th>326</th>
+      <td>(JJ Bumrah10, V Kohli3)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -14837,8 +14800,8 @@ div#notebook {
       <td>3.562500</td>
     </tr>
     <tr>
-      <th>372</th>
-      <td>(YS Chahal#, JJ Bumrah*)</td>
+      <th>332</th>
+      <td>(JJ Bumrah10, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -14849,7 +14812,43 @@ div#notebook {
       <td>2.261905</td>
     </tr>
     <tr>
-      <th>400</th>
+      <th>350</th>
+      <td>(Kuldeep Yadav9, JJ Bumrah11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>365</th>
+      <td>(JJ Bumrah11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001116</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>368</th>
+      <td>(JJ Bumrah11, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>402</th>
       <td>(KM Jadhav6, MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.178571</td>
@@ -14861,7 +14860,7 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>410</th>
+      <th>411</th>
       <td>(KM Jadhav6, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -14873,7 +14872,7 @@ div#notebook {
       <td>1.300595</td>
     </tr>
     <tr>
-      <th>414</th>
+      <th>415</th>
       <td>(KM Jadhav6, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.196429</td>
@@ -14885,7 +14884,7 @@ div#notebook {
       <td>1.492857</td>
     </tr>
     <tr>
-      <th>418</th>
+      <th>420</th>
       <td>(KM Jadhav6, V Kohli3)</td>
       <td>(won)</td>
       <td>0.267857</td>
@@ -14897,8 +14896,8 @@ div#notebook {
       <td>1.130952</td>
     </tr>
     <tr>
-      <th>428</th>
-      <td>(MS Dhoni5, Kuldeep Yadav9)</td>
+      <th>430</th>
+      <td>(Kuldeep Yadav9, MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -14909,8 +14908,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>444</th>
-      <td>(RG Sharma1, Kuldeep Yadav9)</td>
+      <th>445</th>
+      <td>(Kuldeep Yadav9, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.214286</td>
       <td>0.660714</td>
@@ -14921,8 +14920,8 @@ div#notebook {
       <td>1.163265</td>
     </tr>
     <tr>
-      <th>448</th>
-      <td>(S Dhawan2, Kuldeep Yadav9)</td>
+      <th>449</th>
+      <td>(Kuldeep Yadav9, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.232143</td>
       <td>0.660714</td>
@@ -14933,8 +14932,8 @@ div#notebook {
       <td>1.102679</td>
     </tr>
     <tr>
-      <th>452</th>
-      <td>(V Kohli3, Kuldeep Yadav9)</td>
+      <th>454</th>
+      <td>(Kuldeep Yadav9, V Kohli3)</td>
       <td>(won)</td>
       <td>0.276786</td>
       <td>0.660714</td>
@@ -14945,7 +14944,7 @@ div#notebook {
       <td>1.502551</td>
     </tr>
     <tr>
-      <th>466</th>
+      <th>468</th>
       <td>(MS Dhoni5, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.241071</td>
@@ -14957,7 +14956,7 @@ div#notebook {
       <td>1.145089</td>
     </tr>
     <tr>
-      <th>476</th>
+      <th>478</th>
       <td>(MS Dhoni5, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.267857</td>
@@ -14969,8 +14968,8 @@ div#notebook {
       <td>1.272321</td>
     </tr>
     <tr>
-      <th>482</th>
-      <td>(V Kohli3, MS Dhoni5)</td>
+      <th>483</th>
+      <td>(MS Dhoni5, V Kohli3)</td>
       <td>(won)</td>
       <td>0.267857</td>
       <td>0.660714</td>
@@ -14981,8 +14980,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>518</th>
-      <td>(V Kohli3, MS Dhoni6)</td>
+      <th>520</th>
+      <td>(MS Dhoni6, V Kohli3)</td>
       <td>(won)</td>
       <td>0.285714</td>
       <td>0.660714</td>
@@ -14993,8 +14992,8 @@ div#notebook {
       <td>1.206349</td>
     </tr>
     <tr>
-      <th>524</th>
-      <td>(MS Dhoni6, YS Chahal#)</td>
+      <th>526</th>
+      <td>(MS Dhoni6, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.142857</td>
       <td>0.660714</td>
@@ -15005,7 +15004,7 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>604</th>
+      <th>606</th>
       <td>(V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.535714</td>
@@ -15017,8 +15016,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>610</th>
-      <td>(YS Chahal#, RG Sharma1)</td>
+      <th>611</th>
+      <td>(YS Chahal11, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15029,8 +15028,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>614</th>
-      <td>(RG Sharma2, V Kohli3)</td>
+      <th>616</th>
+      <td>(V Kohli3, RG Sharma2)</td>
       <td>(won)</td>
       <td>0.169643</td>
       <td>0.660714</td>
@@ -15041,8 +15040,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>626</th>
-      <td>(V Kohli3, S Dhawan2)</td>
+      <th>627</th>
+      <td>(S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.526786</td>
       <td>0.660714</td>
@@ -15053,8 +15052,8 @@ div#notebook {
       <td>1.000893</td>
     </tr>
     <tr>
-      <th>630</th>
-      <td>(YS Chahal#, S Dhawan2)</td>
+      <th>631</th>
+      <td>(S Dhawan2, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15065,8 +15064,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>634</th>
-      <td>(V Kohli3, YS Chahal#)</td>
+      <th>635</th>
+      <td>(V Kohli3, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -15077,8 +15076,8 @@ div#notebook {
       <td>1.425000</td>
     </tr>
     <tr>
-      <th>708</th>
-      <td>(V Kohli3, B Kumar8, Kuldeep Yadav9)</td>
+      <th>710</th>
+      <td>(Kuldeep Yadav9, B Kumar8, V Kohli3)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15089,20 +15088,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>774</th>
-      <td>(S Dhawan2, JJ Bumrah#, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.160714</td>
-      <td>0.660714</td>
-      <td>0.107143</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.000957</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>800</th>
-      <td>(S Dhawan2, JJ Bumrah*, RG Sharma1)</td>
+      <th>783</th>
+      <td>(S Dhawan2, RG Sharma1, JJ Bumrah10)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15113,8 +15100,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>812</th>
-      <td>(JJ Bumrah*, V Kohli3, YS Chahal#)</td>
+      <th>794</th>
+      <td>(YS Chahal11, JJ Bumrah10, V Kohli3)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15125,7 +15112,19 @@ div#notebook {
       <td>2.544643</td>
     </tr>
     <tr>
-      <th>838</th>
+      <th>814</th>
+      <td>(JJ Bumrah11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>841</th>
       <td>(KM Jadhav6, MS Dhoni5, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.133929</td>
@@ -15137,8 +15136,8 @@ div#notebook {
       <td>2.544643</td>
     </tr>
     <tr>
-      <th>852</th>
-      <td>(KM Jadhav6, V Kohli3, MS Dhoni5)</td>
+      <th>855</th>
+      <td>(KM Jadhav6, MS Dhoni5, V Kohli3)</td>
       <td>(won)</td>
       <td>0.160714</td>
       <td>0.660714</td>
@@ -15149,8 +15148,8 @@ div#notebook {
       <td>1.221429</td>
     </tr>
     <tr>
-      <th>870</th>
-      <td>(KM Jadhav6, RG Sharma1, S Dhawan2)</td>
+      <th>872</th>
+      <td>(KM Jadhav6, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15161,7 +15160,7 @@ div#notebook {
       <td>1.441964</td>
     </tr>
     <tr>
-      <th>880</th>
+      <th>882</th>
       <td>(KM Jadhav6, V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.160714</td>
@@ -15173,8 +15172,8 @@ div#notebook {
       <td>1.526786</td>
     </tr>
     <tr>
-      <th>892</th>
-      <td>(KM Jadhav6, V Kohli3, S Dhawan2)</td>
+      <th>894</th>
+      <td>(KM Jadhav6, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15186,7 +15185,7 @@ div#notebook {
     </tr>
     <tr>
       <th>915</th>
-      <td>(S Dhawan2, RG Sharma1, Kuldeep Yadav9)</td>
+      <td>(Kuldeep Yadav9, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -15198,7 +15197,7 @@ div#notebook {
     </tr>
     <tr>
       <th>924</th>
-      <td>(V Kohli3, RG Sharma1, Kuldeep Yadav9)</td>
+      <td>(Kuldeep Yadav9, V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15209,8 +15208,8 @@ div#notebook {
       <td>1.441964</td>
     </tr>
     <tr>
-      <th>928</th>
-      <td>(V Kohli3, S Dhawan2, Kuldeep Yadav9)</td>
+      <th>929</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.169643</td>
       <td>0.660714</td>
@@ -15221,8 +15220,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>948</th>
-      <td>(S Dhawan2, MS Dhoni5, RG Sharma1)</td>
+      <th>951</th>
+      <td>(MS Dhoni5, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.223214</td>
       <td>0.660714</td>
@@ -15233,8 +15232,8 @@ div#notebook {
       <td>1.211735</td>
     </tr>
     <tr>
-      <th>962</th>
-      <td>(V Kohli3, MS Dhoni5, S Dhawan2)</td>
+      <th>964</th>
+      <td>(MS Dhoni5, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.205357</td>
       <td>0.660714</td>
@@ -15245,7 +15244,7 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>1012</th>
+      <th>1015</th>
       <td>(V Kohli3, MS Dhoni6, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -15257,8 +15256,8 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>1026</th>
-      <td>(V Kohli3, MS Dhoni6, S Dhawan2)</td>
+      <th>1029</th>
+      <td>(V Kohli3, S Dhawan2, MS Dhoni6)</td>
       <td>(won)</td>
       <td>0.214286</td>
       <td>0.660714</td>
@@ -15269,8 +15268,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>1134</th>
-      <td>(S Dhawan2, YS Chahal#, RG Sharma1)</td>
+      <th>1137</th>
+      <td>(YS Chahal11, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15281,8 +15280,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>1181</th>
-      <td>(V Kohli3, MS Dhoni5, RG Sharma1, S Dhawan2)</td>
+      <th>1179</th>
+      <td>(V Kohli3, MS Dhoni5, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.160714</td>
       <td>0.660714</td>
@@ -15293,8 +15292,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>1205</th>
-      <td>(V Kohli3, MS Dhoni6, RG Sharma1, S Dhawan2)</td>
+      <th>1203</th>
+      <td>(S Dhawan2, MS Dhoni6, RG Sharma1, V Kohli3)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -15317,27 +15316,27 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[86]:</div>
+<div class="prompt input_prompt">In&nbsp;[39]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#finding winning combinatios with positions</span>
 <span class="c1">#removing same player combinations because of different postions</span>
 <span class="c1">#example: remvove antecedents with [V Kohli3,V Kohli5]</span>
-<span class="n">col_names</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;antecedents&quot;</span><span class="p">,</span><span class="s2">&quot;consequents&quot;</span><span class="p">,</span><span class="s2">&quot;antecedent support&quot;</span><span class="p">,</span><span class="s2">&quot;consequent support&quot;</span><span class="p">,</span><span class="s2">&quot;support&quot;</span><span class="p">,</span><span class="s2">&quot;confidence&quot;</span><span class="p">,</span><span class="s2">&quot;lift&quot;</span><span class="p">,</span><span class="s2">&quot;leverage&quot;</span><span class="p">,</span><span class="s2">&quot;conviction&quot;</span><span class="p">]</span>
-<span class="n">position_won_rules</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="n">col_names</span><span class="p">)</span>
+<span class="c1">#col_names = [&quot;antecedents&quot;,&quot;consequents&quot;,&quot;antecedent support&quot;,&quot;consequent support&quot;,&quot;support&quot;,&quot;confidence&quot;,&quot;lift&quot;,&quot;leverage&quot;,&quot;conviction&quot;]</span>
+<span class="c1">#position_won_rules = pd.DataFrame(columns = col_names)</span>
 
-<span class="n">i</span> <span class="o">=</span> <span class="mi">0</span>
-<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">won_rules</span><span class="p">[</span><span class="s1">&#39;antecedents&#39;</span><span class="p">]:</span>
-    <span class="n">itemDup</span> <span class="o">=</span> <span class="p">[]</span> <span class="c1"># can have duplicates</span>
-    <span class="n">itemSet</span> <span class="o">=</span> <span class="nb">set</span><span class="p">()</span> <span class="c1">#without duplicates</span>
-    <span class="k">for</span> <span class="n">y</span> <span class="ow">in</span> <span class="n">x</span><span class="p">:</span>
-        <span class="n">y</span><span class="p">[:</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="c1">#remove the last letter from the string</span>
-        <span class="n">itemDup</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
-        <span class="n">itemSet</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+<span class="c1">#i = 0</span>
+<span class="c1">#for x in won_rules[&#39;antecedents&#39;]:</span>
+<span class="c1">#    itemDup = [] # can have duplicates</span>
+<span class="c1">#    itemSet = set() #without duplicates</span>
+<span class="c1">#    for y in x:</span>
+<span class="c1">#        y[:-1]#remove the last letter from the string</span>
+<span class="c1">#        itemDup.append(y)</span>
+<span class="c1">#        itemSet.add(y)</span>
         
-    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">itemDup</span><span class="p">)</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="n">itemSet</span><span class="p">):</span>
-        <span class="n">position_won_rules</span> <span class="o">=</span> <span class="n">position_won_rules</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;antecedents&#39;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span><span class="s2">&quot;consequents&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span><span class="s2">&quot;antecedent support&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">2</span><span class="p">],</span><span class="s2">&quot;consequent support&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">3</span><span class="p">],</span><span class="s2">&quot;support&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">4</span><span class="p">],</span><span class="s2">&quot;confidence&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">5</span><span class="p">],</span><span class="s2">&quot;lift&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">6</span><span class="p">],</span><span class="s2">&quot;leverage&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">7</span><span class="p">],</span><span class="s2">&quot;conviction&quot;</span><span class="p">:</span><span class="n">won_rules</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="mi">8</span><span class="p">]},</span><span class="n">ignore_index</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-    <span class="n">i</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span>
+<span class="c1">#    if len(itemDup) == len(itemSet):</span>
+<span class="c1">#        position_won_rules = position_won_rules.append({&#39;antecedents&#39;:won_rules.values[i,0],&quot;consequents&quot;:won_rules.values[i,1],&quot;antecedent support&quot;:won_rules.values[i,2],&quot;consequent support&quot;:won_rules.values[i,3],&quot;support&quot;:won_rules.values[i,4],&quot;confidence&quot;:won_rules.values[i,5],&quot;lift&quot;:won_rules.values[i,6],&quot;leverage&quot;:won_rules.values[i,7],&quot;conviction&quot;:won_rules.values[i,8]},ignore_index=True)</span>
+<span class="c1">#    i = i + 1</span>
 </pre></div>
 
     </div>
@@ -15347,7 +15346,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[87]:</div>
+<div class="prompt input_prompt">In&nbsp;[40]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">position_won_rules</span>
@@ -15363,7 +15362,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[87]:</div>
+    <div class="prompt output_prompt">Out[40]:</div>
 
 
 
@@ -15399,8 +15398,8 @@ div#notebook {
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
-      <td>(B Kumar8, Kuldeep Yadav9)</td>
+      <th>218</th>
+      <td>(Kuldeep Yadav9, B Kumar8)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -15411,8 +15410,8 @@ div#notebook {
       <td>1.244048</td>
     </tr>
     <tr>
-      <th>1</th>
-      <td>(V Kohli3, B Kumar8)</td>
+      <th>228</th>
+      <td>(B Kumar8, V Kohli3)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -15423,7 +15422,7 @@ div#notebook {
       <td>1.425000</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>286</th>
       <td>(HH Pandya7, V Kohli3)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -15435,8 +15434,8 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>(JJ Bumrah#, Kuldeep Yadav9)</td>
+      <th>307</th>
+      <td>(JJ Bumrah10, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.142857</td>
       <td>0.660714</td>
@@ -15447,44 +15446,8 @@ div#notebook {
       <td>1.809524</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>(JJ Bumrah#, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.187500</td>
-      <td>0.660714</td>
-      <td>0.125000</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.001116</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>(JJ Bumrah#, S Dhawan2)</td>
-      <td>(won)</td>
-      <td>0.160714</td>
-      <td>0.660714</td>
-      <td>0.107143</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.000957</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>(JJ Bumrah*, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.142857</td>
-      <td>0.660714</td>
-      <td>0.116071</td>
-      <td>0.812500</td>
-      <td>1.229730</td>
-      <td>0.021684</td>
-      <td>1.809524</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>(JJ Bumrah*, S Dhawan2)</td>
+      <th>317</th>
+      <td>(JJ Bumrah10, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15495,8 +15458,8 @@ div#notebook {
       <td>1.922619</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>(V Kohli3, JJ Bumrah*)</td>
+      <th>326</th>
+      <td>(JJ Bumrah10, V Kohli3)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -15507,8 +15470,8 @@ div#notebook {
       <td>3.562500</td>
     </tr>
     <tr>
-      <th>9</th>
-      <td>(YS Chahal#, JJ Bumrah*)</td>
+      <th>332</th>
+      <td>(JJ Bumrah10, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15519,7 +15482,43 @@ div#notebook {
       <td>2.261905</td>
     </tr>
     <tr>
-      <th>10</th>
+      <th>350</th>
+      <td>(Kuldeep Yadav9, JJ Bumrah11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>365</th>
+      <td>(JJ Bumrah11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001116</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>368</th>
+      <td>(JJ Bumrah11, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>402</th>
       <td>(KM Jadhav6, MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.178571</td>
@@ -15531,7 +15530,7 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>11</th>
+      <th>411</th>
       <td>(KM Jadhav6, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -15543,7 +15542,7 @@ div#notebook {
       <td>1.300595</td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>415</th>
       <td>(KM Jadhav6, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.196429</td>
@@ -15555,7 +15554,7 @@ div#notebook {
       <td>1.492857</td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>420</th>
       <td>(KM Jadhav6, V Kohli3)</td>
       <td>(won)</td>
       <td>0.267857</td>
@@ -15567,8 +15566,8 @@ div#notebook {
       <td>1.130952</td>
     </tr>
     <tr>
-      <th>14</th>
-      <td>(MS Dhoni5, Kuldeep Yadav9)</td>
+      <th>430</th>
+      <td>(Kuldeep Yadav9, MS Dhoni5)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15579,8 +15578,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>15</th>
-      <td>(RG Sharma1, Kuldeep Yadav9)</td>
+      <th>445</th>
+      <td>(Kuldeep Yadav9, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.214286</td>
       <td>0.660714</td>
@@ -15591,8 +15590,8 @@ div#notebook {
       <td>1.163265</td>
     </tr>
     <tr>
-      <th>16</th>
-      <td>(S Dhawan2, Kuldeep Yadav9)</td>
+      <th>449</th>
+      <td>(Kuldeep Yadav9, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.232143</td>
       <td>0.660714</td>
@@ -15603,8 +15602,8 @@ div#notebook {
       <td>1.102679</td>
     </tr>
     <tr>
-      <th>17</th>
-      <td>(V Kohli3, Kuldeep Yadav9)</td>
+      <th>454</th>
+      <td>(Kuldeep Yadav9, V Kohli3)</td>
       <td>(won)</td>
       <td>0.276786</td>
       <td>0.660714</td>
@@ -15615,7 +15614,7 @@ div#notebook {
       <td>1.502551</td>
     </tr>
     <tr>
-      <th>18</th>
+      <th>468</th>
       <td>(MS Dhoni5, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.241071</td>
@@ -15627,7 +15626,7 @@ div#notebook {
       <td>1.145089</td>
     </tr>
     <tr>
-      <th>19</th>
+      <th>478</th>
       <td>(MS Dhoni5, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.267857</td>
@@ -15639,8 +15638,8 @@ div#notebook {
       <td>1.272321</td>
     </tr>
     <tr>
-      <th>20</th>
-      <td>(V Kohli3, MS Dhoni5)</td>
+      <th>483</th>
+      <td>(MS Dhoni5, V Kohli3)</td>
       <td>(won)</td>
       <td>0.267857</td>
       <td>0.660714</td>
@@ -15651,8 +15650,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>21</th>
-      <td>(V Kohli3, MS Dhoni6)</td>
+      <th>520</th>
+      <td>(MS Dhoni6, V Kohli3)</td>
       <td>(won)</td>
       <td>0.285714</td>
       <td>0.660714</td>
@@ -15663,8 +15662,8 @@ div#notebook {
       <td>1.206349</td>
     </tr>
     <tr>
-      <th>22</th>
-      <td>(MS Dhoni6, YS Chahal#)</td>
+      <th>526</th>
+      <td>(MS Dhoni6, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.142857</td>
       <td>0.660714</td>
@@ -15675,7 +15674,7 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>23</th>
+      <th>606</th>
       <td>(V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.535714</td>
@@ -15687,8 +15686,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>24</th>
-      <td>(YS Chahal#, RG Sharma1)</td>
+      <th>611</th>
+      <td>(YS Chahal11, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15699,8 +15698,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>25</th>
-      <td>(RG Sharma2, V Kohli3)</td>
+      <th>616</th>
+      <td>(V Kohli3, RG Sharma2)</td>
       <td>(won)</td>
       <td>0.169643</td>
       <td>0.660714</td>
@@ -15711,8 +15710,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>26</th>
-      <td>(V Kohli3, S Dhawan2)</td>
+      <th>627</th>
+      <td>(S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.526786</td>
       <td>0.660714</td>
@@ -15723,8 +15722,8 @@ div#notebook {
       <td>1.000893</td>
     </tr>
     <tr>
-      <th>27</th>
-      <td>(YS Chahal#, S Dhawan2)</td>
+      <th>631</th>
+      <td>(S Dhawan2, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15735,8 +15734,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>28</th>
-      <td>(V Kohli3, YS Chahal#)</td>
+      <th>635</th>
+      <td>(V Kohli3, YS Chahal11)</td>
       <td>(won)</td>
       <td>0.187500</td>
       <td>0.660714</td>
@@ -15747,8 +15746,8 @@ div#notebook {
       <td>1.425000</td>
     </tr>
     <tr>
-      <th>29</th>
-      <td>(V Kohli3, B Kumar8, Kuldeep Yadav9)</td>
+      <th>710</th>
+      <td>(Kuldeep Yadav9, B Kumar8, V Kohli3)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15759,20 +15758,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>30</th>
-      <td>(S Dhawan2, JJ Bumrah#, RG Sharma1)</td>
-      <td>(won)</td>
-      <td>0.160714</td>
-      <td>0.660714</td>
-      <td>0.107143</td>
-      <td>0.666667</td>
-      <td>1.009009</td>
-      <td>0.000957</td>
-      <td>1.017857</td>
-    </tr>
-    <tr>
-      <th>31</th>
-      <td>(S Dhawan2, JJ Bumrah*, RG Sharma1)</td>
+      <th>783</th>
+      <td>(S Dhawan2, RG Sharma1, JJ Bumrah10)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15783,8 +15770,8 @@ div#notebook {
       <td>1.696429</td>
     </tr>
     <tr>
-      <th>32</th>
-      <td>(JJ Bumrah*, V Kohli3, YS Chahal#)</td>
+      <th>794</th>
+      <td>(YS Chahal11, JJ Bumrah10, V Kohli3)</td>
       <td>(won)</td>
       <td>0.133929</td>
       <td>0.660714</td>
@@ -15795,7 +15782,19 @@ div#notebook {
       <td>2.544643</td>
     </tr>
     <tr>
-      <th>33</th>
+      <th>814</th>
+      <td>(JJ Bumrah11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>841</th>
       <td>(KM Jadhav6, MS Dhoni5, S Dhawan2)</td>
       <td>(won)</td>
       <td>0.133929</td>
@@ -15807,8 +15806,8 @@ div#notebook {
       <td>2.544643</td>
     </tr>
     <tr>
-      <th>34</th>
-      <td>(KM Jadhav6, V Kohli3, MS Dhoni5)</td>
+      <th>855</th>
+      <td>(KM Jadhav6, MS Dhoni5, V Kohli3)</td>
       <td>(won)</td>
       <td>0.160714</td>
       <td>0.660714</td>
@@ -15819,8 +15818,8 @@ div#notebook {
       <td>1.221429</td>
     </tr>
     <tr>
-      <th>35</th>
-      <td>(KM Jadhav6, RG Sharma1, S Dhawan2)</td>
+      <th>872</th>
+      <td>(KM Jadhav6, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15831,7 +15830,7 @@ div#notebook {
       <td>1.441964</td>
     </tr>
     <tr>
-      <th>36</th>
+      <th>882</th>
       <td>(KM Jadhav6, V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.160714</td>
@@ -15843,8 +15842,8 @@ div#notebook {
       <td>1.526786</td>
     </tr>
     <tr>
-      <th>37</th>
-      <td>(KM Jadhav6, V Kohli3, S Dhawan2)</td>
+      <th>894</th>
+      <td>(KM Jadhav6, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15855,8 +15854,8 @@ div#notebook {
       <td>1.922619</td>
     </tr>
     <tr>
-      <th>38</th>
-      <td>(S Dhawan2, RG Sharma1, Kuldeep Yadav9)</td>
+      <th>915</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -15867,8 +15866,8 @@ div#notebook {
       <td>1.066327</td>
     </tr>
     <tr>
-      <th>39</th>
-      <td>(V Kohli3, RG Sharma1, Kuldeep Yadav9)</td>
+      <th>924</th>
+      <td>(Kuldeep Yadav9, V Kohli3, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.151786</td>
       <td>0.660714</td>
@@ -15879,8 +15878,8 @@ div#notebook {
       <td>1.441964</td>
     </tr>
     <tr>
-      <th>40</th>
-      <td>(V Kohli3, S Dhawan2, Kuldeep Yadav9)</td>
+      <th>929</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.169643</td>
       <td>0.660714</td>
@@ -15891,8 +15890,8 @@ div#notebook {
       <td>1.289286</td>
     </tr>
     <tr>
-      <th>41</th>
-      <td>(S Dhawan2, MS Dhoni5, RG Sharma1)</td>
+      <th>951</th>
+      <td>(MS Dhoni5, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.223214</td>
       <td>0.660714</td>
@@ -15903,8 +15902,8 @@ div#notebook {
       <td>1.211735</td>
     </tr>
     <tr>
-      <th>42</th>
-      <td>(V Kohli3, MS Dhoni5, S Dhawan2)</td>
+      <th>964</th>
+      <td>(MS Dhoni5, S Dhawan2, V Kohli3)</td>
       <td>(won)</td>
       <td>0.205357</td>
       <td>0.660714</td>
@@ -15915,7 +15914,7 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>43</th>
+      <th>1015</th>
       <td>(V Kohli3, MS Dhoni6, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.205357</td>
@@ -15927,8 +15926,8 @@ div#notebook {
       <td>1.114796</td>
     </tr>
     <tr>
-      <th>44</th>
-      <td>(V Kohli3, MS Dhoni6, S Dhawan2)</td>
+      <th>1029</th>
+      <td>(V Kohli3, S Dhawan2, MS Dhoni6)</td>
       <td>(won)</td>
       <td>0.214286</td>
       <td>0.660714</td>
@@ -15939,8 +15938,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>45</th>
-      <td>(S Dhawan2, YS Chahal#, RG Sharma1)</td>
+      <th>1137</th>
+      <td>(YS Chahal11, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.178571</td>
       <td>0.660714</td>
@@ -15951,8 +15950,8 @@ div#notebook {
       <td>1.357143</td>
     </tr>
     <tr>
-      <th>46</th>
-      <td>(V Kohli3, MS Dhoni5, RG Sharma1, S Dhawan2)</td>
+      <th>1179</th>
+      <td>(V Kohli3, MS Dhoni5, S Dhawan2, RG Sharma1)</td>
       <td>(won)</td>
       <td>0.160714</td>
       <td>0.660714</td>
@@ -15963,8 +15962,8 @@ div#notebook {
       <td>1.017857</td>
     </tr>
     <tr>
-      <th>47</th>
-      <td>(V Kohli3, MS Dhoni6, RG Sharma1, S Dhawan2)</td>
+      <th>1203</th>
+      <td>(S Dhawan2, MS Dhoni6, RG Sharma1, V Kohli3)</td>
       <td>(won)</td>
       <td>0.196429</td>
       <td>0.660714</td>
@@ -15987,7 +15986,1422 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[88]:</div>
+<div class="prompt input_prompt">In&nbsp;[41]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#sorting by confidence --- descending order</span>
+<span class="n">position_won_rules</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span> <span class="o">=</span><span class="s1">&#39;confidence&#39;</span><span class="p">,</span> <span class="n">ascending</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">inplace</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>&lt;ipython-input-41-8ed582cb0b06&gt;:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  position_won_rules.sort_values(by =&#39;confidence&#39;, ascending = False, inplace = True)
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[42]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">position_won_rules</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[42]:</div>
+
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>antecedents</th>
+      <th>consequents</th>
+      <th>antecedent support</th>
+      <th>consequent support</th>
+      <th>support</th>
+      <th>confidence</th>
+      <th>lift</th>
+      <th>leverage</th>
+      <th>conviction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>326</th>
+      <td>(JJ Bumrah10, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.169643</td>
+      <td>0.904762</td>
+      <td>1.369369</td>
+      <td>0.045759</td>
+      <td>3.562500</td>
+    </tr>
+    <tr>
+      <th>841</th>
+      <td>(KM Jadhav6, MS Dhoni5, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.866667</td>
+      <td>1.311712</td>
+      <td>0.027583</td>
+      <td>2.544643</td>
+    </tr>
+    <tr>
+      <th>794</th>
+      <td>(YS Chahal11, JJ Bumrah10, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.866667</td>
+      <td>1.311712</td>
+      <td>0.027583</td>
+      <td>2.544643</td>
+    </tr>
+    <tr>
+      <th>332</th>
+      <td>(JJ Bumrah10, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.850000</td>
+      <td>1.286486</td>
+      <td>0.033801</td>
+      <td>2.261905</td>
+    </tr>
+    <tr>
+      <th>894</th>
+      <td>(KM Jadhav6, S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.823529</td>
+      <td>1.246423</td>
+      <td>0.024713</td>
+      <td>1.922619</td>
+    </tr>
+    <tr>
+      <th>317</th>
+      <td>(JJ Bumrah10, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.823529</td>
+      <td>1.246423</td>
+      <td>0.024713</td>
+      <td>1.922619</td>
+    </tr>
+    <tr>
+      <th>307</th>
+      <td>(JJ Bumrah10, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>350</th>
+      <td>(Kuldeep Yadav9, JJ Bumrah11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>783</th>
+      <td>(S Dhawan2, RG Sharma1, JJ Bumrah10)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.800000</td>
+      <td>1.210811</td>
+      <td>0.018654</td>
+      <td>1.696429</td>
+    </tr>
+    <tr>
+      <th>430</th>
+      <td>(Kuldeep Yadav9, MS Dhoni5)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.800000</td>
+      <td>1.210811</td>
+      <td>0.018654</td>
+      <td>1.696429</td>
+    </tr>
+    <tr>
+      <th>710</th>
+      <td>(Kuldeep Yadav9, B Kumar8, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.800000</td>
+      <td>1.210811</td>
+      <td>0.018654</td>
+      <td>1.696429</td>
+    </tr>
+    <tr>
+      <th>882</th>
+      <td>(KM Jadhav6, V Kohli3, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.777778</td>
+      <td>1.177177</td>
+      <td>0.018814</td>
+      <td>1.526786</td>
+    </tr>
+    <tr>
+      <th>454</th>
+      <td>(Kuldeep Yadav9, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.276786</td>
+      <td>0.660714</td>
+      <td>0.214286</td>
+      <td>0.774194</td>
+      <td>1.171752</td>
+      <td>0.031409</td>
+      <td>1.502551</td>
+    </tr>
+    <tr>
+      <th>415</th>
+      <td>(KM Jadhav6, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.772727</td>
+      <td>1.169533</td>
+      <td>0.022003</td>
+      <td>1.492857</td>
+    </tr>
+    <tr>
+      <th>924</th>
+      <td>(Kuldeep Yadav9, V Kohli3, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.764706</td>
+      <td>1.157393</td>
+      <td>0.015784</td>
+      <td>1.441964</td>
+    </tr>
+    <tr>
+      <th>872</th>
+      <td>(KM Jadhav6, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.764706</td>
+      <td>1.157393</td>
+      <td>0.015784</td>
+      <td>1.441964</td>
+    </tr>
+    <tr>
+      <th>228</th>
+      <td>(B Kumar8, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.761905</td>
+      <td>1.153153</td>
+      <td>0.018973</td>
+      <td>1.425000</td>
+    </tr>
+    <tr>
+      <th>635</th>
+      <td>(V Kohli3, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.761905</td>
+      <td>1.153153</td>
+      <td>0.018973</td>
+      <td>1.425000</td>
+    </tr>
+    <tr>
+      <th>631</th>
+      <td>(S Dhawan2, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>402</th>
+      <td>(KM Jadhav6, MS Dhoni5)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>526</th>
+      <td>(MS Dhoni6, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.012755</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>1137</th>
+      <td>(YS Chahal11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>611</th>
+      <td>(YS Chahal11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>411</th>
+      <td>(KM Jadhav6, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.739130</td>
+      <td>1.118684</td>
+      <td>0.016103</td>
+      <td>1.300595</td>
+    </tr>
+    <tr>
+      <th>929</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.169643</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.736842</td>
+      <td>1.115220</td>
+      <td>0.012915</td>
+      <td>1.289286</td>
+    </tr>
+    <tr>
+      <th>616</th>
+      <td>(V Kohli3, RG Sharma2)</td>
+      <td>(won)</td>
+      <td>0.169643</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.736842</td>
+      <td>1.115220</td>
+      <td>0.012915</td>
+      <td>1.289286</td>
+    </tr>
+    <tr>
+      <th>478</th>
+      <td>(MS Dhoni5, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.267857</td>
+      <td>0.660714</td>
+      <td>0.196429</td>
+      <td>0.733333</td>
+      <td>1.109910</td>
+      <td>0.019452</td>
+      <td>1.272321</td>
+    </tr>
+    <tr>
+      <th>218</th>
+      <td>(Kuldeep Yadav9, B Kumar8)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.727273</td>
+      <td>1.100737</td>
+      <td>0.013074</td>
+      <td>1.244048</td>
+    </tr>
+    <tr>
+      <th>855</th>
+      <td>(KM Jadhav6, MS Dhoni5, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.722222</td>
+      <td>1.093093</td>
+      <td>0.009885</td>
+      <td>1.221429</td>
+    </tr>
+    <tr>
+      <th>951</th>
+      <td>(MS Dhoni5, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.223214</td>
+      <td>0.660714</td>
+      <td>0.160714</td>
+      <td>0.720000</td>
+      <td>1.089730</td>
+      <td>0.013233</td>
+      <td>1.211735</td>
+    </tr>
+    <tr>
+      <th>520</th>
+      <td>(MS Dhoni6, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.285714</td>
+      <td>0.660714</td>
+      <td>0.205357</td>
+      <td>0.718750</td>
+      <td>1.087838</td>
+      <td>0.016582</td>
+      <td>1.206349</td>
+    </tr>
+    <tr>
+      <th>445</th>
+      <td>(Kuldeep Yadav9, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.214286</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.708333</td>
+      <td>1.072072</td>
+      <td>0.010204</td>
+      <td>1.163265</td>
+    </tr>
+    <tr>
+      <th>468</th>
+      <td>(MS Dhoni5, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.241071</td>
+      <td>0.660714</td>
+      <td>0.169643</td>
+      <td>0.703704</td>
+      <td>1.065065</td>
+      <td>0.010364</td>
+      <td>1.145089</td>
+    </tr>
+    <tr>
+      <th>420</th>
+      <td>(KM Jadhav6, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.267857</td>
+      <td>0.660714</td>
+      <td>0.187500</td>
+      <td>0.700000</td>
+      <td>1.059459</td>
+      <td>0.010523</td>
+      <td>1.130952</td>
+    </tr>
+    <tr>
+      <th>286</th>
+      <td>(HH Pandya7, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.695652</td>
+      <td>1.052879</td>
+      <td>0.007175</td>
+      <td>1.114796</td>
+    </tr>
+    <tr>
+      <th>1015</th>
+      <td>(V Kohli3, MS Dhoni6, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.695652</td>
+      <td>1.052879</td>
+      <td>0.007175</td>
+      <td>1.114796</td>
+    </tr>
+    <tr>
+      <th>964</th>
+      <td>(MS Dhoni5, S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.695652</td>
+      <td>1.052879</td>
+      <td>0.007175</td>
+      <td>1.114796</td>
+    </tr>
+    <tr>
+      <th>449</th>
+      <td>(Kuldeep Yadav9, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.232143</td>
+      <td>0.660714</td>
+      <td>0.160714</td>
+      <td>0.692308</td>
+      <td>1.047817</td>
+      <td>0.007334</td>
+      <td>1.102679</td>
+    </tr>
+    <tr>
+      <th>915</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.681818</td>
+      <td>1.031941</td>
+      <td>0.004145</td>
+      <td>1.066327</td>
+    </tr>
+    <tr>
+      <th>1203</th>
+      <td>(S Dhawan2, MS Dhoni6, RG Sharma1, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.681818</td>
+      <td>1.031941</td>
+      <td>0.004145</td>
+      <td>1.066327</td>
+    </tr>
+    <tr>
+      <th>606</th>
+      <td>(V Kohli3, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.535714</td>
+      <td>0.660714</td>
+      <td>0.357143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.003189</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>483</th>
+      <td>(MS Dhoni5, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.267857</td>
+      <td>0.660714</td>
+      <td>0.178571</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001594</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>365</th>
+      <td>(JJ Bumrah11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001116</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>368</th>
+      <td>(JJ Bumrah11, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>814</th>
+      <td>(JJ Bumrah11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>1029</th>
+      <td>(V Kohli3, S Dhawan2, MS Dhoni6)</td>
+      <td>(won)</td>
+      <td>0.214286</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001276</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>1179</th>
+      <td>(V Kohli3, MS Dhoni5, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>627</th>
+      <td>(S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.526786</td>
+      <td>0.660714</td>
+      <td>0.348214</td>
+      <td>0.661017</td>
+      <td>1.000458</td>
+      <td>0.000159</td>
+      <td>1.000893</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[43]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#For example let&#39;s take the first rule</span>
+<span class="c1">#if JJ Bumrah10, V Kohli3 then won</span>
+<span class="c1">#112 no of matches have played by the indian team from 2015 to 2020</span>
+<span class="c1">#here the support is 0.169643 = x/112</span>
+<span class="c1">#therefore no. of times the antecedent occurs = 0.169643*112 = approx 19 = x</span>
+<span class="c1">#confidence = 0.904762 = y/19</span>
+<span class="c1">#No of times the correct rule occured from the 19 instances is = 0.904762*19 = aprox 17</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[44]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#sorting by support --- descending order</span>
+<span class="n">position_won_rules</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span> <span class="o">=</span><span class="s1">&#39;support&#39;</span><span class="p">,</span> <span class="n">ascending</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">inplace</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>&lt;ipython-input-44-f90ae7d3d6de&gt;:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  position_won_rules.sort_values(by =&#39;support&#39;, ascending = False, inplace = True)
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[45]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">position_won_rules</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[45]:</div>
+
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>antecedents</th>
+      <th>consequents</th>
+      <th>antecedent support</th>
+      <th>consequent support</th>
+      <th>support</th>
+      <th>confidence</th>
+      <th>lift</th>
+      <th>leverage</th>
+      <th>conviction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>606</th>
+      <td>(V Kohli3, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.535714</td>
+      <td>0.660714</td>
+      <td>0.357143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.003189</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>627</th>
+      <td>(S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.526786</td>
+      <td>0.660714</td>
+      <td>0.348214</td>
+      <td>0.661017</td>
+      <td>1.000458</td>
+      <td>0.000159</td>
+      <td>1.000893</td>
+    </tr>
+    <tr>
+      <th>454</th>
+      <td>(Kuldeep Yadav9, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.276786</td>
+      <td>0.660714</td>
+      <td>0.214286</td>
+      <td>0.774194</td>
+      <td>1.171752</td>
+      <td>0.031409</td>
+      <td>1.502551</td>
+    </tr>
+    <tr>
+      <th>520</th>
+      <td>(MS Dhoni6, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.285714</td>
+      <td>0.660714</td>
+      <td>0.205357</td>
+      <td>0.718750</td>
+      <td>1.087838</td>
+      <td>0.016582</td>
+      <td>1.206349</td>
+    </tr>
+    <tr>
+      <th>478</th>
+      <td>(MS Dhoni5, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.267857</td>
+      <td>0.660714</td>
+      <td>0.196429</td>
+      <td>0.733333</td>
+      <td>1.109910</td>
+      <td>0.019452</td>
+      <td>1.272321</td>
+    </tr>
+    <tr>
+      <th>420</th>
+      <td>(KM Jadhav6, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.267857</td>
+      <td>0.660714</td>
+      <td>0.187500</td>
+      <td>0.700000</td>
+      <td>1.059459</td>
+      <td>0.010523</td>
+      <td>1.130952</td>
+    </tr>
+    <tr>
+      <th>483</th>
+      <td>(MS Dhoni5, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.267857</td>
+      <td>0.660714</td>
+      <td>0.178571</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001594</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>468</th>
+      <td>(MS Dhoni5, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.241071</td>
+      <td>0.660714</td>
+      <td>0.169643</td>
+      <td>0.703704</td>
+      <td>1.065065</td>
+      <td>0.010364</td>
+      <td>1.145089</td>
+    </tr>
+    <tr>
+      <th>326</th>
+      <td>(JJ Bumrah10, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.169643</td>
+      <td>0.904762</td>
+      <td>1.369369</td>
+      <td>0.045759</td>
+      <td>3.562500</td>
+    </tr>
+    <tr>
+      <th>951</th>
+      <td>(MS Dhoni5, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.223214</td>
+      <td>0.660714</td>
+      <td>0.160714</td>
+      <td>0.720000</td>
+      <td>1.089730</td>
+      <td>0.013233</td>
+      <td>1.211735</td>
+    </tr>
+    <tr>
+      <th>449</th>
+      <td>(Kuldeep Yadav9, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.232143</td>
+      <td>0.660714</td>
+      <td>0.160714</td>
+      <td>0.692308</td>
+      <td>1.047817</td>
+      <td>0.007334</td>
+      <td>1.102679</td>
+    </tr>
+    <tr>
+      <th>445</th>
+      <td>(Kuldeep Yadav9, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.214286</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.708333</td>
+      <td>1.072072</td>
+      <td>0.010204</td>
+      <td>1.163265</td>
+    </tr>
+    <tr>
+      <th>415</th>
+      <td>(KM Jadhav6, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.772727</td>
+      <td>1.169533</td>
+      <td>0.022003</td>
+      <td>1.492857</td>
+    </tr>
+    <tr>
+      <th>332</th>
+      <td>(JJ Bumrah10, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.850000</td>
+      <td>1.286486</td>
+      <td>0.033801</td>
+      <td>2.261905</td>
+    </tr>
+    <tr>
+      <th>411</th>
+      <td>(KM Jadhav6, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.151786</td>
+      <td>0.739130</td>
+      <td>1.118684</td>
+      <td>0.016103</td>
+      <td>1.300595</td>
+    </tr>
+    <tr>
+      <th>286</th>
+      <td>(HH Pandya7, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.695652</td>
+      <td>1.052879</td>
+      <td>0.007175</td>
+      <td>1.114796</td>
+    </tr>
+    <tr>
+      <th>1029</th>
+      <td>(V Kohli3, S Dhawan2, MS Dhoni6)</td>
+      <td>(won)</td>
+      <td>0.214286</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001276</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>964</th>
+      <td>(MS Dhoni5, S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.695652</td>
+      <td>1.052879</td>
+      <td>0.007175</td>
+      <td>1.114796</td>
+    </tr>
+    <tr>
+      <th>228</th>
+      <td>(B Kumar8, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.761905</td>
+      <td>1.153153</td>
+      <td>0.018973</td>
+      <td>1.425000</td>
+    </tr>
+    <tr>
+      <th>635</th>
+      <td>(V Kohli3, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.761905</td>
+      <td>1.153153</td>
+      <td>0.018973</td>
+      <td>1.425000</td>
+    </tr>
+    <tr>
+      <th>218</th>
+      <td>(Kuldeep Yadav9, B Kumar8)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.727273</td>
+      <td>1.100737</td>
+      <td>0.013074</td>
+      <td>1.244048</td>
+    </tr>
+    <tr>
+      <th>1015</th>
+      <td>(V Kohli3, MS Dhoni6, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.205357</td>
+      <td>0.660714</td>
+      <td>0.142857</td>
+      <td>0.695652</td>
+      <td>1.052879</td>
+      <td>0.007175</td>
+      <td>1.114796</td>
+    </tr>
+    <tr>
+      <th>1203</th>
+      <td>(S Dhawan2, MS Dhoni6, RG Sharma1, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.681818</td>
+      <td>1.031941</td>
+      <td>0.004145</td>
+      <td>1.066327</td>
+    </tr>
+    <tr>
+      <th>915</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.196429</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.681818</td>
+      <td>1.031941</td>
+      <td>0.004145</td>
+      <td>1.066327</td>
+    </tr>
+    <tr>
+      <th>611</th>
+      <td>(YS Chahal11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>1137</th>
+      <td>(YS Chahal11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>402</th>
+      <td>(KM Jadhav6, MS Dhoni5)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>631</th>
+      <td>(S Dhawan2, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.178571</td>
+      <td>0.660714</td>
+      <td>0.133929</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.015944</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>616</th>
+      <td>(V Kohli3, RG Sharma2)</td>
+      <td>(won)</td>
+      <td>0.169643</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.736842</td>
+      <td>1.115220</td>
+      <td>0.012915</td>
+      <td>1.289286</td>
+    </tr>
+    <tr>
+      <th>365</th>
+      <td>(JJ Bumrah11, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.187500</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.001116</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>882</th>
+      <td>(KM Jadhav6, V Kohli3, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.777778</td>
+      <td>1.177177</td>
+      <td>0.018814</td>
+      <td>1.526786</td>
+    </tr>
+    <tr>
+      <th>317</th>
+      <td>(JJ Bumrah10, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.823529</td>
+      <td>1.246423</td>
+      <td>0.024713</td>
+      <td>1.922619</td>
+    </tr>
+    <tr>
+      <th>894</th>
+      <td>(KM Jadhav6, S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.823529</td>
+      <td>1.246423</td>
+      <td>0.024713</td>
+      <td>1.922619</td>
+    </tr>
+    <tr>
+      <th>929</th>
+      <td>(Kuldeep Yadav9, S Dhawan2, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.169643</td>
+      <td>0.660714</td>
+      <td>0.125000</td>
+      <td>0.736842</td>
+      <td>1.115220</td>
+      <td>0.012915</td>
+      <td>1.289286</td>
+    </tr>
+    <tr>
+      <th>794</th>
+      <td>(YS Chahal11, JJ Bumrah10, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.866667</td>
+      <td>1.311712</td>
+      <td>0.027583</td>
+      <td>2.544643</td>
+    </tr>
+    <tr>
+      <th>855</th>
+      <td>(KM Jadhav6, MS Dhoni5, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.722222</td>
+      <td>1.093093</td>
+      <td>0.009885</td>
+      <td>1.221429</td>
+    </tr>
+    <tr>
+      <th>307</th>
+      <td>(JJ Bumrah10, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>350</th>
+      <td>(Kuldeep Yadav9, JJ Bumrah11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.812500</td>
+      <td>1.229730</td>
+      <td>0.021684</td>
+      <td>1.809524</td>
+    </tr>
+    <tr>
+      <th>841</th>
+      <td>(KM Jadhav6, MS Dhoni5, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.866667</td>
+      <td>1.311712</td>
+      <td>0.027583</td>
+      <td>2.544643</td>
+    </tr>
+    <tr>
+      <th>872</th>
+      <td>(KM Jadhav6, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.764706</td>
+      <td>1.157393</td>
+      <td>0.015784</td>
+      <td>1.441964</td>
+    </tr>
+    <tr>
+      <th>924</th>
+      <td>(Kuldeep Yadav9, V Kohli3, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.151786</td>
+      <td>0.660714</td>
+      <td>0.116071</td>
+      <td>0.764706</td>
+      <td>1.157393</td>
+      <td>0.015784</td>
+      <td>1.441964</td>
+    </tr>
+    <tr>
+      <th>710</th>
+      <td>(Kuldeep Yadav9, B Kumar8, V Kohli3)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.800000</td>
+      <td>1.210811</td>
+      <td>0.018654</td>
+      <td>1.696429</td>
+    </tr>
+    <tr>
+      <th>526</th>
+      <td>(MS Dhoni6, YS Chahal11)</td>
+      <td>(won)</td>
+      <td>0.142857</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.750000</td>
+      <td>1.135135</td>
+      <td>0.012755</td>
+      <td>1.357143</td>
+    </tr>
+    <tr>
+      <th>368</th>
+      <td>(JJ Bumrah11, S Dhawan2)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>814</th>
+      <td>(JJ Bumrah11, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>783</th>
+      <td>(S Dhawan2, RG Sharma1, JJ Bumrah10)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.800000</td>
+      <td>1.210811</td>
+      <td>0.018654</td>
+      <td>1.696429</td>
+    </tr>
+    <tr>
+      <th>1179</th>
+      <td>(V Kohli3, MS Dhoni5, S Dhawan2, RG Sharma1)</td>
+      <td>(won)</td>
+      <td>0.160714</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.666667</td>
+      <td>1.009009</td>
+      <td>0.000957</td>
+      <td>1.017857</td>
+    </tr>
+    <tr>
+      <th>430</th>
+      <td>(Kuldeep Yadav9, MS Dhoni5)</td>
+      <td>(won)</td>
+      <td>0.133929</td>
+      <td>0.660714</td>
+      <td>0.107143</td>
+      <td>0.800000</td>
+      <td>1.210811</td>
+      <td>0.018654</td>
+      <td>1.696429</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[46]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">random</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+
+<span class="n">support</span><span class="o">=</span><span class="n">position_won_rules</span><span class="p">[</span><span class="s1">&#39;support&#39;</span><span class="p">]</span>
+<span class="n">confidence</span><span class="o">=</span><span class="n">position_won_rules</span><span class="p">[</span><span class="s1">&#39;confidence&#39;</span><span class="p">]</span>
+ 
+<span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">support</span><span class="p">,</span> <span class="n">confidence</span><span class="p">,</span><span class="n">marker</span><span class="o">=</span><span class="s2">&quot;*&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;support&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;confidence&#39;</span><span class="p">)</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+
+
+<div class="output_png output_subarea ">
+<img src="data:image/png;base64,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
+"
+>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[47]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">position_won_rules</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Association_Rules/India/position_won_rules.csv&#39;</span><span class="p">)</span>

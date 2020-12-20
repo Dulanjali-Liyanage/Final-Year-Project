@@ -1,0 +1,95 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,lost,0,1,lost,v New Zealand,Ehsan Adil,Ahmed Shehzad,Mohammad Hafeez,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Bilawal Bhatti,Sarfaraz Ahmed
+DN,lost,0,2,lost,v New Zealand,Ehsan Adil,Ahmed Shehzad,Mohammad Hafeez,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Bilawal Bhatti,Sarfaraz Ahmed
+DN,lost,0,2,lost,v India,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Yasir Shah,Sohail Khan
+D,lost,0,2,won,v West Indies,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Nasir Jamshed,Sohail Khan
+DN,won,0,1,won,v Zimbabwe,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Nasir Jamshed,Sohail Khan
+DN,won,0,1,lost,v South Africa,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Younis Khan,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Sarfaraz Ahmed,Sohail Khan
+DN,won,0,2,lost,v Ireland,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Ehsan Adil,Misbah-ul-Haq,Umar Akmal,Haris Sohail,Sarfaraz Ahmed,Sohail Khan
+DN,lost,0,1,won,v Australia,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Ehsan Adil,Misbah-ul-Haq,Umar Akmal,Haris Sohail,Sarfaraz Ahmed,Sohail Khan
+DN,lost,0,2,lost,v Bangladesh,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Rahat Ali,Saeed Ajmal,Junaid Khan,Saad Nasim,Fawad Alam,Haris Sohail,Sarfaraz Ahmed,Mohammad Rizwan
+DN,lost,0,1,won,v Bangladesh,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Rahat Ali,Saeed Ajmal,Junaid Khan,Saad Nasim,Fawad Alam,Haris Sohail,Sarfaraz Ahmed,Mohammad Rizwan
+DN,lost,0,1,won,v Bangladesh,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Zulfiqar Babar,Umar Gul,Junaid Khan,Saad Nasim,Fawad Alam,Haris Sohail,Sami Aslam,Mohammad Rizwan
+DN,won,1,1,won,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Hammad Azam,Haris Sohail,Mohammad Sami,Asad Shafiq
+DN,won,1,2,won,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Hammad Azam,Haris Sohail,Mohammad Sami,Asad Shafiq
+D,won,0,2,won,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Babar Azam,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+DN,lost,0,1,won,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Babar Azam,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+DN,won,0,1,won,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+DN,won,0,2,lost,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+DN,lost,0,2,lost,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+D,won,0,1,lost,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Aamer Yamin,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Wahab Riaz
+D,lost,0,2,won,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Bilal Asif,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Aamer Yamin,Asad Shafiq,Mohammad Rizwan,Mohammad Irfan,Wahab Riaz
+D,won,0,2,won,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Bilal Asif,Shoaib Malik,Imad Wasim,Sarfaraz Ahmed,Aamer Yamin,Asad Shafiq,Mohammad Rizwan,Mohammad Irfan,Wahab Riaz
+DN,won,0,2,lost,v England,Mohammad Hafeez,Azhar Ali,Bilal Asif,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Younis Khan,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+DN,lost,0,2,lost,v England,Mohammad Hafeez,Azhar Ali,Iftikhar Ahmed,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Younis Khan,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+DN,lost,0,1,won,v England,Mohammad Hafeez,Azhar Ali,Iftikhar Ahmed,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Zafar Gohar,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+DN,lost,0,2,lost,v England,Mohammad Hafeez,Azhar Ali,Mohammad Rizwan,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Ahmed Shehzad,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+D,lost,0,2,won,v New Zealand,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Sohaib Maqsood,Imad Wasim,Sarfaraz Ahmed,Mohammad Amir,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+D,lost,0,1,won,v New Zealand,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Mohammad Rizwan,Sarfaraz Ahmed,Mohammad Amir,Babar Azam,Rahat Ali,Mohammad Irfan,Wahab Riaz
+D,won,0,1,lost,v Ireland,Mohammad Hafeez,Azhar Ali,Sharjeel Khan,Shoaib Malik,Mohammad Nawaz,Sarfaraz Ahmed,Imad Wasim,Babar Azam,Umar Gul,Mohammad Amir,Hasan Ali
+DN,lost,0,1,won,v England,Mohammad Hafeez,Azhar Ali,Sharjeel Khan,Shoaib Malik,Mohammad Nawaz,Sarfaraz Ahmed,Imad Wasim,Babar Azam,Umar Gul,Mohammad Amir,Wahab Riaz
+D,lost,0,1,won,v England,Sami Aslam,Azhar Ali,Sharjeel Khan,Shoaib Malik,Hasan Ali,Sarfaraz Ahmed,Imad Wasim,Babar Azam,Yasir Shah,Mohammad Amir,Wahab Riaz
+DN,lost,0,2,lost,v England,Sami Aslam,Azhar Ali,Sharjeel Khan,Shoaib Malik,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Yasir Shah,Mohammad Amir,Wahab Riaz
+DN,lost,0,1,won,v England,Sami Aslam,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Irfan,Umar Gul
+D,won,0,2,won,v England,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Irfan,Umar Gul
+DN,won,0,1,lost,v West Indies,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Amir,Umar Gul
+DN,won,0,1,won,v West Indies,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Amir,Wahab Riaz
+DN,won,0,1,won,v West Indies,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Sohail Khan,Wahab Riaz
+DN,lost,0,2,lost,v Australia,Azhar Ali,Sharjeel Khan,Mohammad Hafeez,Babar Azam,Umar Akmal,Mohammad Rizwan,Imad Wasim,Mohammad Nawaz,Mohammad Amir,Wahab Riaz,Hasan Ali
+DN,won,0,2,lost,v Australia,Mohammad Hafeez,Sharjeel Khan,Babar Azam,Asad Shafiq,Shoaib Malik,Umar Akmal,Mohammad Rizwan,Imad Wasim,Mohammad Amir,Hasan Ali,Junaid Khan
+DN,lost,0,1,lost,v Australia,Mohammad Hafeez,Sharjeel Khan,Babar Azam,Asad Shafiq,Shoaib Malik,Umar Akmal,Imad Wasim,Mohammad Rizwan,Mohammad Amir,Hasan Ali,Junaid Khan
+DN,lost,0,2,lost,v Australia,Azhar Ali,Sharjeel Khan,Babar Azam,Mohammad Hafeez,Shoaib Malik,Umar Akmal,Mohammad Rizwan,Imad Wasim,Mohammad Amir,Hasan Ali,Junaid Khan
+DN,lost,0,2,lost,v Australia,Azhar Ali,Sharjeel Khan,Babar Azam,Mohammad Hafeez,Shoaib Malik,Umar Akmal,Mohammad Rizwan,Mohammad Amir,Wahab Riaz,Hasan Ali,Junaid Khan
+D,lost,0,1,lost,v West Indies,Ahmed Shehzad,Kamran Akmal,Mohammad Hafeez,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Wahab Riaz
+D,won,0,1,lost,v West Indies,Ahmed Shehzad,Kamran Akmal,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Junaid Khan
+D,won,0,2,lost,v West Indies,Kamran Akmal,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Junaid Khan
+D,lost,0,2,won,v India,Azhar Ali,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Wahab Riaz
+DN,won,0,2,lost,v South Africa,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Mohammad Amir,Shadab Khan,Hasan Ali,Junaid Khan
+D,won,0,2,won,v Sri Lanka,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Faheem Ashraf,Mohammad Amir,Hasan Ali,Junaid Khan
+D,won,0,2,won,v England,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Rumman Raees,Shadab Khan,Hasan Ali,Junaid Khan
+D,won,0,1,lost,v India,Azhar Ali,Fakhar Zaman,Babar Azam,Shoaib Malik,Mohammad Hafeez,Imad Wasim,Sarfaraz Ahmed,Mohammad Amir,Shadab Khan,Hasan Ali,Junaid Khan
+DN,won,0,1,lost,v Sri Lanka,Fakhar Zaman,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Hasan Ali,Rumman Raees,Shadab Khan,Junaid Khan
+DN,won,0,1,won,v Sri Lanka,Fakhar Zaman,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Hasan Ali,Rumman Raees,Junaid Khan
+DN,won,0,2,lost,v Sri Lanka,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Faheem Ashraf,Shadab Khan,Hasan Ali,Rumman Raees,Junaid Khan
+DN,won,0,2,lost,v Sri Lanka,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Hasan Ali,Usman Shinwari,Junaid Khan
+DN,won,0,2,lost,v Sri Lanka,Imam-ul-Haq,Fakhar Zaman,Faheem Ashraf,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Hasan Ali,Usman Shinwari
+D,lost,0,2,won,v New Zealand,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Mohammad Amir,Hasan Ali,Rumman Raees
+D,lost,0,1,won,v New Zealand,Azhar Ali,Imam-ul-Haq,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Hasan Ali,Mohammad Amir,Rumman Raees
+D,lost,0,2,lost,v New Zealand,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Hasan Ali,Mohammad Amir,Rumman Raees
+DN,lost,0,1,won,v New Zealand,Fakhar Zaman,Faheem Ashraf,Babar Azam,Haris Sohail,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Hasan Ali,Shadab Khan,Mohammad Amir,Rumman Raees
+D,lost,0,2,lost,v New Zealand,Fakhar Zaman,Umar Amin,Babar Azam,Haris Sohail,Mohammad Hafeez,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Aamer Yamin,Mohammad Nawaz,Rumman Raees
+D,won,0,1,lost,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Asif Ali,Faheem Ashraf,Sarfaraz Ahmed,Hasan Ali,Shadab Khan,Mohammad Amir,Usman Shinwari
+D,won,0,2,lost,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Asif Ali,Faheem Ashraf,Shadab Khan,Hasan Ali,Mohammad Amir,Usman Shinwari
+D,won,0,2,lost,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Asif Ali,Sarfaraz Ahmed,Faheem Ashraf,Shadab Khan,Yasir Shah,Junaid Khan,Usman Shinwari
+D,won,0,1,won,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Asif Ali,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Faheem Ashraf,Shadab Khan,Yasir Shah,Junaid Khan,Usman Shinwari
+D,won,0,1,won,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Asif Ali,Sarfaraz Ahmed,Shadab Khan,Mohammad Nawaz,Mohammad Amir,Hasan Ali,Junaid Khan
+DN,lost,0,1,won,v India,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Asif Ali,Shadab Khan,Faheem Ashraf,Mohammad Amir,Hasan Ali,Usman Shinwari
+DN,won,0,2,lost,v Afghanistan,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Haris Sohail,Shoaib Malik,Sarfaraz Ahmed,Asif Ali,Mohammad Nawaz,Hasan Ali,Usman Shinwari,Shaheen Shah Afridi
+DN,lost,0,1,won,v India,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Sarfaraz Ahmed,Shoaib Malik,Asif Ali,Shadab Khan,Mohammad Nawaz,Hasan Ali,Mohammad Amir,Shaheen Shah Afridi
+D,lost,0,2,lost,v Bangladesh,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Sarfaraz Ahmed,Shoaib Malik,Shadab Khan,Asif Ali,Mohammad Nawaz,Hasan Ali,Shaheen Shah Afridi,Junaid Khan
+DN,lost,0,2,lost,v New Zealand,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Imad Wasim,Hasan Ali,Shaheen Shah Afridi,Junaid Khan
+DN,won,0,2,lost,v New Zealand,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Imad Wasim,Hasan Ali,Shah Afridi
+DN,won,0,2,lost,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Imad Wasim,Faheem Ashraf,Hasan Ali,Usman Shinwari
+DN,lost,0,1,lost,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Shadab Khan,Hussain Talat,Sarfaraz Ahmed,Faheem Ashraf,Hasan Ali,Shaheen Shah Afridi
+DN,lost,0,1,won,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Imad Wasim,Hasan Ali,Sarfaraz Ahmed,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+D,won,0,2,won,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Rizwan,Mohammad Hafeez,Shoaib Malik,Imad Wasim,Shadab Khan,Mohammad Amir,Usman Shinwari,Shaheen Shah Afridi
+DN,lost,0,1,lost,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Mohammad Rizwan,Shadab Khan,Imad Wasim,Mohammad Amir,Shaheen Shah Afridi,Usman Shinwari
+DN,lost,0,1,won,v Australia,Imam-ul-Haq,Shan Masood,Haris Sohail,Umar Akmal,Shoaib Malik,Faheem Ashraf,Imad Wasim,Mohammad Rizwan,Mohammad Amir,Yasir Shah,Mohammad Abbas
+DN,lost,0,1,won,v Australia,Imam-ul-Haq,Shan Masood,Haris Sohail,Mohammad Rizwan,Umar Akmal,Shoaib Malik,Faheem Ashraf,Imad Wasim,Yasir Shah,Mohammad Hasnain,Mohammad Abbas
+DN,lost,0,2,lost,v Australia,Imam-ul-Haq,Shan Masood,Haris Sohail,Mohammad Rizwan,Shoaib Malik,Umar Akmal,Imad Wasim,Yasir Shah,Usman Shinwari,Junaid Khan,Mohammad Hasnain
+DN,lost,0,2,won,v Australia,Shan Masood,Abid Ali,Haris Sohail,Mohammad Rizwan,Umar Akmal,Saad Ali,Imad Wasim,Yasir Shah,Usman Shinwari,Junaid Khan,Mohammad Hasnain
+DN,lost,0,2,won,v Australia,Shan Masood,Abid Ali,Haris Sohail,Mohammad Rizwan,Umar Akmal,Saad Ali,Imad Wasim,Yasir Shah,Usman Shinwari,Junaid Khan,Mohammad Abbas
+D,lost,0,2,won,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Asif Ali,Haris Sohail,Sarfaraz Ahmed,Imad Wasim,Faheem Ashraf,Hasan Ali,Shaheen Shah Afridi,Yasir Shah
+DN,lost,0,1,lost,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Haris Sohail,Sarfaraz Ahmed,Asif Ali,Imad Wasim,Faheem Ashraf,Hasan Ali,Shaheen Shah Afridi,Junaid Khan
+DN,lost,0,1,lost,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Asif Ali,Imad Wasim,Sarfaraz Ahmed,Hasan Ali,Mohammad Hasnain,Junaid Khan
+D,lost,0,2,lost,v England,Fakhar Zaman,Abid Ali,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Shoaib Malik,Asif Ali,Imad Wasim,Hasan Ali,Shaheen Shah Afridi,Mohammad Hasnain
+D,lost,0,1,lost,v West Indies,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Haris Sohail,Sarfaraz Ahmed,Mohammad Hafeez,Imad Wasim,Shadab Khan,Hasan Ali,Wahab Riaz,Mohammad Amir
+D,won,0,1,lost,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Asif Ali,Shoaib Malik,Wahab Riaz,Hasan Ali,Shadab Khan,Mohammad Amir
+D,lost,0,2,won,v Australia,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Shoaib Malik,Asif Ali,Hasan Ali,Wahab Riaz,Mohammad Amir,Shaheen Shah Afridi
+D,lost,0,2,won,v India,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Shoaib Malik,Imad Wasim,Shadab Khan,Hasan Ali,Wahab Riaz,Mohammad Amir
+D,won,0,1,won,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Haris Sohail,Imad Wasim,Wahab Riaz,Sarfaraz Ahmed,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+D,won,0,2,lost,v New Zealand,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Haris Sohail,Sarfaraz Ahmed,Imad Wasim,Wahab Riaz,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+D,won,0,2,lost,v Afghanistan,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Mohammad Hafeez,Haris Sohail,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Wahab Riaz,Mohammad Amir,Shaheen Shah Afridi
+D,won,0,1,won,v Bangladesh,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Mohammad Hafeez,Haris Sohail,Imad Wasim,Sarfaraz Ahmed,Wahab Riaz,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+DN,won,1,1,won,v Sri Lanka,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Haris Sohail,Sarfaraz Ahmed,Iftikhar Ahmed,Imad Wasim,Wahab Riaz,Shadab Khan,Mohammad Amir,Usman Shinwari
+DN,won,1,2,lost,v Sri Lanka,Fakhar Zaman,Abid Ali,Babar Azam,Sarfaraz Ahmed,Haris Sohail,Iftikhar Ahmed,Wahab Riaz,Mohammad Nawaz,Shadab Khan,Mohammad Amir,Usman Shinwari

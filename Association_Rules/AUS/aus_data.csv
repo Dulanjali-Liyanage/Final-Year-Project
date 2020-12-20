@@ -1,0 +1,105 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,won,1,2,lost,v England,DA Warner,AJ Finch,SR Watson,SPD Smith,GJ Bailey,GJ Maxwell,BJ Haddin,JP Faulkner,MA Starc,PJ Cummins,XJ Doherty
+DN,won,1,2,lost,v India,AJ Finch,DA Warner,SR Watson,SPD Smith,GJ Maxwell,GJ Bailey,BJ Haddin,JP Faulkner,MA Starc,PJ Cummins,GS Sandhu
+DN,won,1,2,won,v England,AJ Finch,SE Marsh,SPD Smith,CL White,GJ Maxwell,JP Faulkner,BJ Haddin,MC Henriques,MA Starc,PJ Cummins,GS Sandhu
+D,won,1,1,lost,v England,AJ Finch,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,BJ Haddin,JP Faulkner,MG Johnson,MA Starc,JR Hazlewood
+D,won,1,1,lost,v England,DA Warner,AJ Finch,SR Watson,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,BJ Haddin,MG Johnson,MA Starc,JR Hazlewood
+DN,lost,0,1,won,v New Zealand,AJ Finch,DA Warner,SR Watson,MJ Clarke,SPD Smith,GJ Maxwell,MR Marsh,BJ Haddin,MG Johnson,MA Starc,PJ Cummins
+DN,won,1,1,lost,v Afghanistan,DA Warner,AJ Finch,SPD Smith,GJ Maxwell,JP Faulkner,MR Marsh,BJ Haddin,MJ Clarke,MA Starc,MG Johnson,JR Hazlewood
+DN,won,1,1,won,v Sri Lanka,AJ Finch,DA Warner,SPD Smith,MJ Clarke,GJ Maxwell,SR Watson,JP Faulkner,BJ Haddin,MG Johnson,MA Starc,XJ Doherty
+DN,won,1,2,lost,v Pakistan,DA Warner,AJ Finch,SPD Smith,MJ Clarke,SR Watson,GJ Maxwell,BJ Haddin,JP Faulkner,MA Starc,MG Johnson,JR Hazlewood
+DN,won,1,1,won,v India,AJ Finch,DA Warner,SPD Smith,GJ Maxwell,SR Watson,MJ Clarke,JP Faulkner,BJ Haddin,MG Johnson,MA Starc,JR Hazlewood
+DN,won,1,2,lost,v New Zealand,DA Warner,AJ Finch,SPD Smith,MJ Clarke,SR Watson,GJ Maxwell,BJ Haddin,JP Faulkner,MA Starc,MG Johnson,JR Hazlewood
+D,won,0,1,won,v Ireland,JA Burns,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,SR Watson,MR Marsh,MS Wade,MA Starc,PJ Cummins,NM Coulter-Nile
+DN,won,0,1,won,v England,JA Burns,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,SR Watson,MS Wade,MR Marsh,MA Starc,PJ Cummins,NM Coulter-Nile
+D,won,0,1,lost,v England,JA Burns,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,SR Watson,MR Marsh,MS Wade,NM Coulter-Nile,PJ Cummins,MA Starc
+DN,lost,0,2,lost,v England,JA Burns,AJ Finch,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,AC Agar,MA Starc,PJ Cummins,JL Pattinson
+D,lost,0,1,won,v England,JA Burns,AJ Finch,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,MP Stoinis,JW Hastings,PJ Cummins,JL Pattinson
+D,won,0,2,lost,v England,JA Burns,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,GJ Maxwell,MS Wade,AC Agar,MA Starc,PJ Cummins,JW Hastings
+D,won,1,2,lost,v India,AJ Finch,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,JP Faulkner,MS Wade,SM Boland,JS Paris,JR Hazlewood
+DN,won,1,2,lost,v India,AJ Finch,SE Marsh,SPD Smith,GJ Bailey,GJ Maxwell,MS Wade,KW Richardson,JP Faulkner,SM Boland,JS Paris,JW Hastings
+DN,won,1,2,won,v India,SE Marsh,AJ Finch,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JP Faulkner,JW Hastings,SM Boland,KW Richardson
+DN,won,1,1,won,v India,DA Warner,AJ Finch,MR Marsh,SPD Smith,GJ Maxwell,GJ Bailey,JP Faulkner,MS Wade,JW Hastings,KW Richardson,NM Lyon
+DN,lost,1,1,lost,v India,AJ Finch,DA Warner,SPD Smith,GJ Bailey,SE Marsh,MR Marsh,MS Wade,JP Faulkner,JW Hastings,SM Boland,NM Lyon
+DN,lost,0,2,won,v New Zealand,SE Marsh,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JP Faulkner,JW Hastings,KW Richardson,JR Hazlewood
+DN,won,0,2,lost,v New Zealand,UT Khawaja,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JW Hastings,A Zampa,JR Hazlewood,SM Boland
+DN,lost,0,2,won,v New Zealand,UT Khawaja,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JW Hastings,A Zampa,JR Hazlewood,SM Boland
+DN,won,0,2,won,v West Indies,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Maxwell,MR Marsh,MS Wade,A Zampa,MA Starc,JR Hazlewood,NM Lyon
+DN,lost,0,2,lost,v South Africa,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Maxwell,MR Marsh,MS Wade,NM Coulter-Nile,A Zampa,NM Lyon,JR Hazlewood
+DN,won,0,1,won,v South Africa,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Bailey,MR Marsh,MS Wade,JP Faulkner,MA Starc,A Zampa,JR Hazlewood
+DN,lost,0,1,lost,v West Indies,UT Khawaja,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JP Faulkner,NM Coulter-Nile,A Zampa,JR Hazlewood
+DN,won,0,2,won,v West Indies,UT Khawaja,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,GJ Maxwell,MS Wade,JP Faulkner,MA Starc,JR Hazlewood,SM Boland
+DN,won,0,1,won,v West Indies,UT Khawaja,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,GJ Maxwell,MS Wade,MA Starc,NM Coulter-Nile,A Zampa,JR Hazlewood
+DN,won,0,2,won,v Sri Lanka,DA Warner,AJ Finch,SPD Smith,MS Wade,GJ Bailey,MC Henriques,TM Head,JP Faulkner,MA Starc,A Zampa,JR Hazlewood
+DN,lost,0,2,lost,v Sri Lanka,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MS Wade,MC Henriques,TM Head,JP Faulkner,MA Starc,A Zampa,NM Lyon
+DN,won,0,2,lost,v Sri Lanka,DA Warner,AJ Finch,SE Marsh,GJ Bailey,TM Head,MS Wade,JP Faulkner,JW Hastings,MA Starc,A Zampa,JR Hazlewood
+DN,won,0,2,lost,v Sri Lanka,DA Warner,AJ Finch,UT Khawaja,GJ Bailey,TM Head,MS Wade,JP Faulkner,JW Hastings,MA Starc,A Zampa,SM Boland
+DN,won,0,2,lost,v Sri Lanka,DA Warner,MS Wade,UT Khawaja,GJ Bailey,TM Head,JP Faulkner,JW Hastings,AJ Finch,MA Starc,A Zampa,SM Boland
+D,won,0,2,lost,v Ireland,UT Khawaja,DA Warner,SPD Smith,MR Marsh,GJ Bailey,TM Head,MS Wade,JW Hastings,DJ Worrall,A Zampa,SM Boland
+DN,lost,0,1,lost,v South Africa,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,A Zampa,DJ Worrall,SM Boland
+D,lost,0,2,won,v South Africa,AJ Finch,DA Warner,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,JM Mennie,A Zampa,CP Tremain
+DN,lost,0,1,won,v South Africa,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,A Zampa,CP Tremain,DJ Worrall
+D,lost,0,1,won,v South Africa,AJ Finch,DA Warner,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,A Zampa,CP Tremain,SM Boland
+DN,lost,0,2,lost,v South Africa,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JM Mennie,CP Tremain,A Zampa,SM Boland
+DN,won,1,1,won,v New Zealand,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,won,1,1,lost,v New Zealand,DA Warner,AJ Finch,SPD Smith,TM Head,MR Marsh,MS Wade,GJ Bailey,PJ Cummins,MA Starc,JP Faulkner,JR Hazlewood
+DN,won,1,1,won,v New Zealand,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JP Faulkner,MA Starc,PJ Cummins,JR Hazlewood
+DN,won,1,1,won,v Pakistan,DA Warner,TM Head,SPD Smith,CA Lynn,MR Marsh,GJ Maxwell,MS Wade,JP Faulkner,PJ Cummins,MA Starc,B Stanlake
+DN,lost,1,1,won,v Pakistan,UT Khawaja,DA Warner,SPD Smith,MR Marsh,TM Head,GJ Maxwell,MS Wade,JP Faulkner,MA Starc,PJ Cummins,JR Hazlewood
+DN,won,1,2,won,v Pakistan,DA Warner,UT Khawaja,SPD Smith,PSP Handscomb,TM Head,GJ Maxwell,MS Wade,JP Faulkner,PJ Cummins,JR Hazlewood,B Stanlake
+DN,won,1,1,won,v Pakistan,UT Khawaja,DA Warner,SPD Smith,TM Head,GJ Maxwell,MS Wade,MA Starc,PSP Handscomb,PJ Cummins,A Zampa,JR Hazlewood
+DN,won,1,1,won,v Pakistan,DA Warner,TM Head,SPD Smith,GJ Maxwell,MS Wade,PSP Handscomb,JP Faulkner,MA Starc,PJ Cummins,A Zampa,JR Hazlewood
+D,lost,0,2,won,v New Zealand,AJ Finch,TM Head,SE Marsh,PSP Handscomb,GJ Maxwell,SD Heazlett,MP Stoinis,JP Faulkner,PJ Cummins,MA Starc,JR Hazlewood
+D,lost,0,2,lost,v New Zealand,AJ Finch,SE Marsh,PSP Handscomb,TM Head,GJ Maxwell,MP Stoinis,JP Faulkner,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+D,lost,0,1,lost,v England,DA Warner,AJ Finch,SPD Smith,MC Henriques,TM Head,GJ Maxwell,MS Wade,MA Starc,PJ Cummins,A Zampa,JR Hazlewood
+DN,lost,0,2,lost,v India,DA Warner,HWR Cartwright,SPD Smith,TM Head,GJ Maxwell,MP Stoinis,MS Wade,JP Faulkner,PJ Cummins,NM Coulter-Nile,A Zampa
+DN,lost,0,2,lost,v India,HWR Cartwright,DA Warner,SPD Smith,TM Head,GJ Maxwell,MP Stoinis,MS Wade,AC Agar,PJ Cummins,NM Coulter-Nile,KW Richardson
+DN,lost,0,1,won,v India,DA Warner,AJ Finch,SPD Smith,GJ Maxwell,TM Head,MP Stoinis,PSP Handscomb,AC Agar,PJ Cummins,NM Coulter-Nile,KW Richardson
+DN,won,0,1,won,v India,AJ Finch,DA Warner,TM Head,SPD Smith,PSP Handscomb,MP Stoinis,MS Wade,PJ Cummins,NM Coulter-Nile,A Zampa,KW Richardson
+DN,lost,0,1,won,v India,DA Warner,AJ Finch,SPD Smith,PSP Handscomb,TM Head,MP Stoinis,MS Wade,JP Faulkner,PJ Cummins,NM Coulter-Nile,A Zampa
+DN,lost,1,1,lost,v England,AJ Finch,DA Warner,SPD Smith,TM Head,MR Marsh,MP Stoinis,TD Paine,PJ Cummins,MA Starc,AJ Tye,A Zampa
+DN,lost,1,1,won,v England,DA Warner,AJ Finch,SPD Smith,TM Head,MR Marsh,MP Stoinis,CL White,AT Carey,MA Starc,AJ Tye,JA Richardson
+DN,lost,1,2,won,v England,AJ Finch,DA Warner,CL White,SPD Smith,MR Marsh,MP Stoinis,TD Paine,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,won,1,2,won,v England,DA Warner,TM Head,CL White,SPD Smith,MR Marsh,MP Stoinis,TD Paine,PJ Cummins,AJ Tye,A Zampa,JR Hazlewood
+D,lost,1,2,won,v England,DA Warner,TM Head,MP Stoinis,SPD Smith,MR Marsh,GJ Maxwell,TD Paine,MA Starc,AJ Tye,A Zampa,JR Hazlewood
+DN,lost,0,1,won,v England,AJ Finch,TM Head,SE Marsh,MP Stoinis,TD Paine,GJ Maxwell,AC Agar,MG Neser,AJ Tye,KW Richardson,B Stanlake
+D,lost,0,2,won,v England,TM Head,DJM Short,SE Marsh,MP Stoinis,AJ Finch,GJ Maxwell,AC Agar,TD Paine,AJ Tye,JA Richardson,KW Richardson
+DN,lost,0,2,won,v England,DJM Short,TM Head,SE Marsh,MP Stoinis,AJ Finch,GJ Maxwell,TD Paine,AC Agar,JA Richardson,AJ Tye,B Stanlake
+DN,lost,0,1,won,v England,AJ Finch,TM Head,SE Marsh,MP Stoinis,AC Agar,AT Carey,TD Paine,MG Neser,JA Richardson,NM Lyon,B Stanlake
+D,lost,0,1,won,v England,AJ Finch,TM Head,MP Stoinis,SE Marsh,AT Carey,TD Paine,DJM Short,AC Agar,KW Richardson,NM Lyon,B Stanlake
+D,lost,1,1,lost,v South Africa,TM Head,AJ Finch,DJM Short,CA Lynn,AT Carey,GJ Maxwell,MP Stoinis,PJ Cummins,NM Coulter-Nile,MA Starc,JR Hazlewood
+DN,won,1,1,lost,v South Africa,AJ Finch,TM Head,SE Marsh,CA Lynn,AT Carey,GJ Maxwell,MP Stoinis,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,lost,1,2,won,v South Africa,CA Lynn,AJ Finch,SE Marsh,TM Head,MP Stoinis,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,won,1,1,won,v India,AT Carey,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,JA Richardson,NM Lyon,PM Siddle,JP Behrendorff
+DN,lost,1,1,won,v India,AT Carey,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,JA Richardson,NM Lyon,PM Siddle,JP Behrendorff
+DN,lost,1,1,lost,v India,AT Carey,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,JA Richardson,A Zampa,PM Siddle,B Stanlake
+DN,lost,0,1,won,v India,UT Khawaja,AJ Finch,MP Stoinis,PSP Handscomb,GJ Maxwell,AJ Turner,AT Carey,NM Coulter-Nile,PJ Cummins,JP Behrendorff,A Zampa
+DN,lost,0,2,won,v India,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,NM Lyon,A Zampa
+DN,won,0,1,lost,v India,AJ Finch,UT Khawaja,GJ Maxwell,SE Marsh,MP Stoinis,PSP Handscomb,AT Carey,JA Richardson,PJ Cummins,NM Lyon,A Zampa
+DN,won,0,2,lost,v India,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,SE Marsh,PSP Handscomb,AJ Turner,AT Carey,JA Richardson,JP Behrendorff,A Zampa
+DN,won,0,1,won,v India,UT Khawaja,AJ Finch,PSP Handscomb,GJ Maxwell,MP Stoinis,AJ Turner,AT Carey,JA Richardson,PJ Cummins,NM Lyon,A Zampa
+DN,won,0,2,lost,v Pakistan,UT Khawaja,AJ Finch,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,AT Carey,NM Coulter-Nile,JA Richardson,NM Lyon,A Zampa
+DN,won,0,2,lost,v Pakistan,UT Khawaja,AJ Finch,GJ Maxwell,SE Marsh,MP Stoinis,PSP Handscomb,AT Carey,NM Coulter-Nile,JA Richardson,NM Lyon,A Zampa
+DN,won,0,1,won,v Pakistan,UT Khawaja,AJ Finch,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,AT Carey,PJ Cummins,NM Lyon,A Zampa,JP Behrendorff
+DN,won,0,1,lost,v Pakistan,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,AT Carey,NM Coulter-Nile,KW Richardson,NM Lyon,A Zampa
+DN,won,0,1,lost,v Pakistan,UT Khawaja,AJ Finch,SE Marsh,GJ Maxwell,MP Stoinis,PSP Handscomb,AT Carey,JP Behrendorff,KW Richardson,NM Lyon,A Zampa
+DN,won,0,2,lost,v Afghanistan,AJ Finch,DA Warner,UT Khawaja,SPD Smith,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+D,won,0,1,lost,v West Indies,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+D,lost,0,2,lost,v India,DA Warner,AJ Finch,SPD Smith,UT Khawaja,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+D,won,0,1,lost,v Pakistan,AJ Finch,DA Warner,SPD Smith,GJ Maxwell,SE Marsh,UT Khawaja,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,KW Richardson
+D,won,0,1,lost,v Sri Lanka,AJ Finch,DA Warner,UT Khawaja,SPD Smith,GJ Maxwell,SE Marsh,AT Carey,PJ Cummins,MA Starc,JP Behrendorff,KW Richardson
+D,won,0,1,won,v Bangladesh,DA Warner,AJ Finch,UT Khawaja,GJ Maxwell,MP Stoinis,SPD Smith,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+D,won,0,1,lost,v England,AJ Finch,DA Warner,UT Khawaja,SPD Smith,GJ Maxwell,MP Stoinis,AT Carey,PJ Cummins,MA Starc,NM Lyon,JP Behrendorff
+DN,won,0,1,won,v New Zealand,DA Warner,AJ Finch,UT Khawaja,SPD Smith,MP Stoinis,GJ Maxwell,AT Carey,PJ Cummins,MA Starc,JP Behrendorff,NM Lyon
+DN,lost,0,2,lost,v South Africa,DA Warner,AJ Finch,UT Khawaja,SPD Smith,MP Stoinis,GJ Maxwell,AT Carey,PJ Cummins,MA Starc,JP Behrendorff,NM Lyon
+D,lost,0,1,won,v England,DA Warner,AJ Finch,SPD Smith,PSP Handscomb,AT Carey,MP Stoinis,GJ Maxwell,PJ Cummins,MA Starc,JP Behrendorff,NM Lyon
+D,won,0,2,won,v India,DA Warner,AJ Finch,M Labuschagne,SPD Smith,AT Carey,AJ Turner,AC Agar,PJ Cummins,MA Starc,KW Richardson,A Zampa
+D,lost,0,2,won,v India,DA Warner,AJ Finch,SPD Smith,M Labuschagne,AT Carey,AJ Turner,AC Agar,PJ Cummins,MA Starc,KW Richardson,A Zampa
+D,lost,0,1,won,v India,DA Warner,AJ Finch,SPD Smith,M Labuschagne,MA Starc,AT Carey,AJ Turner,AC Agar,PJ Cummins,A Zampa,JR Hazlewood
+DN,lost,0,2,lost,v South Africa,DA Warner,AJ Finch,SPD Smith,M Labuschagne,MR Marsh,AT Carey,DJM Short,MA Starc,PJ Cummins,A Zampa,JR Hazlewood
+DN,lost,0,1,won,v South Africa,DA Warner,AJ Finch,SPD Smith,M Labuschagne,DJM Short,MR Marsh,AT Carey,AC Agar,PJ Cummins,MA Starc,A Zampa
+D,lost,0,1,lost,v South Africa,DA Warner,AJ Finch,SPD Smith,M Labuschagne,DJM Short,MR Marsh,AT Carey,JA Richardson,KW Richardson,A Zampa,JR Hazlewood
+DN,won,1,1,won,v New Zealand,DA Warner,AJ Finch,SPD Smith,DJM Short,M Labuschagne,MR Marsh,AT Carey,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,won,0,1,lost,v England,DA Warner,AJ Finch,MP Stoinis,M Labuschagne,MR Marsh,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,lost,0,2,lost,v England,DA Warner,AJ Finch,MP Stoinis,M Labuschagne,MR Marsh,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+DN,won,0,2,lost,v England,DA Warner,AJ Finch,MP Stoinis,M Labuschagne,MR Marsh,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood

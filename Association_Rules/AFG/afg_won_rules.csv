@@ -1,0 +1,732 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+316,"frozenset({'Aftab Alam', 'Asghar Afghan'})",frozenset({'won'}),0.260273973,0.438356164,0.123287671,0.473684211,1.080592105,0.009194971,1.067123288
+421,"frozenset({'Aftab Alam', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+472,"frozenset({'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+514,"frozenset({'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+563,"frozenset({'Mohammad Nabi', 'Amir Hamza'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+591,"frozenset({'Mohammad Shahzad', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+615,"frozenset({'Noor Ali Zadran', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+627,"frozenset({'Amir Hamza', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+632,"frozenset({'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+668,"frozenset({'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.630136986,0.438356164,0.328767123,0.52173913,1.190217391,0.052542691,1.174346202
+716,"frozenset({'Gulbadin Naib', 'Asghar Afghan'})",frozenset({'won'}),0.547945205,0.438356164,0.273972603,0.5,1.140625,0.033777444,1.123287671
+800,"frozenset({'Ihsanullah', 'Asghar Afghan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+894,"frozenset({'Mirwais Ashraf', 'Asghar Afghan'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+932,"frozenset({'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.904109589,0.438356164,0.410958904,0.454545455,1.036931818,0.014636892,1.029680365
+968,"frozenset({'Mohammad Shahzad', 'Asghar Afghan'})",frozenset({'won'}),0.616438356,0.438356164,0.356164384,0.577777778,1.318055556,0.08594483,1.330209084
+990,"frozenset({'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.424657534,0.438356164,0.191780822,0.451612903,1.030241935,0.005629574,1.024174053
+1003,"frozenset({'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.616438356,0.438356164,0.287671233,0.466666667,1.064583333,0.017451679,1.053082192
+1036,"frozenset({'Noor Ali Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+1050,"frozenset({'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.698630137,0.438356164,0.328767123,0.470588235,1.073529412,0.022518296,1.060882801
+1066,"frozenset({'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.794520548,0.438356164,0.383561644,0.482758621,1.101293103,0.035278664,1.085844749
+1080,"frozenset({'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.493150685,0.438356164,0.232876712,0.472222222,1.077256944,0.01670107,1.064167267
+1108,"frozenset({'Gulbadin Naib', 'Dawlat Zadran'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+1202,"frozenset({'Dawlat Zadran', 'Mirwais Ashraf'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+1246,"frozenset({'Mohammad Nabi', 'Dawlat Zadran'})",frozenset({'won'}),0.684931507,0.438356164,0.328767123,0.48,1.095,0.028523175,1.080084299
+1292,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran'})",frozenset({'won'}),0.520547945,0.438356164,0.301369863,0.578947368,1.320723684,0.073184462,1.33390411
+1306,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran'})",frozenset({'won'}),0.260273973,0.438356164,0.123287671,0.473684211,1.080592105,0.009194971,1.067123288
+1326,"frozenset({'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.506849315,0.438356164,0.260273973,0.513513514,1.171452703,0.038093451,1.154490107
+1346,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+1358,"frozenset({'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.493150685,0.438356164,0.260273973,0.527777778,1.203993056,0.04409833,1.189363417
+1372,"frozenset({'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.575342466,0.438356164,0.301369863,0.523809524,1.194940476,0.049164947,1.179452055
+1382,"frozenset({'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.397260274,0.438356164,0.205479452,0.517241379,1.179956897,0.031337962,1.163405088
+1562,"frozenset({'Gulbadin Naib', 'Mohammad Nabi'})",frozenset({'won'}),0.589041096,0.438356164,0.273972603,0.465116279,1.061046512,0.015762807,1.05002978
+1582,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib'})",frozenset({'won'}),0.397260274,0.438356164,0.232876712,0.586206897,1.337284483,0.058735222,1.357305936
+1612,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman'})",frozenset({'won'}),0.383561644,0.438356164,0.178082192,0.464285714,1.059151786,0.009945581,1.048401826
+1626,"frozenset({'Gulbadin Naib', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.178082192,0.481481481,1.09837963,0.01595046,1.083170254
+1638,"frozenset({'Noor Ali Zadran', 'Gulbadin Naib'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+1660,"frozenset({'Gulbadin Naib', 'Rahmat Shah'})",frozenset({'won'}),0.589041096,0.438356164,0.273972603,0.465116279,1.061046512,0.015762807,1.05002978
+1677,"frozenset({'Gulbadin Naib', 'Rashid Khan'})",frozenset({'won'}),0.602739726,0.438356164,0.287671233,0.477272727,1.088778409,0.023456558,1.074449077
+1682,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+1994,"frozenset({'Mohammad Nabi', 'Ihsanullah'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+2040,"frozenset({'Mujeeb Ur Rahman', 'Ihsanullah'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+2060,"frozenset({'Rahmat Shah', 'Ihsanullah'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+2068,"frozenset({'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+2266,"frozenset({'Mohammad Nabi', 'Mirwais Ashraf'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+2294,"frozenset({'Mohammad Shahzad', 'Mirwais Ashraf'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+2330,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi'})",frozenset({'won'}),0.657534247,0.438356164,0.356164384,0.541666667,1.235677083,0.067930193,1.225404732
+2422,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.342465753,0.438356164,0.191780822,0.56,1.2775,0.041658848,1.276463263
+2463,"frozenset({'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.849315068,0.438356164,0.383561644,0.451612903,1.030241935,0.011259148,1.024174053
+2481,"frozenset({'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.520547945,0.438356164,0.246575342,0.473684211,1.080592105,0.018389942,1.067123288
+2510,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman'})",frozenset({'won'}),0.301369863,0.438356164,0.164383562,0.545454545,1.244318182,0.032276224,1.235616438
+2527,"frozenset({'Mohammad Shahzad', 'Najibullah Zadran'})",frozenset({'won'}),0.465753425,0.438356164,0.273972603,0.588235294,1.341911765,0.069806718,1.363992172
+2540,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad'})",frozenset({'won'}),0.260273973,0.438356164,0.178082192,0.684210526,1.560855263,0.063989491,1.778538813
+2556,"frozenset({'Mohammad Shahzad', 'Rahmat Shah'})",frozenset({'won'}),0.534246575,0.438356164,0.287671233,0.538461538,1.228365385,0.053480953,1.216894977
+2577,"frozenset({'Mohammad Shahzad', 'Rashid Khan'})",frozenset({'won'}),0.630136986,0.438356164,0.342465753,0.543478261,1.239809783,0.066241321,1.230267449
+2583,"frozenset({'Mohammad Shahzad', 'Samiullah Shinwari'})",frozenset({'won'}),0.369863014,0.438356164,0.219178082,0.592592593,1.351851852,0.05704635,1.378580324
+2674,"frozenset({'Noor Ali Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+2689,"frozenset({'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.561643836,0.438356164,0.260273973,0.463414634,1.057164634,0.014073935,1.046699875
+2700,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.342465753,0.438356164,0.150684932,0.44,1.00375,0.000562957,1.002935421
+2722,"frozenset({'Noor Ali Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+2739,"frozenset({'Noor Ali Zadran', 'Rashid Khan'})",frozenset({'won'}),0.315068493,0.438356164,0.178082192,0.565217391,1.289402174,0.039969976,1.291780822
+2745,"frozenset({'Noor Ali Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+2768,"frozenset({'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.767123288,0.438356164,0.342465753,0.446428571,1.018415179,0.006192531,1.014582413
+2772,"frozenset({'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.328767123,0.438356164,0.164383562,0.5,1.140625,0.020266467,1.123287671
+2774,"frozenset({'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.397260274,0.438356164,0.205479452,0.517241379,1.179956897,0.031337962,1.163405088
+2976,"frozenset({'Aftab Alam', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.246575342,0.438356164,0.109589041,0.444444444,1.013888889,0.00150122,1.010958904
+3046,"frozenset({'Aftab Alam', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+3559,"frozenset({'Dawlat Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+3696,"frozenset({'Mohammad Nabi', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+3766,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+3826,"frozenset({'Noor Ali Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+3856,"frozenset({'Rashid Khan', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+3869,"frozenset({'Asghar Afghan', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+4005,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+4066,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+4126,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+4160,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+4173,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+4351,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+4409,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+4439,"frozenset({'Mohammad Nabi', 'Amir Hamza', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+4450,"frozenset({'Mohammad Nabi', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+4501,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+4533,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Amir Hamza'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+4567,"frozenset({'Noor Ali Zadran', 'Amir Hamza', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+4580,"frozenset({'Noor Ali Zadran', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+4638,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+4784,"frozenset({'Dawlat Zadran', 'Mirwais Ashraf', 'Asghar Afghan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+4862,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.616438356,0.438356164,0.315068493,0.511111111,1.165972222,0.04484894,1.148816936
+4962,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.465753425,0.438356164,0.287671233,0.617647059,1.409007353,0.083505348,1.468914647
+4986,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+5021,"frozenset({'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.438356164,0.438356164,0.246575342,0.5625,1.283203125,0.054419216,1.283757339
+5076,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+5102,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.438356164,0.438356164,0.246575342,0.5625,1.283203125,0.054419216,1.283757339
+5139,"frozenset({'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.520547945,0.438356164,0.287671233,0.552631579,1.260690789,0.059485832,1.255439162
+5161,"frozenset({'Dawlat Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.369863014,0.438356164,0.191780822,0.518518519,1.18287037,0.02964909,1.166491043
+5245,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+5444,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.534246575,0.438356164,0.260273973,0.487179487,1.111378205,0.026083693,1.095205479
+5488,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Asghar Afghan'})",frozenset({'won'}),0.356164384,0.438356164,0.219178082,0.615384615,1.403846154,0.063051229,1.460273973
+5546,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.342465753,0.438356164,0.164383562,0.48,1.095,0.014261588,1.080084299
+5577,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.315068493,0.438356164,0.164383562,0.52173913,1.190217391,0.026271345,1.174346202
+5606,"frozenset({'Noor Ali Zadran', 'Gulbadin Naib', 'Asghar Afghan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+5662,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.534246575,0.438356164,0.260273973,0.487179487,1.111378205,0.026083693,1.095205479
+5708,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.547945205,0.438356164,0.273972603,0.5,1.140625,0.033777444,1.123287671
+5722,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+5836,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+6170,"frozenset({'Mohammad Nabi', 'Ihsanullah', 'Asghar Afghan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+6248,"frozenset({'Mujeeb Ur Rahman', 'Ihsanullah', 'Asghar Afghan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+6276,"frozenset({'Rahmat Shah', 'Ihsanullah', 'Asghar Afghan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+6292,"frozenset({'Ihsanullah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+6672,"frozenset({'Mohammad Nabi', 'Mirwais Ashraf', 'Asghar Afghan'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+6740,"frozenset({'Mohammad Shahzad', 'Mirwais Ashraf', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+6844,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.602739726,0.438356164,0.342465753,0.568181818,1.296164773,0.078251079,1.300648882
+6927,"frozenset({'Mohammad Nabi', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.602739726,0.438356164,0.273972603,0.454545455,1.036931818,0.009757928,1.029680365
+7006,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+7040,"frozenset({'Mohammad Nabi', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.684931507,0.438356164,0.315068493,0.46,1.049375,0.014824545,1.040081177
+7072,"frozenset({'Mohammad Nabi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.780821918,0.438356164,0.369863014,0.473684211,1.080592105,0.027584913,1.067123288
+7104,"frozenset({'Mohammad Nabi', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.493150685,0.438356164,0.232876712,0.472222222,1.077256944,0.01670107,1.064167267
+7132,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+7170,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.410958904,0.438356164,0.260273973,0.633333333,1.444791667,0.080127604,1.531755915
+7210,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad', 'Asghar Afghan'})",frozenset({'won'}),0.260273973,0.438356164,0.178082192,0.684210526,1.560855263,0.063989491,1.778538813
+7244,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.479452055,0.438356164,0.273972603,0.571428571,1.303571429,0.063801839,1.310502283
+7292,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.575342466,0.438356164,0.328767123,0.571428571,1.303571429,0.076562207,1.310502283
+7312,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.356164384,0.438356164,0.205479452,0.576923077,1.316105769,0.049352599,1.327521793
+7412,"frozenset({'Mujeeb Ur Rahman', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.424657534,0.438356164,0.191780822,0.451612903,1.030241935,0.005629574,1.024174053
+7438,"frozenset({'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.424657534,0.438356164,0.191780822,0.451612903,1.030241935,0.005629574,1.024174053
+7467,"frozenset({'Noor Ali Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.178082192,0.438356164,0.136986301,0.769230769,1.754807692,0.058922875,2.433789954
+7488,"frozenset({'Rahmat Shah', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.465753425,0.438356164,0.219178082,0.470588235,1.073529412,0.015012197,1.060882801
+7499,"frozenset({'Rashid Khan', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.493150685,0.438356164,0.246575342,0.5,1.140625,0.0303997,1.123287671
+7542,"frozenset({'Noor Ali Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+7584,"frozenset({'Noor Ali Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.301369863,0.438356164,0.178082192,0.590909091,1.348011364,0.045974855,1.372907154
+7598,"frozenset({'Noor Ali Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+7636,"frozenset({'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.698630137,0.438356164,0.328767123,0.470588235,1.073529412,0.022518296,1.060882801
+7652,"frozenset({'Rahmat Shah', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.315068493,0.438356164,0.150684932,0.47826087,1.091032609,0.012572715,1.076484018
+7659,"frozenset({'Asghar Afghan', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.383561644,0.438356164,0.191780822,0.5,1.140625,0.023644211,1.123287671
+7748,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Dawlat Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+7808,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Dawlat Zadran'})",frozenset({'won'}),0.287671233,0.438356164,0.191780822,0.666666667,1.520833333,0.065678364,1.684931507
+7862,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Dawlat Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+7889,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+7916,"frozenset({'Noor Ali Zadran', 'Gulbadin Naib', 'Dawlat Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+7960,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+7986,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+7999,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+8308,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Mirwais Ashraf'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+8478,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran'})",frozenset({'won'}),0.506849315,0.438356164,0.287671233,0.567567568,1.294763514,0.065490711,1.29880137
+8508,"frozenset({'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Dawlat Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.109589041,0.444444444,1.013888889,0.00150122,1.010958904
+8552,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.493150685,0.438356164,0.246575342,0.5,1.140625,0.0303997,1.123287671
+8598,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Dawlat Zadran'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+8626,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.479452055,0.438356164,0.246575342,0.514285714,1.173214286,0.036404579,1.156325544
+8658,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.561643836,0.438356164,0.287671233,0.512195122,1.168445122,0.041471195,1.151369863
+8679,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.397260274,0.438356164,0.205479452,0.517241379,1.179956897,0.031337962,1.163405088
+8718,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Dawlat Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+8782,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.383561644,0.438356164,0.246575342,0.642857143,1.466517857,0.078438731,1.57260274
+8824,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad', 'Dawlat Zadran'})",frozenset({'won'}),0.232876712,0.438356164,0.164383562,0.705882353,1.610294118,0.062300619,1.909589041
+8858,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.397260274,0.438356164,0.232876712,0.586206897,1.337284483,0.058735222,1.357305936
+8904,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.479452055,0.438356164,0.273972603,0.571428571,1.303571429,0.063801839,1.310502283
+8918,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+8956,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+8982,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.260273973,0.438356164,0.123287671,0.473684211,1.080592105,0.009194971,1.067123288
+8997,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.260273973,0.438356164,0.123287671,0.473684211,1.080592105,0.009194971,1.067123288
+9021,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+9048,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.356164384,0.438356164,0.191780822,0.538461538,1.228365385,0.035653969,1.216894977
+9062,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+9083,"frozenset({'Dawlat Zadran', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.287671233,0.438356164,0.150684932,0.523809524,1.194940476,0.024582473,1.179452055
+9098,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+9123,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+9136,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+9167,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.493150685,0.438356164,0.260273973,0.527777778,1.203993056,0.04409833,1.189363417
+9178,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+9190,"frozenset({'Dawlat Zadran', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.287671233,0.438356164,0.164383562,0.571428571,1.303571429,0.038281103,1.310502283
+9381,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+10064,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Mohammad Nabi'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+10130,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.369863014,0.438356164,0.164383562,0.444444444,1.013888889,0.00225183,1.010958904
+10162,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.356164384,0.438356164,0.164383562,0.461538462,1.052884615,0.008256709,1.043052838
+10182,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Noor Ali Zadran'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+10232,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Rahmat Shah'})",frozenset({'won'}),0.575342466,0.438356164,0.260273973,0.452380952,1.031994048,0.008069056,1.025610482
+10271,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.589041096,0.438356164,0.273972603,0.465116279,1.061046512,0.015762807,1.05002978
+10284,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+10325,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Gulbadin Naib'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+10357,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Najibullah Zadran'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+10402,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Rahmat Shah'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+10427,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Rashid Khan'})",frozenset({'won'}),0.397260274,0.438356164,0.232876712,0.586206897,1.337284483,0.058735222,1.357305936
+10440,"frozenset({'Mohammad Shahzad', 'Gulbadin Naib', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+10489,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Najibullah Zadran'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+10534,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Rahmat Shah'})",frozenset({'won'}),0.383561644,0.438356164,0.178082192,0.464285714,1.059151786,0.009945581,1.048401826
+10567,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.383561644,0.438356164,0.178082192,0.464285714,1.059151786,0.009945581,1.048401826
+10613,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.178082192,0.481481481,1.09837963,0.01595046,1.083170254
+10635,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.178082192,0.481481481,1.09837963,0.01595046,1.083170254
+10656,"frozenset({'Noor Ali Zadran', 'Gulbadin Naib', 'Rahmat Shah'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+10669,"frozenset({'Noor Ali Zadran', 'Gulbadin Naib', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+10716,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.589041096,0.438356164,0.273972603,0.465116279,1.061046512,0.015762807,1.05002978
+10737,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+10751,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+11215,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+11772,"frozenset({'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Ihsanullah'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+11820,"frozenset({'Mohammad Nabi', 'Rahmat Shah', 'Ihsanullah'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+11836,"frozenset({'Mohammad Nabi', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+11970,"frozenset({'Mujeeb Ur Rahman', 'Rahmat Shah', 'Ihsanullah'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+11986,"frozenset({'Mujeeb Ur Rahman', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+12013,"frozenset({'Rahmat Shah', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+12478,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Mirwais Ashraf'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+12544,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.287671233,0.438356164,0.150684932,0.523809524,1.194940476,0.024582473,1.179452055
+12581,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.452054795,0.438356164,0.260273973,0.575757576,1.31344697,0.062112967,1.323874755
+12609,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Noor Ali Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.164383562,0.666666667,1.520833333,0.05629574,1.684931507
+12644,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Rahmat Shah'})",frozenset({'won'}),0.520547945,0.438356164,0.273972603,0.526315789,1.200657895,0.045787202,1.185692542
+12689,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.616438356,0.438356164,0.328767123,0.533333333,1.216666667,0.05854757,1.203522505
+12703,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.369863014,0.438356164,0.219178082,0.592592593,1.351851852,0.05704635,1.378580324
+12906,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+12940,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.547945205,0.438356164,0.246575342,0.45,1.0265625,0.006380184,1.02117061
+12965,"frozenset({'Mohammad Nabi', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.342465753,0.438356164,0.150684932,0.44,1.00375,0.000562957,1.002935421
+13022,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Rahmat Shah'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+13056,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.301369863,0.438356164,0.164383562,0.545454545,1.244318182,0.032276224,1.235616438
+13065,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+13132,"frozenset({'Mohammad Nabi', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.328767123,0.438356164,0.164383562,0.5,1.140625,0.020266467,1.123287671
+13141,"frozenset({'Mohammad Nabi', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.397260274,0.438356164,0.205479452,0.517241379,1.179956897,0.031337962,1.163405088
+13177,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Najibullah Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+13214,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rahmat Shah'})",frozenset({'won'}),0.301369863,0.438356164,0.164383562,0.545454545,1.244318182,0.032276224,1.235616438
+13235,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.301369863,0.438356164,0.164383562,0.545454545,1.244318182,0.032276224,1.235616438
+13260,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad', 'Najibullah Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+13296,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.397260274,0.438356164,0.219178082,0.551724138,1.25862069,0.045036592,1.252897787
+13316,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.424657534,0.438356164,0.246575342,0.580645161,1.324596774,0.060424095,1.339304531
+13328,"frozenset({'Mohammad Shahzad', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+13352,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+13365,"frozenset({'Noor Ali Zadran', 'Mohammad Shahzad', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+13396,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.534246575,0.438356164,0.287671233,0.538461538,1.228365385,0.053480953,1.216894977
+13411,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+13430,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+13590,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+13628,"frozenset({'Najibullah Zadran', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+13637,"frozenset({'Noor Ali Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+13647,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+13666,"frozenset({'Rahmat Shah', 'Rashid Khan', 'Samiullah Shinwari'})",frozenset({'won'}),0.328767123,0.438356164,0.164383562,0.5,1.140625,0.020266467,1.123287671
+15535,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+15674,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+15811,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+15886,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+15914,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+16323,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+16454,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+16521,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+16547,"frozenset({'Mohammad Nabi', 'Amir Hamza', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+16661,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+16732,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+16809,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Asghar Afghan', 'Amir Hamza'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+16837,"frozenset({'Noor Ali Zadran', 'Amir Hamza', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+17186,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+17317,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+17390,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+17416,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+17530,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+17585,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+17666,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Dawlat Zadran', 'Amir Hamza'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+17694,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+18045,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Mohammad Nabi', 'Amir Hamza'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+18114,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Mohammad Nabi', 'Amir Hamza'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+18189,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Mohammad Nabi', 'Amir Hamza'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+18215,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Amir Hamza', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+18272,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Noor Ali Zadran', 'Amir Hamza'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+18419,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+18521,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.246575342,0.438356164,0.178082192,0.722222222,1.647569444,0.06999437,2.021917808
+18636,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+18708,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+18789,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+18836,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+19219,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Mirwais Ashraf', 'Asghar Afghan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+19565,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.452054795,0.438356164,0.273972603,0.606060606,1.382575758,0.075811597,1.425711275
+19677,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.424657534,0.438356164,0.232876712,0.548387097,1.251008065,0.046725464,1.243639922
+19794,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+19851,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.424657534,0.438356164,0.232876712,0.548387097,1.251008065,0.046725464,1.243639922
+19922,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.506849315,0.438356164,0.273972603,0.540540541,1.233108108,0.051792081,1.222401289
+19966,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.369863014,0.438356164,0.191780822,0.518518519,1.18287037,0.02964909,1.166491043
+20117,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.328767123,0.438356164,0.232876712,0.708333333,1.615885417,0.088759617,1.925636008
+20220,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.232876712,0.438356164,0.164383562,0.705882353,1.610294118,0.062300619,1.909589041
+20287,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.342465753,0.438356164,0.219178082,0.64,1.46,0.069056108,1.560121766
+20372,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.424657534,0.438356164,0.260273973,0.612903226,1.398185484,0.074122725,1.450913242
+20401,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+20474,"frozenset({'Asghar Afghan', 'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+20489,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+20540,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+20587,"frozenset({'Asghar Afghan', 'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.301369863,0.438356164,0.178082192,0.590909091,1.348011364,0.045974855,1.372907154
+20619,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.328767123,0.438356164,0.205479452,0.625,1.42578125,0.061362357,1.497716895
+20658,"frozenset({'Dawlat Zadran', 'Asghar Afghan', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.260273973,0.438356164,0.136986301,0.526315789,1.200657895,0.022893601,1.185692542
+20706,"frozenset({'Asghar Afghan', 'Dawlat Zadran', 'Rahmat Shah', 'Noor Ali Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+20758,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+20786,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+20844,"frozenset({'Asghar Afghan', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.438356164,0.438356164,0.246575342,0.5625,1.283203125,0.054419216,1.283757339
+20870,"frozenset({'Asghar Afghan', 'Dawlat Zadran', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+20894,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.273972603,0.438356164,0.150684932,0.55,1.2546875,0.030587352,1.248097412
+21044,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+21160,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Asghar Afghan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+21402,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rahmat Shah', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+21453,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rashid Khan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+21999,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+22109,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.328767123,0.438356164,0.150684932,0.458333333,1.045572917,0.006567836,1.036880927
+22162,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.301369863,0.438356164,0.150684932,0.5,1.140625,0.018577594,1.123287671
+22208,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+22321,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.520547945,0.438356164,0.246575342,0.473684211,1.080592105,0.018389942,1.067123288
+22414,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.534246575,0.438356164,0.260273973,0.487179487,1.111378205,0.026083693,1.095205479
+22447,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+22521,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Shahzad', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+22576,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+22681,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+22728,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.356164384,0.438356164,0.219178082,0.615384615,1.403846154,0.063051229,1.460273973
+22829,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+22910,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.342465753,0.438356164,0.164383562,0.48,1.095,0.014261588,1.080084299
+22965,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.342465753,0.438356164,0.164383562,0.48,1.095,0.014261588,1.080084299
+23031,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.315068493,0.438356164,0.164383562,0.52173913,1.190217391,0.026271345,1.174346202
+23062,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.315068493,0.438356164,0.164383562,0.52173913,1.190217391,0.026271345,1.174346202
+23112,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rahmat Shah', 'Noor Ali Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+23139,"frozenset({'Gulbadin Naib', 'Noor Ali Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+23244,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.534246575,0.438356164,0.260273973,0.487179487,1.111378205,0.026083693,1.095205479
+23290,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+23325,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+23415,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+23832,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rahmat Shah', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+23883,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+24642,"frozenset({'Asghar Afghan', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Ihsanullah'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+24701,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Ihsanullah', 'Rahmat Shah'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+24732,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+24875,"frozenset({'Asghar Afghan', 'Mujeeb Ur Rahman', 'Ihsanullah', 'Rahmat Shah'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+24906,"frozenset({'Asghar Afghan', 'Mujeeb Ur Rahman', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+24935,"frozenset({'Asghar Afghan', 'Ihsanullah', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+25789,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Mirwais Ashraf', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+25906,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Asghar Afghan'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+25979,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.397260274,0.438356164,0.246575342,0.620689655,1.415948276,0.072433853,1.480697385
+26058,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.164383562,0.666666667,1.520833333,0.05629574,1.684931507
+26131,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.465753425,0.438356164,0.260273973,0.558823529,1.274816176,0.056108088,1.273059361
+26226,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.561643836,0.438356164,0.315068493,0.56097561,1.27972561,0.068868456,1.279299848
+26268,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.356164384,0.438356164,0.205479452,0.576923077,1.316105769,0.049352599,1.327521793
+26596,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.164383562,0.438356164,0.123287671,0.75,1.7109375,0.051229124,2.246575342
+26639,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.452054795,0.438356164,0.205479452,0.454545455,1.036931818,0.007318446,1.029680365
+26657,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.479452055,0.438356164,0.232876712,0.485714286,1.108035714,0.022705949,1.092085236
+26751,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Rahmat Shah', 'Noor Ali Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+26828,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.287671233,0.438356164,0.164383562,0.571428571,1.303571429,0.038281103,1.310502283
+26853,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+26936,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.684931507,0.438356164,0.315068493,0.46,1.049375,0.014824545,1.040081177
+26969,"frozenset({'Asghar Afghan', 'Mohammad Nabi', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.315068493,0.438356164,0.150684932,0.47826087,1.091032609,0.012572715,1.076484018
+26988,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.383561644,0.438356164,0.191780822,0.5,1.140625,0.023644211,1.123287671
+27036,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+27081,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rahmat Shah'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+27105,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+27160,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+27225,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+27266,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.232876712,0.62962963,1.436342593,0.07074498,1.516438356
+27294,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+27348,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+27376,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+27438,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.479452055,0.438356164,0.273972603,0.571428571,1.303571429,0.063801839,1.310502283
+27478,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+27516,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.315068493,0.438356164,0.178082192,0.565217391,1.289402174,0.039969976,1.291780822
+27733,"frozenset({'Asghar Afghan', 'Mujeeb Ur Rahman', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.424657534,0.438356164,0.191780822,0.451612903,1.030241935,0.005629574,1.024174053
+27770,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Asghar Afghan', 'Najibullah Zadran'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+27822,"frozenset({'Asghar Afghan', 'Rashid Khan', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.465753425,0.438356164,0.219178082,0.470588235,1.073529412,0.015012197,1.060882801
+27879,"frozenset({'Asghar Afghan', 'Noor Ali Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+27900,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Asghar Afghan', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+27947,"frozenset({'Asghar Afghan', 'Rashid Khan', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.315068493,0.438356164,0.150684932,0.47826087,1.091032609,0.012572715,1.076484018
+28186,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+28324,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+28438,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.356164384,0.438356164,0.191780822,0.538461538,1.228365385,0.035653969,1.216894977
+28489,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+28517,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+28656,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+28750,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+28787,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.287671233,0.438356164,0.191780822,0.666666667,1.520833333,0.065678364,1.684931507
+28919,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+28968,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+29014,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+29039,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+29088,"frozenset({'Gulbadin Naib', 'Noor Ali Zadran', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+29161,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+29190,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+29219,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+29952,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.232876712,0.62962963,1.436342593,0.07074498,1.516438356
+30035,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Noor Ali Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+30108,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+30201,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.465753425,0.438356164,0.260273973,0.558823529,1.274816176,0.056108088,1.273059361
+30229,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+30344,"frozenset({'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.246575342,0.438356164,0.109589041,0.444444444,1.013888889,0.00150122,1.010958904
+30373,"frozenset({'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.109589041,0.444444444,1.013888889,0.00150122,1.010958904
+30413,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+30468,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.342465753,0.438356164,0.178082192,0.52,1.18625,0.027960218,1.170091324
+30496,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+30539,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.287671233,0.438356164,0.150684932,0.523809524,1.194940476,0.024582473,1.179452055
+30603,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+30628,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+30693,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.479452055,0.438356164,0.246575342,0.514285714,1.173214286,0.036404579,1.156325544
+30717,"frozenset({'Mohammad Nabi', 'Dawlat Zadran', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+30745,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.287671233,0.438356164,0.164383562,0.571428571,1.303571429,0.038281103,1.310502283
+30822,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+30872,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+30897,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+30921,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.136986301,0.438356164,0.123287671,0.9,2.053125,0.063238882,5.616438356
+31004,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.315068493,0.438356164,0.191780822,0.608695652,1.388586957,0.053668606,1.435312024
+31057,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Dawlat Zadran', 'Najibullah Zadran'})",frozenset({'won'}),0.342465753,0.438356164,0.219178082,0.64,1.46,0.069056108,1.560121766
+31086,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+31159,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+31187,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+31251,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.397260274,0.438356164,0.232876712,0.586206897,1.337284483,0.058735222,1.357305936
+31280,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+31308,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Dawlat Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+31383,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+31428,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+31473,"frozenset({'Mujeeb Ur Rahman', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.260273973,0.438356164,0.123287671,0.473684211,1.080592105,0.009194971,1.067123288
+31523,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.356164384,0.438356164,0.191780822,0.538461538,1.228365385,0.035653969,1.216894977
+31550,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+31572,"frozenset({'Noor Ali Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+31597,"frozenset({'Rashid Khan', 'Dawlat Zadran', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+31831,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mohammad Nabi', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+32361,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+32414,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rashid Khan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+33663,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Shahzad', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+33722,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+33806,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mohammad Nabi', 'Rahmat Shah'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+33855,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+33883,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+33985,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+34085,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Rahmat Shah'})",frozenset({'won'}),0.369863014,0.438356164,0.164383562,0.444444444,1.013888889,0.00225183,1.010958904
+34158,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.369863014,0.438356164,0.164383562,0.444444444,1.013888889,0.00225183,1.010958904
+34232,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.356164384,0.438356164,0.164383562,0.461538462,1.052884615,0.008256709,1.043052838
+34277,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.356164384,0.438356164,0.164383562,0.461538462,1.052884615,0.008256709,1.043052838
+34322,"frozenset({'Gulbadin Naib', 'Noor Ali Zadran', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+34421,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.575342466,0.438356164,0.260273973,0.452380952,1.031994048,0.008069056,1.025610482
+34467,"frozenset({'Gulbadin Naib', 'Mohammad Nabi', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+34500,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+34575,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Shahzad', 'Najibullah Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+34631,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Shahzad', 'Rahmat Shah'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+34660,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Mohammad Shahzad', 'Rashid Khan'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+34712,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+34743,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Mohammad Shahzad', 'Najibullah Zadran'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+34819,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+34848,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+34875,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Mohammad Shahzad', 'Samiullah Shinwari'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+34955,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+35012,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+35084,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.383561644,0.438356164,0.178082192,0.464285714,1.059151786,0.009945581,1.048401826
+35159,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.369863014,0.438356164,0.178082192,0.481481481,1.09837963,0.01595046,1.083170254
+35188,"frozenset({'Gulbadin Naib', 'Noor Ali Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+35235,"frozenset({'Gulbadin Naib', 'Rashid Khan', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+36156,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan', 'Hashmatullah Shahidi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+37045,"frozenset({'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Ihsanullah', 'Rahmat Shah'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+37076,"frozenset({'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+37131,"frozenset({'Mohammad Nabi', 'Ihsanullah', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+37309,"frozenset({'Mujeeb Ur Rahman', 'Ihsanullah', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+37912,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+37985,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Rahmat Shah'})",frozenset({'won'}),0.287671233,0.438356164,0.150684932,0.523809524,1.194940476,0.024582473,1.179452055
+38033,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.287671233,0.438356164,0.150684932,0.523809524,1.194940476,0.024582473,1.179452055
+38079,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+38152,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.383561644,0.438356164,0.205479452,0.535714286,1.222098214,0.037342841,1.209694415
+38195,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Mohammad Nabi', 'Najibullah Zadran'})",frozenset({'won'}),0.410958904,0.438356164,0.232876712,0.566666667,1.292708333,0.052730343,1.296101159
+38221,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+38275,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Mohammad Nabi', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+38300,"frozenset({'Mohammad Shahzad', 'Noor Ali Zadran', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+38367,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.520547945,0.438356164,0.273972603,0.526315789,1.200657895,0.045787202,1.185692542
+38401,"frozenset({'Mohammad Shahzad', 'Mohammad Nabi', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+38442,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+38827,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+38849,"frozenset({'Noor Ali Zadran', 'Mohammad Nabi', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+38866,"frozenset({'Noor Ali Zadran', 'Rashid Khan', 'Mohammad Nabi', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+38906,"frozenset({'Rashid Khan', 'Mohammad Nabi', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.328767123,0.438356164,0.164383562,0.5,1.140625,0.020266467,1.123287671
+38973,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+39018,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Najibullah Zadran'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+39080,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.301369863,0.438356164,0.164383562,0.545454545,1.244318182,0.032276224,1.235616438
+39137,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Rahmat Shah', 'Najibullah Zadran'})",frozenset({'won'}),0.397260274,0.438356164,0.219178082,0.551724138,1.25862069,0.045036592,1.252897787
+39166,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Najibullah Zadran', 'Samiullah Shinwari'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+39201,"frozenset({'Mohammad Shahzad', 'Rashid Khan', 'Rahmat Shah', 'Samiullah Shinwari'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+42177,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+42460,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+42617,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+42675,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+42915,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+43032,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+43203,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+43263,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+44002,"frozenset({'Mohammad Shahzad', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+44151,"frozenset({'Mohammad Shahzad', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+44312,"frozenset({'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+44370,"frozenset({'Samiullah Shinwari', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+44489,"frozenset({'Mohammad Shahzad', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+45015,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+45130,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+45297,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+45355,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Amir Hamza', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+45474,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+45763,"frozenset({'Mohammad Shahzad', 'Amir Hamza', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+45963,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.164383562,0.705882353,1.610294118,0.062300619,1.909589041
+46174,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+46407,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.315068493,0.438356164,0.178082192,0.565217391,1.289402174,0.039969976,1.291780822
+46502,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+46676,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+46835,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.232876712,0.438356164,0.164383562,0.705882353,1.610294118,0.062300619,1.909589041
+46896,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.178082192,0.722222222,1.647569444,0.06999437,2.021917808
+47144,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+47195,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+47299,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+47430,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+48399,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.315068493,0.438356164,0.219178082,0.695652174,1.586956522,0.081065866,1.845401174
+48574,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+48711,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.205479452,0.625,1.42578125,0.061362357,1.497716895
+48886,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.410958904,0.438356164,0.246575342,0.6,1.36875,0.066428974,1.404109589
+48944,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+49130,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+49229,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.287671233,0.438356164,0.164383562,0.571428571,1.303571429,0.038281103,1.310502283
+49291,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.315068493,0.438356164,0.191780822,0.608695652,1.388586957,0.053668606,1.435312024
+49373,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.260273973,0.438356164,0.136986301,0.526315789,1.200657895,0.022893601,1.185692542
+49520,"frozenset({'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+49575,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+49698,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.424657534,0.438356164,0.232876712,0.548387097,1.251008065,0.046725464,1.243639922
+49749,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+49807,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.150684932,0.55,1.2546875,0.030587352,1.248097412
+49946,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.136986301,0.438356164,0.123287671,0.9,2.053125,0.063238882,5.616438356
+50087,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.260273973,0.438356164,0.178082192,0.684210526,1.560855263,0.063989491,1.778538813
+50176,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.287671233,0.438356164,0.205479452,0.714285714,1.629464286,0.079376994,1.965753425
+50236,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+50392,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+50452,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+50566,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.342465753,0.438356164,0.219178082,0.64,1.46,0.069056108,1.560121766
+50624,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+50676,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+50779,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.109589041,0.533333333,1.216666667,0.019515857,1.203522505
+50862,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.301369863,0.438356164,0.178082192,0.590909091,1.348011364,0.045974855,1.372907154
+50921,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+50975,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+51174,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+51739,"frozenset({'Gulbadin Naib', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+52040,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+52101,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+52573,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+53483,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+53584,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+53745,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+53842,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+54041,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.109589041,0.470588235,1.073529412,0.007506099,1.060882801
+54197,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.150684932,0.458333333,1.045572917,0.006567836,1.036880927
+54300,"frozenset({'Gulbadin Naib', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.150684932,0.458333333,1.045572917,0.006567836,1.036880927
+54428,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.301369863,0.438356164,0.150684932,0.5,1.140625,0.018577594,1.123287671
+54485,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.301369863,0.438356164,0.150684932,0.5,1.140625,0.018577594,1.123287671
+54573,"frozenset({'Gulbadin Naib', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+54786,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.520547945,0.438356164,0.246575342,0.473684211,1.080592105,0.018389942,1.067123288
+54881,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+54954,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+55083,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+55195,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+55252,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+55352,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+55411,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+55572,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+55739,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+55848,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+55965,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.342465753,0.438356164,0.164383562,0.48,1.095,0.014261588,1.080084299
+56060,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.315068493,0.438356164,0.164383562,0.52173913,1.190217391,0.026271345,1.174346202
+56117,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+56219,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+56496,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.109589041,0.470588235,1.073529412,0.007506099,1.060882801
+56590,"frozenset({'Mohammad Shahzad', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+57303,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+58110,"frozenset({'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Ihsanullah', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+58173,"frozenset({'Mujeeb Ur Rahman', 'Asghar Afghan', 'Ihsanullah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+58234,"frozenset({'Rahmat Shah', 'Asghar Afghan', 'Ihsanullah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+58356,"frozenset({'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Ihsanullah', 'Rashid Khan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+59492,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+59571,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+59619,"frozenset({'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+59714,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+59853,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+59934,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.356164384,0.438356164,0.219178082,0.615384615,1.403846154,0.063051229,1.460273973
+59985,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.123287671,0.6,1.36875,0.033214487,1.404109589
+60094,"frozenset({'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+60149,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+60280,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.465753425,0.438356164,0.260273973,0.558823529,1.274816176,0.056108088,1.273059361
+60363,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+60447,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.315068493,0.438356164,0.178082192,0.565217391,1.289402174,0.039969976,1.291780822
+61000,"frozenset({'Najibullah Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.452054795,0.438356164,0.205479452,0.454545455,1.036931818,0.007318446,1.029680365
+61116,"frozenset({'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+61151,"frozenset({'Samiullah Shinwari', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+61250,"frozenset({'Samiullah Shinwari', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.315068493,0.438356164,0.150684932,0.47826087,1.091032609,0.012572715,1.076484018
+61339,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+61396,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+61452,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+61556,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.342465753,0.438356164,0.205479452,0.6,1.36875,0.055357478,1.404109589
+61655,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+62266,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+62404,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+62481,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+62838,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+62887,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+63067,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.356164384,0.438356164,0.191780822,0.538461538,1.228365385,0.035653969,1.216894977
+63123,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+63182,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+63454,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+63515,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+63615,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.273972603,0.438356164,0.178082192,0.65,1.4828125,0.057984612,1.604696673
+63790,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+63845,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+63901,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+64477,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.123287671,0.438356164,0.109589041,0.888888889,2.027777778,0.05554513,5.054794521
+64654,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.301369863,0.438356164,0.178082192,0.590909091,1.348011364,0.045974855,1.372907154
+64765,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.205479452,0.625,1.42578125,0.061362357,1.497716895
+64823,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+64943,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+65000,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+65137,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.383561644,0.438356164,0.219178082,0.571428571,1.303571429,0.051041471,1.310502283
+65193,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+65251,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.150684932,0.647058824,1.476102941,0.048601989,1.591324201
+65485,"frozenset({'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.109589041,0.444444444,1.013888889,0.00150122,1.010958904
+65587,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.342465753,0.438356164,0.178082192,0.52,1.18625,0.027960218,1.170091324
+65639,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+65684,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+65799,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+65858,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+65915,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+66045,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.315068493,0.438356164,0.191780822,0.608695652,1.388586957,0.053668606,1.435312024
+66106,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+66165,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+66276,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+66752,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Hashmatullah Shahidi', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+67748,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+68845,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+68957,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+69014,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+69116,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+69173,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+69305,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.369863014,0.438356164,0.205479452,0.555555556,1.267361111,0.04334772,1.26369863
+69361,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+69418,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+69583,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+69700,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+69856,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.369863014,0.438356164,0.164383562,0.444444444,1.013888889,0.00225183,1.010958904
+69979,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.356164384,0.438356164,0.164383562,0.461538462,1.052884615,0.008256709,1.043052838
+70074,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+70187,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+70250,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+70312,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+70371,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+70433,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+70548,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.287671233,0.438356164,0.136986301,0.476190476,1.086309524,0.010883843,1.072229141
+72150,"frozenset({'Rahmat Shah', 'Mujeeb Ur Rahman', 'Ihsanullah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+72739,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+72826,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+72950,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.287671233,0.438356164,0.150684932,0.523809524,1.194940476,0.024582473,1.179452055
+73069,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.383561644,0.438356164,0.205479452,0.535714286,1.222098214,0.037342841,1.209694415
+73127,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+73202,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.260273973,0.438356164,0.150684932,0.578947368,1.320723684,0.036592231,1.33390411
+73486,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+76122,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+76361,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+76708,"frozenset({'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+76830,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+77075,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+77668,"frozenset({'Mohammad Shahzad', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+78025,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+78280,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+78476,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+78590,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.164383562,0.705882353,1.610294118,0.062300619,1.909589041
+79060,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+79149,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+79492,"frozenset({'Gulbadin Naib', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.315068493,0.438356164,0.178082192,0.565217391,1.289402174,0.039969976,1.291780822
+79760,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+79881,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+79998,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.232876712,0.438356164,0.164383562,0.705882353,1.610294118,0.062300619,1.909589041
+80231,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+80866,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.123287671,0.438356164,0.109589041,0.888888889,2.027777778,0.05554513,5.054794521
+81149,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.164383562,0.666666667,1.520833333,0.05629574,1.684931507
+81326,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.191780822,0.7,1.596875,0.071683243,1.872146119
+81443,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+81684,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+81801,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+82038,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.205479452,0.625,1.42578125,0.061362357,1.497716895
+82153,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+82263,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.136986301,0.625,1.42578125,0.040908238,1.497716895
+82548,"frozenset({'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.287671233,0.438356164,0.164383562,0.571428571,1.303571429,0.038281103,1.310502283
+82656,"frozenset({'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+82912,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.260273973,0.438356164,0.178082192,0.684210526,1.560855263,0.063989491,1.778538813
+83035,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+83481,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+84729,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.109589041,0.571428571,1.303571429,0.025520736,1.310502283
+86011,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+86124,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+86306,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+86417,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+86664,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+86999,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.109589041,0.470588235,1.073529412,0.007506099,1.060882801
+87216,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.109589041,0.470588235,1.073529412,0.007506099,1.060882801
+87444,"frozenset({'Gulbadin Naib', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.150684932,0.458333333,1.045572917,0.006567836,1.036880927
+87635,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.301369863,0.438356164,0.150684932,0.5,1.140625,0.018577594,1.123287671
+87830,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.109589041,0.5,1.140625,0.013510978,1.123287671
+88039,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+88164,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+88288,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+88405,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+88640,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.246575342,0.438356164,0.123287671,0.5,1.140625,0.01519985,1.123287671
+89055,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Hashmatullah Shahidi', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.109589041,0.470588235,1.073529412,0.007506099,1.060882801
+89747,"frozenset({'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Ihsanullah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+90711,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+90816,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+90916,"frozenset({'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.136986301,0.588235294,1.341911765,0.034903359,1.363992172
+91132,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.328767123,0.438356164,0.191780822,0.583333333,1.330729167,0.047663727,1.347945205
+91332,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.136986301,0.555555556,1.267361111,0.02889848,1.26369863
+91742,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+92350,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+92471,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+92671,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.260273973,0.438356164,0.164383562,0.631578947,1.440789474,0.050290861,1.52446184
+93017,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+93128,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+93369,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.136986301,0.714285714,1.629464286,0.052917996,1.965753425
+93875,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.301369863,0.438356164,0.178082192,0.590909091,1.348011364,0.045974855,1.372907154
+93995,"frozenset({'Najibullah Zadran', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+94116,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+94340,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+95911,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+96036,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+96160,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.123287671,0.5625,1.283203125,0.027209608,1.283757339
+96275,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.150684932,0.611111111,1.394097222,0.04259711,1.444227006
+96396,"frozenset({'Gulbadin Naib', 'Samiullah Shinwari', 'Mohammad Shahzad', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+96632,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.273972603,0.438356164,0.123287671,0.45,1.0265625,0.003190092,1.02117061
+96756,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan'})",frozenset({'won'}),0.191780822,0.438356164,0.123287671,0.642857143,1.466517857,0.039219366,1.57260274
+97584,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.123287671,0.529411765,1.207720588,0.021204729,1.193493151
+98690,"frozenset({'Mohammad Shahzad', 'Dawlat Zadran', 'Amir Hamza', 'Asghar Afghan', 'Rashid Khan', 'Noor Ali Zadran', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+99098,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Mohammad Nabi'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+99337,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
+99561,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.219178082,0.438356164,0.150684932,0.6875,1.568359375,0.054606868,1.797260274
+100013,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+100221,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.123287671,0.818181818,1.866477273,0.057234003,3.089041096
+100778,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.246575342,0.438356164,0.164383562,0.666666667,1.520833333,0.05629574,1.684931507
+101022,"frozenset({'Samiullah Shinwari', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.164383562,0.438356164,0.109589041,0.666666667,1.520833333,0.037530494,1.684931507
+102446,"frozenset({'Gulbadin Naib', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+102677,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.205479452,0.438356164,0.136986301,0.666666667,1.520833333,0.046913117,1.684931507
+103146,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.232876712,0.438356164,0.109589041,0.470588235,1.073529412,0.007506099,1.060882801
+103388,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan'})",frozenset({'won'}),0.150684932,0.438356164,0.109589041,0.727272727,1.659090909,0.043535372,2.059360731
+103894,"frozenset({'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+104353,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.123287671,0.692307692,1.579326923,0.045224245,1.825342466
+104854,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Rahmat Shah', 'Mujeeb Ur Rahman', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.178082192,0.438356164,0.109589041,0.615384615,1.403846154,0.031525615,1.460273973
+105105,"frozenset({'Gulbadin Naib', 'Najibullah Zadran', 'Mohammad Shahzad', 'Dawlat Zadran', 'Rahmat Shah', 'Asghar Afghan', 'Rashid Khan', 'Mohammad Nabi'})",frozenset({'won'}),0.136986301,0.438356164,0.109589041,0.8,1.825,0.049540251,2.808219178
