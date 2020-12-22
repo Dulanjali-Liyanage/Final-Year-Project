@@ -1,0 +1,59 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,won,0,2,won,v Afghanistan,WTS Porterfield,PR Stirling,EC Joyce,GC Wilson,NJ O'Brien,KJ O'Brien,A Balbirnie,JF Mooney,AR Cusack,CA Young,GH Dockrell
+D,lost,0,2,won,v Afghanistan,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,GC Wilson,KJ O'Brien,A Balbirnie,JF Mooney,AR Cusack,GH Dockrell,CA Young
+D,won,0,2,won,v West Indies,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,JF Mooney,MC Sorensen,GH Dockrell,AR McBrine
+DN,lost,0,2,lost,v South Africa,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,JF Mooney,GH Dockrell,MC Sorensen,AR McBrine
+DN,won,0,1,lost,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,A Balbirnie,KJ O'Brien,GC Wilson,JF Mooney,NJ O'Brien,GH Dockrell,AR Cusack,AR McBrine
+DN,lost,0,1,won,v India,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,KJ O'Brien,GC Wilson,SR Thompson,JF Mooney,GH Dockrell,AR Cusack
+DN,lost,0,1,won,v Pakistan,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,SR Thompson,JF Mooney,GH Dockrell,AR Cusack
+D,lost,1,2,lost,v Australia,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,JF Mooney,AR McBrine,TJ Murtagh,CA Young
+D,lost,0,1,lost,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,A Balbirnie,GC Wilson,KJ O'Brien,SR Thompson,JF Mooney,GH Dockrell,AR McBrine,TJ Murtagh
+D,lost,0,1,lost,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,JF Mooney,GH Dockrell,AR McBrine,TJ Murtagh
+D,won,0,2,won,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,GH Dockrell,AR McBrine,TJ Murtagh,CA Young
+D,lost,1,2,won,v Sri Lanka,WTS Porterfield,PR Stirling,EC Joyce,J Anderson,KJ O'Brien,SW Poynter,GC Wilson,MC Sorensen,BJ McCarthy,TJ Murtagh,WB Rankin
+D,lost,1,2,won,v Sri Lanka,WTS Porterfield,PR Stirling,EC Joyce,J Anderson,KJ O'Brien,SW Poynter,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,WB Rankin
+D,lost,1,2,won,v Afghanistan,WTS Porterfield,EC Joyce,J Anderson,SW Poynter,KJ O'Brien,PR Stirling,AR McBrine,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+D,won,1,2,lost,v Afghanistan,WTS Porterfield,EC Joyce,SP Terry,SW Poynter,KJ O'Brien,PR Stirling,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,PKD Chase
+D,lost,1,2,lost,v Afghanistan,WTS Porterfield,EC Joyce,SP Terry,SW Poynter,KJ O'Brien,PR Stirling,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,PKD Chase
+D,won,1,1,lost,v Afghanistan,WTS Porterfield,EC Joyce,SP Terry,GC Wilson,KJ O'Brien,PR Stirling,SW Poynter,AR McBrine,BJ McCarthy,TJ Murtagh,PKD Chase
+D,lost,1,2,won,v Pakistan,WTS Porterfield,PR Stirling,EC Joyce,J Anderson,KJ O'Brien,SW Poynter,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,WB Rankin
+D,lost,0,2,won,v South Africa,WTS Porterfield,PR Stirling,J Anderson,GC Wilson,KJ O'Brien,SP Terry,SW Poynter,GH Dockrell,TJ Murtagh,CA Young,PKD Chase
+D,lost,0,1,won,v Australia,WTS Porterfield,PR Stirling,J Anderson,GC Wilson,KJ O'Brien,SP Terry,SW Poynter,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+D,lost,0,2,lost,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,KJ O'Brien,GC Wilson,SR Thompson,GH Dockrell,TJ Murtagh,J Mulder,PKD Chase
+D,lost,0,2,lost,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,PKD Chase
+D,won,0,2,lost,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,PKD Chase
+D,won,0,2,lost,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,KJ O'Brien,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,J Mulder
+D,lost,0,1,won,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,J Mulder
+D,lost,0,1,won,v England,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,SR Thompson,GH Dockrell,TJ Murtagh,PKD Chase
+D,lost,0,2,won,v England,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+D,lost,1,2,won,v New Zealand,WTS Porterfield,PR Stirling,NJ O'Brien,A Balbirnie,KJ O'Brien,GC Wilson,Simi Singh,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+D,lost,1,1,lost,v Bangladesh,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,KJ O'Brien,GC Wilson,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+D,lost,1,2,won,v New Zealand,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,GC Wilson,Simi Singh,GH Dockrell,BJ McCarthy,CA Young,PKD Chase
+DN,lost,0,2,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,Simi Singh,SW Poynter,GH Dockrell,WB Rankin,TJ Murtagh
+DN,won,0,1,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,SW Poynter,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+DN,won,0,2,lost,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,SW Poynter,GH Dockrell,BJ McCarthy,WB Rankin,TJ Murtagh
+D,lost,0,2,won,v West Indies,WTS Porterfield,PR Stirling,A Balbirnie,EC Joyce,NJ O'Brien,KJ O'Brien,GC Wilson,GH Dockrell,AR McBrine,WB Rankin,TJ Murtagh
+D,lost,0,2,won,v Zimbabwe,WTS Porterfield,PR Stirling,A Balbirnie,EC Joyce,NJ O'Brien,KJ O'Brien,GC Wilson,AR McBrine,BJ McCarthy,WB Rankin,TJ Murtagh
+D,lost,0,1,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,Simi Singh,KJ O'Brien,GC Wilson,AR McBrine,BJ McCarthy,WB Rankin,TJ Murtagh
+D,lost,1,2,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,Simi Singh,KJ O'Brien,GC Wilson,AR McBrine,TJ Murtagh,WB Rankin,PKD Chase
+D,won,1,2,lost,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,KJ O'Brien,Simi Singh,GC Wilson,AR McBrine,TJ Murtagh,WB Rankin,PKD Chase
+D,lost,1,1,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,Simi Singh,KJ O'Brien,GC Wilson,AR McBrine,TJ Murtagh,WB Rankin,PKD Chase
+DN,lost,0,1,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,JA McCollum,KJ O'Brien,Simi Singh,SW Poynter,GH Dockrell,BJ McCarthy,TJ Murtagh,WB Rankin
+DN,won,0,2,lost,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,Simi Singh,KJ O'Brien,GH Dockrell,SW Poynter,AR McBrine,WB Rankin,TJ Murtagh,J Cameron-Dow
+DN,lost,0,2,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,Simi Singh,KJ O'Brien,GH Dockrell,SW Poynter,AR McBrine,J Cameron-Dow,TJ Murtagh,WB Rankin
+DN,won,0,2,won,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,Simi Singh,KJ O'Brien,GH Dockrell,SW Poynter,AR McBrine,J Cameron-Dow,WB Rankin,TJ Murtagh
+D,lost,1,1,lost,v England,WTS Porterfield,PR Stirling,A Balbirnie,LJ Tucker,KJ O'Brien,GC Wilson,GH Dockrell,MR Adair,TJ Murtagh,JB Little,WB Rankin
+D,lost,1,2,won,v West Indies,WTS Porterfield,PR Stirling,A Balbirnie,LJ Tucker,KJ O'Brien,GC Wilson,GH Dockrell,MR Adair,BJ McCarthy,TJ Murtagh,JB Little
+D,lost,1,1,won,v West Indies,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,MR Adair,GC Wilson,GH Dockrell,WB Rankin,TJ Murtagh,JB Little
+D,lost,1,1,won,v Bangladesh,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,MR Adair,GC Wilson,GH Dockrell,BJ McCarthy,WB Rankin,JB Little
+D,won,1,1,lost,v Afghanistan,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,GC Wilson,GH Dockrell,MR Adair,AR McBrine,TJ Murtagh,WB Rankin
+D,lost,1,2,won,v Afghanistan,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,GC Wilson,AR McBrine,MR Adair,BJ McCarthy,TJ Murtagh,WB Rankin
+D,won,0,2,won,v Zimbabwe,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,SC Getkate,MR Adair,TJ Murtagh,WB Rankin,AR McBrine
+D,won,1,1,lost,v Zimbabwe,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,SC Getkate,MR Adair,AR McBrine,TJ Murtagh,WB Rankin
+D,won,1,2,lost,v Zimbabwe,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,SC Getkate,MR Adair,AR McBrine,TJ Murtagh,WB Rankin
+DN,lost,0,1,won,v West Indies,PR Stirling,GJ Delany,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,Simi Singh,MR Adair,AR McBrine,BJ McCarthy,WB Rankin
+DN,lost,0,1,won,v West Indies,PR Stirling,GJ Delany,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,Simi Singh,MR Adair,AR McBrine,BJ McCarthy,WB Rankin
+D,lost,0,1,lost,v West Indies,JA McCollum,PR Stirling,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,Simi Singh,MR Adair,AR McBrine,BJ McCarthy,CA Young
+DN,lost,0,1,lost,v England,PR Stirling,GJ Delany,A Balbirnie,HT Tector,KJ O'Brien,LJ Tucker,C Campher,Simi Singh,AR McBrine,BJ McCarthy,CA Young
+DN,lost,0,1,won,v England,PR Stirling,GJ Delany,A Balbirnie,HT Tector,KJ O'Brien,LJ Tucker,C Campher,Simi Singh,AR McBrine,CA Young,JB Little
+DN,won,0,2,won,v England,PR Stirling,GJ Delany,A Balbirnie,HT Tector,KJ O'Brien,LJ Tucker,C Campher,MR Adair,AR McBrine,CA Young,JB Little
