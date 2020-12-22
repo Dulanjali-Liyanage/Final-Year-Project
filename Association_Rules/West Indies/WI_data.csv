@@ -1,0 +1,92 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,lost,0,2,lost,v South Africa,DJG Sammy,DR Smith,MN Samuels,CH Gayle,AD Russell,LR Johnson,D Ramdin,JO Holder,SJ Benn,JL Carter,JE Taylor
+D,lost,0,2,won,v South Africa,DJG Sammy,DR Smith,MN Samuels,CH Gayle,AD Russell,LR Johnson,D Ramdin,JO Holder,SJ Benn,JL Carter,JE Taylor
+DN,lost,0,1,won,v South Africa,N Deonarine,DR Smith,MN Samuels,CH Gayle,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SJ Benn,JL Carter,JE Taylor
+DN,won,0,2,won,v South Africa,LR Johnson,DR Smith,MN Samuels,CH Gayle,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SS Cottrell,JL Carter,DJG Sammy
+DN,lost,0,2,won,v South Africa,N Deonarine,DR Smith,MN Samuels,CH Gayle,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SS Cottrell,JL Carter,JE Taylor
+D,lost,0,1,lost,v Ireland,DM Bravo,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,KAJ Roach,JE Taylor
+D,won,0,1,lost,v Pakistan,DM Bravo,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,SJ Benn,JE Taylor
+DN,won,0,1,won,v Zimbabwe,NO Miller,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+DN,lost,0,2,lost,v South Africa,SJ Benn,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+DN,lost,0,1,won,v India,KAJ Roach,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+DN,lost,0,2,lost,v New Zealand,J Charles,SJ Benn,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+DN,lost,0,1,lost,v Sri Lanka,ADS Fletcher,J Charles,MN Samuels,DM Bravo,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SP Narine,JL Carter,JE Taylor
+DN,lost,0,1,won,v Sri Lanka,ADS Fletcher,J Charles,MN Samuels,DM Bravo,J Blackwood,CR Brathwaite,JN Mohammed,R Rampaul,SP Narine,JL Carter,JE Taylor
+DN,lost,0,1,lost,v Sri Lanka,ADS Fletcher,J Charles,MN Samuels,DM Bravo,J Blackwood,CR Brathwaite,JO Holder,R Rampaul,SP Narine,JL Carter,JE Taylor
+DN,won,1,2,lost,v South Africa,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+DN,lost,1,1,lost,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+DN,won,1,2,won,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+DN,lost,1,2,won,v South Africa,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+DN,lost,0,1,lost,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+DN,won,0,1,lost,v South Africa,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+DN,lost,0,2,lost,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+DN,lost,0,2,won,v Pakistan,KC Brathwaite,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+DN,lost,0,2,lost,v Pakistan,KC Brathwaite,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,AS Joseph
+DN,lost,0,2,lost,v Pakistan,KC Brathwaite,ST Gabriel,MN Samuels,DM Bravo,KA Pollard,E Lewis,D Ramdin,JO Holder,SP Narine,SJ Benn,AS Joseph
+D,won,0,1,lost,v Sri Lanka,J Charles,KC Brathwaite,E Lewis,SD Hope,JL Carter,R Powell,CR Brathwaite,JO Holder,AR Nurse,SJ Benn,ST Gabriel
+D,lost,0,2,won,v Sri Lanka,J Charles,E Lewis,KC Brathwaite,SD Hope,JL Carter,R Powell,JO Holder,CR Brathwaite,AR Nurse,SJ Benn,ST Gabriel
+D,lost,0,2,lost,v Zimbabwe,E Lewis,J Charles,KC Brathwaite,SD Hope,JL Carter,R Powell,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,ML Cummins
+D,lost,1,2,won,v England,KC Brathwaite,E Lewis,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,ST Gabriel
+D,lost,1,1,won,v England,KC Brathwaite,E Lewis,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,ST Gabriel
+D,lost,1,2,won,v England,KOA Powell,E Lewis,KC Brathwaite,SD Hope,JN Mohammed,JL Carter,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,AS Joseph
+D,won,1,2,won,v Pakistan,E Lewis,CAK Walton,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,AR Nurse,D Bishoo,ST Gabriel,AS Joseph
+D,lost,1,2,won,v Pakistan,E Lewis,CAK Walton,SD Hope,KOA Powell,JL Carter,JN Mohammed,JO Holder,AR Nurse,D Bishoo,AS Joseph,ST Gabriel
+D,lost,1,1,won,v Pakistan,E Lewis,CAK Walton,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,AR Nurse,V Permaul,D Bishoo,ST Gabriel
+DN,lost,1,2,lost,v Afghanistan,E Lewis,KOA Powell,SD Hope,JN Mohammed,RL Chase,JL Carter,JO Holder,AR Nurse,AS Joseph,ML Cummins,ST Gabriel
+DN,won,1,2,lost,v Afghanistan,E Lewis,KOA Powell,SD Hope,JL Carter,JN Mohammed,RL Chase,R Powell,JO Holder,AR Nurse,AS Joseph,ST Gabriel
+D,lost,1,2,won,v India,KOA Powell,SD Hope,JN Mohammed,E Lewis,JL Carter,JO Holder,RL Chase,AR Nurse,D Bishoo,AS Joseph,ML Cummins
+D,lost,1,2,won,v India,E Lewis,KA Hope,SD Hope,RL Chase,JN Mohammed,JO Holder,R Powell,AR Nurse,D Bishoo,ML Cummins,KOK Williams
+D,won,1,1,won,v India,E Lewis,KA Hope,SD Hope,RL Chase,JN Mohammed,JO Holder,R Powell,AR Nurse,D Bishoo,AS Joseph,KOK Williams
+D,lost,1,1,won,v India,E Lewis,KA Hope,SD Hope,RL Chase,JN Mohammed,JO Holder,R Powell,AR Nurse,D Bishoo,AS Joseph,KOK Williams
+DN,lost,0,1,won,v England,CH Gayle,E Lewis,SD Hope,MN Samuels,JN Mohammed,R Powell,JO Holder,AR Nurse,D Bishoo,JE Taylor,KOK Williams
+D,lost,0,2,won,v England,CH Gayle,E Lewis,SD Hope,MN Samuels,JN Mohammed,R Powell,JO Holder,AR Nurse,D Bishoo,JE Taylor,ML Cummins
+DN,lost,0,1,lost,v England,CH Gayle,E Lewis,SD Hope,MN Samuels,JN Mohammed,JO Holder,R Powell,AR Nurse,JE Taylor,AS Joseph,ML Cummins
+DN,lost,0,1,lost,v England,CH Gayle,KA Hope,SD Hope,MN Samuels,JN Mohammed,SW Ambris,R Powell,AR Nurse,AS Joseph,JE Taylor,ML Cummins
+D,lost,0,1,lost,v New Zealand,CH Gayle,E Lewis,SD Hope,SO Hetmyer,JN Mohammed,JO Holder,R Powell,AR Nurse,RR Beaton,KOK Williams,ST Gabriel
+D,lost,0,2,won,v New Zealand,E Lewis,KA Hope,SD Hope,SO Hetmyer,JN Mohammed,JO Holder,R Powell,AR Nurse,SS Cottrell,RR Beaton,ST Gabriel
+D,lost,0,2,lost,v New Zealand,CH Gayle,CAK Walton,SD Hope,KA Hope,JN Mohammed,JO Holder,R Powell,AR Nurse,NO Miller,SS Cottrell,ST Gabriel
+D,won,0,1,lost,v Ireland,CH Gayle,E Lewis,SO Hetmyer,MN Samuels,SD Hope,JO Holder,R Powell,CR Brathwaite,AR Nurse,KAJ Roach,KOK Williams
+D,lost,0,1,won,v Afghanistan,CH Gayle,E Lewis,SO Hetmyer,MN Samuels,SD Hope,JO Holder,R Powell,CR Brathwaite,AR Nurse,KMA Paul,NO Miller
+D,won,0,2,lost,v Zimbabwe,CH Gayle,E Lewis,SD Hope,MN Samuels,SO Hetmyer,JO Holder,R Powell,AR Nurse,KMA Paul,D Bishoo,KAJ Roach
+D,lost,0,1,won,v Afghanistan,CH Gayle,E Lewis,SD Hope,MN Samuels,SO Hetmyer,JO Holder,R Powell,CR Brathwaite,AR Nurse,KMA Paul,KAJ Roach
+D,lost,1,2,lost,v Bangladesh,CH Gayle,E Lewis,SD Hope,SO Hetmyer,JN Mohammed,JO Holder,R Powell,AD Russell,AR Nurse,D Bishoo,AS Joseph
+DN,won,1,1,lost,v Bangladesh,CH Gayle,E Lewis,SD Hope,SO Hetmyer,JN Mohammed,R Powell,JO Holder,AR Nurse,KMA Paul,D Bishoo,AS Joseph
+D,lost,1,2,lost,v Bangladesh,CH Gayle,E Lewis,SD Hope,SO Hetmyer,KOA Powell,R Powell,JO Holder,AR Nurse,KMA Paul,D Bishoo,SS Cottrell
+DN,lost,0,1,lost,v India,KOA Powell,C Hemraj,SD Hope,MN Samuels,SO Hetmyer,R Powell,JO Holder,AR Nurse,D Bishoo,KAJ Roach,O Thomas
+DN,won,0,1,lost,v India,KOA Powell,C Hemraj,SD Hope,MN Samuels,SO Hetmyer,R Powell,JO Holder,FA Allen,AR Nurse,KAJ Roach,OC McCoy
+DN,lost,0,2,lost,v India,C Hemraj,KOA Powell,SD Hope,MN Samuels,SO Hetmyer,R Powell,JO Holder,FA Allen,AR Nurse,KMA Paul,KAJ Roach
+DN,lost,0,1,won,v India,KOA Powell,R Powell,SD Hope,MN Samuels,SO Hetmyer,JO Holder,FA Allen,KMA Paul,D Bishoo,KAJ Roach,O Thomas
+DN,lost,0,1,won,v Bangladesh,KOA Powell,SD Hope,DM Bravo,MN Samuels,SO Hetmyer,R Powell,RL Chase,KMA Paul,KAJ Roach,D Bishoo,O Thomas
+DN,won,0,2,won,v Bangladesh,C Hemraj,SD Hope,DM Bravo,MN Samuels,SO Hetmyer,R Powell,RL Chase,KMA Paul,KAJ Roach,D Bishoo,O Thomas
+DN,lost,0,1,lost,v Bangladesh,C Hemraj,SD Hope,DM Bravo,MN Samuels,SO Hetmyer,R Powell,RL Chase,FA Allen,KMA Paul,KAJ Roach,D Bishoo
+DN,lost,1,1,won,v England,CH Gayle,JD Campbell,SD Hope,SO Hetmyer,N Pooran,DM Bravo,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,O Thomas
+DN,won,1,1,lost,v England,CH Gayle,JD Campbell,SD Hope,DM Bravo,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,SS Cottrell,O Thomas
+D,lost,0,2,won,v England,CH Gayle,JD Campbell,SD Hope,DM Bravo,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,SS Cottrell,O Thomas
+DN,won,1,2,won,v England,CH Gayle,JD Campbell,SD Hope,DM Bravo,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,SS Cottrell,O Thomas
+D,won,0,1,lost,v Ireland,JD Campbell,SD Hope,DM Bravo,JO Holder,RL Chase,JL Carter,SW Ambris,AR Nurse,KAJ Roach,SS Cottrell,ST Gabriel
+D,lost,0,1,won,v Bangladesh,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,SO Dowrich,AR Nurse,KAJ Roach,SS Cottrell,ST Gabriel
+D,won,0,2,lost,v Ireland,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,FA Allen,AR Nurse,KAJ Roach,SS Cottrell,ST Gabriel
+D,lost,0,1,won,v Bangladesh,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,FA Allen,AR Nurse,RA Reifer,KAJ Roach,SS Cottrell
+D,lost,0,1,lost,v Bangladesh,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,FA Allen,AR Nurse,KAJ Roach,RA Reifer,ST Gabriel
+D,won,0,2,won,v Pakistan,CH Gayle,SD Hope,DM Bravo,N Pooran,SO Hetmyer,AD Russell,JO Holder,CR Brathwaite,AR Nurse,SS Cottrell,O Thomas
+D,lost,0,2,won,v Australia,CH Gayle,E Lewis,SD Hope,N Pooran,SO Hetmyer,JO Holder,AD Russell,CR Brathwaite,AR Nurse,SS Cottrell,O Thomas
+D,lost,0,1,lost,v England,CH Gayle,E Lewis,SD Hope,N Pooran,SO Hetmyer,JO Holder,AD Russell,CR Brathwaite,SS Cottrell,O Thomas,ST Gabriel
+D,lost,0,1,lost,v Bangladesh,CH Gayle,E Lewis,SD Hope,N Pooran,SO Hetmyer,AD Russell,JO Holder,DM Bravo,O Thomas,SS Cottrell,ST Gabriel
+DN,lost,0,2,won,v New Zealand,CH Gayle,SD Hope,N Pooran,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,E Lewis,KAJ Roach,SS Cottrell,O Thomas
+D,lost,0,2,lost,v India,CH Gayle,SW Ambris,SD Hope,N Pooran,SO Hetmyer,JO Holder,CR Brathwaite,FA Allen,KAJ Roach,SS Cottrell,O Thomas
+D,lost,0,2,won,v Sri Lanka,CH Gayle,SW Ambris,SD Hope,SO Hetmyer,N Pooran,JO Holder,CR Brathwaite,FA Allen,SS Cottrell,O Thomas,ST Gabriel
+D,won,0,1,won,v Afghanistan,CH Gayle,E Lewis,SD Hope,SO Hetmyer,N Pooran,JO Holder,CR Brathwaite,FA Allen,SS Cottrell,KAJ Roach,O Thomas
+D,lost,1,2,lost,v India,CH Gayle,E Lewis,SD Hope,SO Hetmyer,N Pooran,RL Chase,JO Holder,CR Brathwaite,KAJ Roach,SS Cottrell,O Thomas
+D,lost,1,1,won,v India,CH Gayle,E Lewis,SD Hope,SO Hetmyer,N Pooran,JO Holder,CR Brathwaite,FA Allen,KMA Paul,RL Chase,KAJ Roach
+DN,won,0,2,won,v Afghanistan,SD Hope,E Lewis,SO Hetmyer,RL Chase,N Pooran,KA Pollard,JO Holder,SS Cottrell,R Shepherd,HR Walsh,AS Joseph
+DN,won,0,1,lost,v Afghanistan,SD Hope,E Lewis,SO Hetmyer,RL Chase,N Pooran,KA Pollard,JO Holder,R Shepherd,AS Joseph,HR Walsh,SS Cottrell
+DN,won,0,2,won,v Afghanistan,SD Hope,E Lewis,SO Hetmyer,BA King,N Pooran,KA Pollard,RL Chase,KMA Paul,R Shepherd,AS Joseph,HR Walsh
+D,won,0,2,won,v India,SD Hope,SW Ambris,SO Hetmyer,N Pooran,RL Chase,KA Pollard,JO Holder,KMA Paul,HR Walsh,AS Joseph,SS Cottrell
+D,lost,0,2,won,v India,E Lewis,SD Hope,SO Hetmyer,RL Chase,N Pooran,KA Pollard,JO Holder,KMA Paul,AS Joseph,K Pierre,SS Cottrell
+D,lost,0,1,lost,v India,E Lewis,SD Hope,RL Chase,SO Hetmyer,N Pooran,KA Pollard,JO Holder,KMA Paul,AS Joseph,K Pierre,SS Cottrell
+DN,won,1,2,lost,v Ireland,SD Hope,E Lewis,BA King,SO Hetmyer,N Pooran,RL Chase,KA Pollard,KMA Paul,AS Joseph,SS Cottrell,HR Walsh
+DN,won,1,2,lost,v Ireland,SD Hope,E Lewis,SO Hetmyer,BA King,N Pooran,KA Pollard,R Shepherd,K Pierre,HR Walsh,AS Joseph,SS Cottrell
+D,won,1,2,won,v Ireland,SD Hope,E Lewis,SW Ambris,BA King,N Pooran,R Shepherd,RL Chase,KA Pollard,HR Walsh,AS Joseph,O Thomas
+DN,lost,0,1,lost,v Sri Lanka,SD Hope,SW Ambris,DM Bravo,RL Chase,N Pooran,KA Pollard,JO Holder,KMA Paul,HR Walsh,AS Joseph,SS Cottrell
+DN,lost,0,2,won,v Sri Lanka,SD Hope,SW Ambris,DM Bravo,RL Chase,N Pooran,KA Pollard,JO Holder,KMA Paul,FA Allen,AS Joseph,SS Cottrell
+DN,lost,0,2,lost,v Sri Lanka,SD Hope,SW Ambris,N Pooran,KA Pollard,DM Bravo,JO Holder,FA Allen,HR Walsh,RL Chase,AS Joseph,SS Cottrell

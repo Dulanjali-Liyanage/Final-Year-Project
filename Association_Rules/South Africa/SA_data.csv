@@ -1,0 +1,99 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,won,1,1,won,v West Indies,HM Amla,RR Rossouw,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,VD Philander,DW Steyn,M Morkel,Imran Tahir
+D,won,1,1,lost,v West Indies,HM Amla,RR Rossouw,AB de Villiers,DA Miller,F du Plessis,JP Duminy,F Behardien,VD Philander,DW Steyn,M Morkel,Imran Tahir
+DN,won,1,2,lost,v West Indies,RR Rossouw,HM Amla,F du Plessis,AB de Villiers,JP Duminy,DA Miller,F Behardien,VD Philander,DW Steyn,M Morkel,Imran Tahir
+DN,lost,1,1,lost,v West Indies,MN van Wyk,RR Rossouw,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,WD Parnell,AM Phangiso,KJ Abbott,M Morkel
+DN,won,1,1,lost,v West Indies,Q de Kock,HM Amla,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,WD Parnell,AM Phangiso,KJ Abbott,M de Lange
+DN,won,0,1,lost,v Zimbabwe,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,VD Philander,DW Steyn,Imran Tahir,M Morkel
+DN,lost,0,2,lost,v India,HM Amla,Q de Kock,F du Plessis,AB de Villiers,DA Miller,JP Duminy,WD Parnell,VD Philander,DW Steyn,M Morkel,Imran Tahir
+DN,won,0,1,won,v West Indies,Q de Kock,HM Amla,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,F Behardien,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+DN,won,0,1,won,v Ireland,HM Amla,Q de Kock,F du Plessis,AB de Villiers,DA Miller,RR Rossouw,F Behardien,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+DN,lost,0,2,won,v Pakistan,Q de Kock,HM Amla,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,JP Duminy,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+DN,won,0,2,lost,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,JP Duminy,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+DN,lost,0,1,won,v New Zealand,HM Amla,Q de Kock,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,JP Duminy,VD Philander,DW Steyn,M Morkel,Imran Tahir
+DN,won,0,2,lost,v Bangladesh,Q de Kock,HM Amla,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,CH Morris,KJ Abbott,K Rabada,Imran Tahir
+DN,lost,0,1,won,v Bangladesh,HM Amla,Q de Kock,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,CH Morris,K Rabada,KJ Abbott,Imran Tahir
+DN,lost,0,1,won,v Bangladesh,Q de Kock,HM Amla,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,K Rabada,KJ Abbott,M Morkel,Imran Tahir
+DN,won,1,1,lost,v New Zealand,MN van Wyk,HM Amla,RR Rossouw,AB de Villiers,DA Miller,F Behardien,D Wiese,VD Philander,K Rabada,DW Steyn,Imran Tahir
+D,lost,1,1,won,v New Zealand,HM Amla,MN van Wyk,RR Rossouw,AB de Villiers,DA Miller,F Behardien,D Wiese,VD Philander,AM Phangiso,DW Steyn,Imran Tahir
+DN,won,1,1,won,v New Zealand,MN van Wyk,HM Amla,RR Rossouw,AB de Villiers,DA Miller,F Behardien,D Wiese,KJ Abbott,DW Steyn,K Rabada,Imran Tahir
+D,won,0,1,won,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,DW Steyn,K Rabada,M Morkel,Imran Tahir
+DN,lost,0,2,lost,v India,HM Amla,Q de Kock,F du Plessis,JP Duminy,AB de Villiers,DA Miller,F Behardien,DW Steyn,K Rabada,Imran Tahir,M Morkel
+DN,won,0,1,won,v India,Q de Kock,DA Miller,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,DW Steyn,K Rabada,Imran Tahir,M Morkel
+DN,lost,0,2,lost,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,F Behardien,CH Morris,AM Phangiso,DW Steyn,K Rabada,Imran Tahir
+DN,won,0,1,won,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,F Behardien,D Elgar,DW Steyn,K Rabada,Imran Tahir,KJ Abbott
+DN,lost,1,2,lost,v England,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,RR Rossouw,F Behardien,CH Morris,M Morkel,M de Lange,Imran Tahir
+D,lost,1,1,won,v England,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,RR Rossouw,F Behardien,K Rabada,KJ Abbott,M Morkel,Imran Tahir
+DN,won,1,2,lost,v England,Q de Kock,HM Amla,D Wiese,F du Plessis,AB de Villiers,JP Duminy,F Behardien,K Rabada,KJ Abbott,M Morkel,Imran Tahir
+DN,won,1,2,won,v England,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,F Behardien,D Wiese,CH Morris,K Rabada,KJ Abbott,Imran Tahir
+D,won,1,2,won,v England,Q de Kock,HM Amla,F du Plessis,RR Rossouw,AB de Villiers,F Behardien,D Wiese,CH Morris,K Rabada,KJ Abbott,Imran Tahir
+DN,lost,0,1,won,v West Indies,Q de Kock,HM Amla,RR Rossouw,AB de Villiers,JP Duminy,F Behardien,CH Morris,KJ Abbott,AM Phangiso,K Rabada,Imran Tahir
+DN,won,0,1,won,v Australia,HM Amla,Q de Kock,RR Rossouw,AB de Villiers,JP Duminy,F Behardien,WD Parnell,AM Phangiso,K Rabada,Imran Tahir,T Shamsi
+DN,lost,0,2,lost,v Australia,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,WD Parnell,KJ Abbott,AM Phangiso,K Rabada,Imran Tahir
+DN,won,0,1,lost,v West Indies,HM Amla,Q de Kock,CH Morris,F du Plessis,AB de Villiers,JP Duminy,F Behardien,WD Parnell,K Rabada,Imran Tahir,T Shamsi
+DN,lost,0,2,won,v West Indies,HM Amla,Q de Kock,F du Plessis,AB de Villiers,F Behardien,JP Duminy,CH Morris,WD Parnell,K Rabada,M Morkel,Imran Tahir
+D,won,1,1,lost,v Ireland,Q de Kock,T Bavuma,F du Plessis,JP Duminy,DA Miller,F Behardien,D Pretorius,WD Parnell,AL Phehlukwayo,K Rabada,AM Phangiso
+DN,won,1,2,won,v Australia,Q de Kock,RR Rossouw,F du Plessis,JP Duminy,DA Miller,F Behardien,AL Phehlukwayo,WD Parnell,DW Steyn,K Rabada,Imran Tahir
+D,won,1,1,lost,v Australia,Q de Kock,RR Rossouw,F du Plessis,JP Duminy,DA Miller,F Behardien,WD Parnell,AL Phehlukwayo,DW Steyn,K Rabada,Imran Tahir
+DN,won,1,2,lost,v Australia,Q de Kock,HM Amla,F du Plessis,RR Rossouw,JP Duminy,DA Miller,D Pretorius,AL Phehlukwayo,DW Steyn,K Rabada,Imran Tahir
+D,won,1,2,lost,v Australia,HM Amla,Q de Kock,F du Plessis,JP Duminy,RR Rossouw,F Behardien,D Pretorius,AL Phehlukwayo,KJ Abbott,AM Phangiso,T Shamsi
+DN,won,1,1,won,v Australia,Q de Kock,HM Amla,F du Plessis,RR Rossouw,JP Duminy,DA Miller,AL Phehlukwayo,K Rabada,KJ Abbott,DW Steyn,Imran Tahir
+D,won,1,2,won,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,DA Miller,CH Morris,WD Parnell,AL Phehlukwayo,K Rabada,Imran Tahir
+DN,won,1,1,lost,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,DA Miller,CH Morris,WD Parnell,AL Phehlukwayo,K Rabada,Imran Tahir
+DN,won,1,2,won,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,CH Morris,D Pretorius,AL Phehlukwayo,K Rabada,Imran Tahir
+DN,won,1,1,won,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,F Behardien,WD Parnell,D Pretorius,Imran Tahir,K Rabada,T Shamsi
+DN,won,1,1,lost,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,CH Morris,WD Parnell,AL Phehlukwayo,Imran Tahir,K Rabada
+DN,won,0,2,won,v New Zealand,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,CH Morris,AL Phehlukwayo,T Shamsi,K Rabada,Imran Tahir
+D,lost,0,2,won,v New Zealand,HM Amla,Q de Kock,F du Plessis,JP Duminy,AB de Villiers,DA Miller,D Pretorius,CH Morris,WD Parnell,AL Phehlukwayo,Imran Tahir
+DN,won,0,1,won,v New Zealand,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,DA Miller,D Pretorius,WD Parnell,AL Phehlukwayo,Imran Tahir,K Rabada
+DN,lost,0,1,won,v New Zealand,HM Amla,Q de Kock,F du Plessis,JP Duminy,AB de Villiers,DA Miller,D Pretorius,CH Morris,WD Parnell,K Rabada,Imran Tahir
+DN,won,0,2,won,v New Zealand,Q de Kock,HM Amla,F du Plessis,JP Duminy,AB de Villiers,DA Miller,D Pretorius,CH Morris,AL Phehlukwayo,K Rabada,Imran Tahir
+DN,lost,0,2,won,v England,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,DA Miller,CH Morris,WD Parnell,AL Phehlukwayo,K Rabada,Imran Tahir
+D,lost,0,2,won,v England,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,F Behardien,CH Morris,D Pretorius,K Rabada,AL Phehlukwayo,KA Maharaj
+D,won,0,2,won,v England,HM Amla,Q de Kock,JP Duminy,F du Plessis,AB de Villiers,DA Miller,CH Morris,WD Parnell,KA Maharaj,K Rabada,M Morkel
+D,won,0,1,lost,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,AB de Villiers,DA Miller,JP Duminy,CH Morris,WD Parnell,K Rabada,M Morkel,Imran Tahir
+DN,lost,0,1,won,v Pakistan,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,WD Parnell,CH Morris,K Rabada,M Morkel,Imran Tahir
+D,lost,0,1,lost,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,CH Morris,AL Phehlukwayo,K Rabada,M Morkel,Imran Tahir
+D,won,1,2,lost,v Bangladesh,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,D Pretorius,AL Phehlukwayo,K Rabada,D Paterson,Imran Tahir
+D,won,1,1,lost,v Bangladesh,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,F Behardien,D Pretorius,AL Phehlukwayo,K Rabada,D Paterson,Imran Tahir
+D,won,1,1,won,v Bangladesh,T Bavuma,Q de Kock,F du Plessis,AK Markram,AB de Villiers,F Behardien,PWA Mulder,AL Phehlukwayo,K Rabada,D Paterson,Imran Tahir
+DN,lost,1,1,won,v India,Q de Kock,HM Amla,F du Plessis,AK Markram,JP Duminy,DA Miller,CH Morris,AL Phehlukwayo,K Rabada,M Morkel,Imran Tahir
+D,lost,1,1,lost,v India,HM Amla,Q de Kock,AK Markram,JP Duminy,DA Miller,K Zondo,CH Morris,K Rabada,M Morkel,Imran Tahir,T Shamsi
+DN,lost,1,2,won,v India,HM Amla,AK Markram,JP Duminy,H Klaasen,DA Miller,K Zondo,CH Morris,AL Phehlukwayo,K Rabada,Imran Tahir,L Ngidi
+DN,won,1,2,lost,v India,AK Markram,HM Amla,JP Duminy,AB de Villiers,DA Miller,H Klaasen,AL Phehlukwayo,CH Morris,K Rabada,L Ngidi,M Morkel
+DN,lost,1,2,won,v India,HM Amla,AK Markram,JP Duminy,AB de Villiers,DA Miller,H Klaasen,AL Phehlukwayo,K Rabada,M Morkel,T Shamsi,L Ngidi
+DN,lost,1,1,lost,v India,AK Markram,HM Amla,AB de Villiers,K Zondo,H Klaasen,F Behardien,CH Morris,AL Phehlukwayo,M Morkel,Imran Tahir,L Ngidi
+D,won,0,2,lost,v Sri Lanka,HM Amla,Q de Kock,AK Markram,F du Plessis,JP Duminy,DA Miller,PWA Mulder,AL Phehlukwayo,K Rabada,T Shamsi,L Ngidi
+DN,won,0,2,lost,v Sri Lanka,Q de Kock,HM Amla,AK Markram,F du Plessis,JP Duminy,DA Miller,PWA Mulder,AL Phehlukwayo,K Rabada,T Shamsi,L Ngidi
+D,won,0,1,lost,v Sri Lanka,HM Amla,Q de Kock,RR Hendricks,F du Plessis,JP Duminy,DA Miller,AL Phehlukwayo,PWA Mulder,K Rabada,T Shamsi,L Ngidi
+DN,lost,0,2,won,v Sri Lanka,Q de Kock,HM Amla,RR Hendricks,JP Duminy,H Klaasen,DA Miller,AL Phehlukwayo,PWA Mulder,KA Maharaj,CJ Dala,L Ngidi
+DN,lost,0,2,lost,v Sri Lanka,HM Amla,Q de Kock,AK Markram,RR Hendricks,H Klaasen,JP Duminy,PWA Mulder,AL Phehlukwayo,KA Maharaj,K Rabada,CJ Dala
+D,won,1,2,won,v Zimbabwe,AK Markram,D Elgar,RR Hendricks,H Klaasen,C Jonker,JP Duminy,PWA Mulder,AL Phehlukwayo,K Rabada,Imran Tahir,L Ngidi
+DN,won,1,1,won,v Zimbabwe,D Elgar,AK Markram,RR Hendricks,H Klaasen,K Zondo,C Jonker,JP Duminy,AL Phehlukwayo,DW Steyn,Imran Tahir,L Ngidi
+DN,won,1,2,lost,v Zimbabwe,AK Markram,RR Hendricks,F du Plessis,JP Duminy,H Klaasen,K Zondo,AL Phehlukwayo,DW Steyn,K Rabada,Imran Tahir,T Shamsi
+D,won,0,2,won,v Australia,Q de Kock,RR Hendricks,AK Markram,F du Plessis,H Klaasen,DA Miller,AL Phehlukwayo,DW Steyn,K Rabada,L Ngidi,Imran Tahir
+DN,lost,0,2,won,v Australia,Q de Kock,RR Hendricks,AK Markram,F du Plessis,H Klaasen,DA Miller,D Pretorius,DW Steyn,K Rabada,L Ngidi,Imran Tahir
+DN,won,0,1,lost,v Australia,Q de Kock,RR Hendricks,AK Markram,F du Plessis,DA Miller,H Klaasen,D Pretorius,DW Steyn,K Rabada,L Ngidi,Imran Tahir
+DN,lost,1,1,won,v Pakistan,HM Amla,RR Hendricks,HE van der Dussen,DA Miller,F du Plessis,AL Phehlukwayo,H Klaasen,K Rabada,D Pretorius,D Olivier,Imran Tahir
+DN,won,1,2,won,v Pakistan,RR Hendricks,HM Amla,HE van der Dussen,F du Plessis,DA Miller,H Klaasen,AL Phehlukwayo,K Rabada,D Paterson,T Shamsi,D Olivier
+DN,won,1,2,lost,v Pakistan,Q de Kock,HM Amla,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,AL Phehlukwayo,K Rabada,BE Hendricks,T Shamsi,DW Steyn
+D,lost,1,1,lost,v Pakistan,HM Amla,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,AL Phehlukwayo,DW Steyn,K Rabada,BE Hendricks,Imran Tahir
+DN,won,1,2,won,v Pakistan,Q de Kock,HM Amla,RR Hendricks,F du Plessis,HE van der Dussen,PWA Mulder,AL Phehlukwayo,DW Steyn,K Rabada,D Pretorius,Imran Tahir
+D,won,1,2,won,v Sri Lanka,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,PWA Mulder,D Pretorius,K Rabada,A Nortje,Imran Tahir,L Ngidi
+DN,won,1,1,lost,v Sri Lanka,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,PWA Mulder,DA Miller,AL Phehlukwayo,K Rabada,A Nortje,L Ngidi,Imran Tahir
+D,won,1,1,lost,v Sri Lanka,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,D Pretorius,AL Phehlukwayo,K Rabada,L Ngidi,Imran Tahir,T Shamsi
+DN,won,1,2,won,v Sri Lanka,Q de Kock,RR Hendricks,AK Markram,F du Plessis,DA Miller,JP Duminy,AL Phehlukwayo,DW Steyn,A Nortje,L Ngidi,T Shamsi
+DN,won,1,2,lost,v Sri Lanka,Q de Kock,AK Markram,F du Plessis,HE van der Dussen,JP Duminy,D Pretorius,AL Phehlukwayo,A Nortje,K Rabada,L Ngidi,Imran Tahir
+D,lost,0,2,won,v England,Q de Kock,HM Amla,AK Markram,F du Plessis,HE van der Dussen,JP Duminy,D Pretorius,AL Phehlukwayo,K Rabada,L Ngidi,Imran Tahir
+D,lost,0,2,won,v Bangladesh,Q de Kock,AK Markram,F du Plessis,DA Miller,HE van der Dussen,JP Duminy,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,L Ngidi
+D,lost,0,1,won,v India,HM Amla,Q de Kock,F du Plessis,HE van der Dussen,DA Miller,JP Duminy,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,T Shamsi
+DN,won,0,2,won,v Afghanistan,HM Amla,Q de Kock,AL Phehlukwayo,AK Markram,F du Plessis,HE van der Dussen,DA Miller,CH Morris,K Rabada,Imran Tahir,BE Hendricks
+D,lost,0,1,lost,v New Zealand,Q de Kock,HM Amla,F du Plessis,AK Markram,HE van der Dussen,DA Miller,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,L Ngidi
+D,lost,0,2,lost,v Pakistan,HM Amla,Q de Kock,F du Plessis,AK Markram,HE van der Dussen,DA Miller,AL Phehlukwayo,CH Morris,K Rabada,L Ngidi,Imran Tahir
+D,won,0,2,won,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,HE van der Dussen,AK Markram,JP Duminy,D Pretorius,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir
+DN,won,0,1,won,v Australia,AK Markram,Q de Kock,F du Plessis,HE van der Dussen,JP Duminy,D Pretorius,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,T Shamsi
+DN,won,1,2,won,v England,Q de Kock,RR Hendricks,T Bavuma,HE van der Dussen,JT Smuts,DA Miller,AL Phehlukwayo,BE Hendricks,L Ngidi,L Sipamla,T Shamsi
+D,lost,1,1,lost,v England,Q de Kock,RR Hendricks,T Bavuma,HE van der Dussen,JT Smuts,DA Miller,AL Phehlukwayo,BE Hendricks,L Sipamla,L Ngidi,T Shamsi
+DN,won,1,1,won,v Australia,JN Malan,Q de Kock,T Bavuma,K Verreynne,H Klaasen,DA Miller,AL Phehlukwayo,KA Maharaj,A Nortje,L Ngidi,T Shamsi
+DN,won,1,2,lost,v Australia,JN Malan,Q de Kock,JT Smuts,K Verreynne,H Klaasen,DA Miller,AL Phehlukwayo,KA Maharaj,A Nortje,L Ngidi,T Shamsi
+D,won,1,2,won,v Australia,JN Malan,Q de Kock,JT Smuts,K Verreynne,H Klaasen,DA Miller,AL Phehlukwayo,KA Maharaj,A Nortje,L Sipamla,DM Dupavillon
