@@ -1,40 +1,40 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[57]:
+# In[1]:
 
 
 import numpy as np
 import pandas as pd
 
 
-# In[58]:
+# In[10]:
 
 
 #load data file
-data = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/India.csv')
+data = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India.csv')
 
 
-# In[59]:
+# In[11]:
 
 
 data.head()
 
 
-# In[60]:
+# In[12]:
 
 
 players = ['P1','P2','P3','P4','P5','P6','P7','P8','P9','P10','P11']
 player_scores = ['P1_S','P2_S','P3_S','P4_S','P5_S','P6_S','P7_S','P8_S','P9_S','P10_S','P11_S']
 
 
-# In[61]:
+# In[13]:
 
 
 x = set()
 
 
-# In[62]:
+# In[14]:
 
 
 for i in players:
@@ -42,26 +42,26 @@ for i in players:
         x.add(data[i].unique()[j])
 
 
-# In[63]:
+# In[15]:
 
 
 print(x)
 
 
-# In[64]:
+# In[16]:
 
 
 len(x)
 
 
-# In[65]:
+# In[17]:
 
 
 unique_list = list(x)
 print(unique_list)
 
 
-# In[66]:
+# In[18]:
 
 
 column_names = ["player_name", "sum", "avg"]
@@ -69,7 +69,7 @@ column_names = ["player_name", "sum", "avg"]
 result = pd.DataFrame(columns = column_names)
 
 
-# In[67]:
+# In[19]:
 
 
 #individual avg of players = sum of scores in matches/no. of matches played
@@ -91,40 +91,70 @@ for indx, name in enumerate(unique_list):
 print(dictionary)
 
 
-# In[68]:
+# In[32]:
 
 
 #Comparing individual avg with 2 grams combinations avg
 
 
-# In[69]:
+# In[33]:
 
 
 #load data file
-data2grams = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/India_2grams.csv')
+data2grams = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India_2grams.csv')
 
 
-# In[70]:
+# In[34]:
 
 
 data2grams.head()
 
 
-# In[71]:
+# In[35]:
 
 
 data2grams.shape
 
 
-# In[72]:
+# In[36]:
+
+
+data2grams = data2grams[data2grams.avg != 0.0]
+
+
+# In[37]:
+
+
+data2grams.shape
+
+
+# In[40]:
+
+
+data2grams.head()
+
+
+# In[41]:
+
+
+data2grams = data2grams.reset_index(drop=True)
+
+
+# In[42]:
+
+
+data2grams.head()
+
+
+# In[43]:
 
 
 new_column_names = ["player-1", "player-2", "combined_avg","sum_of_individual"]
 
-india_beautiful2grams = pd.DataFrame(columns = new_column_names)
+India_beautiful2grams = pd.DataFrame(columns = new_column_names)
 
 
-# In[73]:
+# In[44]:
 
 
 for index, row in data2grams.iterrows():
@@ -133,91 +163,97 @@ for index, row in data2grams.iterrows():
     combined = data2grams.iloc[index]['avg']
     individual_avg_sum = dictionary.get(player1)+dictionary.get(player2)
     if(combined > individual_avg_sum):
-        india_beautiful2grams = india_beautiful2grams.append({'player-1':player1, 'player-2':player2, 'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
+        India_beautiful2grams = India_beautiful2grams.append({'player-1':player1, 'player-2':player2, 'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
 
 
-# In[74]:
+# In[45]:
 
 
-india_beautiful2grams.head()
+India_beautiful2grams.head()
 
 
-# In[75]:
+# In[46]:
 
 
-india_beautiful2grams.shape
+India_beautiful2grams.shape
 
 
-# In[76]:
+# In[47]:
 
 
-india_beautiful2grams.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/india_beautiful2grams.csv')
+India_beautiful2grams.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India_beautiful2grams.csv')
 
 
-# In[77]:
+# In[54]:
 
 
 #Comparing individual avg with 3 grams combinations avg
 
 
-# In[86]:
+# In[55]:
 
 
 #load data file
-data3grams = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/India_3grams.csv')
+data3grams = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India_3grams.csv')
 
 
-# In[87]:
+# In[56]:
 
 
 data3grams.head()
 
 
-# In[88]:
+# In[57]:
 
 
 del data3grams["Unnamed: 0"]
 
 
-# In[89]:
-
-
-data3grams = data3grams[data3grams.avg != 0.0]
-
-
-# In[90]:
-
-
-data3grams.head()
-
-
-# In[91]:
-
-
-data3grams = data3grams.reset_index(drop=True)
-
-
-# In[92]:
-
-
-data3grams.head()
-
-
-# In[93]:
+# In[58]:
 
 
 data3grams.shape
 
 
-# In[94]:
+# In[59]:
+
+
+data3grams = data3grams[data3grams.avg != 0.0]
+
+
+# In[60]:
+
+
+data3grams.head()
+
+
+# In[61]:
+
+
+data3grams = data3grams.reset_index(drop=True)
+
+
+# In[63]:
+
+
+data3grams.head()
+
+
+# In[64]:
+
+
+data3grams.shape
+
+
+# In[65]:
 
 
 new_column_names = ["player-1", "player-2", "player-3", "combined_avg","sum_of_individual"]
 
-india_beautiful3grams = pd.DataFrame(columns = new_column_names)
+India_beautiful3grams = pd.DataFrame(columns = new_column_names)
 
 
-# In[95]:
+# In[66]:
 
 
 for index, row in data3grams.iterrows():
@@ -227,91 +263,91 @@ for index, row in data3grams.iterrows():
     combined = data3grams.iloc[index]['avg']
     individual_avg_sum = dictionary.get(player1)+dictionary.get(player2)+dictionary.get(player3)
     if(combined > individual_avg_sum):
-        india_beautiful3grams = india_beautiful3grams.append({'player-1':player1, 'player-2':player2,'player-3':player3, 'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
+        India_beautiful3grams = India_beautiful3grams.append({'player-1':player1, 'player-2':player2,'player-3':player3, 'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
 
 
-# In[96]:
+# In[68]:
 
 
-india_beautiful3grams.head()
+India_beautiful3grams.head()
 
 
-# In[97]:
+# In[69]:
 
 
-india_beautiful3grams.shape
+India_beautiful3grams.shape
 
 
-# In[98]:
+# In[70]:
 
 
-india_beautiful3grams.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/india_beautiful3grams.csv')
+India_beautiful3grams.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India_beautiful3grams.csv')
 
 
-# In[99]:
+# In[71]:
 
 
 #Comparing individual avg with 4 grams combinations avg
 
 
-# In[100]:
+# In[72]:
 
 
 #load data file
-data4grams = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/India_4grams.csv')
+data4grams = pd.read_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India_4grams.csv')
 
 
-# In[101]:
+# In[73]:
 
 
 del data4grams["Unnamed: 0"]
 
 
-# In[102]:
+# In[74]:
 
 
 data4grams.head()
 
 
-# In[103]:
+# In[75]:
 
 
 data4grams.shape
 
 
-# In[104]:
+# In[76]:
 
 
 data4grams = data4grams[data4grams.avg != 0.0]
 
 
-# In[105]:
+# In[77]:
 
 
 data4grams.shape
 
 
-# In[106]:
+# In[78]:
 
 
 data4grams
 
 
-# In[107]:
+# In[79]:
 
 
 data4grams = data4grams.reset_index(drop=True)
 
 
-# In[108]:
+# In[80]:
 
 
 new_column_names = ["player-1", "player-2", "player-3", "player-4", "combined_avg","sum_of_individual"]
 
-india_beautiful4grams = pd.DataFrame(columns = new_column_names)
+India_beautiful4grams = pd.DataFrame(columns = new_column_names)
 
 
-# In[109]:
+# In[81]:
 
 
 for index, row in data4grams.iterrows():
@@ -322,25 +358,25 @@ for index, row in data4grams.iterrows():
     combined = data4grams.iloc[index]['avg']
     individual_avg_sum = dictionary.get(player1)+dictionary.get(player2)+dictionary.get(player3)+dictionary.get(player4)
     if(combined > individual_avg_sum):
-        india_beautiful4grams = india_beautiful4grams.append({'player-1':player1, 'player-2':player2,'player-3':player3, 'player-4':player4,'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
+        India_beautiful4grams = India_beautiful4grams.append({'player-1':player1, 'player-2':player2,'player-3':player3, 'player-4':player4,'combined_avg': combined, 'sum_of_individual':individual_avg_sum}, ignore_index=True)
 
 
-# In[110]:
+# In[82]:
 
 
-india_beautiful4grams.head()
+India_beautiful4grams.head()
 
 
-# In[111]:
+# In[83]:
 
 
-india_beautiful4grams.shape
+India_beautiful4grams.shape
 
 
-# In[112]:
+# In[84]:
 
 
-india_beautiful4grams.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Bat_Com_Avg/India/india_beautiful4grams.csv')
+India_beautiful4grams.to_csv('E:/University Works/4th Year/Semester 8/CO425 - Final Year Project 2/Batsman/India/India_beautiful4grams.csv')
 
 
 # In[ ]:
