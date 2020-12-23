@@ -1,0 +1,155 @@
+,player-1,player-2,combined_avg,sum_of_individual
+0,Hazratullah Zazai,Asghar Afghan,52.45454545454545,42.58
+1,Hazratullah Zazai,Noor Ali Zadran,47.333333333333336,43.65
+2,Hazratullah Zazai,Najibullah Zadran,54.81818181818182,44.269999999999996
+3,Hazratullah Zazai,Yamin Ahmadzai,50.0,20.75
+4,Gulbadin Naib,Hazratullah Zazai,38.0,37.86
+5,Shafiqullah,Asghar Afghan,41.07692307692308,40.51
+6,Shafiqullah,Mohammad Shahzad,52.666666666666664,48.97
+7,Shafiqullah,Rahmat Shah,64.125,51.81
+8,Shafiqullah,Dawlat Zadran,33.36363636363637,24.22
+9,Shafiqullah,Usman Ghani,45.0,22.33
+10,Shafiqullah,Rashid Khan,33.30769230769231,31.71
+11,Gulbadin Naib,Shafiqullah,40.75,35.79
+12,Shafiqullah,Nasir Jamal,44.75,37.75
+13,Shafiqullah,Amir Hamza,25.857142857142858,18.93
+14,Najeeb Tarakai,Asghar Afghan,44.0,27.58
+15,Asghar Afghan,Najibullah Zadran,49.22222222222222,46.849999999999994
+16,Asghar Afghan,Ikram Alikhil,55.9,43.4
+17,Mohammad Nabi,Asghar Afghan,43.31818181818182,43.2
+18,Asghar Afghan,Yamin Ahmadzai,32.5,23.33
+19,Asghar Afghan,Naveen-ul-Haq,28.5,24.83
+20,Asghar Afghan,Mohammad Shahzad,55.24444444444445,53.62
+21,Asghar Afghan,Rahmat Shah,58.19607843137255,56.46
+22,Asghar Afghan,Samiullah Shinwari,43.666666666666664,41.95
+23,Asghar Afghan,Hashmatullah Shahidi,52.2962962962963,51.61
+24,Asghar Afghan,Rashid Khan,37.89655172413793,36.36
+25,Gulbadin Naib,Asghar Afghan,40.75,40.44
+26,Asghar Afghan,Fareed Ahmad,30.0,22.909999999999997
+27,Asghar Afghan,Mujeeb Ur Rahman,26.870967741935484,24.52
+28,Shapoor Zadran,Sharafuddin Ashraf,14.0,6.29
+29,Shapoor Zadran,Mirwais Ashraf,13.75,10.89
+30,Mohammad Shahzad,Shapoor Zadran,35.0,32.21
+31,Shapoor Zadran,Rahmat Shah,42.4,35.050000000000004
+32,Samiullah Shinwari,Shapoor Zadran,22.1,20.54
+33,Nawroz Mangal,Shapoor Zadran,16.857142857142858,13.459999999999999
+34,Shapoor Zadran,Dawlat Zadran,8.428571428571429,7.46
+35,Usman Ghani,Shapoor Zadran,7.0,5.57
+36,Aftab Alam,Shapoor Zadran,5.666666666666667,4.67
+37,Shapoor Zadran,Rashid Khan,27.333333333333332,14.95
+38,Shapoor Zadran,Mujeeb Ur Rahman,3.75,3.11
+39,Mohammad Nabi,Noor Ali Zadran,50.12,44.269999999999996
+40,Noor Ali Zadran,Mirwais Ashraf,37.25,33.37
+41,Noor Ali Zadran,Yamin Ahmadzai,36.5,24.4
+42,Mohammad Shahzad,Noor Ali Zadran,67.6842105263158,54.69
+43,Nawroz Mangal,Noor Ali Zadran,42.857142857142854,35.94
+44,Dawlat Zadran,Noor Ali Zadran,32.05,29.939999999999998
+45,Rokhan Barakzai,Noor Ali Zadran,31.0,23.65
+46,Aftab Alam,Noor Ali Zadran,30.0,27.15
+47,Rashid Khan,Noor Ali Zadran,39.78260869565217,37.43
+48,Amir Hamza,Noor Ali Zadran,28.22222222222222,24.65
+49,Najeeb Tarakai,Rahmat Shah,113.0,38.88
+50,Najeeb Tarakai,Samiullah Shinwari,67.0,24.37
+51,Ikram Alikhil,Najibullah Zadran,45.2,45.09
+52,Mohammad Nabi,Najibullah Zadran,45.94,44.89
+53,Najibullah Zadran,Mirwais Ashraf,36.92857142857143,33.99
+54,Najibullah Zadran,Yamin Ahmadzai,26.5,25.02
+55,Afsar Zazai,Najibullah Zadran,43.142857142857146,32.83
+56,Rahmat Shah,Najibullah Zadran,59.38461538461539,58.150000000000006
+57,Samiullah Shinwari,Najibullah Zadran,43.92,43.64
+58,Dawlat Zadran,Najibullah Zadran,32.027027027027025,30.56
+59,Usman Ghani,Najibullah Zadran,56.75,28.67
+60,Aftab Alam,Najibullah Zadran,29.153846153846153,27.77
+61,Najibullah Zadran,Javed Ahmadi,48.92857142857143,48.72
+62,Hashmatullah Shahidi,Najibullah Zadran,56.8421052631579,53.3
+63,Mujeeb Ur Rahman,Najibullah Zadran,27.962962962962962,26.21
+64,Najibullah Zadran,Hamid Hassan,36.333333333333336,27.65
+65,Mohammad Nabi,Ikram Alikhil,42.27272727272727,41.44
+66,Ikram Alikhil,Javed Ahmadi,57.5,45.269999999999996
+67,Gulbadin Naib,Ikram Alikhil,39.888888888888886,38.68
+68,Ikram Alikhil,Mujeeb Ur Rahman,25.88888888888889,22.76
+69,Mohammad Nabi,Sharafuddin Ashraf,31.625,25.740000000000002
+70,Mohammad Shahzad,Sharafuddin Ashraf,45.833333333333336,36.16
+71,Samiullah Shinwari,Sharafuddin Ashraf,26.75,24.490000000000002
+72,Ihsanullah,Sharafuddin Ashraf,26.0,25.62
+73,Javed Ahmadi,Sharafuddin Ashraf,50.333333333333336,29.57
+74,Gulbadin Naib,Sharafuddin Ashraf,25.333333333333332,22.98
+75,Mohammad Nabi,Mirwais Ashraf,33.611111111111114,30.340000000000003
+76,Mohammad Nabi,Yamin Ahmadzai,36.25,21.37
+77,Mohammad Nabi,Naveen-ul-Haq,30.25,22.87
+78,Mohammad Nabi,Mohammad Shahzad,52.041666666666664,51.66
+79,Mohammad Nabi,Samiullah Shinwari,41.28947368421053,39.99
+80,Mohammad Nabi,Nawroz Mangal,39.92857142857143,32.91
+81,Mohammad Nabi,Dawlat Zadran,27.26,26.91
+82,Mohammad Nabi,Rokhan Barakzai,33.0,20.62
+83,Mohammad Nabi,Aftab Alam,28.0,24.12
+84,Mohammad Nabi,Rashid Khan,35.53225806451613,34.4
+85,Mohammad Nabi,Amir Hamza,29.31578947368421,21.62
+86,Afsar Zazai,Mirwais Ashraf,23.5,18.28
+87,Mohammad Shahzad,Mirwais Ashraf,50.357142857142854,40.76
+88,Nawroz Mangal,Mirwais Ashraf,22.5,22.009999999999998
+89,Dawlat Zadran,Mirwais Ashraf,16.8125,16.01
+90,Rokhan Barakzai,Mirwais Ashraf,26.0,9.72
+91,Rashid Khan,Mirwais Ashraf,26.583333333333332,23.5
+92,Gulbadin Naib,Mirwais Ashraf,42.0,27.58
+93,Hamid Hassan,Mirwais Ashraf,14.0,13.100000000000001
+94,Amir Hamza,Mirwais Ashraf,12.5,10.72
+95,Dawlat Zadran,Yamin Ahmadzai,11.666666666666666,7.04
+96,Rashid Khan,Yamin Ahmadzai,34.333333333333336,14.53
+97,Amir Hamza,Yamin Ahmadzai,2.0,1.75
+98,Hashmatullah Shahidi,Naveen-ul-Haq,43.0,31.28
+99,Afsar Zazai,Samiullah Shinwari,38.5,27.93
+100,Afsar Zazai,Javed Ahmadi,34.111111111111114,33.01
+101,Afsar Zazai,Gulbadin Naib,57.0,26.42
+102,Afsar Zazai,Amir Hamza,11.0,9.56
+103,Mohammad Shahzad,Rahmat Shah,65.05128205128206,64.92
+104,Mohammad Shahzad,Samiullah Shinwari,50.74074074074074,50.41
+105,Nawroz Mangal,Mohammad Shahzad,46.333333333333336,43.33
+106,Mohammad Shahzad,Dawlat Zadran,40.5,37.33
+107,Mohammad Shahzad,Rokhan Barakzai,131.0,31.04
+108,Mohammad Shahzad,Aftab Alam,35.583333333333336,34.54
+109,Mohammad Shahzad,Amir Hamza,34.23529411764706,32.04
+110,Dawlat Zadran,Rahmat Shah,44.638888888888886,40.17
+111,Ihsanullah,Rahmat Shah,59.5,54.38
+112,Rashid Khan,Rahmat Shah,47.94642857142857,47.660000000000004
+113,Gulbadin Naib,Rahmat Shah,52.55813953488372,51.74
+114,Fareed Ahmad,Rahmat Shah,40.0,34.21
+115,Mujeeb Ur Rahman,Rahmat Shah,37.68571428571428,35.82
+116,Nasir Jamal,Rahmat Shah,73.33333333333333,53.7
+117,Nawroz Mangal,Samiullah Shinwari,33.25,31.66
+118,Usman Ghani,Samiullah Shinwari,46.333333333333336,23.770000000000003
+119,Samiullah Shinwari,Aftab Alam,26.375,22.87
+120,Samiullah Shinwari,Javed Ahmadi,43.92307692307692,43.82
+121,Gulbadin Naib,Samiullah Shinwari,44.64705882352941,37.230000000000004
+122,Samiullah Shinwari,Fareed Ahmad,35.0,19.7
+123,Samiullah Shinwari,Hamid Hassan,32.25,22.75
+124,Gulbadin Naib,Nawroz Mangal,84.0,30.15
+125,Usman Ghani,Dawlat Zadran,15.4,10.690000000000001
+126,Aftab Alam,Dawlat Zadran,9.857142857142858,9.79
+127,Ihsanullah,Dawlat Zadran,31.428571428571427,26.79
+128,Gulbadin Naib,Dawlat Zadran,26.321428571428573,24.15
+129,Nasir Jamal,Dawlat Zadran,30.444444444444443,26.11
+130,Amir Hamza,Dawlat Zadran,10.444444444444445,7.29
+131,Usman Ghani,Javed Ahmadi,31.75,28.85
+132,Usman Ghani,Hamid Hassan,10.5,7.78
+133,Usman Ghani,Amir Hamza,10.0,5.4
+134,Ihsanullah,Aftab Alam,25.833333333333332,24.0
+135,Aftab Alam,Javed Ahmadi,37.0,27.95
+136,Aftab Alam,Hashmatullah Shahidi,46.083333333333336,32.53
+137,Aftab Alam,Rashid Khan,18.0,17.28
+138,Aftab Alam,Hamid Hassan,7.4,6.88
+139,Ihsanullah,Hashmatullah Shahidi,71.42857142857143,49.53
+140,Ihsanullah,Mujeeb Ur Rahman,23.76923076923077,22.44
+141,Ihsanullah,Nasir Jamal,45.42857142857143,40.32
+142,Rashid Khan,Javed Ahmadi,49.15384615384615,38.23
+143,Gulbadin Naib,Javed Ahmadi,42.5,42.31
+144,Mujeeb Ur Rahman,Javed Ahmadi,28.625,26.39
+145,Nasir Jamal,Javed Ahmadi,62.833333333333336,44.269999999999996
+146,Amir Hamza,Javed Ahmadi,45.0,25.45
+147,Gulbadin Naib,Hashmatullah Shahidi,51.333333333333336,46.89
+148,Mujeeb Ur Rahman,Hashmatullah Shahidi,35.23529411764706,30.970000000000002
+149,Nasir Jamal,Rashid Khan,39.77777777777778,33.6
+150,Gulbadin Naib,Mujeeb Ur Rahman,20.25,19.8
+151,Gulbadin Naib,Amir Hamza,24.636363636363637,18.86
+152,Amir Hamza,Fareed Ahmad,2.0,1.33
+153,Nasir Jamal,Mujeeb Ur Rahman,24.0,21.76

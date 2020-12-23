@@ -1,0 +1,155 @@
+,player-1,player-2,combined_avg,sum_of_individual
+0,Taskin Ahmed,Nasir Hossain,12.090909090909092,11.88
+1,Taskin Ahmed,Anamul Haque,29.5,17.58
+2,Taskin Ahmed,Mushfiqur Rahim,41.458333333333336,40.809999999999995
+3,Taskin Ahmed,Mehidy Hasan Miraz,27.333333333333332,11.55
+4,Taskin Ahmed,Sabbir Rahman,24.192307692307693,22.630000000000003
+5,Taskin Ahmed,Mashrafe Mortaza,10.458333333333334,7.62
+6,Taskin Ahmed,Tamim Iqbal,46.416666666666664,45.36
+7,Taskin Ahmed,Mahmudullah,33.458333333333336,26.229999999999997
+8,Taskin Ahmed,Mosaddek Hossain,22.166666666666668,18.22
+9,Taskin Ahmed,Mustafizur Rahman,4.125,2.98
+10,Mosharraf Hossain,Imrul Kayes,119.0,48.75
+11,Mosharraf Hossain,Sabbir Rahman,47.0,26.55
+12,Mosharraf Hossain,Tamim Iqbal,73.0,49.28
+13,Mosharraf Hossain,Mahmudullah,34.0,30.15
+14,Shakib Al Hasan,Mosharraf Hossain,53.5,41.91
+15,Mohammad Mithun,Liton Das,67.33333333333333,51.93
+16,Mohammad Mithun,Fazle Mahmud,30.5,21.96
+17,Mohammad Mithun,Imrul Kayes,93.83333333333333,65.21000000000001
+18,Mohammad Mithun,Mominul Haque,38.0,26.96
+19,Mushfiqur Rahim,Mohammad Mithun,66.08695652173913,61.19
+20,Mehidy Hasan Miraz,Mohammad Mithun,32.875,31.93
+21,Mohammad Mithun,Soumya Sarkar,64.0,55.92
+22,Mohammad Mithun,Mashrafe Mortaza,28.40909090909091,28.0
+23,Al-Amin Hossain,Mohammad Mithun,32.0,22.21
+24,Abu Jayed,Mohammad Mithun,43.0,21.96
+25,Mohammad Mithun,Mustafizur Rahman,25.952380952380953,23.36
+26,Abu Hider,Imrul Kayes,115.0,43.75
+27,Abu Hider,Soumya Sarkar,117.0,34.46
+28,Nasir Hossain,Arafat Sunny,15.857142857142858,15.05
+29,Imrul Kayes,Arafat Sunny,53.333333333333336,48.0
+30,Mushfiqur Rahim,Arafat Sunny,65.875,43.98
+31,Soumya Sarkar,Arafat Sunny,52.2,38.71
+32,Mashrafe Mortaza,Arafat Sunny,12.428571428571429,10.79
+33,Tamim Iqbal,Arafat Sunny,61.125,48.53
+34,Mahmudullah,Arafat Sunny,31.142857142857142,29.4
+35,Al-Amin Hossain,Arafat Sunny,7.333333333333333,5.0
+36,Mustafizur Rahman,Arafat Sunny,12.5,6.15
+37,Liton Das,Fazle Mahmud,43.5,29.97
+38,Liton Das,Imrul Kayes,81.07692307692308,73.22
+39,Mohammad Saifuddin,Liton Das,61.2,43.15
+40,Afif Hossain,Liton Das,183.0,36.97
+41,Taijul Islam,Liton Das,103.66666666666667,37.85
+42,Mehidy Hasan Miraz,Liton Das,48.27272727272727,39.94
+43,Liton Das,Mohammad Naim,176.0,29.97
+44,Nazmul Islam,Liton Das,51.2,31.369999999999997
+45,Najmul Hossain Shanto,Liton Das,48.8,40.97
+46,Abu Jayed,Liton Das,76.0,29.97
+47,Liton Das,Mustafizur Rahman,33.93103448275862,31.369999999999997
+48,Nasir Hossain,Imrul Kayes,55.5,53.55
+49,Nasir Hossain,Mushfiqur Rahim,50.91304347826087,49.53
+50,Nasir Hossain,Soumya Sarkar,60.25,44.260000000000005
+51,Nasir Hossain,Tamim Iqbal,56.72727272727273,54.08
+52,Nasir Hossain,Al-Amin Hossain,14.0,10.55
+53,Nasir Hossain,Mosaddek Hossain,36.0,26.94
+54,Nasir Hossain,Mustafizur Rahman,12.642857142857142,11.700000000000001
+55,Nasir Hossain,Shafiul Islam,15.5,11.55
+56,Fazle Mahmud,Imrul Kayes,117.0,43.25
+57,Mohammad Saifuddin,Fazle Mahmud,25.0,13.18
+58,Mushfiqur Rahim,Abul Hasan,69.5,42.73
+59,Tamim Iqbal,Abul Hasan,72.0,47.28
+60,Sunzamul Islam,Rubel Hossain,9.0,7.6
+61,Sunzamul Islam,Soumya Sarkar,87.0,40.29
+62,Sunzamul Islam,Tamim Iqbal,75.33333333333333,50.11
+63,Sunzamul Islam,Mustafizur Rahman,12.333333333333334,7.73
+64,Mohammad Saifuddin,Anamul Haque,41.0,29.18
+65,Taijul Islam,Anamul Haque,53.0,23.88
+66,Anamul Haque,Soumya Sarkar,64.66666666666667,49.96
+67,Anamul Haque,Mashrafe Mortaza,23.444444444444443,22.04
+68,Tamim Iqbal,Anamul Haque,71.7,59.78
+69,Shakib Al Hasan,Anamul Haque,67.55555555555556,52.41
+70,Mohammad Saifuddin,Imrul Kayes,111.5,56.43
+71,Ariful Haque,Imrul Kayes,115.0,43.25
+72,Mushfiqur Rahim,Imrul Kayes,84.4090909090909,82.47999999999999
+73,Mashrafe Mortaza,Imrul Kayes,53.08695652173913,49.29
+74,Mahmudullah,Imrul Kayes,72.25,67.9
+75,Nazmul Islam,Imrul Kayes,86.0,44.65
+76,Najmul Hossain Shanto,Imrul Kayes,78.0,54.25
+77,Al-Amin Hossain,Imrul Kayes,75.0,43.5
+78,Mosaddek Hossain,Imrul Kayes,62.857142857142854,59.89
+79,Mustafizur Rahman,Imrul Kayes,46.5,44.65
+80,Shafiul Islam,Imrul Kayes,56.333333333333336,44.5
+81,Mohammad Saifuddin,Rubel Hossain,22.833333333333332,14.45
+82,Mohammad Saifuddin,Sabbir Rahman,42.2,34.230000000000004
+83,Mohammad Saifuddin,Soumya Sarkar,51.857142857142854,47.14
+84,Mohammad Saifuddin,Nazmul Islam,16.666666666666668,14.58
+85,Mohammad Saifuddin,Shakib Al Hasan,68.38461538461539,49.589999999999996
+86,Mohammad Saifuddin,Najmul Hossain Shanto,57.0,24.18
+87,Mohammad Saifuddin,Mosaddek Hossain,30.0,29.82
+88,Mohammad Saifuddin,Mustafizur Rahman,14.789473684210526,14.58
+89,Afif Hossain,Tamim Iqbal,135.0,50.78
+90,Rubel Hossain,Taijul Islam,18.25,9.15
+91,Taijul Islam,Mehidy Hasan Miraz,21.0,17.85
+92,Taijul Islam,Soumya Sarkar,42.8,41.84
+93,Taijul Islam,Tamim Iqbal,63.375,51.660000000000004
+94,Taijul Islam,Mahmudullah,46.125,32.53
+95,Taijul Islam,Mosaddek Hossain,35.5,24.52
+96,Taijul Islam,Shafiul Islam,16.0,9.129999999999999
+97,Mushfiqur Rahim,Mominul Haque,70.5,44.23
+98,Mehidy Hasan Miraz,Mominul Haque,15.0,14.97
+99,Mominul Haque,Mashrafe Mortaza,11.666666666666666,11.04
+100,Mominul Haque,Mahmudullah,31.666666666666668,29.65
+101,Soumya Sarkar,Ariful Haque,117.0,33.96
+102,Rubel Hossain,Mushfiqur Rahim,44.52272727272727,40.5
+103,Rubel Hossain,Mehidy Hasan Miraz,12.294117647058824,11.24
+104,Rubel Hossain,Tamim Iqbal,45.43589743589744,45.050000000000004
+105,Rubel Hossain,Mahmudullah,31.073170731707318,25.919999999999998
+106,Nazmul Islam,Rubel Hossain,7.0,2.67
+107,Rubel Hossain,Mustafizur Rahman,3.3448275862068964,2.67
+108,Mushfiqur Rahim,Mehidy Hasan Miraz,50.833333333333336,49.199999999999996
+109,Mushfiqur Rahim,Mahmudullah,66.27142857142857,63.879999999999995
+110,Shakib Al Hasan,Mushfiqur Rahim,78.77586206896552,75.63999999999999
+111,Al-Amin Hossain,Mushfiqur Rahim,53.0,39.48
+112,Abu Jayed,Mushfiqur Rahim,49.0,39.23
+113,Mushfiqur Rahim,Mosaddek Hossain,57.833333333333336,55.87
+114,Mushfiqur Rahim,Shafiul Islam,44.0,40.48
+115,Mehidy Hasan Miraz,Sabbir Rahman,31.88888888888889,31.020000000000003
+116,Shakib Al Hasan,Mehidy Hasan Miraz,54.958333333333336,46.379999999999995
+117,Najmul Hossain Shanto,Mehidy Hasan Miraz,23.6,20.97
+118,Mosaddek Hossain,Mehidy Hasan Miraz,28.444444444444443,26.61
+119,Mehidy Hasan Miraz,Mustafizur Rahman,11.470588235294118,11.370000000000001
+120,Mehidy Hasan Miraz,Shafiul Islam,16.5,11.22
+121,Sabbir Rahman,Soumya Sarkar,57.63157894736842,55.010000000000005
+122,Mashrafe Mortaza,Sabbir Rahman,27.153846153846153,27.09
+123,Mahmudullah,Sabbir Rahman,46.528301886792455,45.7
+124,Al-Amin Hossain,Sabbir Rahman,30.666666666666668,21.3
+125,Mosaddek Hossain,Sabbir Rahman,39.791666666666664,37.69
+126,Sabbir Rahman,Mustafizur Rahman,22.62162162162162,22.45
+127,Sabbir Rahman,Shafiul Islam,31.142857142857142,22.3
+128,Nazmul Islam,Soumya Sarkar,78.5,35.36
+129,Shakib Al Hasan,Soumya Sarkar,74.325,70.37
+130,Abu Jayed,Soumya Sarkar,54.0,33.96
+131,Tamim Iqbal,Mashrafe Mortaza,50.42857142857143,49.82
+132,Shakib Al Hasan,Mashrafe Mortaza,42.91525423728814,42.449999999999996
+133,Najmul Hossain Shanto,Mashrafe Mortaza,18.4,17.04
+134,Al-Amin Hossain,Mashrafe Mortaza,11.25,6.29
+135,Mosaddek Hossain,Mashrafe Mortaza,24.741935483870968,22.68
+136,Mashrafe Mortaza,Shafiul Islam,11.0,7.29
+137,Tamim Iqbal,Mahmudullah,70.59375,68.43
+138,Tamim Iqbal,Mohammad Naim,128.0,43.78
+139,Shakib Al Hasan,Tamim Iqbal,82.78571428571429,80.19
+140,Najmul Hossain Shanto,Tamim Iqbal,108.5,54.78
+141,Al-Amin Hossain,Tamim Iqbal,72.75,44.03
+142,Tamim Iqbal,Shafiul Islam,47.875,45.03
+143,Shakib Al Hasan,Mahmudullah,63.54385964912281,61.059999999999995
+144,Najmul Hossain Shanto,Mahmudullah,50.8,35.65
+145,Al-Amin Hossain,Mahmudullah,26.75,24.9
+146,Abu Jayed,Mahmudullah,32.5,24.65
+147,Mosaddek Hossain,Mahmudullah,41.40625,41.29
+148,Abu Jayed,Shakib Al Hasan,39.5,36.41
+149,Shakib Al Hasan,Mosaddek Hossain,59.666666666666664,53.05
+150,Shakib Al Hasan,Mustafizur Rahman,42.8780487804878,37.809999999999995
+151,Najmul Hossain Shanto,Mustafizur Rahman,15.0,12.4
+152,Al-Amin Hossain,Mustafizur Rahman,2.3333333333333335,1.65
+153,Al-Amin Hossain,Shafiul Islam,5.0,1.5
