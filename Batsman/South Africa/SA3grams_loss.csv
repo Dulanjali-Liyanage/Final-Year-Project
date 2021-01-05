@@ -1,0 +1,951 @@
+,player-1,player-2,player-3,combined_avg,sum_of_individual
+0,K Rabada,M Morkel,AL Phehlukwayo,16.0,15.93
+1,Q de Kock,M Morkel,AL Phehlukwayo,59.0,56.34
+2,K Zondo,M Morkel,AL Phehlukwayo,108.0,40.91
+3,CH Morris,M Morkel,AL Phehlukwayo,38.25,25.48
+4,F du Plessis,M Morkel,AL Phehlukwayo,93.5,58.269999999999996
+5,L Ngidi,M Morkel,AL Phehlukwayo,27.333333333333332,14.32
+6,AK Markram,M Morkel,AL Phehlukwayo,48.0,38.03
+7,M Morkel,AL Phehlukwayo,F Behardien,55.0,30.1
+8,HM Amla,M Morkel,AL Phehlukwayo,54.8,54.5
+9,Imran Tahir,M Morkel,AL Phehlukwayo,29.333333333333332,14.21
+10,H Klaasen,M Morkel,AL Phehlukwayo,60.666666666666664,41.510000000000005
+11,K Rabada,JP Duminy,M Morkel,28.4,28.28
+12,WD Parnell,K Rabada,M Morkel,25.5,13.690000000000001
+13,CH Morris,K Rabada,M Morkel,23.125,18.85
+14,K Rabada,F du Plessis,M Morkel,52.75,51.64
+15,K Rabada,M Morkel,F Behardien,33.42857142857143,23.47
+16,K Rabada,Imran Tahir,M Morkel,12.583333333333334,7.58
+17,H Klaasen,K Rabada,M Morkel,43.0,34.88
+18,K Rabada,KJ Abbott,M Morkel,8.666666666666666,8.09
+19,K Rabada,DW Steyn,M Morkel,16.0,10.04
+20,AB de Villiers,M Morkel,VD Philander,59.666666666666664,51.18
+21,WD Parnell,M Morkel,VD Philander,19.0,14.52
+22,DA Miller,M Morkel,VD Philander,47.833333333333336,36.17
+23,HM Amla,M Morkel,VD Philander,55.166666666666664,48.7
+24,CH Morris,Q de Kock,M Morkel,60.5,59.26
+25,Q de Kock,M de Lange,M Morkel,138.0,46.29
+26,K Zondo,AB de Villiers,M Morkel,104.0,75.33
+27,CH Morris,K Zondo,M Morkel,59.0,43.83
+28,L Ngidi,K Zondo,M Morkel,74.0,32.669999999999995
+29,AK Markram,K Zondo,M Morkel,66.0,56.38
+30,K Zondo,M Morkel,F Behardien,75.0,48.45
+31,K Zondo,Imran Tahir,M Morkel,51.0,32.559999999999995
+32,H Klaasen,K Zondo,M Morkel,96.0,59.86
+33,AB de Villiers,DA Miller,M Morkel,77.15,76.39
+34,AB de Villiers,M Morkel,HM Amla,88.95833333333333,88.92
+35,AB de Villiers,M Morkel,RR Rossouw,91.0909090909091,87.35
+36,AB de Villiers,KJ Abbott,M Morkel,54.42857142857143,49.14
+37,AB de Villiers,DW Steyn,M Morkel,61.69230769230769,51.089999999999996
+38,WD Parnell,JP Duminy,M Morkel,37.666666666666664,32.669999999999995
+39,JP Duminy,M Morkel,F Behardien,44.15384615384615,42.45
+40,JP Duminy,DA Miller,M Morkel,54.57142857142857,54.32
+41,Imran Tahir,JP Duminy,M Morkel,26.571428571428573,26.56
+42,AM Phangiso,JP Duminy,M Morkel,43.0,28.86
+43,MN van Wyk,JP Duminy,M Morkel,61.0,48.36
+44,JP Duminy,M Morkel,KJ Abbott,30.833333333333332,27.07
+45,L Ngidi,T Shamsi,M Morkel,5.0,4.27
+46,T Shamsi,M Morkel,HM Amla,48.0,44.45
+47,H Klaasen,T Shamsi,M Morkel,40.0,31.46
+48,WD Parnell,CH Morris,M Morkel,30.5,23.240000000000002
+49,WD Parnell,M Morkel,F Behardien,59.5,27.86
+50,WD Parnell,DA Miller,M Morkel,56.6,39.730000000000004
+51,WD Parnell,M Morkel,HM Amla,59.6,52.260000000000005
+52,WD Parnell,Imran Tahir,M Morkel,30.75,11.969999999999999
+53,WD Parnell,KJ Abbott,M Morkel,13.0,12.48
+54,WD Parnell,DW Steyn,M Morkel,20.0,14.43
+55,CH Morris,F du Plessis,M Morkel,64.0,61.19
+56,CH Morris,M Morkel,F Behardien,34.333333333333336,33.019999999999996
+57,CH Morris,Imran Tahir,M Morkel,24.875,17.13
+58,CH Morris,H Klaasen,M Morkel,44.5,44.43
+59,AK Markram,F du Plessis,M Morkel,129.0,73.74
+60,F du Plessis,M de Lange,M Morkel,55.0,48.22
+61,F du Plessis,DA Miller,M Morkel,77.85,77.67999999999999
+62,F du Plessis,M Morkel,HM Amla,91.69565217391305,90.21000000000001
+63,F du Plessis,Imran Tahir,M Morkel,51.09090909090909,49.92
+64,L Ngidi,AK Markram,M Morkel,34.333333333333336,29.79
+65,L Ngidi,DA Miller,M Morkel,40.0,33.73
+66,L Ngidi,M Morkel,HM Amla,46.333333333333336,46.260000000000005
+67,L Ngidi,Imran Tahir,M Morkel,22.0,5.97
+68,L Ngidi,H Klaasen,M Morkel,43.0,33.269999999999996
+69,H Klaasen,AK Markram,M Morkel,67.66666666666667,56.98
+70,HM Amla,M Morkel,KA Maharaj,55.0,48.31
+71,DA Miller,M Morkel,F Behardien,57.54545454545455,49.510000000000005
+72,M Morkel,HM Amla,F Behardien,66.26666666666667,62.040000000000006
+73,M Morkel,HM Amla,D Wiese,134.0,61.45
+74,DA Miller,M Morkel,HM Amla,75.22727272727273,73.91
+75,H Klaasen,DA Miller,M Morkel,79.0,60.92
+76,AM Phangiso,DA Miller,M Morkel,130.0,35.92
+77,MN van Wyk,DA Miller,M Morkel,148.0,55.42
+78,KJ Abbott,DA Miller,M Morkel,44.166666666666664,34.13
+79,Imran Tahir,M Morkel,HM Amla,48.916666666666664,46.150000000000006
+80,RR Rossouw,M Morkel,HM Amla,86.45454545454545,84.87
+81,H Klaasen,M Morkel,HM Amla,79.66666666666667,73.45
+82,KJ Abbott,M Morkel,HM Amla,65.0,46.660000000000004
+83,DW Steyn,M Morkel,HM Amla,55.53846153846154,48.61
+84,H Klaasen,Imran Tahir,M Morkel,44.0,33.16
+85,K Rabada,CJ Dala,AL Phehlukwayo,20.0,17.47
+86,KA Maharaj,CJ Dala,AL Phehlukwayo,22.5,17.91
+87,K Rabada,Q de Kock,AL Phehlukwayo,65.5,57.3
+88,K Rabada,RR Hendricks,AL Phehlukwayo,48.416666666666664,37.07000000000001
+89,K Rabada,T Shamsi,AL Phehlukwayo,21.727272727272727,13.47
+90,K Rabada,D Olivier,AL Phehlukwayo,34.5,13.47
+91,L Ngidi,K Rabada,AL Phehlukwayo,16.2,15.280000000000001
+92,HE van der Dussen,K Rabada,AL Phehlukwayo,59.125,50.68000000000001
+93,K Rabada,T Bavuma,AL Phehlukwayo,94.5,76.27
+94,HM Amla,K Rabada,AL Phehlukwayo,55.63636363636363,55.46000000000001
+95,Q de Kock,PWA Mulder,AL Phehlukwayo,71.625,61.28
+96,RR Hendricks,PWA Mulder,AL Phehlukwayo,41.5,41.05
+97,JP Duminy,PWA Mulder,AL Phehlukwayo,56.833333333333336,39.849999999999994
+98,PWA Mulder,T Shamsi,AL Phehlukwayo,22.0,17.450000000000003
+99,L Ngidi,PWA Mulder,AL Phehlukwayo,19.833333333333332,19.26
+100,KA Maharaj,PWA Mulder,AL Phehlukwayo,21.5,21.310000000000002
+101,Q de Kock,AL Phehlukwayo,JT Smuts,94.75,94.63
+102,Q de Kock,AL Phehlukwayo,BE Hendricks,64.8,54.879999999999995
+103,Q de Kock,AB de Villiers,AL Phehlukwayo,106.35714285714286,98.35
+104,Q de Kock,RR Hendricks,AL Phehlukwayo,92.5,77.48
+105,Q de Kock,JP Duminy,AL Phehlukwayo,81.80645161290323,76.27999999999999
+106,Q de Kock,D Pretorius,AL Phehlukwayo,75.875,60.019999999999996
+107,Q de Kock,T Shamsi,AL Phehlukwayo,59.357142857142854,53.879999999999995
+108,WD Parnell,Q de Kock,AL Phehlukwayo,76.0,61.69
+109,F du Plessis,Q de Kock,AL Phehlukwayo,105.35,99.64
+110,L Ngidi,Q de Kock,AL Phehlukwayo,58.705882352941174,55.69
+111,HE van der Dussen,Q de Kock,AL Phehlukwayo,93.8125,91.08999999999999
+112,Q de Kock,T Bavuma,AL Phehlukwayo,135.8,116.67999999999999
+113,Q de Kock,AL Phehlukwayo,F Behardien,91.9,71.47
+114,Q de Kock,DA Miller,AL Phehlukwayo,88.6,83.33999999999999
+115,L Sipamla,Q de Kock,AL Phehlukwayo,75.33333333333333,57.209999999999994
+116,Q de Kock,Imran Tahir,AL Phehlukwayo,63.59375,55.58
+117,Q de Kock,DW Steyn,AL Phehlukwayo,64.33333333333333,58.03999999999999
+118,K Zondo,AB de Villiers,AL Phehlukwayo,118.0,82.92
+119,CH Morris,K Zondo,AL Phehlukwayo,63.0,51.42
+120,L Ngidi,K Zondo,AL Phehlukwayo,55.666666666666664,40.26
+121,AK Markram,K Zondo,AL Phehlukwayo,78.75,63.97
+122,K Zondo,AL Phehlukwayo,F Behardien,89.0,56.040000000000006
+123,K Zondo,Imran Tahir,AL Phehlukwayo,48.25,40.15
+124,H Klaasen,K Zondo,AL Phehlukwayo,67.5,67.45
+125,K Zondo,DW Steyn,AL Phehlukwayo,69.0,42.61
+126,Imran Tahir,AL Phehlukwayo,BE Hendricks,17.5,12.75
+127,AB de Villiers,D Pretorius,AL Phehlukwayo,76.0,60.66
+128,AB de Villiers,AL Phehlukwayo,F Behardien,78.14285714285714,72.11
+129,RR Hendricks,JP Duminy,AL Phehlukwayo,63.285714285714285,56.05
+130,RR Hendricks,D Pretorius,AL Phehlukwayo,50.666666666666664,39.790000000000006
+131,RR Hendricks,T Shamsi,AL Phehlukwayo,53.75,33.650000000000006
+132,F du Plessis,RR Hendricks,AL Phehlukwayo,82.0909090909091,79.41
+133,D Olivier,RR Hendricks,AL Phehlukwayo,59.5,33.650000000000006
+134,HE van der Dussen,RR Hendricks,AL Phehlukwayo,76.55555555555556,70.86
+135,RR Hendricks,DA Miller,AL Phehlukwayo,66.08333333333333,63.11
+136,HM Amla,RR Hendricks,AL Phehlukwayo,87.75,75.64
+137,RR Hendricks,DW Steyn,AL Phehlukwayo,48.714285714285715,37.81
+138,JP Duminy,T Shamsi,AL Phehlukwayo,35.1,32.45
+139,L Ngidi,JP Duminy,AL Phehlukwayo,40.69230769230769,34.26
+140,JP Duminy,T Bavuma,AL Phehlukwayo,165.0,95.24999999999999
+141,KA Maharaj,JP Duminy,AL Phehlukwayo,43.5,36.31
+142,JP Duminy,DA Miller,AL Phehlukwayo,68.33333333333333,61.91
+143,JP Duminy,DW Steyn,AL Phehlukwayo,55.0,36.61
+144,WD Parnell,D Pretorius,AL Phehlukwayo,42.0,24.0
+145,L Ngidi,D Pretorius,AL Phehlukwayo,33.333333333333336,18.0
+146,HE van der Dussen,D Pretorius,AL Phehlukwayo,66.57142857142857,53.400000000000006
+147,D Pretorius,T Bavuma,AL Phehlukwayo,113.0,78.99
+148,D Pretorius,DA Miller,AL Phehlukwayo,61.44444444444444,45.650000000000006
+149,D Pretorius,DW Steyn,AL Phehlukwayo,28.5,20.35
+150,CH Morris,T Shamsi,AL Phehlukwayo,41.666666666666664,23.020000000000003
+151,F du Plessis,T Shamsi,AL Phehlukwayo,57.083333333333336,55.81
+152,HE van der Dussen,T Shamsi,AL Phehlukwayo,64.14285714285714,47.260000000000005
+153,DA Miller,T Shamsi,AL Phehlukwayo,44.92307692307692,39.510000000000005
+154,Imran Tahir,T Shamsi,AL Phehlukwayo,21.0,11.75
+155,H Klaasen,T Shamsi,AL Phehlukwayo,68.2,39.05
+156,WD Parnell,F du Plessis,AL Phehlukwayo,65.0,63.620000000000005
+157,WD Parnell,T Bavuma,AL Phehlukwayo,113.0,80.66
+158,WD Parnell,HM Amla,AL Phehlukwayo,67.83333333333333,59.85000000000001
+159,CH Morris,F du Plessis,AL Phehlukwayo,73.94444444444444,68.78
+160,CH Morris,L Ngidi,AL Phehlukwayo,28.5,24.830000000000002
+161,CH Morris,HE van der Dussen,AL Phehlukwayo,63.42857142857143,60.230000000000004
+162,CH Morris,KA Maharaj,AL Phehlukwayo,35.0,26.880000000000003
+163,CH Morris,DA Miller,AL Phehlukwayo,58.46666666666667,52.480000000000004
+164,AK Markram,F du Plessis,AL Phehlukwayo,85.6,81.33
+165,HE van der Dussen,F du Plessis,AL Phehlukwayo,96.5,93.02
+166,F du Plessis,T Bavuma,AL Phehlukwayo,139.0,118.61
+167,HE van der Dussen,D Olivier,AL Phehlukwayo,121.0,47.260000000000005
+168,D Olivier,DA Miller,AL Phehlukwayo,58.0,39.510000000000005
+169,HM Amla,D Olivier,AL Phehlukwayo,92.5,52.040000000000006
+170,L Ngidi,AK Markram,AL Phehlukwayo,40.13333333333333,37.379999999999995
+171,L Ngidi,HE van der Dussen,AL Phehlukwayo,51.333333333333336,49.07000000000001
+172,L Ngidi,AL Phehlukwayo,F Behardien,35.0,29.450000000000003
+173,L Ngidi,DA Miller,AL Phehlukwayo,41.388888888888886,41.32
+174,L Ngidi,Imran Tahir,AL Phehlukwayo,19.083333333333332,13.56
+175,L Ngidi,H Klaasen,AL Phehlukwayo,46.0,40.86
+176,L Ngidi,DW Steyn,AL Phehlukwayo,30.666666666666668,16.020000000000003
+177,HE van der Dussen,AK Markram,AL Phehlukwayo,77.25,72.78
+178,AK Markram,T Bavuma,AL Phehlukwayo,119.0,98.36999999999999
+179,AK Markram,AL Phehlukwayo,F Behardien,81.5,53.16
+180,AK Markram,Imran Tahir,AL Phehlukwayo,43.1875,37.269999999999996
+181,AK Markram,DW Steyn,AL Phehlukwayo,58.5,39.730000000000004
+182,HE van der Dussen,DA Miller,AL Phehlukwayo,77.92307692307692,76.72
+183,HE van der Dussen,HM Amla,AL Phehlukwayo,93.45454545454545,89.25
+184,HE van der Dussen,Imran Tahir,AL Phehlukwayo,53.785714285714285,48.96000000000001
+185,HE van der Dussen,H Klaasen,AL Phehlukwayo,121.0,76.26
+186,T Bavuma,AL Phehlukwayo,F Behardien,124.5,90.44
+187,DA Miller,T Bavuma,AL Phehlukwayo,106.75,102.30999999999999
+188,AM Phangiso,T Bavuma,AL Phehlukwayo,113.0,76.85
+189,KA Maharaj,DA Miller,AL Phehlukwayo,44.8,43.370000000000005
+190,H Klaasen,KA Maharaj,AL Phehlukwayo,60.2,42.91
+191,H Klaasen,AL Phehlukwayo,F Behardien,57.0,56.64
+192,H Klaasen,DA Miller,AL Phehlukwayo,72.7,68.51
+193,HM Amla,Imran Tahir,AL Phehlukwayo,55.03846153846154,53.74000000000001
+194,RR Rossouw,Imran Tahir,AL Phehlukwayo,86.0,52.17
+195,Imran Tahir,DW Steyn,AL Phehlukwayo,20.11111111111111,15.91
+196,RR Rossouw,KJ Abbott,AL Phehlukwayo,83.0,52.68000000000001
+197,K Rabada,PWA Mulder,CJ Dala,19.0,14.82
+198,K Rabada,Q de Kock,CJ Dala,71.0,51.25
+199,K Rabada,AK Markram,CJ Dala,37.0,32.94
+200,KA Maharaj,K Rabada,CJ Dala,25.0,11.28
+201,KA Maharaj,PWA Mulder,CJ Dala,19.5,15.26
+202,AK Markram,Q de Kock,CJ Dala,79.0,73.35
+203,KA Maharaj,Q de Kock,CJ Dala,55.0,51.69
+204,L Ngidi,JP Duminy,CJ Dala,42.0,28.209999999999997
+205,KA Maharaj,JP Duminy,CJ Dala,41.5,30.259999999999998
+206,JP Duminy,DA Miller,CJ Dala,62.0,55.86
+207,L Ngidi,KA Maharaj,CJ Dala,21.0,9.67
+208,KA Maharaj,DA Miller,CJ Dala,41.0,37.32
+209,K Rabada,Q de Kock,PWA Mulder,76.875,54.65
+210,K Rabada,RR Hendricks,PWA Mulder,36.833333333333336,34.42
+211,K Rabada,JP Duminy,PWA Mulder,53.6,33.22
+212,K Rabada,PWA Mulder,T Shamsi,11.666666666666666,10.82
+213,K Rabada,PWA Mulder,AK Markram,40.4,36.34
+214,K Rabada,PWA Mulder,KA Maharaj,22.0,14.68
+215,K Rabada,VD Philander,RR Rossouw,89.0,48.09
+216,K Rabada,Q de Kock,AB de Villiers,97.0625,91.72
+217,K Rabada,Q de Kock,RR Hendricks,79.54545454545455,70.85
+218,K Rabada,Q de Kock,JP Duminy,70.65957446808511,69.65
+219,K Rabada,Q de Kock,D Pretorius,60.26315789473684,53.39
+220,K Rabada,Q de Kock,T Shamsi,52.666666666666664,47.25
+221,WD Parnell,K Rabada,Q de Kock,57.705882352941174,55.06
+222,F du Plessis,K Rabada,Q de Kock,100.05,93.00999999999999
+223,L Ngidi,K Rabada,Q de Kock,50.857142857142854,49.06
+224,K Rabada,Q de Kock,T Bavuma,169.5,110.05
+225,K Rabada,Q de Kock,KA Maharaj,68.66666666666667,51.11
+226,K Rabada,Q de Kock,F Behardien,76.85185185185185,64.84
+227,K Rabada,Q de Kock,Imran Tahir,50.625,48.95
+228,K Rabada,Q de Kock,DW Steyn,56.8,51.41
+229,K Rabada,K Zondo,RR Hendricks,91.0,55.42
+230,L Ngidi,K Rabada,K Zondo,35.0,33.629999999999995
+231,K Rabada,RR Hendricks,BE Hendricks,43.5,28.020000000000003
+232,K Rabada,AB de Villiers,D Pretorius,69.125,54.03
+233,F du Plessis,K Rabada,AB de Villiers,98.56666666666666,93.65
+234,K Rabada,AB de Villiers,F Behardien,76.26086956521739,65.48
+235,K Rabada,AB de Villiers,HM Amla,93.31428571428572,89.88
+236,K Rabada,AB de Villiers,Imran Tahir,50.125,49.59
+237,AM Phangiso,K Rabada,AB de Villiers,66.5,51.89
+238,K Rabada,AB de Villiers,KJ Abbott,62.25,50.1
+239,K Rabada,AB de Villiers,DW Steyn,69.85714285714286,52.05
+240,K Rabada,RR Hendricks,JP Duminy,76.5,49.42
+241,F du Plessis,K Rabada,RR Hendricks,79.15384615384616,72.78
+242,L Ngidi,K Rabada,RR Hendricks,30.75,28.830000000000002
+243,K Rabada,RR Hendricks,AK Markram,56.0,52.540000000000006
+244,HE van der Dussen,K Rabada,RR Hendricks,66.375,64.23
+245,K Rabada,RR Hendricks,DA Miller,64.63636363636364,56.480000000000004
+246,K Rabada,RR Hendricks,HM Amla,79.42857142857143,69.01
+247,K Rabada,RR Hendricks,DW Steyn,38.42857142857143,31.180000000000003
+248,K Rabada,JP Duminy,T Shamsi,26.25,25.82
+249,WD Parnell,K Rabada,JP Duminy,34.705882352941174,33.629999999999995
+250,K Rabada,F du Plessis,JP Duminy,74.38636363636364,71.58
+251,L Ngidi,K Rabada,JP Duminy,36.3,27.63
+252,K Rabada,JP Duminy,T Bavuma,165.0,88.62
+253,K Rabada,JP Duminy,KA Maharaj,30.0,29.68
+254,K Rabada,JP Duminy,F Behardien,47.27272727272727,43.41
+255,K Rabada,JP Duminy,DA Miller,56.59375,55.28
+256,K Rabada,JP Duminy,RR Rossouw,79.3,66.24000000000001
+257,AM Phangiso,K Rabada,JP Duminy,40.75,29.82
+258,K Rabada,JP Duminy,KJ Abbott,36.888888888888886,28.03
+259,K Rabada,JP Duminy,DW Steyn,38.0,29.98
+260,WD Parnell,K Rabada,D Pretorius,21.5,17.37
+261,K Rabada,F du Plessis,D Pretorius,56.65,55.32
+262,L Ngidi,K Rabada,D Pretorius,15.333333333333334,11.370000000000001
+263,HE van der Dussen,K Rabada,D Pretorius,55.375,46.77
+264,K Rabada,D Pretorius,T Bavuma,113.0,72.36
+265,K Rabada,D Pretorius,DA Miller,49.166666666666664,39.019999999999996
+266,CH Morris,K Rabada,T Shamsi,28.8,16.39
+267,K Rabada,F du Plessis,T Shamsi,54.75,49.18
+268,HE van der Dussen,K Rabada,T Shamsi,55.6,40.63
+269,K Rabada,T Shamsi,F Behardien,28.25,21.009999999999998
+270,K Rabada,Imran Tahir,T Shamsi,5.222222222222222,5.12
+271,H Klaasen,K Rabada,T Shamsi,33.666666666666664,32.42
+272,WD Parnell,K Rabada,CH Morris,29.7,24.200000000000003
+273,WD Parnell,K Rabada,F du Plessis,71.8125,56.989999999999995
+274,WD Parnell,K Rabada,T Bavuma,113.0,74.03
+275,WD Parnell,K Rabada,F Behardien,34.111111111111114,28.82
+276,WD Parnell,K Rabada,HM Amla,67.21428571428571,53.22
+277,WD Parnell,K Rabada,Imran Tahir,16.133333333333333,12.93
+278,CH Morris,K Rabada,F du Plessis,65.92857142857143,62.15
+279,CH Morris,K Rabada,HE van der Dussen,54.57142857142857,53.6
+280,CH Morris,K Rabada,F Behardien,34.5,33.980000000000004
+281,CH Morris,K Rabada,Imran Tahir,20.862068965517242,18.09
+282,CH Morris,K Rabada,AM Phangiso,25.0,20.39
+283,CH Morris,K Rabada,KJ Abbott,21.4,18.6
+284,CH Morris,K Rabada,DW Steyn,23.0,20.55
+285,L Ngidi,K Rabada,F du Plessis,52.92857142857143,50.989999999999995
+286,K Rabada,F du Plessis,AK Markram,84.8125,74.7
+287,HE van der Dussen,K Rabada,F du Plessis,88.0,86.39
+288,K Rabada,F du Plessis,T Bavuma,148.0,111.97999999999999
+289,K Rabada,F du Plessis,F Behardien,71.08,66.77
+290,K Rabada,F du Plessis,Imran Tahir,55.96363636363636,50.88
+291,K Rabada,F du Plessis,DW Steyn,58.6875,53.34
+292,HE van der Dussen,K Rabada,D Olivier,86.5,40.63
+293,K Rabada,D Olivier,HM Amla,58.0,45.410000000000004
+294,L Ngidi,K Rabada,AK Markram,32.714285714285715,30.75
+295,L Ngidi,K Rabada,HE van der Dussen,43.625,42.44
+296,L Ngidi,K Rabada,DA Miller,40.4,34.69
+297,L Ngidi,K Rabada,Imran Tahir,9.23076923076923,6.930000000000001
+298,L Ngidi,K Rabada,DW Steyn,10.333333333333334,9.39
+299,HE van der Dussen,K Rabada,AK Markram,68.25,66.15
+300,T Bavuma,K Rabada,AK Markram,137.0,91.74
+301,K Rabada,AK Markram,KA Maharaj,40.0,32.8
+302,K Rabada,Imran Tahir,AK Markram,33.88235294117647,30.64
+303,K Rabada,DW Steyn,AK Markram,36.25,33.1
+304,HE van der Dussen,K Rabada,Imran Tahir,44.13333333333333,42.330000000000005
+305,HE van der Dussen,K Rabada,H Klaasen,86.5,69.63
+306,K Rabada,T Bavuma,F Behardien,133.5,83.81
+307,K Rabada,DA Miller,T Bavuma,127.0,95.68
+308,AM Phangiso,K Rabada,T Bavuma,113.0,70.22
+309,K Rabada,HM Amla,F Behardien,65.76,63.0
+310,K Rabada,Imran Tahir,F Behardien,25.25925925925926,22.71
+311,AM Phangiso,K Rabada,F Behardien,40.0,25.009999999999998
+312,K Rabada,DW Steyn,F Behardien,28.333333333333332,25.17
+313,K Rabada,HM Amla,D Wiese,89.6,62.410000000000004
+314,K Rabada,MN van Wyk,D Wiese,50.0,43.92
+315,K Rabada,DA Miller,RR Rossouw,82.88888888888889,73.30000000000001
+316,AM Phangiso,K Rabada,Imran Tahir,18.0,9.12
+317,AM Phangiso,K Rabada,RR Rossouw,48.0,47.84
+318,AM Phangiso,K Rabada,DW Steyn,34.0,11.58
+319,K Rabada,MN van Wyk,DW Steyn,37.0,31.080000000000002
+320,Q de Kock,RR Hendricks,PWA Mulder,88.33333333333333,74.83000000000001
+321,Q de Kock,JP Duminy,PWA Mulder,96.2,73.63
+322,Q de Kock,PWA Mulder,T Shamsi,57.0,51.23
+323,L Ngidi,Q de Kock,PWA Mulder,66.16666666666667,53.04
+324,AK Markram,Q de Kock,PWA Mulder,96.75,76.75
+325,Q de Kock,PWA Mulder,DA Miller,83.33333333333333,80.69
+326,Q de Kock,Imran Tahir,PWA Mulder,87.75,52.93
+327,Q de Kock,PWA Mulder,DW Steyn,83.0,55.39
+328,AK Markram,AB de Villiers,PWA Mulder,88.0,77.39
+329,RR Hendricks,JP Duminy,PWA Mulder,72.25,53.4
+330,RR Hendricks,PWA Mulder,T Shamsi,104.0,31.0
+331,L Ngidi,RR Hendricks,PWA Mulder,36.6,32.81
+332,RR Hendricks,PWA Mulder,DA Miller,63.5,60.46
+333,JP Duminy,PWA Mulder,T Shamsi,70.66666666666667,29.799999999999997
+334,L Ngidi,JP Duminy,PWA Mulder,57.0,31.61
+335,JP Duminy,PWA Mulder,KA Maharaj,40.5,33.66
+336,JP Duminy,PWA Mulder,DA Miller,84.75,59.26
+337,JP Duminy,PWA Mulder,HM Amla,85.8,71.78999999999999
+338,F du Plessis,D Pretorius,PWA Mulder,81.0,59.3
+339,L Ngidi,PWA Mulder,T Shamsi,11.666666666666666,9.21
+340,L Ngidi,F du Plessis,PWA Mulder,66.6,54.97
+341,HE van der Dussen,F du Plessis,PWA Mulder,106.66666666666667,90.37
+342,F du Plessis,PWA Mulder,T Bavuma,141.0,115.96
+343,F du Plessis,PWA Mulder,F Behardien,126.0,70.75
+344,F du Plessis,PWA Mulder,DA Miller,83.2,82.62
+345,L Ngidi,PWA Mulder,KA Maharaj,22.0,13.07
+346,L Ngidi,Imran Tahir,PWA Mulder,12.666666666666666,10.91
+347,L Ngidi,PWA Mulder,H Klaasen,40.0,38.21
+348,AK Markram,Imran Tahir,PWA Mulder,54.5,34.62
+349,PWA Mulder,KA Maharaj,DA Miller,42.0,40.72
+350,Q de Kock,DA Miller,VD Philander,79.0,77.53999999999999
+351,AB de Villiers,JP Duminy,VD Philander,82.5,71.12
+352,AB de Villiers,VD Philander,F Behardien,71.0,66.31
+353,AB de Villiers,DA Miller,VD Philander,90.25,78.18
+354,AB de Villiers,VD Philander,HM Amla,109.875,90.71000000000001
+355,AB de Villiers,Imran Tahir,VD Philander,57.75,50.42
+356,AB de Villiers,VD Philander,RR Rossouw,111.83333333333333,89.14
+357,AM Phangiso,AB de Villiers,VD Philander,62.0,52.72
+358,AB de Villiers,DW Steyn,VD Philander,54.125,52.879999999999995
+359,JP Duminy,DA Miller,VD Philander,70.66666666666667,56.11
+360,JP Duminy,VD Philander,HM Amla,78.0,68.64
+361,Imran Tahir,JP Duminy,VD Philander,29.833333333333332,28.349999999999998
+362,WD Parnell,F du Plessis,VD Philander,72.0,57.82
+363,WD Parnell,Imran Tahir,VD Philander,25.0,13.76
+364,WD Parnell,DW Steyn,VD Philander,18.0,16.22
+365,F du Plessis,DA Miller,VD Philander,82.5,79.47
+366,D Wiese,VD Philander,F Behardien,68.5,38.84
+367,DA Miller,VD Philander,F Behardien,59.666666666666664,51.3
+368,VD Philander,HM Amla,F Behardien,92.33333333333333,63.83
+369,Imran Tahir,VD Philander,F Behardien,26.833333333333332,23.54
+370,VD Philander,RR Rossouw,F Behardien,78.8,62.260000000000005
+371,AM Phangiso,VD Philander,F Behardien,101.0,25.84
+372,MN van Wyk,VD Philander,F Behardien,66.5,45.34
+373,VD Philander,HM Amla,D Wiese,92.0,63.24
+374,Imran Tahir,VD Philander,D Wiese,28.0,22.95
+375,VD Philander,RR Rossouw,D Wiese,90.0,61.67
+376,AM Phangiso,VD Philander,D Wiese,39.0,25.25
+377,DW Steyn,VD Philander,D Wiese,27.0,25.41
+378,DA Miller,VD Philander,HM Amla,98.375,75.7
+379,Imran Tahir,DA Miller,VD Philander,46.25,35.41
+380,DA Miller,VD Philander,RR Rossouw,79.0,74.13
+381,DW Steyn,DA Miller,VD Philander,42.625,37.870000000000005
+382,Imran Tahir,VD Philander,HM Amla,65.875,47.940000000000005
+383,RR Rossouw,VD Philander,HM Amla,126.33333333333333,86.66
+384,MN van Wyk,VD Philander,HM Amla,90.0,69.74000000000001
+385,DW Steyn,VD Philander,HM Amla,62.25,50.400000000000006
+386,Imran Tahir,VD Philander,RR Rossouw,61.0,46.370000000000005
+387,AM Phangiso,Imran Tahir,VD Philander,35.0,9.95
+388,DW Steyn,Imran Tahir,VD Philander,10.125,10.11
+389,AM Phangiso,VD Philander,RR Rossouw,70.0,48.67
+390,MN van Wyk,VD Philander,RR Rossouw,88.0,68.17
+391,DW Steyn,VD Philander,RR Rossouw,57.333333333333336,48.83
+392,AM Phangiso,MN van Wyk,VD Philander,33.0,31.75
+393,AM Phangiso,DW Steyn,VD Philander,33.0,12.41
+394,Q de Kock,BE Hendricks,JT Smuts,108.5,85.58
+395,Q de Kock,RR Hendricks,JT Smuts,115.5,108.18
+396,Q de Kock,T Shamsi,JT Smuts,85.0,84.58
+397,HE van der Dussen,Q de Kock,JT Smuts,128.5,121.78999999999999
+398,Q de Kock,T Bavuma,JT Smuts,170.5,147.38
+399,Q de Kock,DA Miller,JT Smuts,118.5,114.03999999999999
+400,Q de Kock,L Sipamla,JT Smuts,111.33333333333333,87.91
+401,Q de Kock,RR Hendricks,BE Hendricks,79.0,68.43
+402,Q de Kock,T Shamsi,BE Hendricks,70.66666666666667,44.83
+403,CH Morris,Q de Kock,BE Hendricks,68.0,57.8
+404,L Ngidi,Q de Kock,BE Hendricks,89.5,46.64
+405,Q de Kock,T Bavuma,BE Hendricks,153.0,107.63
+406,Q de Kock,L Sipamla,BE Hendricks,94.5,48.16
+407,Q de Kock,AB de Villiers,D Pretorius,128.22222222222223,94.44
+408,F du Plessis,Q de Kock,AB de Villiers,141.7948717948718,134.06
+409,Q de Kock,AB de Villiers,M de Lange,146.0,88.3
+410,Q de Kock,AB de Villiers,KA Maharaj,105.5,92.16
+411,Q de Kock,AB de Villiers,F Behardien,121.4,105.89
+412,Q de Kock,AB de Villiers,HM Amla,133.3,130.29
+413,Imran Tahir,Q de Kock,AB de Villiers,91.43589743589743,90.0
+414,Q de Kock,AB de Villiers,KJ Abbott,102.45454545454545,90.50999999999999
+415,Q de Kock,AB de Villiers,DW Steyn,102.16666666666667,92.46
+416,Q de Kock,RR Hendricks,JP Duminy,103.75,89.83000000000001
+417,Q de Kock,RR Hendricks,D Pretorius,81.4,73.57000000000001
+418,Q de Kock,RR Hendricks,T Shamsi,99.5,67.43
+419,F du Plessis,Q de Kock,RR Hendricks,131.1818181818182,113.19
+420,L Ngidi,Q de Kock,RR Hendricks,78.63636363636364,69.24000000000001
+421,HE van der Dussen,Q de Kock,RR Hendricks,119.125,104.63999999999999
+422,Q de Kock,RR Hendricks,T Bavuma,160.0,130.23000000000002
+423,Q de Kock,RR Hendricks,DA Miller,106.53846153846153,96.89000000000001
+424,Q de Kock,RR Hendricks,L Sipamla,101.5,70.76
+425,Imran Tahir,Q de Kock,RR Hendricks,74.25,69.13
+426,Q de Kock,JP Duminy,T Shamsi,68.25,66.22999999999999
+427,F du Plessis,Q de Kock,JP Duminy,114.16981132075472,111.99000000000001
+428,L Ngidi,Q de Kock,JP Duminy,76.625,68.03999999999999
+429,Q de Kock,JP Duminy,M de Lange,86.5,66.22999999999999
+430,Q de Kock,JP Duminy,KA Maharaj,71.33333333333333,70.08999999999999
+431,Q de Kock,JP Duminy,F Behardien,93.6923076923077,83.82
+432,Q de Kock,JP Duminy,RR Rossouw,106.6875,106.64999999999999
+433,Q de Kock,JP Duminy,DW Steyn,82.61538461538461,70.38999999999999
+434,WD Parnell,Q de Kock,D Pretorius,79.6,57.78
+435,F du Plessis,Q de Kock,D Pretorius,112.28571428571429,95.73
+436,L Ngidi,Q de Kock,D Pretorius,60.166666666666664,51.78
+437,HE van der Dussen,Q de Kock,D Pretorius,109.28571428571429,87.17999999999999
+438,Q de Kock,D Pretorius,T Bavuma,195.0,112.77
+439,Q de Kock,D Pretorius,KA Maharaj,98.0,53.83
+440,Q de Kock,D Pretorius,F Behardien,71.5,67.56
+441,Q de Kock,D Pretorius,DA Miller,117.25,79.43
+442,Q de Kock,D Pretorius,HM Amla,94.42857142857143,91.96000000000001
+443,Imran Tahir,Q de Kock,D Pretorius,59.05555555555556,51.67
+444,CH Morris,Q de Kock,T Shamsi,66.8,56.8
+445,F du Plessis,Q de Kock,T Shamsi,110.0,89.59
+446,L Ngidi,Q de Kock,T Shamsi,55.44444444444444,45.64
+447,HE van der Dussen,Q de Kock,T Shamsi,100.33333333333333,81.03999999999999
+448,T Bavuma,Q de Kock,T Shamsi,114.66666666666667,106.63
+449,Q de Kock,T Shamsi,F Behardien,68.2,61.42
+450,Q de Kock,DA Miller,T Shamsi,74.41666666666667,73.28999999999999
+451,Q de Kock,T Shamsi,L Sipamla,93.0,47.16
+452,Q de Kock,Imran Tahir,T Shamsi,52.0,45.53
+453,H Klaasen,Q de Kock,T Shamsi,94.5,72.83
+454,WD Parnell,Q de Kock,F du Plessis,106.05263157894737,97.4
+455,WD Parnell,Q de Kock,T Bavuma,195.0,114.44
+456,WD Parnell,Q de Kock,F Behardien,84.9,69.23
+457,WD Parnell,Q de Kock,HM Amla,94.76470588235294,93.63
+458,WD Parnell,Q de Kock,Imran Tahir,53.94117647058823,53.34
+459,WD Parnell,Q de Kock,DW Steyn,77.66666666666667,55.8
+460,CH Morris,Q de Kock,M de Lange,138.0,56.8
+461,CH Morris,Q de Kock,KA Maharaj,83.5,60.66
+462,CH Morris,Q de Kock,F Behardien,79.23076923076923,74.39
+463,F du Plessis,Q de Kock,L Ngidi,95.8,91.4
+464,F du Plessis,AK Markram,Q de Kock,121.0625,115.11
+465,F du Plessis,Q de Kock,HE van der Dussen,130.66666666666666,126.80000000000001
+466,F du Plessis,Q de Kock,M de Lange,106.5,89.59
+467,F du Plessis,Q de Kock,F Behardien,116.90322580645162,107.18
+468,F du Plessis,Q de Kock,DA Miller,119.6923076923077,119.05000000000001
+469,F du Plessis,Q de Kock,Imran Tahir,98.0,91.29
+470,F du Plessis,Q de Kock,DW Steyn,98.21739130434783,93.75
+471,L Ngidi,Q de Kock,HE van der Dussen,98.3,82.85
+472,L Ngidi,Q de Kock,T Bavuma,114.66666666666667,108.44
+473,L Ngidi,Q de Kock,DA Miller,83.44444444444444,75.1
+474,L Ngidi,Q de Kock,L Sipamla,93.0,48.97
+475,L Ngidi,Q de Kock,Imran Tahir,50.90909090909091,47.34
+476,AK Markram,Q de Kock,T Bavuma,187.0,132.14999999999998
+477,AK Markram,Q de Kock,KA Maharaj,82.0,73.21
+478,HE van der Dussen,Q de Kock,T Bavuma,173.0,143.83999999999997
+479,HE van der Dussen,Q de Kock,L Sipamla,114.5,84.36999999999999
+480,HE van der Dussen,Q de Kock,Imran Tahir,84.35714285714286,82.74
+481,Q de Kock,M de Lange,F Behardien,75.5,61.42
+482,Q de Kock,M de Lange,HM Amla,140.5,85.82
+483,Q de Kock,Imran Tahir,M de Lange,138.0,45.53
+484,Q de Kock,M de Lange,RR Rossouw,146.5,84.25
+485,Q de Kock,DA Miller,T Bavuma,171.5,136.08999999999997
+486,Q de Kock,T Bavuma,L Sipamla,156.5,109.96
+487,AM Phangiso,Q de Kock,T Bavuma,195.0,110.63
+488,Q de Kock,KA Maharaj,F Behardien,115.0,65.28
+489,H Klaasen,Q de Kock,KA Maharaj,81.4,76.69
+490,Q de Kock,DA Miller,F Behardien,94.5625,90.88
+491,Q de Kock,HM Amla,F Behardien,103.82758620689656,103.41
+492,Q de Kock,Imran Tahir,F Behardien,67.3103448275862,63.120000000000005
+493,Q de Kock,DW Steyn,F Behardien,72.1,65.58
+494,Q de Kock,HM Amla,D Wiese,140.0,102.82
+495,Q de Kock,Imran Tahir,D Wiese,79.33333333333333,62.53
+496,Q de Kock,DA Miller,L Sipamla,94.66666666666667,76.61999999999999
+497,H Klaasen,Q de Kock,DA Miller,102.42857142857143,102.28999999999999
+498,Q de Kock,DW Steyn,RR Rossouw,94.88888888888889,88.41
+499,AM Phangiso,Q de Kock,DW Steyn,69.0,51.989999999999995
+500,CH Morris,K Zondo,AB de Villiers,88.0,85.84
+501,L Ngidi,K Zondo,AB de Villiers,84.0,74.67999999999999
+502,AK Markram,K Zondo,AB de Villiers,108.0,98.39
+503,Imran Tahir,K Zondo,AB de Villiers,86.0,74.57
+504,H Klaasen,K Zondo,AB de Villiers,106.0,101.87
+505,F du Plessis,K Zondo,RR Hendricks,117.0,97.75999999999999
+506,CH Morris,K Zondo,JP Duminy,73.0,63.769999999999996
+507,K Zondo,JP Duminy,DW Steyn,58.0,54.959999999999994
+508,H Klaasen,K Zondo,T Shamsi,84.0,57.4
+509,CH Morris,K Zondo,L Ngidi,47.5,43.18
+510,CH Morris,K Zondo,F Behardien,59.0,58.959999999999994
+511,CH Morris,K Zondo,Imran Tahir,46.0,43.07
+512,L Ngidi,AK Markram,K Zondo,64.33333333333333,55.73
+513,L Ngidi,K Zondo,F Behardien,55.0,47.8
+514,L Ngidi,K Zondo,Imran Tahir,37.666666666666664,31.909999999999997
+515,L Ngidi,K Zondo,DW Steyn,85.0,34.37
+516,AK Markram,K Zondo,F Behardien,79.0,71.51
+517,AK Markram,K Zondo,Imran Tahir,58.8,55.620000000000005
+518,H Klaasen,AK Markram,K Zondo,84.5,82.91999999999999
+519,AK Markram,K Zondo,DW Steyn,93.5,58.08
+520,K Zondo,Imran Tahir,F Behardien,57.0,47.69
+521,H Klaasen,K Zondo,F Behardien,77.0,74.99
+522,K Zondo,Imran Tahir,DW Steyn,55.5,34.26
+523,DA Miller,KA Maharaj,JT Smuts,82.5,74.07
+524,L Sipamla,KA Maharaj,JT Smuts,84.0,47.94
+525,H Klaasen,L Sipamla,JT Smuts,152.0,73.08
+526,RR Hendricks,T Shamsi,BE Hendricks,34.333333333333336,24.6
+527,F du Plessis,RR Hendricks,BE Hendricks,92.0,70.36
+528,RR Hendricks,HM Amla,BE Hendricks,85.5,66.59
+529,RR Hendricks,DW Steyn,BE Hendricks,43.5,28.76
+530,T Bavuma,T Shamsi,BE Hendricks,65.0,63.8
+531,T Shamsi,L Sipamla,BE Hendricks,6.5,4.33
+532,L Ngidi,DA Miller,BE Hendricks,36.0,32.269999999999996
+533,L Ngidi,L Sipamla,BE Hendricks,6.5,6.140000000000001
+534,DA Miller,T Bavuma,BE Hendricks,99.5,93.25999999999999
+535,T Bavuma,L Sipamla,BE Hendricks,70.0,67.13
+536,DA Miller,L Sipamla,BE Hendricks,41.0,33.79
+537,Imran Tahir,HM Amla,BE Hendricks,53.5,44.690000000000005
+538,Imran Tahir,DW Steyn,BE Hendricks,7.0,6.86
+539,AB de Villiers,JP Duminy,D Pretorius,94.0,73.01
+540,AB de Villiers,JP Duminy,DW Steyn,74.54545454545455,71.03
+541,WD Parnell,AB de Villiers,D Pretorius,100.5,58.42
+542,CH Morris,AB de Villiers,D Pretorius,76.4,63.58
+543,F du Plessis,AB de Villiers,D Pretorius,115.33333333333333,96.36999999999999
+544,AB de Villiers,D Pretorius,F Behardien,103.0,68.2
+545,AB de Villiers,D Pretorius,DA Miller,82.66666666666667,80.07
+546,AB de Villiers,D Pretorius,HM Amla,107.44444444444444,92.6
+547,Imran Tahir,AB de Villiers,D Pretorius,74.5,52.31
+548,CH Morris,AB de Villiers,T Shamsi,60.0,57.44
+549,CH Morris,AB de Villiers,AM Phangiso,92.0,61.44
+550,CH Morris,AB de Villiers,KJ Abbott,82.33333333333333,59.65
+551,CH Morris,AB de Villiers,DW Steyn,127.0,61.599999999999994
+552,F du Plessis,AB de Villiers,F Behardien,117.70370370370371,107.82
+553,F du Plessis,AB de Villiers,DA Miller,124.79310344827586,119.69
+554,F du Plessis,AB de Villiers,HM Amla,141.9268292682927,132.22
+555,F du Plessis,AB de Villiers,Imran Tahir,99.575,91.92999999999999
+556,F du Plessis,AB de Villiers,KJ Abbott,109.63636363636364,92.43999999999998
+557,F du Plessis,AB de Villiers,DW Steyn,118.6,94.38999999999999
+558,AB de Villiers,KA Maharaj,F Behardien,69.0,65.92
+559,AB de Villiers,D Wiese,F Behardien,86.5,79.06
+560,AB de Villiers,DA Miller,F Behardien,117.375,91.52000000000001
+561,AB de Villiers,HM Amla,F Behardien,121.87096774193549,104.05000000000001
+562,AB de Villiers,Imran Tahir,F Behardien,73.74193548387096,63.760000000000005
+563,AB de Villiers,RR Rossouw,F Behardien,109.42857142857143,102.48
+564,AM Phangiso,AB de Villiers,F Behardien,76.66666666666667,66.06
+565,MN van Wyk,AB de Villiers,F Behardien,88.5,85.56
+566,AB de Villiers,KJ Abbott,F Behardien,76.72727272727273,64.27
+567,AB de Villiers,DW Steyn,F Behardien,86.64285714285714,66.22
+568,AB de Villiers,HM Amla,D Wiese,117.5,103.46000000000001
+569,AB de Villiers,RR Rossouw,D Wiese,104.5,101.89
+570,AB de Villiers,DA Miller,HM Amla,119.72727272727273,115.92000000000002
+571,AB de Villiers,Imran Tahir,DA Miller,76.65517241379311,75.63
+572,AB de Villiers,DA Miller,RR Rossouw,124.25,114.35000000000001
+573,AM Phangiso,AB de Villiers,DA Miller,108.0,77.93
+574,MN van Wyk,AB de Villiers,DA Miller,100.5,97.43
+575,AB de Villiers,KJ Abbott,DA Miller,105.0,76.14
+576,AB de Villiers,DA Miller,DW Steyn,89.16666666666667,78.09
+577,AB de Villiers,Imran Tahir,HM Amla,95.71111111111111,88.16
+578,RR Rossouw,AB de Villiers,HM Amla,143.9375,126.88
+579,MN van Wyk,AB de Villiers,HM Amla,118.66666666666667,109.96000000000001
+580,AB de Villiers,KJ Abbott,HM Amla,114.33333333333333,88.67
+581,AB de Villiers,DW Steyn,HM Amla,110.94444444444444,90.62
+582,AB de Villiers,Imran Tahir,RR Rossouw,91.5625,86.59
+583,AM Phangiso,AB de Villiers,Imran Tahir,57.0,50.17
+584,AB de Villiers,Imran Tahir,KJ Abbott,63.916666666666664,48.38
+585,AB de Villiers,Imran Tahir,DW Steyn,65.66666666666667,50.33
+586,AB de Villiers,KJ Abbott,RR Rossouw,88.11111111111111,87.1
+587,AB de Villiers,DW Steyn,RR Rossouw,102.0,89.05
+588,AM Phangiso,AB de Villiers,DW Steyn,86.0,52.629999999999995
+589,MN van Wyk,AB de Villiers,KJ Abbott,81.5,70.17999999999999
+590,AB de Villiers,KJ Abbott,DW Steyn,79.5,50.84
+591,RR Hendricks,JP Duminy,T Shamsi,100.0,46.0
+592,L Ngidi,RR Hendricks,JP Duminy,61.0,47.81
+593,RR Hendricks,JP Duminy,DA Miller,123.33333333333333,75.46000000000001
+594,RR Hendricks,JP Duminy,HM Amla,115.0,87.99000000000001
+595,RR Hendricks,JP Duminy,DW Steyn,58.666666666666664,50.16
+596,F du Plessis,RR Hendricks,D Pretorius,87.33333333333333,75.5
+597,D Olivier,RR Hendricks,D Pretorius,45.0,29.740000000000002
+598,HE van der Dussen,RR Hendricks,D Pretorius,85.0,66.95
+599,RR Hendricks,D Pretorius,DA Miller,73.4,59.2
+600,RR Hendricks,D Pretorius,HM Amla,100.5,71.73
+601,L Ngidi,RR Hendricks,T Shamsi,26.2,25.41
+602,RR Hendricks,DA Miller,T Shamsi,62.285714285714285,53.06
+603,F du Plessis,RR Hendricks,L Ngidi,84.625,71.17
+604,F du Plessis,AK Markram,RR Hendricks,110.2,94.88
+605,F du Plessis,RR Hendricks,HE van der Dussen,111.0,106.57
+606,F du Plessis,RR Hendricks,DA Miller,106.41666666666667,98.82
+607,F du Plessis,RR Hendricks,HM Amla,118.16666666666667,111.35
+608,F du Plessis,RR Hendricks,Imran Tahir,78.6,71.06
+609,F du Plessis,RR Hendricks,DW Steyn,83.25,73.52
+610,D Olivier,RR Hendricks,HE van der Dussen,111.5,60.81
+611,D Olivier,RR Hendricks,HM Amla,83.0,65.59
+612,D Olivier,RR Hendricks,Imran Tahir,45.0,25.3
+613,L Ngidi,RR Hendricks,DA Miller,61.90909090909091,54.870000000000005
+614,L Ngidi,RR Hendricks,HM Amla,102.0,67.4
+615,L Ngidi,RR Hendricks,DW Steyn,32.6,29.57
+616,AK Markram,RR Hendricks,DA Miller,102.25,78.58000000000001
+617,AK Markram,RR Hendricks,Imran Tahir,57.166666666666664,50.82000000000001
+618,AK Markram,RR Hendricks,DW Steyn,67.16666666666667,53.28
+619,HE van der Dussen,RR Hendricks,HM Amla,124.8,102.80000000000001
+620,HE van der Dussen,RR Hendricks,H Klaasen,111.5,89.81
+621,RR Hendricks,DA Miller,HM Amla,110.16666666666667,95.05000000000001
+622,RR Hendricks,Imran Tahir,DA Miller,55.5,54.760000000000005
+623,RR Hendricks,DA Miller,DW Steyn,64.16666666666667,57.22
+624,RR Hendricks,Imran Tahir,HM Amla,89.0,67.29
+625,RR Hendricks,DW Steyn,HM Amla,72.33333333333333,69.75
+626,RR Hendricks,Imran Tahir,DW Steyn,36.42857142857143,29.46
+627,WD Parnell,JP Duminy,D Pretorius,56.6,36.349999999999994
+628,JP Duminy,D Pretorius,T Bavuma,165.0,91.34
+629,JP Duminy,D Pretorius,F Behardien,52.0,46.129999999999995
+630,JP Duminy,D Pretorius,DA Miller,63.57142857142857,58.0
+631,JP Duminy,D Pretorius,DW Steyn,35.0,32.7
+632,F du Plessis,JP Duminy,T Shamsi,85.0909090909091,68.16
+633,L Ngidi,JP Duminy,T Shamsi,42.6,24.209999999999997
+634,HE van der Dussen,JP Duminy,T Shamsi,67.0,59.61
+635,JP Duminy,DA Miller,T Shamsi,56.142857142857146,51.86
+636,WD Parnell,F du Plessis,JP Duminy,83.9,75.97
+637,WD Parnell,JP Duminy,T Bavuma,165.0,93.00999999999999
+638,WD Parnell,JP Duminy,F Behardien,55.63636363636363,47.8
+639,WD Parnell,JP Duminy,DA Miller,66.13333333333334,59.67
+640,WD Parnell,JP Duminy,HM Amla,79.3529411764706,72.2
+641,WD Parnell,JP Duminy,RR Rossouw,93.6,70.63
+642,WD Parnell,JP Duminy,AM Phangiso,39.2,34.209999999999994
+643,WD Parnell,MN van Wyk,JP Duminy,73.0,53.709999999999994
+644,WD Parnell,JP Duminy,KJ Abbott,39.666666666666664,32.419999999999995
+645,WD Parnell,JP Duminy,DW Steyn,41.0,34.37
+646,CH Morris,F du Plessis,JP Duminy,82.33333333333333,81.13
+647,CH Morris,JP Duminy,L Ngidi,45.333333333333336,37.18
+648,CH Morris,JP Duminy,KJ Abbott,40.75,37.58
+649,L Ngidi,F du Plessis,JP Duminy,72.42857142857143,69.97
+650,AK Markram,F du Plessis,JP Duminy,100.8,93.68
+651,F du Plessis,JP Duminy,DA Miller,97.875,97.62
+652,L Ngidi,AK Markram,JP Duminy,52.27272727272727,49.73
+653,L Ngidi,JP Duminy,KA Maharaj,56.0,28.069999999999997
+654,L Ngidi,JP Duminy,DA Miller,68.0,53.67
+655,L Ngidi,JP Duminy,HM Amla,72.625,66.2
+656,L Ngidi,Imran Tahir,JP Duminy,26.666666666666668,25.909999999999997
+657,L Ngidi,JP Duminy,DW Steyn,50.0,28.369999999999997
+658,HE van der Dussen,AK Markram,JP Duminy,87.6,85.13
+659,AK Markram,JP Duminy,DW Steyn,69.0,52.08
+660,HE van der Dussen,JP Duminy,DA Miller,90.0,89.07
+661,JP Duminy,M de Lange,HM Amla,85.0,64.39
+662,JP Duminy,M de Lange,RR Rossouw,91.0,62.82
+663,JP Duminy,DA Miller,F Behardien,80.06666666666666,69.45
+664,JP Duminy,HM Amla,F Behardien,84.61538461538461,81.98
+665,Imran Tahir,JP Duminy,F Behardien,42.26923076923077,41.69
+666,AM Phangiso,JP Duminy,F Behardien,53.57142857142857,43.989999999999995
+667,MN van Wyk,JP Duminy,F Behardien,73.0,63.489999999999995
+668,JP Duminy,DW Steyn,F Behardien,47.77777777777778,44.15
+669,JP Duminy,HM Amla,D Wiese,92.5,81.39
+670,JP Duminy,DA Miller,RR Rossouw,101.26666666666667,92.28
+671,H Klaasen,JP Duminy,DA Miller,81.5,80.86
+672,AM Phangiso,JP Duminy,DA Miller,93.33333333333333,55.86
+673,MN van Wyk,JP Duminy,DA Miller,191.0,75.36
+674,JP Duminy,DA Miller,KJ Abbott,59.75,54.07
+675,JP Duminy,DA Miller,DW Steyn,64.375,56.019999999999996
+676,AM Phangiso,JP Duminy,HM Amla,77.4,68.39
+677,AM Phangiso,Imran Tahir,JP Duminy,32.666666666666664,28.099999999999998
+678,Imran Tahir,JP Duminy,KJ Abbott,30.90909090909091,26.31
+679,Imran Tahir,JP Duminy,DW Steyn,33.529411764705884,28.259999999999998
+680,AM Phangiso,JP Duminy,RR Rossouw,74.2,66.82
+681,JP Duminy,RR Rossouw,KJ Abbott,70.45454545454545,65.03
+682,JP Duminy,DW Steyn,RR Rossouw,70.2,66.98
+683,H Klaasen,JP Duminy,DW Steyn,65.0,55.56
+684,AM Phangiso,MN van Wyk,JP Duminy,61.0,49.9
+685,AM Phangiso,JP Duminy,KJ Abbott,32.6,28.61
+686,MN van Wyk,JP Duminy,KJ Abbott,62.0,48.11
+687,JP Duminy,DW Steyn,KJ Abbott,39.666666666666664,28.77
+688,AK Markram,D Pretorius,T Shamsi,36.0,31.66
+689,Imran Tahir,D Pretorius,T Shamsi,11.0,7.84
+690,WD Parnell,CH Morris,D Pretorius,62.0,26.92
+691,WD Parnell,F du Plessis,D Pretorius,91.2,59.71
+692,WD Parnell,D Pretorius,T Bavuma,113.0,76.75
+693,WD Parnell,D Pretorius,F Behardien,43.5,31.54
+694,WD Parnell,D Pretorius,DA Miller,45.25,43.41
+695,WD Parnell,Imran Tahir,D Pretorius,34.0,15.649999999999999
+696,CH Morris,F du Plessis,D Pretorius,71.0,64.86999999999999
+697,CH Morris,D Pretorius,KA Maharaj,35.0,22.97
+698,CH Morris,D Pretorius,DA Miller,68.75,48.57
+699,L Ngidi,F du Plessis,D Pretorius,70.16666666666667,53.71
+700,AK Markram,F du Plessis,D Pretorius,96.33333333333333,77.42
+701,HE van der Dussen,F du Plessis,D Pretorius,106.875,89.11
+702,F du Plessis,D Pretorius,T Bavuma,134.0,114.69999999999999
+703,F du Plessis,D Pretorius,F Behardien,72.83333333333333,69.49
+704,F du Plessis,D Pretorius,DA Miller,93.38461538461539,81.36
+705,Imran Tahir,F du Plessis,D Pretorius,60.421052631578945,53.6
+706,F du Plessis,D Pretorius,DW Steyn,72.0,56.06
+707,HE van der Dussen,D Olivier,D Pretorius,93.0,43.35
+708,D Olivier,D Pretorius,HM Amla,108.0,48.13
+709,L Ngidi,AK Markram,D Pretorius,42.5,33.47
+710,L Ngidi,HE van der Dussen,D Pretorius,49.5,45.160000000000004
+711,L Ngidi,D Pretorius,DA Miller,74.0,37.41
+712,L Ngidi,Imran Tahir,D Pretorius,13.833333333333334,9.649999999999999
+713,L Ngidi,D Pretorius,DW Steyn,18.5,12.11
+714,HE van der Dussen,AK Markram,D Pretorius,72.0,68.87
+715,AK Markram,D Pretorius,DA Miller,128.0,61.120000000000005
+716,HE van der Dussen,D Pretorius,DA Miller,87.66666666666667,72.81
+717,HE van der Dussen,D Pretorius,HM Amla,102.25,85.34
+718,HE van der Dussen,Imran Tahir,D Pretorius,54.0,45.050000000000004
+719,HE van der Dussen,D Pretorius,H Klaasen,93.0,72.35
+720,HE van der Dussen,D Pretorius,DW Steyn,50.0,47.510000000000005
+721,D Pretorius,T Bavuma,F Behardien,163.0,86.53
+722,D Pretorius,DA Miller,T Bavuma,127.0,98.4
+723,AM Phangiso,D Pretorius,T Bavuma,113.0,72.94
+724,D Pretorius,DA Miller,KA Maharaj,71.0,39.46
+725,D Pretorius,DA Miller,F Behardien,76.0,53.19
+726,D Pretorius,DA Miller,HM Amla,90.0,77.59
+727,Imran Tahir,D Pretorius,DA Miller,53.18181818181818,37.3
+728,H Klaasen,D Pretorius,DA Miller,78.66666666666667,64.6
+729,D Pretorius,DA Miller,DW Steyn,113.66666666666667,39.760000000000005
+730,H Klaasen,D Pretorius,HM Amla,108.0,77.13
+731,WD Parnell,F du Plessis,T Shamsi,129.5,53.57
+732,WD Parnell,T Shamsi,F Behardien,33.666666666666664,25.4
+733,CH Morris,F du Plessis,T Shamsi,80.75,58.73
+734,CH Morris,HE van der Dussen,T Shamsi,79.5,50.18
+735,CH Morris,DA Miller,T Shamsi,43.5,42.43
+736,CH Morris,T Shamsi,HM Amla,71.5,54.96
+737,CH Morris,Imran Tahir,T Shamsi,22.4,14.67
+738,HE van der Dussen,F du Plessis,T Shamsi,93.8,82.97
+739,F du Plessis,T Shamsi,F Behardien,97.25,63.349999999999994
+740,F du Plessis,Imran Tahir,T Shamsi,67.42857142857143,47.46
+741,L Ngidi,DA Miller,T Shamsi,34.0,31.27
+742,L Ngidi,T Shamsi,HM Amla,49.0,43.800000000000004
+743,L Ngidi,H Klaasen,T Shamsi,72.33333333333333,30.81
+744,AK Markram,Imran Tahir,T Shamsi,28.0,27.22
+745,H Klaasen,AK Markram,T Shamsi,86.0,54.519999999999996
+746,AK Markram,DW Steyn,T Shamsi,37.5,29.68
+747,HE van der Dussen,Imran Tahir,T Shamsi,55.666666666666664,38.910000000000004
+748,HE van der Dussen,H Klaasen,T Shamsi,80.0,66.21000000000001
+749,T Bavuma,DA Miller,T Shamsi,95.33333333333333,92.25999999999999
+750,T Bavuma,T Shamsi,L Sipamla,68.5,66.13
+751,DA Miller,T Shamsi,KA Maharaj,51.5,33.32
+752,Imran Tahir,T Shamsi,F Behardien,24.5,19.29
+753,DA Miller,T Shamsi,L Sipamla,39.5,32.79
+754,H Klaasen,DA Miller,T Shamsi,95.25,58.46
+755,AM Phangiso,Imran Tahir,T Shamsi,9.0,5.7
+756,H Klaasen,DW Steyn,T Shamsi,63.0,33.16
+757,WD Parnell,CH Morris,F du Plessis,70.72727272727273,66.53999999999999
+758,WD Parnell,CH Morris,F Behardien,48.666666666666664,38.370000000000005
+759,WD Parnell,CH Morris,DA Miller,52.625,50.24
+760,WD Parnell,CH Morris,HM Amla,81.72727272727273,62.77
+761,WD Parnell,CH Morris,Imran Tahir,27.9,22.48
+762,WD Parnell,F du Plessis,T Bavuma,134.0,116.37
+763,WD Parnell,F du Plessis,F Behardien,78.8,71.16
+764,WD Parnell,F du Plessis,DA Miller,85.8,83.03
+765,WD Parnell,F du Plessis,HM Amla,118.5625,95.56
+766,WD Parnell,F du Plessis,Imran Tahir,74.5,55.27
+767,WD Parnell,F du Plessis,RR Rossouw,112.75,93.99000000000001
+768,WD Parnell,F du Plessis,DW Steyn,72.66666666666667,57.730000000000004
+769,WD Parnell,M de Lange,HM Amla,133.0,49.800000000000004
+770,WD Parnell,T Bavuma,F Behardien,163.0,88.2
+771,WD Parnell,DA Miller,T Bavuma,127.0,100.07
+772,WD Parnell,T Bavuma,AM Phangiso,113.0,74.61
+773,WD Parnell,DA Miller,F Behardien,61.6,54.86
+774,WD Parnell,HM Amla,F Behardien,102.57142857142857,67.39
+775,WD Parnell,Imran Tahir,F Behardien,33.125,27.1
+776,WD Parnell,RR Rossouw,F Behardien,80.0,65.82000000000001
+777,WD Parnell,AM Phangiso,F Behardien,32.4,29.4
+778,WD Parnell,DA Miller,HM Amla,85.27272727272727,79.26
+779,WD Parnell,Imran Tahir,DA Miller,39.63636363636363,38.97
+780,WD Parnell,DA Miller,RR Rossouw,120.75,77.69
+781,WD Parnell,DA Miller,AM Phangiso,59.666666666666664,41.27
+782,WD Parnell,MN van Wyk,DA Miller,160.0,60.769999999999996
+783,WD Parnell,KJ Abbott,DA Miller,83.0,39.480000000000004
+784,WD Parnell,Imran Tahir,HM Amla,60.4,51.5
+785,WD Parnell,HM Amla,AM Phangiso,81.66666666666667,53.800000000000004
+786,WD Parnell,KJ Abbott,HM Amla,98.5,52.010000000000005
+787,WD Parnell,Imran Tahir,RR Rossouw,51.666666666666664,49.93
+788,WD Parnell,RR Rossouw,AM Phangiso,55.333333333333336,52.230000000000004
+789,WD Parnell,KJ Abbott,RR Rossouw,74.5,50.44
+790,CH Morris,AK Markram,F du Plessis,95.14285714285714,84.25
+791,CH Morris,F du Plessis,HE van der Dussen,102.42857142857143,95.94
+792,CH Morris,F du Plessis,Imran Tahir,63.857142857142854,60.43
+793,CH Morris,HE van der Dussen,L Ngidi,59.0,51.99
+794,CH Morris,DA Miller,L Ngidi,44.4,44.24
+795,CH Morris,KA Maharaj,F Behardien,52.0,34.42
+796,CH Morris,DA Miller,KA Maharaj,53.0,46.29
+797,CH Morris,KJ Abbott,F Behardien,36.6,32.769999999999996
+798,CH Morris,DW Steyn,F Behardien,37.0,34.72
+799,CH Morris,HM Amla,D Wiese,91.0,71.96000000000001
+800,CH Morris,Imran Tahir,D Wiese,63.5,31.67
+801,CH Morris,Imran Tahir,AM Phangiso,22.5,18.67
+802,CH Morris,Imran Tahir,KJ Abbott,20.2,16.88
+803,CH Morris,Imran Tahir,DW Steyn,19.0,18.83
+804,CH Morris,RR Rossouw,AM Phangiso,73.0,57.39
+805,CH Morris,DW Steyn,AM Phangiso,35.0,21.130000000000003
+806,D Olivier,F du Plessis,HE van der Dussen,90.5,82.97
+807,L Ngidi,AK Markram,F du Plessis,73.72727272727273,73.09
+808,L Ngidi,F du Plessis,HE van der Dussen,87.625,84.78
+809,L Ngidi,F du Plessis,DA Miller,89.38461538461539,77.03
+810,L Ngidi,F du Plessis,Imran Tahir,56.27272727272727,49.27
+811,L Ngidi,F du Plessis,DW Steyn,61.75,51.730000000000004
+812,HE van der Dussen,AK Markram,F du Plessis,111.5,108.49000000000001
+813,AK Markram,F du Plessis,T Bavuma,205.0,134.07999999999998
+814,AK Markram,F du Plessis,F Behardien,190.0,88.87
+815,AK Markram,F du Plessis,DA Miller,104.45454545454545,100.74000000000001
+816,AK Markram,F du Plessis,Imran Tahir,87.14285714285714,72.98
+817,H Klaasen,AK Markram,F du Plessis,103.25,100.28
+818,AK Markram,F du Plessis,DW Steyn,83.2,75.44
+819,HE van der Dussen,F du Plessis,Imran Tahir,88.26666666666667,84.67
+820,F du Plessis,M de Lange,HM Amla,105.0,87.75
+821,F du Plessis,Imran Tahir,M de Lange,55.0,47.46
+822,F du Plessis,M de Lange,RR Rossouw,111.0,86.18
+823,F du Plessis,Imran Tahir,T Bavuma,139.0,110.25999999999999
+824,F du Plessis,HM Amla,F Behardien,109.26666666666667,105.34
+825,F du Plessis,Imran Tahir,F Behardien,66.46666666666667,65.05
+826,F du Plessis,DW Steyn,F Behardien,69.76923076923077,67.51
+827,F du Plessis,HM Amla,D Wiese,107.0,104.75
+828,F du Plessis,Imran Tahir,DA Miller,80.55319148936171,76.92
+829,F du Plessis,DA Miller,RR Rossouw,119.3529411764706,115.64
+830,MN van Wyk,F du Plessis,DA Miller,152.0,98.72
+831,F du Plessis,DA Miller,DW Steyn,86.12,79.38
+832,F du Plessis,Imran Tahir,HM Amla,91.18518518518519,89.45
+833,AM Phangiso,F du Plessis,HM Amla,98.0,91.75
+834,F du Plessis,KJ Abbott,HM Amla,95.6875,89.96000000000001
+835,F du Plessis,DW Steyn,HM Amla,93.15,91.91
+836,AM Phangiso,F du Plessis,Imran Tahir,56.5,51.46
+837,F du Plessis,Imran Tahir,DW Steyn,55.2,51.620000000000005
+838,F du Plessis,DW Steyn,RR Rossouw,95.08333333333333,90.34
+839,F du Plessis,KJ Abbott,DW Steyn,66.16666666666667,52.129999999999995
+840,HE van der Dussen,D Olivier,DA Miller,110.0,66.67
+841,HE van der Dussen,D Olivier,HM Amla,144.5,79.2
+842,HE van der Dussen,D Olivier,Imran Tahir,93.0,38.910000000000004
+843,HE van der Dussen,D Olivier,H Klaasen,86.5,66.21000000000001
+844,D Olivier,DA Miller,HM Amla,81.5,71.45
+845,D Olivier,Imran Tahir,HM Amla,108.0,43.690000000000005
+846,L Ngidi,AK Markram,HE van der Dussen,79.4,64.53999999999999
+847,L Ngidi,AK Markram,DA Miller,63.333333333333336,56.79
+848,L Ngidi,AK Markram,Imran Tahir,36.833333333333336,29.029999999999998
+849,L Ngidi,AK Markram,DW Steyn,47.4,31.49
+850,L Ngidi,Imran Tahir,HE van der Dussen,41.375,40.72
+851,L Ngidi,DA Miller,T Bavuma,95.33333333333333,94.07
+852,L Ngidi,T Bavuma,L Sipamla,68.5,67.94
+853,L Ngidi,DA Miller,KA Maharaj,47.333333333333336,35.13
+854,L Ngidi,HM Amla,KA Maharaj,58.0,47.660000000000004
+855,L Ngidi,H Klaasen,KA Maharaj,70.33333333333333,34.67
+856,L Ngidi,DA Miller,L Sipamla,39.5,34.6
+857,L Ngidi,Imran Tahir,DA Miller,45.1,32.97
+858,L Ngidi,DA Miller,H Klaasen,82.22222222222223,60.269999999999996
+859,L Ngidi,DA Miller,DW Steyn,59.75,35.43
+860,L Ngidi,Imran Tahir,DW Steyn,24.5,7.67
+861,HE van der Dussen,AK Markram,Imran Tahir,66.25,64.43
+862,AK Markram,T Bavuma,F Behardien,147.0,105.91
+863,AK Markram,Imran Tahir,F Behardien,63.0,44.81
+864,AK Markram,Imran Tahir,DA Miller,58.5,56.68
+865,H Klaasen,AK Markram,DA Miller,95.0,83.97999999999999
+866,AK Markram,DA Miller,DW Steyn,84.0,59.14
+867,AK Markram,Imran Tahir,DW Steyn,48.6,31.38
+868,H Klaasen,AK Markram,DW Steyn,61.6,58.67999999999999
+869,HE van der Dussen,DA Miller,H Klaasen,110.0,95.67
+870,HE van der Dussen,H Klaasen,HM Amla,144.5,108.20000000000002
+871,HE van der Dussen,Imran Tahir,H Klaasen,93.0,67.91
+872,M de Lange,HM Amla,F Behardien,74.0,59.58
+873,M de Lange,RR Rossouw,F Behardien,80.0,58.010000000000005
+874,M de Lange,HM Amla,DA Miller,156.0,71.45
+875,RR Rossouw,M de Lange,HM Amla,145.0,82.41
+876,AM Phangiso,M de Lange,HM Amla,133.0,45.99
+877,KJ Abbott,M de Lange,HM Amla,133.0,44.2
+878,H Klaasen,T Bavuma,KA Maharaj,151.0,95.66
+879,DA Miller,T Bavuma,F Behardien,177.0,109.85
+880,AM Phangiso,T Bavuma,F Behardien,163.0,84.39
+881,DA Miller,T Bavuma,L Sipamla,103.0,95.58999999999999
+882,AM Phangiso,DA Miller,T Bavuma,127.0,96.25999999999999
+883,DA Miller,KA Maharaj,F Behardien,88.0,50.91
+884,HM Amla,DA Miller,KA Maharaj,76.0,75.31
+885,H Klaasen,DA Miller,KA Maharaj,100.75,62.32
+886,D Wiese,DA Miller,F Behardien,71.33333333333333,64.05
+887,D Wiese,HM Amla,F Behardien,106.66666666666667,76.58
+888,D Wiese,Imran Tahir,F Behardien,47.666666666666664,36.29
+889,D Wiese,RR Rossouw,F Behardien,87.75,75.01
+890,AM Phangiso,D Wiese,F Behardien,79.0,38.59
+891,MN van Wyk,D Wiese,F Behardien,78.33333333333333,58.09
+892,D Wiese,DW Steyn,F Behardien,53.666666666666664,38.75
+893,DA Miller,HM Amla,F Behardien,98.89473684210526,89.04
+894,DA Miller,RR Rossouw,F Behardien,92.93333333333334,87.47
+895,AM Phangiso,DA Miller,F Behardien,71.6,51.05
+896,MN van Wyk,DA Miller,F Behardien,104.0,70.55
+897,KJ Abbott,DA Miller,F Behardien,52.77777777777778,49.260000000000005
+898,Imran Tahir,HM Amla,F Behardien,68.06060606060606,61.28
+899,RR Rossouw,HM Amla,F Behardien,112.77777777777777,100.0
+900,AM Phangiso,HM Amla,F Behardien,68.28571428571429,63.58
+901,MN van Wyk,HM Amla,F Behardien,125.66666666666667,83.08000000000001
+902,KJ Abbott,HM Amla,F Behardien,65.8,61.790000000000006
+903,DW Steyn,HM Amla,F Behardien,77.85714285714286,63.74000000000001
+904,AM Phangiso,Imran Tahir,F Behardien,41.6,23.29
+905,MN van Wyk,Imran Tahir,F Behardien,68.33333333333333,42.79
+906,AM Phangiso,RR Rossouw,F Behardien,75.0,62.010000000000005
+907,MN van Wyk,RR Rossouw,F Behardien,92.25,81.51
+908,DW Steyn,RR Rossouw,F Behardien,70.2,62.17
+909,AM Phangiso,MN van Wyk,F Behardien,51.5,45.09
+910,AM Phangiso,DW Steyn,F Behardien,60.5,25.75
+911,MN van Wyk,KJ Abbott,F Behardien,66.0,43.3
+912,MN van Wyk,DW Steyn,F Behardien,67.66666666666667,45.25
+913,Imran Tahir,HM Amla,D Wiese,78.66666666666667,60.690000000000005
+914,RR Rossouw,HM Amla,D Wiese,112.0,99.41
+915,MN van Wyk,HM Amla,D Wiese,95.33333333333333,82.49000000000001
+916,DW Steyn,HM Amla,D Wiese,70.66666666666667,63.150000000000006
+917,MN van Wyk,RR Rossouw,D Wiese,81.33333333333333,80.92
+918,RR Rossouw,DA Miller,HM Amla,132.05882352941177,111.87
+919,MN van Wyk,DA Miller,HM Amla,102.33333333333333,94.95
+920,KJ Abbott,DA Miller,HM Amla,74.36363636363636,73.66
+921,DA Miller,DW Steyn,HM Amla,78.04545454545455,75.61000000000001
+922,Imran Tahir,DA Miller,RR Rossouw,72.05555555555556,71.58
+923,Imran Tahir,DA Miller,DW Steyn,38.26923076923077,35.32
+924,AM Phangiso,DA Miller,RR Rossouw,111.33333333333333,73.88
+925,MN van Wyk,DA Miller,RR Rossouw,104.25,93.38
+926,KJ Abbott,DA Miller,RR Rossouw,75.54545454545455,72.09
+927,DA Miller,DW Steyn,RR Rossouw,78.46666666666667,74.04
+928,H Klaasen,DA Miller,DW Steyn,70.66666666666667,62.620000000000005
+929,AM Phangiso,MN van Wyk,DA Miller,78.0,56.96
+930,AM Phangiso,KJ Abbott,DA Miller,77.0,35.67
+931,MN van Wyk,KJ Abbott,DA Miller,123.0,55.17
+932,MN van Wyk,Imran Tahir,HM Amla,85.33333333333333,67.19
+933,Imran Tahir,HM Amla,KJ Abbott,46.4375,45.900000000000006
+934,Imran Tahir,DW Steyn,HM Amla,51.22727272727273,47.85
+935,AM Phangiso,RR Rossouw,HM Amla,97.0,86.41
+936,RR Rossouw,MN van Wyk,HM Amla,128.66666666666666,105.91
+937,RR Rossouw,KJ Abbott,HM Amla,87.0,84.62
+938,RR Rossouw,DW Steyn,HM Amla,109.23076923076923,86.57
+939,AM Phangiso,KJ Abbott,HM Amla,57.25,48.2
+940,MN van Wyk,DW Steyn,HM Amla,84.66666666666667,69.65
+941,KJ Abbott,DW Steyn,HM Amla,58.142857142857146,48.36
+942,MN van Wyk,Imran Tahir,RR Rossouw,71.33333333333333,65.62
+943,Imran Tahir,DW Steyn,RR Rossouw,51.6,46.28
+944,AM Phangiso,Imran Tahir,KJ Abbott,9.0,7.91
+945,AM Phangiso,Imran Tahir,DW Steyn,18.5,9.86
+946,AM Phangiso,KJ Abbott,RR Rossouw,59.75,46.63
+947,MN van Wyk,DW Steyn,RR Rossouw,70.66666666666667,68.08
+948,KJ Abbott,DW Steyn,RR Rossouw,48.833333333333336,46.79
+949,MN van Wyk,KJ Abbott,DW Steyn,61.0,29.87
